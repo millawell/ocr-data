@@ -1,17 +1,6 @@
-import numpy as np
-from sklearn.manifold import TSNE
-from sklearn.feature_extraction.text import TfidfVectorizer
-import matplotlib.pyplot as plt
-import glob
-import os
-from lxml import etree
-from PIL import Image
-import base64
-import io
-
-from html.parser import HTMLParser
 import click
-
+from PIL import Image
+from lxml import etree
 
 
 '''=================================================================================
@@ -22,15 +11,8 @@ import click
 2. Iterate over L and crop+save images + text
 
 
-TODO:
-    - delete \t and \n in textoutput?
-    - change the name of the outputted datas
-
-
 =================================================================================='''
 
-# load pic
-#iterate trhough
 
 @click.command()
 @click.option('--hocr_path')
@@ -39,16 +21,11 @@ TODO:
 @click.option('--out_dir')
 def main(hocr_path, pagenr_list, in_dir, out_dir):
     
-    
     pn_list = pagenr_list[1:-1].split(",")
-    
-    
     L = []
-    #pn_list = ["1047.png", "1344.png", "1824.png"]
 
     f = open(hocr_path)
     hocr = f.read()
-    
     
     
     tree = etree.fromstring(hocr)

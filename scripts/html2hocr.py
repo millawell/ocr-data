@@ -1,16 +1,9 @@
 import click
 import tensorflow
-from lxml import html, etree
 import ntpath
-
-import base64
-import uuid
-from io import BytesIO
+from lxml import html, etree
 from PIL import Image
-
 from jinja2 import Environment, FileSystemLoader
-
-
 from kraken.rpred import ocr_record
 from kraken.serialization import _rescale
 
