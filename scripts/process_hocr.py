@@ -35,14 +35,16 @@ TODO:
 @click.command()
 @click.option('--hocr_path')
 @click.option('--pagenr_list')
-def main(hocr_path, pagenr_list):
+@click.option('--in_dir')
+@click.option('--out_dir')
+def main(hocr_path, pagenr_list, in_dir, out_dir):
     
     
-    pn_list = map(int,pagenr_list[1:-1].split(","))
+    pn_list = pagenr_list[1:-1].split(",")
     
     
     L = []
-    pn_list = ["1047.png", "1344.png", "1824.png"]
+    #pn_list = ["1047.png", "1344.png", "1824.png"]
 
     f = open(hocr_path)
     hocr = f.read()
@@ -57,7 +59,7 @@ def main(hocr_path, pagenr_list):
         for j in range(len(images[i])):
             if len(dict(images[i][j].attrib).keys()) > 0:
                 bbox = list(map(int, ((images[i][j].attrib["title"].split("]"))[0].split("[")[-1]).split(",")))
-                l = [pn_list[i], bbox, "".join(images[i][j].itertext())]
+                l = [in_dir+pn_list[i]+".png", bbox, "".join(images[i][j].itertext())]
                 L.append(l)
 
     #=================================================================================
@@ -77,11 +79,12 @@ def main(hocr_path, pagenr_list):
         try:
             #crop + save image
             cropped_img = img.crop(coords)
-            cropped_img.save("./test/{}.png".format(count))
+            cropped_img.save("{}{}.png".format(out_dir, count))
             
             #save text
-            f = open("./test/{}txt".format(count), "w")
-            f.write(l[2])
+            f = open("{}{}txt".format(out_dir, count), "w")
+            txt = l[2].replace("\t", "").replace("\n", "")
+            f.write(txt)
             f.close()
             
             count += 1

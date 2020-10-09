@@ -8,7 +8,8 @@ import subprocess
 @click.command()
 @click.option('--pdf_path')
 @click.option('--pagenr_list')
-def main(pdf_path, pagenr_list):
+@click.option('--out_dir')
+def main(pdf_path, pagenr_list, out_dir):
     
     
     
@@ -24,7 +25,7 @@ def main(pdf_path, pagenr_list):
         #get image_root
         #get pagenr
         
-        image_root = str(pagenr)
+        image_root = out_dir + str(pagenr)
     
         command = "pdfimages -png -f {} -l {} {} {}".format(pagenr, pagenr ,pdf_path, image_root).split(" ")
         subprocess.call(command)
@@ -34,7 +35,12 @@ def main(pdf_path, pagenr_list):
         
         
         #Delete google watermarks
-        command = 'find -name "*.png" -type f -size -10k -delete'
+        command = 'find {} -name "*.png" -type f -size -10k -delete'.format(out_dir)
+        subprocess.call(command, shell=True)
+        
+        #Delete google watermarks
+        command = 'mv {}{}-000.png {}{}.png'.format(out_dir, pagenr,out_dir, pagenr)
+        print(command)
         subprocess.call(command, shell=True)
     
     

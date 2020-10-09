@@ -1,4 +1,5 @@
 import click
+import tensorflow
 from lxml import html, etree
 import ntpath
 
@@ -8,6 +9,7 @@ from io import BytesIO
 from PIL import Image
 
 from jinja2 import Environment, FileSystemLoader
+
 
 from kraken.rpred import ocr_record
 from kraken.serialization import _rescale
@@ -62,6 +64,7 @@ python html2hocr.py \
     -o de_gros.hocr \
     -u de_gros.html 
 """
+
 @click.command()
 @click.option(
     "-t",
