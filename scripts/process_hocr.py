@@ -11,8 +11,15 @@ from lxml import etree
 2. Iterate over L and crop+save images + text
 
 
+TODO:
+    - delete \t and \n in textoutput?
+    - change the name of the outputted datas
+
+
 =================================================================================='''
 
+# load pic
+#iterate trhough
 
 @click.command()
 @click.option('--hocr_path')
@@ -21,11 +28,18 @@ from lxml import etree
 @click.option('--out_dir')
 def main(hocr_path, pagenr_list, in_dir, out_dir):
     
-    pn_list = pagenr_list[1:-1].split(",")
+    
+    #pn_list = pagenr_list[1:-1].split(",")
+    pn_list = pagenr_list.split(" ")
+    print("process_hocr", pn_list)
+    
+    
     L = []
+    #pn_list = ["1047.png", "1344.png", "1824.png"]
 
     f = open(hocr_path)
     hocr = f.read()
+    
     
     
     tree = etree.fromstring(hocr)
