@@ -12,6 +12,10 @@ python3 split_pdfs.py \
     --out_dir ./trans_test/$book/
 
 arr=($pn_list)
+
+for i in ./trans_test/$book/*; do
+    convert $i -deskew 40% -set option:deskew:auto-crop false $i
+done
     
 python3 html2hocr.py \
     -t ./transcriptions/$book/transcribe.html \
