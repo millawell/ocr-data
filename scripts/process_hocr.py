@@ -59,7 +59,7 @@ def main(hocr_path, pagenr_list, in_dir, out_dir):
     print("start cropping")
     count = 0
     for l in L:
-
+        print(l)
         #open respective image
         img = Image.open(l[0])
         
@@ -67,21 +67,20 @@ def main(hocr_path, pagenr_list, in_dir, out_dir):
         coords = l[1]
         
         #crop image
-        try:
-            #crop + save image
-            cropped_img = img.crop(coords)
-            cropped_img.save("{}{}.png".format(out_dir, count))
-            
-            #save text
-            f = open("{}{}txt".format(out_dir, count), "w")
-            txt = l[2].replace("\t", "").replace("\n", "")
-            f.write(txt)
-            f.close()
-            
-            count += 1
-            
-        except:
-            print("problem", l)
+        
+        #crop + save image
+        cropped_img = img.crop(coords)
+        cropped_img.save("{}{}.png".format(out_dir, count))
+        
+        #save text
+        f = open("{}{}.txt".format(out_dir, count), "w")
+        txt = l[2].replace("\t", "").replace("\n", "")
+        f.write(txt)
+        f.close()
+        
+        count += 1
+        
+        
             
         
         
