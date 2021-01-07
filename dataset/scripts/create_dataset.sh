@@ -24,6 +24,9 @@ python3 split_pdfs.py \
 
 arr=($pn_list)
 
+for i in ./trans_test/$book/*; do
+    convert $i -deskew 40% -set option:deskew:auto-crop false $i
+done
 
 #prepare multiple transcribe inputs for html2hocr.p
 transcribes=""
