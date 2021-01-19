@@ -10,7 +10,7 @@ from jinja2 import Environment, FileSystemLoader
 from kraken.serialization import _rescale
 
 
-def serialize(records, urlpdf):
+def serialize(records, urlpdf, langauge):
     pages = []
     for rec in records:
         image_name = rec["image_name"]
@@ -38,26 +38,23 @@ def serialize(records, urlpdf):
     env.tests['whitespace'] = str.isspace
     env.filters['rescale'] = _rescale
     tmpl = env.get_template("hocr_lines.xml")
-    return tmpl.render(pages=pages, urlpdf=urlpdf)
+    return tmpl.render(pages=pages, urlpdf=urlpdf, language=langauge)
 
 @click.command()
 @click.option('--pdf_path')
 def main(pdf_path):
 
     pdf_file_name = Path(pdf_path).name
+    identifier = Path(pdf_path).stem
 
     sheet_record = get_sheet_record(pdf_file_name)
     pages = get_pdf_pages_of_book(pdf_file_name)
     images = extract_images(pdf_path)
-    our_identifiers = sheet_record.identifier
-    if isinstance(our_identifiers, str):
-        our_identifiers = [our_identifiers]
 
-    transcribes = []
-    for our_identifier in our_identifiers:
-        transcribe_dir = Path(f"../data/transcriptions/{our_identifier}/")
-        transcribes += [p for p in transcribe_dir.iterdir() if p.name.startswith('transcribe')]
-    
+    transcribe_dir = Path(f"../data/transcriptions/{identifier}/")
+    transcribes = [p for p in transcribe_dir.iterdir() if p.name.startswith('transcribe')]
+    transcribes = sorted(transcribes)
+
     bboxes = []
     for transcribe in transcribes:
         bboxes += get_bounding_boxes_from_transcription(str(transcribe))
@@ -71,7 +68,11 @@ def main(pdf_path):
             "lines": rec["lines"]
         })
 
-    serialized = serialize(render_set, sheet_record.book_url)
+    serialized = serialize(
+        render_set,
+        sheet_record.book_url,
+        sheet_record.language
+    )
     
     output_path = Path(f"../data/xml_output/{pdf_file_name}")
     output_path = output_path.with_suffix(".hocr")
@@ -80,6 +81,3 @@ def main(pdf_path):
 
 if __name__ == '__main__':
     main()
-
-
-# main('../data/pdf_renamed/1VUJAAAAQAAJ.pdf')
