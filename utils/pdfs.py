@@ -4,6 +4,16 @@ from sheet import get_pdf_pages_of_book
 import tempfile
 from PIL import Image
 
+def sort_images_as_in_sheet(images, true_order):
+    result = []
+
+    images_lookup = {int(img[0].stem.split("-")[0]):img for img in images}
+
+    for c in true_order:
+        result.append(images_lookup[c])
+
+    return result
+
 def extract_images(pdf_path):
     pdf_file_name = Path(pdf_path).name
     identifier = Path(pdf_path).stem
@@ -26,6 +36,8 @@ def extract_images(pdf_path):
             subprocess.call(command, shell=True)
             images.append((img, Image.open(img)))
     
+    images = sort_images_as_in_sheet(images, pages)
+
     return images
 
-# imgs = extract_images('../data/pdf_renamed/1VUJAAAAQAAJ.pdf')
+imgs = extract_images('../data/pdf_renamed/3pVMAAAAcAAJ.pdf')
