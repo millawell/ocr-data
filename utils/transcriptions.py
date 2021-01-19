@@ -39,11 +39,19 @@ def get_bounding_boxes_from_transcription(path):
         })
         for line in section.iter('li'):
             if line.get('contenteditable') and (not u''.join(line.itertext()).isspace() and u''.join(line.itertext())):
-                bbox = [int(x) for x in line.get('data-bbox').split(',')]
-            
+                left, upper, right, lower = [int(x) for x in line.get('data-bbox').split(',')]
+                
+                # add some margin on the edges
+                width = right-left
+                height = lower-upper
+                left = int(left - width*.025)
+                right = int(right + width*.025)
+                upper = int(upper - height*.025)
+                lower = int(lower + height*.05)
+
                 text = u''.join(line.itertext()).strip()
                 rec = ocr_record(
-                    text, [bbox], [1.0]*len(text)
+                    text, [[left,upper,right,lower]], [1.0]*len(text)
                 )
                 records[-1]["lines"].append({
                     'text': rec.prediction,
@@ -52,4 +60,4 @@ def get_bounding_boxes_from_transcription(path):
     
     return records
 
-# recs = get_bounding_boxes_from_transcription('../data/transcriptions/de_alte/transcribe.html')
+# recs = get_bounding_boxes_from_transcription('../data/transcriptions/2jMfAAAAMAAJ/transcribe.html')
