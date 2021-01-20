@@ -47,30 +47,35 @@ def main(pdf_path):
                     dst = Path(tmp_dir) / f"{fn.stem}.gt{fn.suffix}"
                     copy2(fn, dst)
 
-        train_files, test_files = train_test_split(files, train_size=.9)
+        train_files, other_files = train_test_split(files, train_size=.8)
+        eval_files, test_files = train_test_split(other_files, train_size=.5)
 
         train_manifest_path = Path(tmp_dir) / 'train_manifest.txt'
         with open(train_manifest_path, "w") as fout:
             fout.write("\n".join(map(str, train_files)))
+        
+        eval_manifest_path = Path(tmp_dir) / 'eval_manifest.txt'
+        with open(eval_manifest_path, "w") as fout:
+            fout.write("\n".join(map(str, eval_files)))
 
         test_manifest_path = Path(tmp_dir) / 'test_manifest.txt'
         with open(test_manifest_path, "w") as fout:
             fout.write("\n".join(map(str, test_files)))
 
-        # command = f"ketos test -m {baseline_model} --evaluation-files {test_manifest_path}"
+        command = f"ketos test -m {baseline_model} --evaluation-files {test_manifest_path}"
         baseline_stdout = Path(f"../models/baseline_{identifier}.txt")
-        # with open(baseline_stdout, "w") as fout:
-        #     subprocess.call(command, shell=True, stdout=fout, stderr=fout)
+        with open(baseline_stdout, "w") as fout:
+            subprocess.call(command, shell=True, stdout=fout, stderr=fout)
 
-        # command = f"OMP_NUM_THREADS=1 ketos train --output ../models/model_{identifier} --resize add --epochs 4 -i {baseline_model} --training-files {train_manifest_path}"
-        # subprocess.call(command, shell=True)
+        command = f"OMP_NUM_THREADS=1 ketos train --output ../models/model_{identifier} --resize add --epochs 4 -i {baseline_model} --training-files {train_manifest_path} --evaluation-files {eval_manifest_path}"
+        subprocess.call(command, shell=True)
 
-        # best_model_name = Path(f"../models/model_{identifier}_best.mlmodel")
+        best_model_name = Path(f"../models/model_{identifier}_best.mlmodel")
         
-        # command = f"ketos test -m {best_model_name} --evaluation-files {test_manifest_path}"
+        command = f"ketos test -m {best_model_name} --evaluation-files {test_manifest_path}"
         fine_tuned_stdout = Path(f"../models/fine_tuned_{identifier}.txt")
-        # with open(fine_tuned_stdout, "w") as fout:
-        #     subprocess.call(command, shell=True, stdout=fout, stderr=fout)
+        with open(fine_tuned_stdout, "w") as fout:
+            subprocess.call(command, shell=True, stdout=fout, stderr=fout)
 
         fname_ds_description = Path(f"../models/dataset_description_{identifier}.txt")
 
@@ -87,7 +92,7 @@ def main(pdf_path):
             "baseline_acc": extract_accuracy(baseline_stdout.open().read()),
             "fine_tuned_acc": extract_accuracy(fine_tuned_stdout.open().read()),
         }]
-        
+
         pd.DataFrame(description).to_csv(fname_ds_description, index=False)
 
 
