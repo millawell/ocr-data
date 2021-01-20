@@ -3,6 +3,8 @@ import base64
 from PIL import Image
 from io import BytesIO
 from kraken.rpred import ocr_record
+from alphabet import translate_char
+import unicodedata
 
 def get_images_from_transcription(path):
     doc = html.parse(path)
@@ -49,7 +51,9 @@ def get_bounding_boxes_from_transcription(path):
                 upper = int(upper - height*.025)
                 lower = int(lower + height*.05)
 
-                text = u''.join(line.itertext()).strip()
+                raw = u''.join(line.itertext()).strip()
+
+                text = "".join(translate_char(char) for char in raw if unicodedata.category(char)[0] != "C")
                 rec = ocr_record(
                     text, [[left,upper,right,lower]], [1.0]*len(text)
                 )

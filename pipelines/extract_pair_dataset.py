@@ -28,7 +28,7 @@ def extract_page(page_el, image):
         coords = parse_bbox(line.attrib['title'])
 
         yield (
-            line.text,
+            line.text.strip(),
             image.crop(coords)
         )
 
