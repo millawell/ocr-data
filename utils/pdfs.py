@@ -29,6 +29,10 @@ def extract_images(pdf_path):
             #Delete google watermarks
             command = f'find {tmp_dir} -name "*.png" -type f -size -10k -delete'
             subprocess.call(command, shell=True)
+            
+            command = f'find {tmp_dir} -name "*.png" -type f -size +200k -delete'
+            subprocess.call(command, shell=True)
+            
         
         for img in Path(tmp_dir).iterdir():  
             # deskew images
