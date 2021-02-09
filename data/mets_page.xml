@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" ?> <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+	<!-- METS header: Metadaten darüber, von wem und wie die Daten erzeugt wurden -->
+	<mets:metsHdr CREATEDATE="2021-02-09T21:18:00">
+        <mets:agent OTHERTYPE="???" ROLE="CREATOR" TYPE="OTHER">
+            <mets:name>OCR - Data</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+
+	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
+    <dmdSec ID="dmd001">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Count Robert of Paris"/> 
+            <dc:language content="en"/>
+		</mdWrap>
+	</dmdSec>
+
+    <dmdSec ID="1VUJAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Letters on Demonology and Witchcraft: Addressed to J.G. Lockhart, Esq"/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="2jMfAAAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Walter Scott's Werke, Band 2"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="3pVMAAAAcAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Das gefährliche Schloß, Bände 1-3"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="4zQfAAAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Walter Scott's Werke, Band 7"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="7JVMAAAAcAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Woodstock oder der Ritter: Eine Erzählung aus dem Jahre 1651 ..."/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="8AQoAAAAYAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Briefe über Dämonologie und Hexerei, Bände 1-2"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="8dAyAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Sämmtliche dramatische werke Sechster Band"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="AdiKyqdlp4cC">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="William Shakspeares sämmtliche dramatische Werke Ausgabe in 12 Bänden: König Lear, Band 7"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="anneofgeierstein02scot">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Anne of Geierstein, or, The maiden of the mist Vol II."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="anneofgeierstein03scot">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Anne of Geierstein, or, The maiden of the mist Vol III."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="aNQwAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Guy Mannering, oder der Astrolog"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="chroniclesofcano02scot">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Chronicles of the Canongate. Second series Vol II."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="chroniclesofcano03scot">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Chronicles of the Canongate. Second series Vol III."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="D5pMAAAAcAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Anna von Geierstein oder das Nebelmädchen: Ein Roman, Bände 1-4"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="DNUwAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Ivanhoe"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="fAoOAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Woodstock; Or, The Cavalier: A Tale of the Year Sixteen Hundred and Fifty-one, Band 2"/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="Fy4JAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Guy Mannering, Or, The Astrologer, Band 3"/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="H9UwAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Die schöne Mädchen von Perth"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="HCRMAAAAcAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="William Shakspeare's sämtliche dramatische Werke, Band 4"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="htQwAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Kenilworth"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="J4knAAAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Woodstock: Or, The Cavalier. A Tale of the Year Sixteen Hundred and Fifty-one, Band 1"/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="kggOAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="The heart of Mid-Lothian Vol II."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="MzQJAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Guy Mannering, Or, The Astrologer, Band 2"/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="oNEyAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Sämmtliche dramatische werke Zwölfter Band"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="PzMJAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="The Antiquary, Band 2"/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="quentindurward01scotuoft">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Quentin Durward Vol I."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="quentindurward02scotuoft">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Quentin Durward Vol II."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="rDUJAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Tales of a Grandfather: France"/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="t88yAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Sämmtliche dramatische werke Dritter Band"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="u4cnAAAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Der Kerker von Edinburg"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="wggOAAAAQAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="The heart of Mid-Lothian Vol I."/> 
+            <dc:language content="en"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="WjMfAAAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Walter Scott's Romane"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="XtEyAQAAMAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Sämmtliche dramatische werke Zehnter Band"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="YAZXAAAAcAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="W. Shakspeare's Sämmtliche Werke in einem Bande."/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="zDTMtgEACAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Quentin Durward, Bände 15-17"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+    <dmdSec ID="zviTtwEACAAJ">
+        <mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Der Alterthümler: Ein Roman ; Dritter Theil, Bände 24-26"/> 
+            <dc:language content="de"/>
+        </mdWrap>
+    </dmdSec>
+
+	
+	<!-- File Section: Ab hier wird es erst richtig relevant, an dieser Stelle werden alle zum Objekt (in unserem Fall würde ich sagen 1 Objekt - 1 Titel - 1 METS Datei) gehörigen Daten referenziert -->
+    <mets:fileSec>
+        <mets:fileGrp USE="IMG">
+            <mets:file ID="pdf__QgOAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=_QgOAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_1VUJAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=1VUJAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_2jMfAAAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=2jMfAAAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_3pVMAAAAcAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=3pVMAAAAcAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=4zQfAAAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_7JVMAAAAcAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=7JVMAAAAcAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_8AQoAAAAYAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=8AQoAAAAYAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_8dAyAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=8dAyAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_AdiKyqdlp4cC" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=AdiKyqdlp4cC"/>
+            </mets:file>
+            <mets:file ID="pdf_anneofgeierstein02scot" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/anneofgeierstein02scot"/>
+            </mets:file>
+            <mets:file ID="pdf_anneofgeierstein03scot" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/anneofgeierstein03scot"/>
+            </mets:file>
+            <mets:file ID="pdf_aNQwAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=aNQwAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_chroniclesofcano02scot" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/chroniclesofcano02scot"/>
+            </mets:file>
+            <mets:file ID="pdf_chroniclesofcano03scot" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/chroniclesofcano03scot"/>
+            </mets:file>
+            <mets:file ID="pdf_D5pMAAAAcAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=D5pMAAAAcAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_DNUwAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=DNUwAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_fAoOAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=fAoOAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_Fy4JAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=Fy4JAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_H9UwAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=H9UwAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_HCRMAAAAcAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=HCRMAAAAcAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_htQwAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=htQwAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_J4knAAAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=J4knAAAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_kggOAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=kggOAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_MzQJAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=MzQJAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_oNEyAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=oNEyAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_PzMJAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=PzMJAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_quentindurward01scotuoft" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/quentindurward01scotuoft"/>
+            </mets:file>
+            <mets:file ID="pdf_quentindurward02scotuoft" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/quentindurward02scotuoft"/>
+            </mets:file>
+            <mets:file ID="pdf_rDUJAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=rDUJAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_t88yAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=t88yAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_u4cnAAAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.com/books?id=u4cnAAAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_wggOAAAAQAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=wggOAAAAQAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_WjMfAAAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=WjMfAAAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_XtEyAQAAMAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=XtEyAQAAMAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=YAZXAAAAcAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_zDTMtgEACAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=zDTMtgEACAAJ"/>
+            </mets:file>
+            <mets:file ID="pdf_zviTtwEACAAJ" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://books.google.de/books?id=zviTtwEACAAJ"/>
+            </mets:file>
+        </mets:fileGrp>
+		<mets:fileGrp USE="GT">
+		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
+            <mets:file ID="gt__QgOAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/_QgOAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_1VUJAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/1VUJAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_2jMfAAAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_3pVMAAAAcAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/3pVMAAAAcAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_7JVMAAAAcAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/7JVMAAAAcAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_8AQoAAAAYAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/8AQoAAAAYAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_8dAyAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/8dAyAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_AdiKyqdlp4cC" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/AdiKyqdlp4cC.xml"/>
+            </mets:file>
+            <mets:file ID="gt_anneofgeierstein02scot" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://https://github.com/millawell/ocr-data/blob/master/data/xml_output/anneofgeierstein02scot.xml"/>
+            </mets:file>
+            <mets:file ID="gt_anneofgeierstein03scot" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://https://github.com/millawell/ocr-data/blob/master/data/xml_output/anneofgeierstein03scot.xml"/>
+            </mets:file>
+            <mets:file ID="gt_aNQwAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/aNQwAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_chroniclesofcano02scot" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://https://github.com/millawell/ocr-data/blob/master/data/xml_output/chroniclesofcano02scot.xml"/>
+            </mets:file>
+            <mets:file ID="gt_chroniclesofcano03scot" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://https://github.com/millawell/ocr-data/blob/master/data/xml_output/chroniclesofcano03scot.xml"/>
+            </mets:file>
+            <mets:file ID="gt_D5pMAAAAcAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/D5pMAAAAcAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_DNUwAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/DNUwAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_fAoOAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/fAoOAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_Fy4JAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/Fy4JAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_H9UwAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/H9UwAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_HCRMAAAAcAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/HCRMAAAAcAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_htQwAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/htQwAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_J4knAAAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/J4knAAAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_kggOAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/kggOAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_MzQJAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/MzQJAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_oNEyAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/oNEyAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_PzMJAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/PzMJAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_quentindurward01scotuoft" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://https://github.com/millawell/ocr-data/blob/master/data/xml_output/quentindurward01scotuoft.xml"/>
+            </mets:file>
+            <mets:file ID="gt_quentindurward02scotuoft" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://https://github.com/millawell/ocr-data/blob/master/data/xml_output/quentindurward02scotuoft.xml"/>
+            </mets:file>
+            <mets:file ID="gt_rDUJAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/rDUJAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_t88yAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/t88yAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_u4cnAAAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/u4cnAAAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_wggOAAAAQAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/wggOAAAAQAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_WjMfAAAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_XtEyAQAAMAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/XtEyAQAAMAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/YAZXAAAAcAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_zDTMtgEACAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/zDTMtgEACAAJ.xml"/>
+            </mets:file>
+            <mets:file ID="gt_zviTtwEACAAJ" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/zviTtwEACAAJ.xml"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+	
+	<!-- Structural Map: Diese section ist ggf. etwas umständlich, kann aber auch gerne dabei unterstützen. Hier wird nur erneut durch gegenseitige Referenzierung der Konnex von Image und GT Dateien hergestellt, also quasi eine Map -->
+    <mets:structMap>
+        <mets:div ID="map__QgOAAAAQAAJ">
+            <mets:fptr FILEID="gt__QgOAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf__QgOAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_1VUJAAAAQAAJ">
+            <mets:fptr FILEID="gt_1VUJAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_1VUJAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_2jMfAAAAMAAJ">
+            <mets:fptr FILEID="gt_2jMfAAAAMAAJ"/>
+            <mets:fptr FILEID="pdf_2jMfAAAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_3pVMAAAAcAAJ">
+            <mets:fptr FILEID="gt_3pVMAAAAcAAJ"/>
+            <mets:fptr FILEID="pdf_3pVMAAAAcAAJ"/>
+        </mets:div>
+        <mets:div ID="map_4zQfAAAAMAAJ">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_7JVMAAAAcAAJ">
+            <mets:fptr FILEID="gt_7JVMAAAAcAAJ"/>
+            <mets:fptr FILEID="pdf_7JVMAAAAcAAJ"/>
+        </mets:div>
+        <mets:div ID="map_8AQoAAAAYAAJ">
+            <mets:fptr FILEID="gt_8AQoAAAAYAAJ"/>
+            <mets:fptr FILEID="pdf_8AQoAAAAYAAJ"/>
+        </mets:div>
+        <mets:div ID="map_8dAyAQAAMAAJ">
+            <mets:fptr FILEID="gt_8dAyAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_8dAyAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_AdiKyqdlp4cC">
+            <mets:fptr FILEID="gt_AdiKyqdlp4cC"/>
+            <mets:fptr FILEID="pdf_AdiKyqdlp4cC"/>
+        </mets:div>
+        <mets:div ID="map_anneofgeierstein02scot">
+            <mets:fptr FILEID="gt_anneofgeierstein02scot"/>
+            <mets:fptr FILEID="pdf_anneofgeierstein02scot"/>
+        </mets:div>
+        <mets:div ID="map_anneofgeierstein03scot">
+            <mets:fptr FILEID="gt_anneofgeierstein03scot"/>
+            <mets:fptr FILEID="pdf_anneofgeierstein03scot"/>
+        </mets:div>
+        <mets:div ID="map_aNQwAQAAMAAJ">
+            <mets:fptr FILEID="gt_aNQwAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_aNQwAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_chroniclesofcano02scot">
+            <mets:fptr FILEID="gt_chroniclesofcano02scot"/>
+            <mets:fptr FILEID="pdf_chroniclesofcano02scot"/>
+        </mets:div>
+        <mets:div ID="map_chroniclesofcano03scot">
+            <mets:fptr FILEID="gt_chroniclesofcano03scot"/>
+            <mets:fptr FILEID="pdf_chroniclesofcano03scot"/>
+        </mets:div>
+        <mets:div ID="map_D5pMAAAAcAAJ">
+            <mets:fptr FILEID="gt_D5pMAAAAcAAJ"/>
+            <mets:fptr FILEID="pdf_D5pMAAAAcAAJ"/>
+        </mets:div>
+        <mets:div ID="map_DNUwAQAAMAAJ">
+            <mets:fptr FILEID="gt_DNUwAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_DNUwAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_fAoOAAAAQAAJ">
+            <mets:fptr FILEID="gt_fAoOAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_fAoOAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_Fy4JAAAAQAAJ">
+            <mets:fptr FILEID="gt_Fy4JAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_Fy4JAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_H9UwAQAAMAAJ">
+            <mets:fptr FILEID="gt_H9UwAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_H9UwAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_HCRMAAAAcAAJ">
+            <mets:fptr FILEID="gt_HCRMAAAAcAAJ"/>
+            <mets:fptr FILEID="pdf_HCRMAAAAcAAJ"/>
+        </mets:div>
+        <mets:div ID="map_htQwAQAAMAAJ">
+            <mets:fptr FILEID="gt_htQwAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_htQwAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_J4knAAAAMAAJ">
+            <mets:fptr FILEID="gt_J4knAAAAMAAJ"/>
+            <mets:fptr FILEID="pdf_J4knAAAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_kggOAAAAQAAJ">
+            <mets:fptr FILEID="gt_kggOAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_kggOAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_MzQJAAAAQAAJ">
+            <mets:fptr FILEID="gt_MzQJAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_MzQJAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_oNEyAQAAMAAJ">
+            <mets:fptr FILEID="gt_oNEyAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_oNEyAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_PzMJAAAAQAAJ">
+            <mets:fptr FILEID="gt_PzMJAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_PzMJAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_quentindurward01scotuoft">
+            <mets:fptr FILEID="gt_quentindurward01scotuoft"/>
+            <mets:fptr FILEID="pdf_quentindurward01scotuoft"/>
+        </mets:div>
+        <mets:div ID="map_quentindurward02scotuoft">
+            <mets:fptr FILEID="gt_quentindurward02scotuoft"/>
+            <mets:fptr FILEID="pdf_quentindurward02scotuoft"/>
+        </mets:div>
+        <mets:div ID="map_rDUJAAAAQAAJ">
+            <mets:fptr FILEID="gt_rDUJAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_rDUJAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_t88yAQAAMAAJ">
+            <mets:fptr FILEID="gt_t88yAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_t88yAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_u4cnAAAAMAAJ">
+            <mets:fptr FILEID="gt_u4cnAAAAMAAJ"/>
+            <mets:fptr FILEID="pdf_u4cnAAAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_wggOAAAAQAAJ">
+            <mets:fptr FILEID="gt_wggOAAAAQAAJ"/>
+            <mets:fptr FILEID="pdf_wggOAAAAQAAJ"/>
+        </mets:div>
+        <mets:div ID="map_WjMfAAAAMAAJ">
+            <mets:fptr FILEID="gt_WjMfAAAAMAAJ"/>
+            <mets:fptr FILEID="pdf_WjMfAAAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_XtEyAQAAMAAJ">
+            <mets:fptr FILEID="gt_XtEyAQAAMAAJ"/>
+            <mets:fptr FILEID="pdf_XtEyAQAAMAAJ"/>
+        </mets:div>
+        <mets:div ID="map_YAZXAAAAcAAJ">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ"/>
+        </mets:div>
+        <mets:div ID="map_zDTMtgEACAAJ">
+            <mets:fptr FILEID="gt_zDTMtgEACAAJ"/>
+            <mets:fptr FILEID="pdf_zDTMtgEACAAJ"/>
+        </mets:div>
+        <mets:div ID="map_zviTtwEACAAJ">
+            <mets:fptr FILEID="gt_zviTtwEACAAJ"/>
+            <mets:fptr FILEID="pdf_zviTtwEACAAJ"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
