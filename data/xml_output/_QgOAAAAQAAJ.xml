@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4718" imageWidth="2876">
+    <PrintSpace>
+        <Coords points="0,0 0,2876 4718,2876 4718,2876"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2876 4718,2876 4718,2876"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="549,487 549,1919 619,1919 619,487"/>
+            <TextEquiv>
+                <Unicode>108 COUNT ROBERT OF PARIS.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="731,524 731,2341 828,2341 828,524"/>
+            <TextEquiv>
+                <Unicode>burdened by the mandate of some inexorable ma-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="854,530 854,2340 950,2340 950,530"/>
+            <TextEquiv>
+                <Unicode>gician, and of which the operation was so terri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="977,532 977,2338 1074,2338 1074,532"/>
+            <TextEquiv>
+                <Unicode>fying, that the crews of the vessels attacked by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1098,532 1098,2342 1196,2342 1196,532"/>
+            <TextEquiv>
+                <Unicode>this strange weapon frequently forsook every</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1222,535 1222,2337 1308,2337 1308,535"/>
+            <TextEquiv>
+                <Unicode>means of defence, and run themselves ashore.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1341,541 1341,2345 1436,2345 1436,541"/>
+            <TextEquiv>
+                <Unicode>One of the principal ingredients of this dreadful</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1460,532 1460,2344 1554,2344 1554,532"/>
+            <TextEquiv>
+                <Unicode>fire was supposed to be naphtha, or the bitumen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1578,516 1578,2340 1667,2340 1667,516"/>
+            <TextEquiv>
+                <Unicode>which is collected on the banks of the Dead Sea,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1698,511 1698,2343 1795,2343 1795,511"/>
+            <TextEquiv>
+                <Unicode>and which, when in a state of ignition, could only</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1819,533 1819,2344 1917,2344 1917,533"/>
+            <TextEquiv>
+                <Unicode>be extinguished by a very singular mixture, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1933,528 1933,2530 2030,2530 2030,528"/>
+            <TextEquiv>
+                <Unicode>which it was not likely to come in contact with.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2056,522 2056,2338 2151,2338 2151,522"/>
+            <TextEquiv>
+                <Unicode>It produced a thick smoke and loud explosion,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2175,536 2175,2344 2274,2344 2274,536"/>
+            <TextEquiv>
+                <Unicode>and was capable, says Gibbon, of communicating</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2296,538 2296,2344 2389,2344 2389,538"/>
+            <TextEquiv>
+                <Unicode>its flames with equal vehemence in descent or</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2417,537 2417,2346 2513,2346 2513,537"/>
+            <TextEquiv>
+                <Unicode>lateral progress. In sieges, it was poured from</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2538,510 2538,2344 2640,2344 2640,510"/>
+            <TextEquiv>
+                <Unicode>the ramparts, or launched, like our bombs, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2655,523 2655,2339 2745,2339 2745,523"/>
+            <TextEquiv>
+                <Unicode>redhot balls of stone or iron, or it was darted in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2780,509 2780,2348 2888,2348 2888,509"/>
+            <TextEquiv>
+                <Unicode>flax twisted round arrows and in javelins. It</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2902,540 2902,2350 2998,2350 2998,540"/>
+            <TextEquiv>
+                <Unicode>was considered as a state secret of the greatest</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3023,532 3023,2350 3133,2350 3133,532"/>
+            <TextEquiv>
+                <Unicode>importance; and for wellnigh four centuries it</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3144,538 3144,2349 3243,2349 3243,538"/>
+            <TextEquiv>
+                <Unicode>was unknown to the Mahometans. But at length</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3261,507 3261,2346 3362,2346 3362,507"/>
+            <TextEquiv>
+                <Unicode>the composition was discovered by the Saracens,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3383,502 3383,2344 3482,2344 3482,502"/>
+            <TextEquiv>
+                <Unicode>and used by them for repelling the Crusaders,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3502,500 3502,2344 3615,2344 3615,500"/>
+            <TextEquiv>
+                <Unicode>and overpowering the Greeks, upon whose side</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>108 COUNT ROBERT OF PARIS.
+burdened by the mandate of some inexorable ma-
+gician, and of which the operation was so terri-
+fying, that the crews of the vessels attacked by
+this strange weapon frequently forsook every
+means of defence, and run themselves ashore.
+One of the principal ingredients of this dreadful
+fire was supposed to be naphtha, or the bitumen
+which is collected on the banks of the Dead Sea,
+and which, when in a state of ignition, could only
+be extinguished by a very singular mixture, and
+which it was not likely to come in contact with.
+It produced a thick smoke and loud explosion,
+and was capable, says Gibbon, of communicating
+its flames with equal vehemence in descent or
+lateral progress. In sieges, it was poured from
+the ramparts, or launched, like our bombs, in
+redhot balls of stone or iron, or it was darted in
+flax twisted round arrows and in javelins. It
+was considered as a state secret of the greatest
+importance; and for wellnigh four centuries it
+was unknown to the Mahometans. But at length
+the composition was discovered by the Saracens,
+and used by them for repelling the Crusaders,
+and overpowering the Greeks, upon whose side</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4718" imageWidth="2876">
+    <PrintSpace>
+        <Coords points="0,0 0,2876 4718,2876 4718,2876"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2876 4718,2876 4718,2876"/>
+        
+            <TextLine id="textline_25">
+        
+            <Coords points="625,862 625,2268 692,2268 692,862"/>
+            <TextEquiv>
+                <Unicode>COUNT ROBERT OF PARIS. 113</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="810,456 810,2268 898,2268 898,456"/>
+            <TextEquiv>
+                <Unicode>which wind, and tide, and oar, could enable her</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="932,467 932,2269 1029,2269 1029,467"/>
+            <TextEquiv>
+                <Unicode>to obtain, and placing her in the situation to pro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="1052,465 1052,2266 1145,2266 1145,465"/>
+            <TextEquiv>
+                <Unicode>fit by them as much as his maritime skill could</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="1171,470 1171,2269 1270,2269 1270,470"/>
+            <TextEquiv>
+                <Unicode>direct, he drove with the speed of lightning</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="1291,467 1291,2267 1389,2267 1389,467"/>
+            <TextEquiv>
+                <Unicode>among the vessels of Lemnos, plying on either</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="1412,463 1412,2267 1510,2267 1510,463"/>
+            <TextEquiv>
+                <Unicode>side, bows, crossbows, javelins, and military</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="1536,465 1536,2261 1633,2261 1633,465"/>
+            <TextEquiv>
+                <Unicode>missiles of every kind, with the greater advantage</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="1659,461 1659,2257 1755,2257 1755,461"/>
+            <TextEquiv>
+                <Unicode>that the Greeks, trusting to their artificial fire,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="1780,461 1780,2263 1876,2263 1876,461"/>
+            <TextEquiv>
+                <Unicode>had omitted arming themselves with other wea-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1900,457 1900,2261 1997,2261 1997,457"/>
+            <TextEquiv>
+                <Unicode>pons; so that when the valiant Crusader bore</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2020,462 2020,2261 2116,2261 2116,462"/>
+            <TextEquiv>
+                <Unicode>down on them with so much fury, repaying the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2139,459 2139,2263 2217,2263 2217,459"/>
+            <TextEquiv>
+                <Unicode>terrors of their fire with a storm of bolts and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2258,453 2258,2264 2358,2264 2358,453"/>
+            <TextEquiv>
+                <Unicode>arrows no less formidable, they began to feel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2383,453 2383,2490 2496,2490 2496,453"/>
+            <TextEquiv>
+                <Unicode>that their own advantage was much less than</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2505,455 2505,2259 2604,2259 2604,455"/>
+            <TextEquiv>
+                <Unicode>they had supposed, and that, like most other</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2623,453 2623,2256 2726,2256 2726,453"/>
+            <TextEquiv>
+                <Unicode>dangers, the maritime fire of the Greeks, when</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2753,453 2753,2267 2848,2267 2848,453"/>
+            <TextEquiv>
+                <Unicode>undauntedly confronted, lost at least one-half of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2872,448 2872,2257 2987,2257 2987,448"/>
+            <TextEquiv>
+                <Unicode>its terrors. The Grecian sailors, too, when they</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2989,446 2989,2255 3087,2255 3087,446"/>
+            <TextEquiv>
+                <Unicode>observed the vessels approach so near, filled with</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3106,447 3106,2251 3202,2251 3202,447"/>
+            <TextEquiv>
+                <Unicode>the steel-clad Latins, began to shrink from a con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3231,445 3231,2249 3311,2249 3311,445"/>
+            <TextEquiv>
+                <Unicode>test to be maintained hand to hand with so ter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3356,468 3356,1059 3452,1059 3452,468"/>
+            <TextEquiv>
+                <Unicode>rible an enemy.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3466,538 3466,2241 3577,2241 3577,538"/>
+            <TextEquiv>
+                <Unicode>By degrees, smoke began to issue from the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3596,379 3596,2243 3700,2243 3700,379"/>
+            <TextEquiv>
+                <Unicode>sides of the great Crecian argosie, and the voice</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>COUNT ROBERT OF PARIS. 113
+which wind, and tide, and oar, could enable her
+to obtain, and placing her in the situation to pro-
+fit by them as much as his maritime skill could
+direct, he drove with the speed of lightning
+among the vessels of Lemnos, plying on either
+side, bows, crossbows, javelins, and military
+missiles of every kind, with the greater advantage
+that the Greeks, trusting to their artificial fire,
+had omitted arming themselves with other wea-
+pons; so that when the valiant Crusader bore
+down on them with so much fury, repaying the
+terrors of their fire with a storm of bolts and
+arrows no less formidable, they began to feel
+that their own advantage was much less than
+they had supposed, and that, like most other
+dangers, the maritime fire of the Greeks, when
+undauntedly confronted, lost at least one-half of
+its terrors. The Grecian sailors, too, when they
+observed the vessels approach so near, filled with
+the steel-clad Latins, began to shrink from a con-
+test to be maintained hand to hand with so ter-
+rible an enemy.
+By degrees, smoke began to issue from the
+sides of the great Crecian argosie, and the voice</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4725" imageWidth="2887">
+    <PrintSpace>
+        <Coords points="0,0 0,2887 4725,2887 4725,2887"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2887 4725,2887 4725,2887"/>
+        
+            <TextLine id="textline_50">
+        
+            <Coords points="682,606 682,1986 803,1986 803,606"/>
+            <TextEquiv>
+                <Unicode>158 COUNT ROBERT OF PARIS.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="871,591 871,2411 952,2411 952,591"/>
+            <TextEquiv>
+                <Unicode>confidence that the rules of fair battle will be</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="994,612 994,1433 1091,1433 1091,612"/>
+            <TextEquiv>
+                <Unicode>punctually observed.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="1117,603 1117,2404 1217,2404 1217,603"/>
+            <TextEquiv>
+                <Unicode>The two Grecian officers transmitted this reply</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="1238,544 1238,2406 1338,2406 1338,544"/>
+            <TextEquiv>
+                <Unicode>to the Emperor, who heard it with pleasure;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="1362,587 1362,2406 1460,2406 1460,587"/>
+            <TextEquiv>
+                <Unicode>and, immediately proceeding to act upon the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="1482,590 1482,2409 1579,2409 1579,590"/>
+            <TextEquiv>
+                <Unicode>principle which he had laid down, of maintaining</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="1601,585 1601,2404 1696,2404 1696,585"/>
+            <TextEquiv>
+                <Unicode>peace, if possible, with the crusaders, named</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="1703,592 1703,2408 1817,2408 1817,592"/>
+            <TextEquiv>
+                <Unicode>Prince Tancred with the Proto-spathaire as</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="1826,596 1826,2402 1941,2402 1941,596"/>
+            <TextEquiv>
+                <Unicode>Field Marshals of the lists, fully empowered,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="1950,590 1950,2409 2059,2409 2059,590"/>
+            <TextEquiv>
+                <Unicode>under the Emperor, t decide all the terms of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2072,588 2072,2406 2173,2406 2173,588"/>
+            <TextEquiv>
+                <Unicode>the combat, and to have recourse to Alexias</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="2208,590 2208,2412 2306,2412 2306,590"/>
+            <TextEquiv>
+                <Unicode>himself where their opinions disagreed. This</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="2332,590 2332,2407 2418,2407 2418,590"/>
+            <TextEquiv>
+                <Unicode>was made known to the assistants, who were</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="2450,592 2450,2404 2544,2404 2544,592"/>
+            <TextEquiv>
+                <Unicode>thus prepared for the entry into the lists of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="2568,598 2568,2404 2648,2404 2648,598"/>
+            <TextEquiv>
+                <Unicode>Grecian officer and the Italian Prince in full</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="2688,587 2688,2399 2801,2399 2801,587"/>
+            <TextEquiv>
+                <Unicode>armour, while a solemn proclamation announced</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="2811,591 2811,2397 2926,2397 2926,591"/>
+            <TextEquiv>
+                <Unicode>to all the spectators their solemn office. The</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="2918,594 2918,2402 3010,2402 3010,594"/>
+            <TextEquiv>
+                <Unicode>same annunciation commanded the assistants of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="3056,597 3056,2399 3152,2399 3152,597"/>
+            <TextEquiv>
+                <Unicode>every kind to clear a convenient part of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="3180,594 3180,2402 3264,2402 3264,594"/>
+            <TextEquiv>
+                <Unicode>seats which surrounded the lists on one side, that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="3300,596 3300,2402 3396,2402 3396,596"/>
+            <TextEquiv>
+                <Unicode>it might serve for the accommodation of Prince</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="3423,621 3423,1367 3497,1367 3497,621"/>
+            <TextEquiv>
+                <Unicode>Tancred&#39;s followers.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="3540,691 3540,2401 3628,2401 3628,691"/>
+            <TextEquiv>
+                <Unicode>Achilles Tatius, who was a heedful observer of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="3663,593 3663,2397 3762,2397 3762,593"/>
+            <TextEquiv>
+                <Unicode>all these passages, saw with alarm, that by the</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>158 COUNT ROBERT OF PARIS.
+confidence that the rules of fair battle will be
+punctually observed.&#34;
+The two Grecian officers transmitted this reply
+to the Emperor, who heard it with pleasure;
+and, immediately proceeding to act upon the
+principle which he had laid down, of maintaining
+peace, if possible, with the crusaders, named
+Prince Tancred with the Proto-spathaire as
+Field Marshals of the lists, fully empowered,
+under the Emperor, t decide all the terms of
+the combat, and to have recourse to Alexias
+himself where their opinions disagreed. This
+was made known to the assistants, who were
+thus prepared for the entry into the lists of the
+Grecian officer and the Italian Prince in full
+armour, while a solemn proclamation announced
+to all the spectators their solemn office. The
+same annunciation commanded the assistants of
+every kind to clear a convenient part of the
+seats which surrounded the lists on one side, that
+it might serve for the accommodation of Prince
+Tancred&#39;s followers.
+Achilles Tatius, who was a heedful observer of
+all these passages, saw with alarm, that by the</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

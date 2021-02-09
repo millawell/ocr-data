@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4440" imageWidth="2800">
+    <PrintSpace>
+        <Coords points="0,0 0,2800 4440,2800 4440,2800"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2800 4440,2800 4440,2800"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="435,624 435,1819 500,1819 500,624"/>
+            <TextEquiv>
+                <Unicode>ANNE OF GEIERSTEIN.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="435,2211 435,2314 505,2314 505,2211"/>
+            <TextEquiv>
+                <Unicode>69</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="664,241 664,2370 774,2370 774,241"/>
+            <TextEquiv>
+                <Unicode>stantly adhered to that family through the train</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="809,242 809,2372 918,2372 918,242"/>
+            <TextEquiv>
+                <Unicode>of misfortunes by which they seemed to be to-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="954,243 954,2375 1063,2375 1063,243"/>
+            <TextEquiv>
+                <Unicode>tally overwhelmed. A repast, of which his son</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1101,242 1101,2377 1212,2377 1212,242"/>
+            <TextEquiv>
+                <Unicode>had already partaken, was offered to the Earl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1245,241 1245,2375 1376,2375 1376,241"/>
+            <TextEquiv>
+                <Unicode>by Colvin, who omitted not to recommend, by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1372,243 1372,2377 1501,2377 1501,243"/>
+            <TextEquiv>
+                <Unicode>precept and example, the good wine of Bur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1535,243 1535,2378 1647,2378 1647,243"/>
+            <TextEquiv>
+                <Unicode>gundy, from which the sovereign of the province</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1681,267 1681,1644 1789,1644 1789,267"/>
+            <TextEquiv>
+                <Unicode>was himself obliged to refrain.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1818,360 1818,2432 1956,2432 1956,360"/>
+            <TextEquiv>
+                <Unicode>&#34;His Grace shows command of passion in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1971,251 1971,2381 2092,2381 2092,251"/>
+            <TextEquiv>
+                <Unicode>that,&#34; said Colvin. &#34;For, sooth to speak, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2115,252 2115,2381 2228,2381 2228,252"/>
+            <TextEquiv>
+                <Unicode>only conversing betwixt friends, his temper</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2263,251 2263,2384 2372,2384 2372,251"/>
+            <TextEquiv>
+                <Unicode>grows too headlong to bear the spur which a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2407,254 2407,2381 2536,2381 2536,254"/>
+            <TextEquiv>
+                <Unicode>cup of cordial beverage gives to the blood, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2529,251 2529,2380 2662,2380 2662,251"/>
+            <TextEquiv>
+                <Unicode>he, therefore, wisely restricts himself to such</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2694,254 2694,2381 2805,2381 2805,254"/>
+            <TextEquiv>
+                <Unicode>liquid as may cool rather than inflame his na-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2839,273 2839,1381 2951,1381 2951,273"/>
+            <TextEquiv>
+                <Unicode>tural fire of disposition.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2982,366 2982,2382 3095,2382 3095,366"/>
+            <TextEquiv>
+                <Unicode>&#34;I can perceive as much,&#34; said the Lancastri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3127,254 3127,2380 3228,2380 3228,254"/>
+            <TextEquiv>
+                <Unicode>an noble. &#34;When I first knew the noble Duke,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3272,253 3272,2378 3383,2378 3383,253"/>
+            <TextEquiv>
+                <Unicode>who was then Earl of Charolois, his temper,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3417,256 3417,2381 3528,2381 3528,256"/>
+            <TextEquiv>
+                <Unicode>though always sufficiently fiery, was calmness</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3561,257 3561,2382 3674,2382 3674,257"/>
+            <TextEquiv>
+                <Unicode>to the impetuosity which he now displays on</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3710,254 3710,2381 3793,2381 3793,254"/>
+            <TextEquiv>
+                <Unicode>the smallest contradiction. Such is the course</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3853,253 3853,2380 3966,2380 3966,253"/>
+            <TextEquiv>
+                <Unicode>of an uninterrupted flow of prosperity. He has</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3998,254 3998,2380 4113,2380 4113,254"/>
+            <TextEquiv>
+                <Unicode>ascended, by his own courage and the advantage</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>ANNE OF GEIERSTEIN.
+69
+stantly adhered to that family through the train
+of misfortunes by which they seemed to be to-
+tally overwhelmed. A repast, of which his son
+had already partaken, was offered to the Earl
+by Colvin, who omitted not to recommend, by
+precept and example, the good wine of Bur-
+gundy, from which the sovereign of the province
+was himself obliged to refrain.
+&#34;His Grace shows command of passion in
+that,&#34; said Colvin. &#34;For, sooth to speak, and
+only conversing betwixt friends, his temper
+grows too headlong to bear the spur which a
+cup of cordial beverage gives to the blood, and
+he, therefore, wisely restricts himself to such
+liquid as may cool rather than inflame his na-
+tural fire of disposition.&#34;
+&#34;I can perceive as much,&#34; said the Lancastri-
+an noble. &#34;When I first knew the noble Duke,
+who was then Earl of Charolois, his temper,
+though always sufficiently fiery, was calmness
+to the impetuosity which he now displays on
+the smallest contradiction. Such is the course
+of an uninterrupted flow of prosperity. He has
+ascended, by his own courage and the advantage</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

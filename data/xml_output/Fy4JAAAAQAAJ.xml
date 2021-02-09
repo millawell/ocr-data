@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4096" imageWidth="2404">
+    <PrintSpace>
+        <Coords points="0,0 0,2404 4096,2404 4096,2404"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2404 4096,2404 4096,2404"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="216,316 216,1674 320,1674 320,316"/>
+            <TextEquiv>
+                <Unicode>302  GUY MANERRING.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="400,300 400,2212 554,2212 554,300"/>
+            <TextEquiv>
+                <Unicode>be nae hindrance. - But where&#39;s Henry</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="509,300 509,2221 671,2221 671,300"/>
+            <TextEquiv>
+                <Unicode>Bertram?&#34; The asistants, to whom this</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="631,224 631,2212 790,2212 790,224"/>
+            <TextEquiv>
+                <Unicode>name had been long a stranger gazed upon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="773,296 773,2198 925,2198 925,296"/>
+            <TextEquiv>
+                <Unicode>each other. - &#34;Yes!&#34; she said in  a strong</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="896,298 896,2202 1034,2202 1034,298"/>
+            <TextEquiv>
+                <Unicode>er and barsher tone, &#34;I said Henry Ber-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1022,298 1022,2201 1174,2201 1174,298"/>
+            <TextEquiv>
+                <Unicode>tram af Ellangowan. Stand from the light</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1154,316 1154,1382 1283,1382 1283,316"/>
+            <TextEquiv>
+                <Unicode>and let me see him.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1265,320 1265,2185 1422,2185 1422,320"/>
+            <TextEquiv>
+                <Unicode>All eyes were turned towards Bertram,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1383,295 1383,2182 1548,2182 1548,295"/>
+            <TextEquiv>
+                <Unicode>who approached the wretched couch. The</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1507,295 1507,2188 1674,2188 1674,295"/>
+            <TextEquiv>
+                <Unicode>wounded woman took hold of his hand.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1658,299 1658,2173 1812,2173 1812,299"/>
+            <TextEquiv>
+                <Unicode>&#34;Look at him,&#34; she said, &#34;all that ever</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1789,291 1789,2368 1928,2368 1928,291"/>
+            <TextEquiv>
+                <Unicode>saw his father or his grandfather, and hear.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1916,287 1916,2363 2059,2363 2059,287"/>
+            <TextEquiv>
+                <Unicode>witness if he is not their living image.&#34; -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2025,293 2025,2172 2182,2172 2182,293"/>
+            <TextEquiv>
+                <Unicode>A murmur went through the crowd - the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2169,278 2169,2186 2308,2186 2308,278"/>
+            <TextEquiv>
+                <Unicode>resemblance was too striking to be denied.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2294,286 2294,2182 2436,2182 2436,286"/>
+            <TextEquiv>
+                <Unicode>&#34;And now hear me - and let that man,&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2426,297 2426,2171 2564,2171 2564,297"/>
+            <TextEquiv>
+                <Unicode>pointing to Hatteraick, who was seated</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2551,291 2551,2171 2690,2171 2690,291"/>
+            <TextEquiv>
+                <Unicode>with his keepers on a sea-chest at some</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2677,267 2677,2176 2817,2176 2817,267"/>
+            <TextEquiv>
+                <Unicode>distance - &#34;let him deny what I say if he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2735,253 2735,2441 2956,2441 2956,253"/>
+            <TextEquiv>
+                <Unicode>can. That is Henry Bertram, son to God-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2923,266 2923,2172 3076,2172 3076,266"/>
+            <TextEquiv>
+                <Unicode>frey Bertran, umquhile of Ellangowan;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3062,259 3062,2174 3199,2174 3199,259"/>
+            <TextEquiv>
+                <Unicode>that is the child that Dirk Hatteraick car-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3183,267 3183,2439 3341,2439 3341,267"/>
+            <TextEquiv>
+                <Unicode>ried off from Warroch wood the day that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3310,275 3310,2170 3475,2170 3475,275"/>
+            <TextEquiv>
+                <Unicode>he murdered the gauger. I was there like</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>302  GUY MANERRING.
+be nae hindrance. - But where&#39;s Henry
+Bertram?&#34; The asistants, to whom this
+name had been long a stranger gazed upon
+each other. - &#34;Yes!&#34; she said in  a strong
+er and barsher tone, &#34;I said Henry Ber-
+tram af Ellangowan. Stand from the light
+and let me see him.&#34;
+All eyes were turned towards Bertram,
+who approached the wretched couch. The
+wounded woman took hold of his hand.
+&#34;Look at him,&#34; she said, &#34;all that ever
+saw his father or his grandfather, and hear.
+witness if he is not their living image.&#34; -
+A murmur went through the crowd - the
+resemblance was too striking to be denied.
+&#34;And now hear me - and let that man,&#34;
+pointing to Hatteraick, who was seated
+with his keepers on a sea-chest at some
+distance - &#34;let him deny what I say if he
+can. That is Henry Bertram, son to God-
+frey Bertran, umquhile of Ellangowan;
+that is the child that Dirk Hatteraick car-
+ried off from Warroch wood the day that
+he murdered the gauger. I was there like</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

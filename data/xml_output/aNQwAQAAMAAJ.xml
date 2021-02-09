@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3504" imageWidth="2496">
+    <PrintSpace>
+        <Coords points="0,0 0,2496 3504,2496 3504,2496"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2496 3504,2496 3504,2496"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="209,1109 209,1244 279,1244 279,1109"/>
+            <TextEquiv>
+                <Unicode>196</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="380,184 380,2167 461,2167 461,184"/>
+            <TextEquiv>
+                <Unicode>es, und verkauften den Körper für drei Schiling und ſechs</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="466,183 466,2170 555,2170 555,183"/>
+            <TextEquiv>
+                <Unicode>Pence. Sie wurden gehängt, aber nur des Mordes wegen, nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="556,182 556,2170 636,2170 636,182"/>
+            <TextEquiv>
+                <Unicode>wegen des plagium. - Sie ſind hier einwenig zu weit gegangen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="642,291 642,2168 731,2168 731,291"/>
+            <TextEquiv>
+                <Unicode>„Wohl, Sir; inzwiſchen muß Sie Mr. Mae-Morlan dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="729,182 729,2172 806,2172 806,182"/>
+            <TextEquiv>
+                <Unicode>Landgefängniß übergeben, falls dieſer junge Mann dieſelbe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="815,183 815,2165 890,2165 890,183"/>
+            <TextEquiv>
+                <Unicode>Geſchichte wiederholt. Gerichtsdiener, führt Mr. Gloſſin und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="903,185 903,2109 982,2109 982,185"/>
+            <TextEquiv>
+                <Unicode>Hatteraick ab, und bewabrt ſie in verſchiedenen Gemächern.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="988,293 988,2167 1065,2167 1065,293"/>
+            <TextEquiv>
+                <Unicode>Gabriel, der Zigeuner, ward hereingeführt, und gab eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1075,185 1075,2168 1164,2168 1164,185"/>
+            <TextEquiv>
+                <Unicode>genaue Schilderung ſeiner Flucht von Capitain Pritchard&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1160,182 1160,2168 1241,2168 1241,182"/>
+            <TextEquiv>
+                <Unicode>Fahrzeug und wie er ſich bei jenem Vorgange zn den Schmugg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1247,186 1247,2165 1337,2165 1337,186"/>
+            <TextEquiv>
+                <Unicode>lern geſellt habe; er berichtete umſtändlich, wie Dirk Hatte-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1331,184 1331,2170 1413,2170 1413,184"/>
+            <TextEquiv>
+                <Unicode>raick Feuer in ſeinem Schiff angelegt habe, als er es untaug-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1421,178 1421,2299 1496,2299 1496,178"/>
+            <TextEquiv>
+                <Unicode>lich fand, und wie er unter der Rauchwolke mit ſeiner Mann-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1505,181 1505,2172 1580,2172 1580,181"/>
+            <TextEquiv>
+                <Unicode>ſchaſt entkam; ferner, wie man noch ſo viel Güter als mög-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1586,180 1586,2171 1668,2171 1668,180"/>
+            <TextEquiv>
+                <Unicode>lich in jene Höhle rettete, wo man bis zum Einbruch der Racht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1676,226 1676,507 1753,507 1753,226"/>
+            <TextEquiv>
+                <Unicode>zu liegen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1763,225 1763,512 1832,512 1832,225"/>
+            <TextEquiv>
+                <Unicode>beeſt Br</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1675,1177 1675,2148 1751,2148 1751,1177"/>
+            <TextEquiv>
+                <Unicode>elbſt, ſein Unterſchiffer Ban-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1761,1194 1761,2146 1835,2146 1835,1194"/>
+            <TextEquiv>
+                <Unicode>worunter auch der Berichter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1846,184 1846,2170 1929,2170 1929,184"/>
+            <TextEquiv>
+                <Unicode>ſtatter, gingen nach der angranzenden Waldung, um ſich mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1932,188 1932,2172 2008,2172 2008,188"/>
+            <TextEquiv>
+                <Unicode>einigen ihrer Freunde in der Nachbarſchaft zu beſprechen. Sie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2017,185 2017,2171 2096,2171 2096,185"/>
+            <TextEquiv>
+                <Unicode>überſielen Kennedy plötzlich, und Hatteraick und Brown, ah-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2104,184 2104,2172 2180,2172 2180,184"/>
+            <TextEquiv>
+                <Unicode>nend daß er der Urheber ihres Unglücks war, beſchloſſen ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2191,184 2191,2171 2277,2171 2277,184"/>
+            <TextEquiv>
+                <Unicode>zu morden. Er erklärte, daß er geſehn habe, wie ſie gewalt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2277,184 2277,2171 2354,2171 2354,184"/>
+            <TextEquiv>
+                <Unicode>ſame Hand an den Zollbeamten legten, und ihn durch den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2363,187 2363,2170 2440,2170 2440,187"/>
+            <TextEquiv>
+                <Unicode>Wald ſchleppten, er ſelber habe iedoch an dem Angriffe nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2449,185 2449,2171 2527,2171 2527,185"/>
+            <TextEquiv>
+                <Unicode>Theil genommen, auch ſeinem Ende nicht beigewohnt. Auf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2534,187 2534,2165 2614,2165 2614,187"/>
+            <TextEquiv>
+                <Unicode>einem andern Wege war er nach der Höhle zurückgekehrt, wo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2618,189 2618,2178 2701,2178 2701,189"/>
+            <TextEquiv>
+                <Unicode>er wieder mit Hatteraick und ſeinen Genoſſen zuſammentraf;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2702,187 2702,2165 2790,2165 2790,187"/>
+            <TextEquiv>
+                <Unicode>der Capitain hatte eben die Erzählung begonnen, wie er und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2786,187 2786,2171 2870,2171 2870,187"/>
+            <TextEquiv>
+                <Unicode>Brown ein großes Felsſtück hinabgeſtürzt hatten, wo Kennedy</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2865,187 2865,2172 2959,2172 2959,187"/>
+            <TextEquiv>
+                <Unicode>ſtöhnend am Strande lag, als plötzlich Gloſſin unter ihnen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2949,189 2949,2172 3048,2172 3048,189"/>
+            <TextEquiv>
+                <Unicode>erſchien. Dem ganzen Vorgange, wo Hatteraick Gloſſin&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>196
+es, und verkauften den Körper für drei Schiling und ſechs
+Pence. Sie wurden gehängt, aber nur des Mordes wegen, nicht
+wegen des plagium. - Sie ſind hier einwenig zu weit gegangen.“
+„Wohl, Sir; inzwiſchen muß Sie Mr. Mae-Morlan dem
+Landgefängniß übergeben, falls dieſer junge Mann dieſelbe
+Geſchichte wiederholt. Gerichtsdiener, führt Mr. Gloſſin und
+Hatteraick ab, und bewabrt ſie in verſchiedenen Gemächern.
+Gabriel, der Zigeuner, ward hereingeführt, und gab eine
+genaue Schilderung ſeiner Flucht von Capitain Pritchard&#39;s
+Fahrzeug und wie er ſich bei jenem Vorgange zn den Schmugg-
+lern geſellt habe; er berichtete umſtändlich, wie Dirk Hatte-
+raick Feuer in ſeinem Schiff angelegt habe, als er es untaug-
+lich fand, und wie er unter der Rauchwolke mit ſeiner Mann-
+ſchaſt entkam; ferner, wie man noch ſo viel Güter als mög-
+lich in jene Höhle rettete, wo man bis zum Einbruch der Racht
+zu liegen
+beeſt Br
+elbſt, ſein Unterſchiffer Ban-
+worunter auch der Berichter-
+ſtatter, gingen nach der angranzenden Waldung, um ſich mit
+einigen ihrer Freunde in der Nachbarſchaft zu beſprechen. Sie
+überſielen Kennedy plötzlich, und Hatteraick und Brown, ah-
+nend daß er der Urheber ihres Unglücks war, beſchloſſen ihn
+zu morden. Er erklärte, daß er geſehn habe, wie ſie gewalt-
+ſame Hand an den Zollbeamten legten, und ihn durch den
+Wald ſchleppten, er ſelber habe iedoch an dem Angriffe nicht
+Theil genommen, auch ſeinem Ende nicht beigewohnt. Auf
+einem andern Wege war er nach der Höhle zurückgekehrt, wo
+er wieder mit Hatteraick und ſeinen Genoſſen zuſammentraf;
+der Capitain hatte eben die Erzählung begonnen, wie er und
+Brown ein großes Felsſtück hinabgeſtürzt hatten, wo Kennedy
+ſtöhnend am Strande lag, als plötzlich Gloſſin unter ihnen
+erſchien. Dem ganzen Vorgange, wo Hatteraick Gloſſin&#39;s</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3526" imageWidth="2522">
+    <PrintSpace>
+        <Coords points="0,0 0,2522 3526,2522 3526,2522"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2522 3526,2522 3526,2522"/>
+        
+            <TextLine id="textline_34">
+        
+            <Coords points="231,1227 231,1361 294,1361 294,1227"/>
+            <TextEquiv>
+                <Unicode>129</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="404,316 404,2280 482,2280 482,316"/>
+            <TextEquiv>
+                <Unicode>lich die Beredtſamkeit nach, welche allwöchentlich über ſeinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="494,333 494,1575 569,1575 569,333"/>
+            <TextEquiv>
+                <Unicode>Haupte von der Kanzel herabdonnerte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="578,457 578,2278 658,2278 658,457"/>
+            <TextEquiv>
+                <Unicode>„Was wir jetzo bedenken wollen, meine Brüder, - hm,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="668,312 668,2282 745,2282 745,312"/>
+            <TextEquiv>
+                <Unicode>hm - ich will ſagen, meine lieben Freunde, - geſchah nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="754,314 754,2283 831,2283 831,314"/>
+            <TextEquiv>
+                <Unicode>in einem Winkel, und mag allen Herenadvokaten, Atheiſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="841,313 841,2284 917,2284 917,313"/>
+            <TextEquiv>
+                <Unicode>und Irrgläubigen aller Art als eine Lehre dienen. - Ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="926,313 926,2281 1007,2281 1007,313"/>
+            <TextEquiv>
+                <Unicode>müßt wiſſen, daß der edle Laird von Ellangowan nicht ſo eifrig,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1015,313 1015,2281 1092,2281 1092,313"/>
+            <TextEquiv>
+                <Unicode>wie es ſich geziemt hätte, damit war, ſein Land von Heren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1100,313 1100,2281 1181,2281 1181,313"/>
+            <TextEquiv>
+                <Unicode>zu ſäubern (in Betracht des Wortes, das da geſagt iſt: „du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1190,312 1190,2280 1268,2280 1268,312"/>
+            <TextEquiv>
+                <Unicode>ſollſt keine Zaubrerin leben laſſen“); auch nahm er es nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1276,313 1276,2282 1354,2282 1354,313"/>
+            <TextEquiv>
+                <Unicode>gebührend ſtreng mit denen, welche Kobolde hatten, welche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1362,311 1362,2281 1442,2281 1442,311"/>
+            <TextEquiv>
+                <Unicode>Wahrſagerei und dergleichen trieben, wie es bei den Aegyp-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1452,314 1452,2280 1528,2280 1528,314"/>
+            <TextEquiv>
+                <Unicode>tiern (ſo pflegen ſich dieſe Leute zu nennen) und andern heil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1538,312 1538,2277 1616,2277 1616,312"/>
+            <TextEquiv>
+                <Unicode>loſen Banden in unſerm Lande üblich iſt. Nun war der Laird</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1628,313 1628,2279 1705,2279 1705,313"/>
+            <TextEquiv>
+                <Unicode>drei Iahre verheirathet, ohne einen Erben zu haben - man</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="1714,312 1714,2280 1795,2280 1795,312"/>
+            <TextEquiv>
+                <Unicode>hielt dies für ein Strafgericht, weil er, wie es hieß, verbote-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="1801,310 1801,2277 1880,2277 1880,310"/>
+            <TextEquiv>
+                <Unicode>nen Umgang mit der Meg Merrilies pflog, die in den beiden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="1886,310 1886,2277 1982,2277 1982,310"/>
+            <TextEquiv>
+                <Unicode>Grafſchaften Galloway und Dumfries als die berüchtigtſte Hexe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="1976,343 1976,795 2041,795 2041,343"/>
+            <TextEquiv>
+                <Unicode>bekannt war.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2060,453 2060,2274 2140,2274 2140,453"/>
+            <TextEquiv>
+                <Unicode>„Daran mag wohl etwas Wahres ſein, ſagte Mrs. Mac-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2149,309 2149,2274 2227,2274 2227,309"/>
+            <TextEquiv>
+                <Unicode>Candliſh; „ich weiß ſelber, daß er ihr zwei Gläſer Schnaps</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="2240,330 2240,1413 2314,1413 2314,330"/>
+            <TextEquiv>
+                <Unicode>in dieſem Hauſe einſchenken ließ.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="2322,456 2322,2270 2403,2270 2403,456"/>
+            <TextEquiv>
+                <Unicode>„Freilich wohl, Wertheſte, und das bekräftigt nur noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="2413,310 2413,2273 2487,2273 2487,310"/>
+            <TextEquiv>
+                <Unicode>meine Rede. - Endlich war denn die Lady guter Hoffnung,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2500,310 2500,2272 2577,2272 2577,310"/>
+            <TextEquiv>
+                <Unicode>und in der Nacht, wo ſie niederkommen ſollte, da kommt an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2588,309 2588,2269 2667,2269 2667,309"/>
+            <TextEquiv>
+                <Unicode>die Thür des Hauſes, (an den Hof von Ellangowan, wie man</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2670,311 2670,2271 2756,2271 2756,311"/>
+            <TextEquiv>
+                <Unicode>es nennt,) ein ſteinalter, ſeltſam gekleideter Mann, und bittet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="2758,311 2758,2272 2842,2272 2842,311"/>
+            <TextEquiv>
+                <Unicode>um Quartier. Kopf, Beine und Arme waren nackt, obwohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="2846,311 2846,2270 2929,2270 2929,311"/>
+            <TextEquiv>
+                <Unicode>es gerade im Winter war, und ſein eisgrauer Bart hing ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="2939,306 2939,2268 3018,2268 3018,306"/>
+            <TextEquiv>
+                <Unicode>dreiviertel Ellen lang über die Bruſt herab. Gut, er ward</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>129
+lich die Beredtſamkeit nach, welche allwöchentlich über ſeinem
+Haupte von der Kanzel herabdonnerte.
+„Was wir jetzo bedenken wollen, meine Brüder, - hm,
+hm - ich will ſagen, meine lieben Freunde, - geſchah nicht
+in einem Winkel, und mag allen Herenadvokaten, Atheiſten
+und Irrgläubigen aller Art als eine Lehre dienen. - Ihr
+müßt wiſſen, daß der edle Laird von Ellangowan nicht ſo eifrig,
+wie es ſich geziemt hätte, damit war, ſein Land von Heren
+zu ſäubern (in Betracht des Wortes, das da geſagt iſt: „du
+ſollſt keine Zaubrerin leben laſſen“); auch nahm er es nicht
+gebührend ſtreng mit denen, welche Kobolde hatten, welche
+Wahrſagerei und dergleichen trieben, wie es bei den Aegyp-
+tiern (ſo pflegen ſich dieſe Leute zu nennen) und andern heil-
+loſen Banden in unſerm Lande üblich iſt. Nun war der Laird
+drei Iahre verheirathet, ohne einen Erben zu haben - man
+hielt dies für ein Strafgericht, weil er, wie es hieß, verbote-
+nen Umgang mit der Meg Merrilies pflog, die in den beiden
+Grafſchaften Galloway und Dumfries als die berüchtigtſte Hexe
+bekannt war.“
+„Daran mag wohl etwas Wahres ſein, ſagte Mrs. Mac-
+Candliſh; „ich weiß ſelber, daß er ihr zwei Gläſer Schnaps
+in dieſem Hauſe einſchenken ließ.“
+„Freilich wohl, Wertheſte, und das bekräftigt nur noch
+meine Rede. - Endlich war denn die Lady guter Hoffnung,
+und in der Nacht, wo ſie niederkommen ſollte, da kommt an
+die Thür des Hauſes, (an den Hof von Ellangowan, wie man
+es nennt,) ein ſteinalter, ſeltſam gekleideter Mann, und bittet
+um Quartier. Kopf, Beine und Arme waren nackt, obwohl
+es gerade im Winter war, und ſein eisgrauer Bart hing ihn
+dreiviertel Ellen lang über die Bruſt herab. Gut, er ward</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

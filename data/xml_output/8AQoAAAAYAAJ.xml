@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3011" imageWidth="2033">
+    <PrintSpace>
+        <Coords points="0,0 0,2033 3011,2033 3011,2033"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2033 3011,2033 3011,2033"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="149,802 149,1159 210,1159 210,802"/>
+            <TextEquiv>
+                <Unicode>- 45  -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="282,185 282,1778 362,1778 362,185"/>
+            <TextEquiv>
+                <Unicode>Sie mir offen ihren Zuſtand mittheilen, iſt es je-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="371,183 371,1781 449,1781 449,183"/>
+            <TextEquiv>
+                <Unicode>dem Arzte unmöglich zu ſagen, was in meiner oder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="462,181 462,1779 538,1779 538,181"/>
+            <TextEquiv>
+                <Unicode>der Heilkunde Macht ſtehe oder nicht.“ - „Ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="547,176 547,1898 627,1898 627,176"/>
+            <TextEquiv>
+                <Unicode>kann Jhnen hierauf erwidern,“ ſagte der Patient,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="638,180 638,1784 714,1784 714,180"/>
+            <TextEquiv>
+                <Unicode>„daß mein Uebel nicht einzig in ſeiner Art iſt, denn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="728,179 728,1782 802,1782 802,179"/>
+            <TextEquiv>
+                <Unicode>wir leſen von demſelben in dem beruhmten Roman</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="815,182 815,1782 891,1782 891,182"/>
+            <TextEquiv>
+                <Unicode>des Le Sage. Sie erinnern ſich ohne Zweifel der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="904,180 904,1778 980,1778 980,180"/>
+            <TextEquiv>
+                <Unicode>Krankheit, an welcher der Herzog von Olivarez ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="990,183 990,1779 1063,1779 1063,183"/>
+            <TextEquiv>
+                <Unicode>ſtorben ſeyn ſoll?“ - „Er ſtarb“ - war des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1080,183 1080,1776 1153,1776 1153,183"/>
+            <TextEquiv>
+                <Unicode>Arztes Antwort - „ an der Idee, daß ihn eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1167,181 1167,1775 1243,1775 1243,181"/>
+            <TextEquiv>
+                <Unicode>Erſcheinung ängſtigte, deren wirklichem Daſeyn er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1256,180 1256,1773 1332,1773 1332,180"/>
+            <TextEquiv>
+                <Unicode>keinen Glauben beimaß; dennoch gab er darüber den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1345,181 1345,1772 1419,1772 1419,181"/>
+            <TextEquiv>
+                <Unicode>Geiſt auf, weil jenes eingebildete Geſpenſt ihn bis</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1431,180 1431,1770 1508,1770 1508,180"/>
+            <TextEquiv>
+                <Unicode>zum Tode quälte.“ - „Ich, mein werther Doc-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1522,179 1522,1770 1597,1770 1597,179"/>
+            <TextEquiv>
+                <Unicode>tor,&#34; entgegnete der Kranke,„bin in demſelben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1611,179 1611,1764 1687,1764 1687,179"/>
+            <TextEquiv>
+                <Unicode>Falle, und die Gegenwart der mich verfolgenden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1695,182 1695,1767 1773,1767 1773,182"/>
+            <TextEquiv>
+                <Unicode>Viſion iſt ſo erſchreckend, daß ich mit aller meiner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1788,182 1788,1763 1864,1763 1864,182"/>
+            <TextEquiv>
+                <Unicode>Vernunft nicht vermögend bin, die Wirkungen mei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1875,182 1875,1765 1952,1765 1952,182"/>
+            <TextEquiv>
+                <Unicode>ner zerrütteten Einbildungskraft zu bekämpfen, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1965,183 1965,1763 2039,1763 2039,183"/>
+            <TextEquiv>
+                <Unicode>ich fühle, daß ich als ein Opfer eingebildeten Ue-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2050,176 2050,1760 2134,1760 2134,176"/>
+            <TextEquiv>
+                <Unicode>bels hinſterben muß.“ Der Arzt horte mit Beſorg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2135,185 2135,1759 2217,1759 2217,185"/>
+            <TextEquiv>
+                <Unicode>niß die Ausſage des Kranken, vermied jedoch klüglich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2229,186 2229,1756 2304,1756 2304,186"/>
+            <TextEquiv>
+                <Unicode>jeden Widerſpruch gegen die eingenommene Phanta-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2318,184 2318,1758 2391,1758 2391,184"/>
+            <TextEquiv>
+                <Unicode>ſie des Mannes, und drang vermittelſt genauer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2405,185 2405,1755 2480,1755 2480,185"/>
+            <TextEquiv>
+                <Unicode>Rachfrage in die Beſchaffenheit der Erſcheinung, durch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2492,184 2492,1756 2568,1756 2568,184"/>
+            <TextEquiv>
+                <Unicode>welche der Kranke ſich geängſtigt fühlte und in die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2582,186 2582,1754 2658,1754 2658,186"/>
+            <TextEquiv>
+                <Unicode>Geſchichte der Art und Weiſe, auf welche eine ſo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2667,188 2667,1753 2746,1753 2746,188"/>
+            <TextEquiv>
+                <Unicode>ſonderbare Krankheit ſich zum Herrn einer Jmagi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 45  -
+Sie mir offen ihren Zuſtand mittheilen, iſt es je-
+dem Arzte unmöglich zu ſagen, was in meiner oder
+der Heilkunde Macht ſtehe oder nicht.“ - „Ich
+kann Jhnen hierauf erwidern,“ ſagte der Patient,
+„daß mein Uebel nicht einzig in ſeiner Art iſt, denn
+wir leſen von demſelben in dem beruhmten Roman
+des Le Sage. Sie erinnern ſich ohne Zweifel der
+Krankheit, an welcher der Herzog von Olivarez ge-
+ſtorben ſeyn ſoll?“ - „Er ſtarb“ - war des
+Arztes Antwort - „ an der Idee, daß ihn eine
+Erſcheinung ängſtigte, deren wirklichem Daſeyn er
+keinen Glauben beimaß; dennoch gab er darüber den
+Geiſt auf, weil jenes eingebildete Geſpenſt ihn bis
+zum Tode quälte.“ - „Ich, mein werther Doc-
+tor,&#34; entgegnete der Kranke,„bin in demſelben
+Falle, und die Gegenwart der mich verfolgenden
+Viſion iſt ſo erſchreckend, daß ich mit aller meiner
+Vernunft nicht vermögend bin, die Wirkungen mei-
+ner zerrütteten Einbildungskraft zu bekämpfen, und
+ich fühle, daß ich als ein Opfer eingebildeten Ue-
+bels hinſterben muß.“ Der Arzt horte mit Beſorg-
+niß die Ausſage des Kranken, vermied jedoch klüglich
+jeden Widerſpruch gegen die eingenommene Phanta-
+ſie des Mannes, und drang vermittelſt genauer
+Rachfrage in die Beſchaffenheit der Erſcheinung, durch
+welche der Kranke ſich geängſtigt fühlte und in die
+Geſchichte der Art und Weiſe, auf welche eine ſo
+ſonderbare Krankheit ſich zum Herrn einer Jmagi-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3018" imageWidth="2030">
+    <PrintSpace>
+        <Coords points="0,0 0,2030 3018,2030 3018,2030"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2030 3018,2030 3018,2030"/>
+        
+            <TextLine id="textline_29">
+        
+            <Coords points="175,767 175,1130 240,1130 240,767"/>
+            <TextEquiv>
+                <Unicode>- 53 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="309,157 309,1734 388,1734 388,157"/>
+            <TextEquiv>
+                <Unicode>dame, denn ich ſelbſt habe ihrer zu viele geſe-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="401,192 401,370 468,370 468,192"/>
+            <TextEquiv>
+                <Unicode>hen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="484,308 484,1732 562,1732 562,308"/>
+            <TextEquiv>
+                <Unicode>Ich will zwei hierher gehörende Beiſpiele mit-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="573,156 573,1740 651,1740 651,156"/>
+            <TextEquiv>
+                <Unicode>theilen, an deren Zuverlaſſigkeit nicht der mindeſte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="661,183 661,809 735,809 735,183"/>
+            <TextEquiv>
+                <Unicode>weifel haften kann.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="749,316 749,1842 827,1842 827,316"/>
+            <TextEquiv>
+                <Unicode>Das erſte wird die Erſcheinung des Hrn. Mau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="835,163 835,1739 913,1739 913,163"/>
+            <TextEquiv>
+                <Unicode>pertuis berühren, die ſich einem Collegen des ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="924,163 924,1741 1005,1741 1005,163"/>
+            <TextEquiv>
+                <Unicode>nannten Gelehrten in der königlichen Societät zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1015,192 1015,614 1086,614 1086,192"/>
+            <TextEquiv>
+                <Unicode>Berlin zeigte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="1102,311 1102,1828 1178,1828 1178,311"/>
+            <TextEquiv>
+                <Unicode>Dieſes gußerordentliche Ereigniß erſchien in den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="1191,168 1191,1741 1264,1741 1264,168"/>
+            <TextEquiv>
+                <Unicode>Verhandlungen der Societät, und wird von Hrn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1278,169 1278,1742 1353,1742 1353,169"/>
+            <TextEquiv>
+                <Unicode>Thibault in deſſen Erinnerungen an Friedrich den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1364,170 1364,1843 1440,1843 1440,170"/>
+            <TextEquiv>
+                <Unicode>Großen und den Berliner Hof beſtatigt. Es iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1453,169 1453,1741 1530,1741 1530,169"/>
+            <TextEquiv>
+                <Unicode>nöthig, die Bemerkung vorauszuſchicken, daß Hr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1542,172 1542,1739 1622,1739 1622,172"/>
+            <TextEquiv>
+                <Unicode>Gleditſch, dem der Vorfall begegnete, ein Botani-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1630,169 1630,1738 1706,1738 1706,169"/>
+            <TextEquiv>
+                <Unicode>ker von Bedeutung, dabei Profeſſor der Naturphi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1713,169 1713,1846 1805,1846 1805,169"/>
+            <TextEquiv>
+                <Unicode>loſophie in Berlin und allgemein als ein ernſter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1799,165 1799,1848 1883,1848 1883,165"/>
+            <TextEquiv>
+                <Unicode>und ſchlichter Mann von beſonnenem Charakter be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1896,197 1896,530 1964,530 1964,197"/>
+            <TextEquiv>
+                <Unicode>kannt war.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1980,314 1980,1738 2055,1738 2055,314"/>
+            <TextEquiv>
+                <Unicode>Kurze Zeit nach dem Tode des Hrn. Mauper-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2068,171 2068,1853 2152,1853 2152,171"/>
+            <TextEquiv>
+                <Unicode>tuis *), als Hr. Gleditſch genöthigt war, durch den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="2147,175 2147,1852 2235,1852 2235,175"/>
+            <TextEquiv>
+                <Unicode>Saal zu gehen, in welchem die Academie ihre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2244,176 2244,1880 2319,1880 2319,176"/>
+            <TextEquiv>
+                <Unicode>Sitzungen hielt, indem er in dem Naturalienkabi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2378,224 2378,1739 2439,1739 2439,224"/>
+            <TextEquiv>
+                <Unicode>*) Dieſer Mann war lange Zeit Präſident der Berliner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2447,287 2447,1738 2510,1738 2510,287"/>
+            <TextEquiv>
+                <Unicode>Academie , und wurde ſehr von Friedrich II. begün-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2515,278 2515,1738 2580,1738 2580,278"/>
+            <TextEquiv>
+                <Unicode>ſtigt, bis der Spott Voltaires ihn ſtürzte. Mauper-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="2581,284 2581,1740 2642,1740 2642,284"/>
+            <TextEquiv>
+                <Unicode>tuis zog in einer Art von Ungnade in ſein Geburts</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="2645,284 2645,1742 2708,1742 2708,284"/>
+            <TextEquiv>
+                <Unicode>land, die Schweiz, zurück, wo er bald nachber ſtarb.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="2711,1065 2711,1621 2768,1621 2768,1065"/>
+            <TextEquiv>
+                <Unicode>Aum. d. Autors.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 53 -
+dame, denn ich ſelbſt habe ihrer zu viele geſe-
+hen.“
+Ich will zwei hierher gehörende Beiſpiele mit-
+theilen, an deren Zuverlaſſigkeit nicht der mindeſte
+weifel haften kann.
+Das erſte wird die Erſcheinung des Hrn. Mau-
+pertuis berühren, die ſich einem Collegen des ge-
+nannten Gelehrten in der königlichen Societät zu
+Berlin zeigte.
+Dieſes gußerordentliche Ereigniß erſchien in den
+Verhandlungen der Societät, und wird von Hrn.
+Thibault in deſſen Erinnerungen an Friedrich den
+Großen und den Berliner Hof beſtatigt. Es iſt
+nöthig, die Bemerkung vorauszuſchicken, daß Hr.
+Gleditſch, dem der Vorfall begegnete, ein Botani-
+ker von Bedeutung, dabei Profeſſor der Naturphi-
+loſophie in Berlin und allgemein als ein ernſter
+und ſchlichter Mann von beſonnenem Charakter be-
+kannt war.
+Kurze Zeit nach dem Tode des Hrn. Mauper-
+tuis *), als Hr. Gleditſch genöthigt war, durch den
+Saal zu gehen, in welchem die Academie ihre
+Sitzungen hielt, indem er in dem Naturalienkabi-
+*) Dieſer Mann war lange Zeit Präſident der Berliner
+Academie , und wurde ſehr von Friedrich II. begün-
+ſtigt, bis der Spott Voltaires ihn ſtürzte. Mauper-
+tuis zog in einer Art von Ungnade in ſein Geburts
+land, die Schweiz, zurück, wo er bald nachber ſtarb.
+Aum. d. Autors.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3067" imageWidth="2131">
+    <PrintSpace>
+        <Coords points="0,0 0,2131 3067,2131 3067,2131"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2131 3067,2131 3067,2131"/>
+        
+            <TextLine id="textline_59">
+        
+            <Coords points="176,779 176,1177 238,1177 238,779"/>
+            <TextEquiv>
+                <Unicode>- 243 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="312,179 312,1756 392,1756 392,179"/>
+            <TextEquiv>
+                <Unicode>herrn Robert Kirke iſt. Das Leben der ſchätzens-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="402,173 402,1758 480,1758 480,173"/>
+            <TextEquiv>
+                <Unicode>werthen Perſon, welche dieſelbe erzählte, ward zum</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="493,176 493,1759 569,1759 569,176"/>
+            <TextEquiv>
+                <Unicode>Wohlergehen ihrer Freunde und der Armuth bis zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="579,178 579,1759 659,1759 659,178"/>
+            <TextEquiv>
+                <Unicode>einer ungewöhnlichen Dauer verlangert, ſo daß mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="667,179 667,1758 744,1758 744,179"/>
+            <TextEquiv>
+                <Unicode>dünkt, die folgende Begebenheit, die in die Kind-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="755,176 755,1761 838,1761 838,176"/>
+            <TextEquiv>
+                <Unicode>heit der erwähnten Perſon fiel, möge ſich vor der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="845,173 845,1879 924,1879 924,173"/>
+            <TextEquiv>
+                <Unicode>itte des verfloſſenen Jahrhunderts zugetragen ha-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="932,184 932,1757 1011,1757 1011,184"/>
+            <TextEquiv>
+                <Unicode>ben. Die Erzahlerin wohnte mit ihren Familien-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="1024,177 1024,1758 1103,1758 1103,177"/>
+            <TextEquiv>
+                <Unicode>gliedern unweit der kleinen Seehavenſtadt North-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="1113,176 1113,1758 1190,1758 1190,176"/>
+            <TextEquiv>
+                <Unicode>Berwick, als ihr Wohnort und deſſen Umgegend</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="1199,182 1199,1576 1276,1576 1276,182"/>
+            <TextEquiv>
+                <Unicode>durch folgendes Ergebniß beunruhigt wurden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="1286,319 1286,1753 1361,1753 1361,319"/>
+            <TextEquiv>
+                <Unicode>Ein fleißiger Mann, ein Weber in jener klei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="1371,175 1371,1760 1448,1760 1448,175"/>
+            <TextEquiv>
+                <Unicode>nen Stadt, nahm eine hübſche Frau, die, nachdem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="1463,168 1463,1934 1539,1934 1539,168"/>
+            <TextEquiv>
+                <Unicode>ſie zwei oder drei Kinder zur Welt getragen hatte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1550,172 1550,1855 1629,1855 1629,172"/>
+            <TextEquiv>
+                <Unicode>unglücklich genug war, bei der Geburt ihres vierten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1638,173 1638,1755 1716,1755 1716,173"/>
+            <TextEquiv>
+                <Unicode>Kindes zu ſterben. Das Kind ward gerettet, wäh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="1727,174 1727,1755 1807,1755 1807,174"/>
+            <TextEquiv>
+                <Unicode>rend die Mutter unter Krämpfen den Geiſt aufgab.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="1816,174 1816,1756 1894,1756 1894,174"/>
+            <TextEquiv>
+                <Unicode>Da nun die Abgeſchiedene als Leiche ſehr entſtellt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="1904,175 1904,1754 1982,1754 1982,175"/>
+            <TextEquiv>
+                <Unicode>ausſah, entſtand unter ihrer Sippſchaft die Mey-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1992,175 1992,1756 2071,1756 2071,175"/>
+            <TextEquiv>
+                <Unicode>nung, ſie wäre in Folge irgend einer Vernachläſſt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="2079,178 2079,1755 2160,1755 2160,178"/>
+            <TextEquiv>
+                <Unicode>gung Derer, die der Entbundenen hätten warten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="2165,176 2165,1753 2248,1753 2248,176"/>
+            <TextEquiv>
+                <Unicode>und pflegen müſſen, von den Elfen entführt und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="2255,177 2255,1752 2337,1752 2337,177"/>
+            <TextEquiv>
+                <Unicode>an ihre Stelle dieſer ſcheusliche Leichnam gelegt wor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="2344,173 2344,1751 2423,1751 2423,173"/>
+            <TextEquiv>
+                <Unicode>den. Der Wittwer gab wenig cht auf dieſes Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="2431,175 2431,1751 2512,1751 2512,175"/>
+            <TextEquiv>
+                <Unicode>rücht, und begann, als er während eines vollen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="2522,174 2522,1748 2601,1748 2601,174"/>
+            <TextEquiv>
+                <Unicode>Trauerjahrs ſein Weib bitterlich beweint hatte, dar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="2614,176 2614,1746 2693,1746 2693,176"/>
+            <TextEquiv>
+                <Unicode>auf zu denken, wie es gerathen ſey, auf ein zwei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="2699,174 2699,1747 2780,1747 2780,174"/>
+            <TextEquiv>
+                <Unicode>tes Ehebündniß zu denken; welches für einen armen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="2801,1235 2801,1376 2864,1376 2864,1235"/>
+            <TextEquiv>
+                <Unicode>16 *</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 243 -
+herrn Robert Kirke iſt. Das Leben der ſchätzens-
+werthen Perſon, welche dieſelbe erzählte, ward zum
+Wohlergehen ihrer Freunde und der Armuth bis zu
+einer ungewöhnlichen Dauer verlangert, ſo daß mich
+dünkt, die folgende Begebenheit, die in die Kind-
+heit der erwähnten Perſon fiel, möge ſich vor der
+itte des verfloſſenen Jahrhunderts zugetragen ha-
+ben. Die Erzahlerin wohnte mit ihren Familien-
+gliedern unweit der kleinen Seehavenſtadt North-
+Berwick, als ihr Wohnort und deſſen Umgegend
+durch folgendes Ergebniß beunruhigt wurden
+Ein fleißiger Mann, ein Weber in jener klei-
+nen Stadt, nahm eine hübſche Frau, die, nachdem
+ſie zwei oder drei Kinder zur Welt getragen hatte
+unglücklich genug war, bei der Geburt ihres vierten
+Kindes zu ſterben. Das Kind ward gerettet, wäh-
+rend die Mutter unter Krämpfen den Geiſt aufgab.
+Da nun die Abgeſchiedene als Leiche ſehr entſtellt
+ausſah, entſtand unter ihrer Sippſchaft die Mey-
+nung, ſie wäre in Folge irgend einer Vernachläſſt-
+gung Derer, die der Entbundenen hätten warten
+und pflegen müſſen, von den Elfen entführt und
+an ihre Stelle dieſer ſcheusliche Leichnam gelegt wor-
+den. Der Wittwer gab wenig cht auf dieſes Ge-
+rücht, und begann, als er während eines vollen
+Trauerjahrs ſein Weib bitterlich beweint hatte, dar-
+auf zu denken, wie es gerathen ſey, auf ein zwei-
+tes Ehebündniß zu denken; welches für einen armen
+16 *</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

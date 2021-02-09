@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4558" imageWidth="2804">
+    <PrintSpace>
+        <Coords points="0,0 0,2804 4558,2804 4558,2804"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2804 4558,2804 4558,2804"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="526,612 526,742 595,742 595,612"/>
+            <TextEquiv>
+                <Unicode>192</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="548,1214 548,1722 637,1722 637,1214"/>
+            <TextEquiv>
+                <Unicode>WOODSTOCK.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="709,568 709,2339 806,2339 806,568"/>
+            <TextEquiv>
+                <Unicode>ty. It was even for this reason that I pressed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="828,566 828,2342 924,2342 924,566"/>
+            <TextEquiv>
+                <Unicode>you to accept of your nephew&#39;s proposal to re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="946,567 946,2343 1042,2343 1042,567"/>
+            <TextEquiv>
+                <Unicode>turn to the old Lodge, where a hundred men</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1066,566 1066,2345 1163,2345 1163,566"/>
+            <TextEquiv>
+                <Unicode>might be concealed, though a thousand were</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1185,568 1185,2345 1281,2345 1281,568"/>
+            <TextEquiv>
+                <Unicode>making search to discover them. Never such a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1305,566 1305,2345 1404,2345 1404,566"/>
+            <TextEquiv>
+                <Unicode>place for hide-and-seek, as I shall make good</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1425,570 1425,2347 1521,2347 1521,570"/>
+            <TextEquiv>
+                <Unicode>when I can find means to publish my Wonders</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1544,600 1544,1178 1620,1178 1620,600"/>
+            <TextEquiv>
+                <Unicode>of Woodstock.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1663,665 1663,2339 1761,2339 1761,665"/>
+            <TextEquiv>
+                <Unicode>&#34;But, my son - my dear son,&#34; said the knight,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1781,572 1781,2389 1884,2389 1884,572"/>
+            <TextEquiv>
+                <Unicode>&#34;shall I not then instantly see him! and where-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1894,572 1894,2350 1998,2350 1998,572"/>
+            <TextEquiv>
+                <Unicode>fore did you not forewarn me of this joyful</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2024,608 2024,890 2092,890 2092,608"/>
+            <TextEquiv>
+                <Unicode>event?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2140,664 2140,2352 2224,2352 2224,664"/>
+            <TextEquiv>
+                <Unicode>&#34;Because I was uncertain of his motions,&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2252,570 2252,2493 2345,2493 2345,570"/>
+            <TextEquiv>
+                <Unicode>said the doctor,&#34; and rather thought he was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2368,571 2368,2352 2457,2352 2457,571"/>
+            <TextEquiv>
+                <Unicode>bound for the sea-side, and that it would be best</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2472,564 2472,2728 2584,2728 2584,564"/>
+            <TextEquiv>
+                <Unicode>to tell you of his fate when he was safe on board,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2606,575 2606,2358 2702,2358 2702,575"/>
+            <TextEquiv>
+                <Unicode>and in full sail for France. We had appointed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2725,577 2725,2356 2823,2356 2823,577"/>
+            <TextEquiv>
+                <Unicode>to let you know all when I came hither to-night</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2846,580 2846,2357 2942,2357 2942,580"/>
+            <TextEquiv>
+                <Unicode>to join you. But there is a red-coat in the house</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2966,578 2966,2461 3042,2461 3042,578"/>
+            <TextEquiv>
+                <Unicode>whom we care not to trust farther than we could</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3084,582 3084,2356 3179,2356 3179,582"/>
+            <TextEquiv>
+                <Unicode>not help. We dared not, therefore, venture in by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3203,588 3203,2358 3300,2358 3300,588"/>
+            <TextEquiv>
+                <Unicode>the hall; and so, prowling round the building,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3323,590 3323,2354 3418,2354 3418,590"/>
+            <TextEquiv>
+                <Unicode>Albert informed us, that an old prank of his,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3444,591 3444,2357 3541,2357 3541,591"/>
+            <TextEquiv>
+                <Unicode>when a boy, consisted of entering by this win-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>192
+WOODSTOCK.
+ty. It was even for this reason that I pressed
+you to accept of your nephew&#39;s proposal to re-
+turn to the old Lodge, where a hundred men
+might be concealed, though a thousand were
+making search to discover them. Never such a
+place for hide-and-seek, as I shall make good
+when I can find means to publish my Wonders
+of Woodstock.&#34;
+&#34;But, my son - my dear son,&#34; said the knight,
+&#34;shall I not then instantly see him! and where-
+fore did you not forewarn me of this joyful
+event?&#34;
+&#34;Because I was uncertain of his motions,&#34;
+said the doctor,&#34; and rather thought he was
+bound for the sea-side, and that it would be best
+to tell you of his fate when he was safe on board,
+and in full sail for France. We had appointed
+to let you know all when I came hither to-night
+to join you. But there is a red-coat in the house
+whom we care not to trust farther than we could
+not help. We dared not, therefore, venture in by
+the hall; and so, prowling round the building,
+Albert informed us, that an old prank of his,
+when a boy, consisted of entering by this win-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4650" imageWidth="2790">
+    <PrintSpace>
+        <Coords points="0,0 0,2790 4650,2790 4650,2790"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2790 4650,2790 4650,2790"/>
+        
+            <TextLine id="textline_26">
+        
+            <Coords points="595,1080 595,1506 651,1506 651,1080"/>
+            <TextEquiv>
+                <Unicode>WOODSTOCK</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="578,2018 578,2155 652,2155 652,2018"/>
+            <TextEquiv>
+                <Unicode>137</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="758,406 758,2183 858,2183 858,406"/>
+            <TextEquiv>
+                <Unicode>swered Everard. &#34;And yet, Master Holdenough,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="875,404 875,2187 975,2187 975,404"/>
+            <TextEquiv>
+                <Unicode>if the other world has been actually displayed,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="997,406 997,2193 1093,2193 1093,406"/>
+            <TextEquiv>
+                <Unicode>as you apprehend, and I will not dispute the pos-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="1113,408 1113,2191 1209,2191 1209,408"/>
+            <TextEquiv>
+                <Unicode>sibility, assure yourself, there are also wicked</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="1233,404 1233,2198 1330,2198 1330,404"/>
+            <TextEquiv>
+                <Unicode>men concerned in these machinations. I myself</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="1351,407 1351,2192 1447,2192 1447,407"/>
+            <TextEquiv>
+                <Unicode>have undergone some rencontres with visitants</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="1469,407 1469,2188 1568,2188 1568,407"/>
+            <TextEquiv>
+                <Unicode>who possessed bodily strength, and wore, I am</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1588,428 1588,1288 1687,1288 1687,428"/>
+            <TextEquiv>
+                <Unicode>sure, earthly weapons&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="1709,492 1709,2190 1806,2190 1806,492"/>
+            <TextEquiv>
+                <Unicode>&#34;Oh! doubtless, doubtless,&#34; replied Master</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="1826,410 1826,2190 1922,2190 1922,410"/>
+            <TextEquiv>
+                <Unicode>Holdenough; &#34;Beelzebub loves to charge with</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1941,406 1941,2192 2036,2192 2036,406"/>
+            <TextEquiv>
+                <Unicode>horse and foot mingled, as was the fashion of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2057,406 2057,2192 2156,2192 2156,406"/>
+            <TextEquiv>
+                <Unicode>old Scotch general, Davie Leslie. He has his</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2177,408 2177,2189 2276,2189 2276,408"/>
+            <TextEquiv>
+                <Unicode>devils in the body as well as his devils disembo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2299,406 2299,2187 2396,2187 2396,406"/>
+            <TextEquiv>
+                <Unicode>died, and uses the one to support and back the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2419,442 2419,687 2490,687 2490,442"/>
+            <TextEquiv>
+                <Unicode>other.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2538,497 2538,2183 2633,2183 2633,497"/>
+            <TextEquiv>
+                <Unicode>&#34;It may be as you say, reverend sir,&#34; answer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2653,407 2653,2188 2744,2188 2744,407"/>
+            <TextEquiv>
+                <Unicode>ed the Colonel.- &#34;But what do you advise in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="2773,444 2773,848 2844,848 2844,444"/>
+            <TextEquiv>
+                <Unicode>this case?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="2881,500 2881,2190 2978,2190 2978,500"/>
+            <TextEquiv>
+                <Unicode>&#34;For that I must consult with my brethren,&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3001,410 3001,2190 3092,2190 3092,410"/>
+            <TextEquiv>
+                <Unicode>said the divine; &#34;and if there be but left in our</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3117,409 3117,2187 3212,2187 3212,409"/>
+            <TextEquiv>
+                <Unicode>borders five ministers of the true kirk, we will</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3240,412 3240,2189 3342,2189 3342,412"/>
+            <TextEquiv>
+                <Unicode>charge Satan in full body, and you shall see whe-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3356,413 3356,2231 3464,2231 3464,413"/>
+            <TextEquiv>
+                <Unicode>ther we have not power over him to resist till he</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>WOODSTOCK
+137
+swered Everard. &#34;And yet, Master Holdenough,
+if the other world has been actually displayed,
+as you apprehend, and I will not dispute the pos-
+sibility, assure yourself, there are also wicked
+men concerned in these machinations. I myself
+have undergone some rencontres with visitants
+who possessed bodily strength, and wore, I am
+sure, earthly weapons&#34;
+&#34;Oh! doubtless, doubtless,&#34; replied Master
+Holdenough; &#34;Beelzebub loves to charge with
+horse and foot mingled, as was the fashion of the
+old Scotch general, Davie Leslie. He has his
+devils in the body as well as his devils disembo-
+died, and uses the one to support and back the
+other.&#34;
+&#34;It may be as you say, reverend sir,&#34; answer-
+ed the Colonel.- &#34;But what do you advise in
+this case?&#34;
+&#34;For that I must consult with my brethren,&#34;
+said the divine; &#34;and if there be but left in our
+borders five ministers of the true kirk, we will
+charge Satan in full body, and you shall see whe-
+ther we have not power over him to resist till he</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4690" imageWidth="2760">
+    <PrintSpace>
+        <Coords points="0,0 0,2760 4690,2760 4690,2760"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2760 4690,2760 4690,2760"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="444,719 444,2362 524,2362 524,719"/>
+            <TextEquiv>
+                <Unicode>CHAP. VI. THE VAGRANT. 133</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="651,261 651,2363 765,2363 765,261"/>
+            <TextEquiv>
+                <Unicode>to find them stupid, and as unfit to assist him</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="795,259 795,2363 911,2363 911,259"/>
+            <TextEquiv>
+                <Unicode>with counsel, as in the rencounter they had shewn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="937,262 937,2098 1054,2098 1054,262"/>
+            <TextEquiv>
+                <Unicode>themselves reluctant to use their weapons.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1081,364 1081,2357 1189,2357 1189,364"/>
+            <TextEquiv>
+                <Unicode>&#34;It is all the better,&#34; said Quentin to himself,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1221,255 1221,2365 1337,2365 1337,255"/>
+            <TextEquiv>
+                <Unicode>his spirit rising with the apprehended difficulties</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1364,253 1364,2365 1482,2365 1482,253"/>
+            <TextEquiv>
+                <Unicode>of his situation; &#34;that lovely young lady shall</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1510,253 1510,2367 1628,2367 1628,253"/>
+            <TextEquiv>
+                <Unicode>owe all to me. - What one hand - ay, and one</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1650,252 1650,2362 1770,2362 1770,252"/>
+            <TextEquiv>
+                <Unicode>head can do, - methinks I can boldly count upon.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1792,253 1792,2371 1910,2371 1910,253"/>
+            <TextEquiv>
+                <Unicode>I have seen my father&#39;s house on fire, and him and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1938,255 1938,2367 2052,2367 2052,255"/>
+            <TextEquiv>
+                <Unicode>my brothers lying dead amongst the flames - I</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2080,255 2080,2371 2195,2371 2195,255"/>
+            <TextEquiv>
+                <Unicode>gave not an inch back, but fought it out to the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2222,255 2222,2369 2337,2369 2337,255"/>
+            <TextEquiv>
+                <Unicode>last. Now I am two years older, and have the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2364,259 2364,2369 2472,2369 2472,259"/>
+            <TextEquiv>
+                <Unicode>best and fairest cause to bear me well, that ever</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2507,259 2507,2214 2597,2214 2597,259"/>
+            <TextEquiv>
+                <Unicode>kindled mettle within a brave man&#39;s bosom.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2656,357 2656,2364 2769,2364 2769,357"/>
+            <TextEquiv>
+                <Unicode>Acting upon this resolution, the attention and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2798,253 2798,2371 2912,2371 2912,253"/>
+            <TextEquiv>
+                <Unicode>activity which Quentin bestowed during the jour-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2942,257 2942,2371 3058,2371 3058,257"/>
+            <TextEquiv>
+                <Unicode>ney, had in it something that gave him the ap-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3086,255 3086,2371 3198,2371 3198,255"/>
+            <TextEquiv>
+                <Unicode>pearance of ubiquity. His principal and most</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3226,257 3226,2374 3340,2374 3340,257"/>
+            <TextEquiv>
+                <Unicode>favourite post was of course by the side of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3368,259 3368,2372 3472,2372 3472,259"/>
+            <TextEquiv>
+                <Unicode>ladies; who, sensible of his extreme attention to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3512,259 3512,2376 3626,2376 3626,259"/>
+            <TextEquiv>
+                <Unicode>their safety, began to converse with him in al-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3656,259 3656,2378 3770,2378 3770,259"/>
+            <TextEquiv>
+                <Unicode>most the tone of familiar friendship, and appear-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3798,261 3798,2371 3913,2371 3913,261"/>
+            <TextEquiv>
+                <Unicode>ed to take great pleasure in the naivete, yet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3938,261 3938,2371 4050,2371 4050,261"/>
+            <TextEquiv>
+                <Unicode>shrewdness, of his conversation. Yet Quentin</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>CHAP. VI. THE VAGRANT. 133
+to find them stupid, and as unfit to assist him
+with counsel, as in the rencounter they had shewn
+themselves reluctant to use their weapons.
+&#34;It is all the better,&#34; said Quentin to himself,
+his spirit rising with the apprehended difficulties
+of his situation; &#34;that lovely young lady shall
+owe all to me. - What one hand - ay, and one
+head can do, - methinks I can boldly count upon.
+I have seen my father&#39;s house on fire, and him and
+my brothers lying dead amongst the flames - I
+gave not an inch back, but fought it out to the
+last. Now I am two years older, and have the
+best and fairest cause to bear me well, that ever
+kindled mettle within a brave man&#39;s bosom.&#34;
+Acting upon this resolution, the attention and
+activity which Quentin bestowed during the jour-
+ney, had in it something that gave him the ap-
+pearance of ubiquity. His principal and most
+favourite post was of course by the side of the
+ladies; who, sensible of his extreme attention to
+their safety, began to converse with him in al-
+most the tone of familiar friendship, and appear-
+ed to take great pleasure in the naivete, yet
+shrewdness, of his conversation. Yet Quentin</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4690" imageWidth="2760">
+    <PrintSpace>
+        <Coords points="0,0 0,2760 4690,2760 4690,2760"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2760 4690,2760 4690,2760"/>
+        
+            <TextLine id="textline_25">
+        
+            <Coords points="397,453 397,2093 477,2093 477,453"/>
+            <TextEquiv>
+                <Unicode>320 CHAP. XIII. TE FLIGHT.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="619,549 619,2552 731,2552 731,549"/>
+            <TextEquiv>
+                <Unicode>&#34;Ay - my cousin - the Countess Hameline of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="762,440 762,2544 875,2544 875,440"/>
+            <TextEquiv>
+                <Unicode>Croye - know you aught of her ?&#34; said the Count-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="904,437 904,2545 1018,2545 1018,437"/>
+            <TextEquiv>
+                <Unicode>ess Isabelle; &#34;I trust she is now under the pro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="1050,439 1050,2547 1156,2547 1156,439"/>
+            <TextEquiv>
+                <Unicode>tection of the Burgundian banner. You are si-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="1192,455 1192,1902 1302,1902 1302,455"/>
+            <TextEquiv>
+                <Unicode>lent. Know you aught of her?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="1334,549 1334,2549 1443,2549 1443,549"/>
+            <TextEquiv>
+                <Unicode>The last question, urged in a tone of the most</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="1476,437 1476,2550 1590,2550 1590,437"/>
+            <TextEquiv>
+                <Unicode>anxious inquiry, obliged Quentin to give some</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="1619,439 1619,2548 1703,2548 1703,439"/>
+            <TextEquiv>
+                <Unicode>account of what he knew of the Countess&#39;s fate.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="1762,440 1762,2548 1864,2548 1864,440"/>
+            <TextEquiv>
+                <Unicode>He mentioned, that he had been summoned to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1905,435 1905,2554 2016,2554 2016,435"/>
+            <TextEquiv>
+                <Unicode>attend her in a flight from Liege, which he had</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2049,435 2049,2552 2161,2552 2161,435"/>
+            <TextEquiv>
+                <Unicode>no doubt the Lady Isabelle would be partaker in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2193,435 2193,2552 2305,2552 2305,435"/>
+            <TextEquiv>
+                <Unicode>- he mentioned the discovery that had been made</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2335,437 2335,2552 2447,2552 2447,437"/>
+            <TextEquiv>
+                <Unicode>after they had gained the forest - and finally, he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2477,435 2477,2554 2577,2554 2577,435"/>
+            <TextEquiv>
+                <Unicode>told his own return to the castle, and the circum-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2622,435 2622,2557 2706,2557 2706,435"/>
+            <TextEquiv>
+                <Unicode>stances in which he found it. But he said no-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2759,433 2759,2554 2873,2554 2873,433"/>
+            <TextEquiv>
+                <Unicode>thing of the views with which it was plain the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2901,437 2901,2556 3015,2556 3015,437"/>
+            <TextEquiv>
+                <Unicode>Lady Hameline had left the Castle of Schon-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3039,437 3039,2566 3155,2566 3155,437"/>
+            <TextEquiv>
+                <Unicode>waldt, and as little about the floating report of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3187,437 3187,2554 3302,2554 3302,437"/>
+            <TextEquiv>
+                <Unicode>her having fallen into the hands of William de la</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3330,439 3330,2556 3446,2556 3446,439"/>
+            <TextEquiv>
+                <Unicode>Marck. Delicacy prevented hiseven hinting at the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3474,437 3474,2547 3588,2547 3588,437"/>
+            <TextEquiv>
+                <Unicode>one, and regard for the feelings of his companion,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3618,439 3618,2554 3728,2554 3728,439"/>
+            <TextEquiv>
+                <Unicode>at a moment when strength and exertion were</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3756,437 3756,2556 3870,2556 3870,437"/>
+            <TextEquiv>
+                <Unicode>most demanded of her, prevented him from allu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>320 CHAP. XIII. TE FLIGHT.
+&#34;Ay - my cousin - the Countess Hameline of
+Croye - know you aught of her ?&#34; said the Count-
+ess Isabelle; &#34;I trust she is now under the pro-
+tection of the Burgundian banner. You are si-
+lent. Know you aught of her?&#34;
+The last question, urged in a tone of the most
+anxious inquiry, obliged Quentin to give some
+account of what he knew of the Countess&#39;s fate.
+He mentioned, that he had been summoned to
+attend her in a flight from Liege, which he had
+no doubt the Lady Isabelle would be partaker in
+- he mentioned the discovery that had been made
+after they had gained the forest - and finally, he
+told his own return to the castle, and the circum-
+stances in which he found it. But he said no-
+thing of the views with which it was plain the
+Lady Hameline had left the Castle of Schon-
+waldt, and as little about the floating report of
+her having fallen into the hands of William de la
+Marck. Delicacy prevented hiseven hinting at the
+one, and regard for the feelings of his companion,
+at a moment when strength and exertion were
+most demanded of her, prevented him from allu-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

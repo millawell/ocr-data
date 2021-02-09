@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3085" imageWidth="2152">
+    <PrintSpace>
+        <Coords points="0,0 0,2152 3085,2152 3085,2152"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2152 3085,2152 3085,2152"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="117,997 117,1106 176,1106 176,997"/>
+            <TextEquiv>
+                <Unicode>76</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="217,294 217,1904 294,1904 294,294"/>
+            <TextEquiv>
+                <Unicode>„Jch bemerkte auch in Eurem Saale,“ fuhr der Han-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="288,179 288,1910 362,1910 362,179"/>
+            <TextEquiv>
+                <Unicode>delsmann ſort, „einen Helm, der auf ſeinem Kamme eben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="360,180 360,1908 438,1908 438,180"/>
+            <TextEquiv>
+                <Unicode>dies Wahrzeichen trägt. Es iſt jener Helm, wie ich vermuthe,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="430,181 430,1908 507,1908 507,181"/>
+            <TextEquiv>
+                <Unicode>eine Tropäe des Triumphes der Schweizer Landleute über</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="498,179 498,1909 575,1909 575,179"/>
+            <TextEquiv>
+                <Unicode>die Edlen von Geierſtein, etwa ſo wie der engländiſche Bo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="570,182 570,1908 651,1908 651,182"/>
+            <TextEquiv>
+                <Unicode>gen zum Gedächtniß der Schlacht bei Buttisholz aufbewahrt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="646,216 646,428 706,428 706,216"/>
+            <TextEquiv>
+                <Unicode>ward?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="711,295 711,1904 787,1904 787,295"/>
+            <TextEquiv>
+                <Unicode>„Ihr möchtet, lieber Herr, wie ich bemerkte,“ ſagte der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="782,179 782,1905 860,1905 860,179"/>
+            <TextEquiv>
+                <Unicode>Landammann, „in Folge der Vorurtheile Eurer Erziehung,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="853,183 853,1905 931,1905 931,183"/>
+            <TextEquiv>
+                <Unicode>den Einen Sieg mit ſo unangenehmen Gefühlen wie den An-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="924,188 924,1906 1000,1906 1000,188"/>
+            <TextEquiv>
+                <Unicode>dern betrachten. - Sonderbar, daß die Ehrerbietung gegen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="995,186 995,1905 1070,1905 1070,186"/>
+            <TextEquiv>
+                <Unicode>Stand und Rang nicht einmal in den Gemüthern derer aus-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1066,178 1066,1904 1142,1904 1142,178"/>
+            <TextEquiv>
+                <Unicode>zurotten iſt, die kein Recht haben können, je Theil an ſolchem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1135,183 1135,1905 1214,1905 1214,183"/>
+            <TextEquiv>
+                <Unicode>Stande und Range zu nehmen! Allein zieht Eure geſenkten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1206,181 1206,1903 1283,1903 1283,181"/>
+            <TextEquiv>
+                <Unicode>Augenbraunen in die Höhe, mein werther Gaſt, und ſeyd</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1278,180 1278,1904 1356,1904 1356,180"/>
+            <TextEquiv>
+                <Unicode>verſichert, daß obwohl, als die Schweiz die Bande der Lehns-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1349,178 1349,1902 1422,1902 1422,178"/>
+            <TextEquiv>
+                <Unicode>ſklaverei abſchüttelte, manches ſtolzen Barons Schloß durch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1416,180 1416,1898 1496,1898 1496,180"/>
+            <TextEquiv>
+                <Unicode>die gerechte Rache eines gereizten Volkes geplündert und zer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1487,181 1487,1901 1562,1901 1562,181"/>
+            <TextEquiv>
+                <Unicode>ſtört ward, ſolches doch nicht das Schickſal des Geierſteins</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1557,182 1557,1897 1635,1897 1635,182"/>
+            <TextEquiv>
+                <Unicode>war. Das Blut der alten Beſitzer dieſer Thürme fſließt noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1629,189 1629,1565 1703,1565 1703,189"/>
+            <TextEquiv>
+                <Unicode>in den Adern deſſen, der dieſe Ländereien beſitzt.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1699,294 1699,1897 1777,1897 1777,294"/>
+            <TextEquiv>
+                <Unicode>„Wie habe ich das zu verſtehen, Herr Landammann?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1768,182 1768,1902 1848,1902 1848,182"/>
+            <TextEquiv>
+                <Unicode>fragte Philipſon. „Seyd Ihr nicht ſelbſt Beſitzer diefer Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1838,219 1838,423 1915,423 1915,219"/>
+            <TextEquiv>
+                <Unicode>gend?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1911,293 1911,1898 1990,1898 1990,293"/>
+            <TextEquiv>
+                <Unicode>„Und wahrſcheinlich denkt Ihr,&#34; verſetzte Arnold, „ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1979,180 1979,1898 2057,1898 2057,180"/>
+            <TextEquiv>
+                <Unicode>könne nicht von altadelichem Geſchlecht abſtammen, weil ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2051,179 2051,2044 2131,2044 2131,179"/>
+            <TextEquiv>
+                <Unicode>gleich andern Hirten lebe, weil ich ein ſelbſt geſponnen und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2122,182 2122,1900 2200,1900 2200,182"/>
+            <TextEquiv>
+                <Unicode>ſelbſtgewebtes Gewand trage und den Pflug mit eigener</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2192,181 2192,1898 2272,1898 2272,181"/>
+            <TextEquiv>
+                <Unicode>Hand lenke? Dieſe Kantone zählen manchen adlig entſtamm-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2264,177 2264,1899 2343,1899 2343,177"/>
+            <TextEquiv>
+                <Unicode>ten Landmann, Herr Handelsmann, auch gibt es keinen äl-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2335,179 2335,1899 2409,1899 2409,179"/>
+            <TextEquiv>
+                <Unicode>teren Adel als den, von welchem die Ueberreſte in meinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2403,177 2403,1895 2481,1895 2481,177"/>
+            <TextEquiv>
+                <Unicode>Vaterlande gefunden werden. Allein dieſe Edeln haben frei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2475,180 2475,1893 2557,1893 2557,180"/>
+            <TextEquiv>
+                <Unicode>willig dem bedrückenden Theile ihrer Lehnsgewalt entſagt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2547,180 2547,1895 2623,1895 2623,180"/>
+            <TextEquiv>
+                <Unicode>und werden nicht mehr als Wölfe unter der Heerde, ſondern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2611,182 2611,1894 2700,1894 2700,182"/>
+            <TextEquiv>
+                <Unicode>als wachſame Hofhunde angeſehen, die zur Friedenszeit die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2678,183 2678,1928 2768,1928 2768,183"/>
+            <TextEquiv>
+                <Unicode>Schaafe geleiten und zu deren Schutze bereit ſind, ſobald</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2747,201 2747,1173 2829,1173 2829,201"/>
+            <TextEquiv>
+                <Unicode>Rrieg unſere Gemeinde bedräuet.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>76
+„Jch bemerkte auch in Eurem Saale,“ fuhr der Han-
+delsmann ſort, „einen Helm, der auf ſeinem Kamme eben
+dies Wahrzeichen trägt. Es iſt jener Helm, wie ich vermuthe,
+eine Tropäe des Triumphes der Schweizer Landleute über
+die Edlen von Geierſtein, etwa ſo wie der engländiſche Bo-
+gen zum Gedächtniß der Schlacht bei Buttisholz aufbewahrt
+ward?“
+„Ihr möchtet, lieber Herr, wie ich bemerkte,“ ſagte der
+Landammann, „in Folge der Vorurtheile Eurer Erziehung,
+den Einen Sieg mit ſo unangenehmen Gefühlen wie den An-
+dern betrachten. - Sonderbar, daß die Ehrerbietung gegen
+Stand und Rang nicht einmal in den Gemüthern derer aus-
+zurotten iſt, die kein Recht haben können, je Theil an ſolchem
+Stande und Range zu nehmen! Allein zieht Eure geſenkten
+Augenbraunen in die Höhe, mein werther Gaſt, und ſeyd
+verſichert, daß obwohl, als die Schweiz die Bande der Lehns-
+ſklaverei abſchüttelte, manches ſtolzen Barons Schloß durch
+die gerechte Rache eines gereizten Volkes geplündert und zer-
+ſtört ward, ſolches doch nicht das Schickſal des Geierſteins
+war. Das Blut der alten Beſitzer dieſer Thürme fſließt noch
+in den Adern deſſen, der dieſe Ländereien beſitzt.“
+„Wie habe ich das zu verſtehen, Herr Landammann?&#34;
+fragte Philipſon. „Seyd Ihr nicht ſelbſt Beſitzer diefer Ge-
+gend?“
+„Und wahrſcheinlich denkt Ihr,&#34; verſetzte Arnold, „ich
+könne nicht von altadelichem Geſchlecht abſtammen, weil ich
+gleich andern Hirten lebe, weil ich ein ſelbſt geſponnen und
+ſelbſtgewebtes Gewand trage und den Pflug mit eigener
+Hand lenke? Dieſe Kantone zählen manchen adlig entſtamm-
+ten Landmann, Herr Handelsmann, auch gibt es keinen äl-
+teren Adel als den, von welchem die Ueberreſte in meinem
+Vaterlande gefunden werden. Allein dieſe Edeln haben frei-
+willig dem bedrückenden Theile ihrer Lehnsgewalt entſagt,
+und werden nicht mehr als Wölfe unter der Heerde, ſondern
+als wachſame Hofhunde angeſehen, die zur Friedenszeit die
+Schaafe geleiten und zu deren Schutze bereit ſind, ſobald
+Rrieg unſere Gemeinde bedräuet.“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3011" imageWidth="2066">
+    <PrintSpace>
+        <Coords points="0,0 0,2066 3011,2066 3011,2066"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2066 3011,2066 3011,2066"/>
+        
+            <TextLine id="textline_38">
+        
+            <Coords points="94,983 94,1188 151,1188 151,983"/>
+            <TextEquiv>
+                <Unicode>92</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="298,628 298,1363 377,1363 377,628"/>
+            <TextEquiv>
+                <Unicode>Sechstes Kapitel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="403,553 403,1685 464,1685 464,553"/>
+            <TextEquiv>
+                <Unicode>Wir treffen uns wie zwei gewalt&#39;ge Ströme,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="456,550 456,1747 519,1747 519,550"/>
+            <TextEquiv>
+                <Unicode>Wie Gegenſtürm&#39; und zweigeſpaltne Flammen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="509,547 509,1730 589,1730 589,547"/>
+            <TextEquiv>
+                <Unicode>Die gegenseit&#39;ge Wuth zu prüfen. Selbst</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="563,548 563,1726 625,1726 625,548"/>
+            <TextEquiv>
+                <Unicode>Der Elemente Streit, wär&#39; er zu lenken,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="617,555 617,1632 679,1632 679,555"/>
+            <TextEquiv>
+                <Unicode>Nicht bändigt&#39; er des Menſchen Zorn --</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="670,1508 670,1787 726,1787 726,1508"/>
+            <TextEquiv>
+                <Unicode>Frenaud.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="748,275 748,1884 838,1884 838,275"/>
+            <TextEquiv>
+                <Unicode>Der ältere von unſeren beiden Reiſenden ſchlief, wiewohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="830,165 830,1881 907,1881 907,165"/>
+            <TextEquiv>
+                <Unicode>er ein ſtarker und mit Anſtrengungen vertrauter Mann war,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="903,155 903,1885 980,1885 980,155"/>
+            <TextEquiv>
+                <Unicode>feſter und länger als gewöhnlich an dem Morgen, der jetzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="973,162 973,1880 1052,1880 1052,162"/>
+            <TextEquiv>
+                <Unicode>zu dämmern begann, allein ſeinem Sohne Arthur lag etwas</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="1045,165 1045,1879 1124,1879 1124,165"/>
+            <TextEquiv>
+                <Unicode>am Herzen, wodurch deſſen Schlummer frühzeitig unterbro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="1121,198 1121,488 1193,488 1193,198"/>
+            <TextEquiv>
+                <Unicode>chen ward.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="1187,271 1187,1876 1264,1876 1264,271"/>
+            <TextEquiv>
+                <Unicode>Das Zuſammentreffen mit dem kecken Schweizer, einem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="1260,161 1260,1877 1335,1877 1335,161"/>
+            <TextEquiv>
+                <Unicode>tüchtigen Abkömmlinge aus einem berühmten Kriegerſtamme,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="1331,162 1331,1877 1406,1877 1406,162"/>
+            <TextEquiv>
+                <Unicode>war eine Obliegenheit, die nach der Meinung der Zeit, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="1401,161 1401,1871 1475,1871 1475,161"/>
+            <TextEquiv>
+                <Unicode>welcher Arthur lebte, weder verzögert noch vermieden werden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="1471,160 1471,1877 1546,1877 1546,160"/>
+            <TextEquiv>
+                <Unicode>durfte. Er entwich von der Seite ſeines Vaters, indem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="1542,163 1542,1875 1621,1875 1621,163"/>
+            <TextEquiv>
+                <Unicode>ſo viel wie möglich es vermied, denſelben zu ſtören, obgleich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="1613,162 1613,1872 1686,1872 1686,162"/>
+            <TextEquiv>
+                <Unicode>auch in ſolchem Falle ſein Frühaufftehen weiter kein Beden-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="1685,162 1685,1871 1762,1871 1762,162"/>
+            <TextEquiv>
+                <Unicode>ken erregt haben würde, indem Philipſon es gewohnt war,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="1755,163 1755,1873 1834,1873 1834,163"/>
+            <TextEquiv>
+                <Unicode>daß ſein Sohn zeitig bei der Hand war, um Zurüſtungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="1826,161 1826,1872 1905,1872 1905,161"/>
+            <TextEquiv>
+                <Unicode>zur Weiterreiſe zu treffen, um nachzuſehen, daß der Maul-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="1898,163 1898,1873 1975,1873 1975,163"/>
+            <TextEquiv>
+                <Unicode>thiertreiber ſeine Pflicht thäte, daß das Thier ſein Recht be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="1970,161 1970,1873 2046,1873 2046,161"/>
+            <TextEquiv>
+                <Unicode>käme und was dergleichen Beſorgungen mehr waren, die ſonſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="2040,158 2040,1943 2130,1943 2130,158"/>
+            <TextEquiv>
+                <Unicode>ſeinem Bater zur Laſt gefallen waren. Jedoch der alte Mann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="2111,157 2111,1870 2190,1870 2190,157"/>
+            <TextEquiv>
+                <Unicode>den die Anſtrengungen des geſtrigen Tages ermüdet hatten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="2184,157 2184,1871 2262,1871 2262,157"/>
+            <TextEquiv>
+                <Unicode>ſchlief, wie wir erwähnt haben, feſter als er ſonſt zu thun</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="2254,157 2254,1871 2333,1871 2333,157"/>
+            <TextEquiv>
+                <Unicode>pſlegte, und Arthur, der ſein gutes Schwert anlegte, ſchritt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="2326,156 2326,1867 2405,1867 2405,156"/>
+            <TextEquiv>
+                <Unicode>über den Raſen, der vor des Landammanns Wohnung ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="2398,155 2398,1868 2474,1868 2474,155"/>
+            <TextEquiv>
+                <Unicode>dehnte, durch den zauberiſchen Schimmer eines ſchönen Herbſt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="2469,168 2469,1391 2546,1391 2546,168"/>
+            <TextEquiv>
+                <Unicode>morgens auf den Schweizergebirgen dahin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="2537,261 2537,2034 2628,2034 2628,261"/>
+            <TextEquiv>
+                <Unicode>Die Sonne küßte eben die Spitze des riefigſten jener Ti-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="2610,157 2610,1997 2688,1997 2688,157"/>
+            <TextEquiv>
+                <Unicode>tanenberge, ſo daß die langen Schatten noch auf dem Ried-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="2680,160 2680,1998 2758,1998 2758,160"/>
+            <TextEquiv>
+                <Unicode>graſe lagerten, das unter des Jünglings Füßen mit ſtarker</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="2749,162 2749,1989 2854,1989 2854,162"/>
+            <TextEquiv>
+                <Unicode>Andeutung von Froſt ſich krümmte. Allein Arthur blickte</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>92
+Sechstes Kapitel.
+Wir treffen uns wie zwei gewalt&#39;ge Ströme,
+Wie Gegenſtürm&#39; und zweigeſpaltne Flammen,
+Die gegenseit&#39;ge Wuth zu prüfen. Selbst
+Der Elemente Streit, wär&#39; er zu lenken,
+Nicht bändigt&#39; er des Menſchen Zorn --
+Frenaud.
+Der ältere von unſeren beiden Reiſenden ſchlief, wiewohl
+er ein ſtarker und mit Anſtrengungen vertrauter Mann war,
+feſter und länger als gewöhnlich an dem Morgen, der jetzt
+zu dämmern begann, allein ſeinem Sohne Arthur lag etwas
+am Herzen, wodurch deſſen Schlummer frühzeitig unterbro-
+chen ward.
+Das Zuſammentreffen mit dem kecken Schweizer, einem
+tüchtigen Abkömmlinge aus einem berühmten Kriegerſtamme,
+war eine Obliegenheit, die nach der Meinung der Zeit, in
+welcher Arthur lebte, weder verzögert noch vermieden werden
+durfte. Er entwich von der Seite ſeines Vaters, indem er
+ſo viel wie möglich es vermied, denſelben zu ſtören, obgleich
+auch in ſolchem Falle ſein Frühaufftehen weiter kein Beden-
+ken erregt haben würde, indem Philipſon es gewohnt war,
+daß ſein Sohn zeitig bei der Hand war, um Zurüſtungen
+zur Weiterreiſe zu treffen, um nachzuſehen, daß der Maul-
+thiertreiber ſeine Pflicht thäte, daß das Thier ſein Recht be-
+käme und was dergleichen Beſorgungen mehr waren, die ſonſt
+ſeinem Bater zur Laſt gefallen waren. Jedoch der alte Mann
+den die Anſtrengungen des geſtrigen Tages ermüdet hatten,
+ſchlief, wie wir erwähnt haben, feſter als er ſonſt zu thun
+pſlegte, und Arthur, der ſein gutes Schwert anlegte, ſchritt
+über den Raſen, der vor des Landammanns Wohnung ſich
+dehnte, durch den zauberiſchen Schimmer eines ſchönen Herbſt-
+morgens auf den Schweizergebirgen dahin.
+Die Sonne küßte eben die Spitze des riefigſten jener Ti-
+tanenberge, ſo daß die langen Schatten noch auf dem Ried-
+graſe lagerten, das unter des Jünglings Füßen mit ſtarker
+Andeutung von Froſt ſich krümmte. Allein Arthur blickte</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3030" imageWidth="2026">
+    <PrintSpace>
+        <Coords points="0,0 0,2026 3030,2026 3030,2026"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2026 3030,2026 3030,2026"/>
+        
+            <TextLine id="textline_75">
+        
+            <Coords points="117,975 117,1173 198,1173 198,975"/>
+            <TextEquiv>
+                <Unicode>145</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="237,187 237,1886 339,1886 339,187"/>
+            <TextEquiv>
+                <Unicode>mindeſtens hoffen ließ, einen Schimmer von Licht auf das-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="312,220 312,661 387,661 387,220"/>
+            <TextEquiv>
+                <Unicode>ſelbe zu werfen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="362,299 362,1882 460,1882 460,299"/>
+            <TextEquiv>
+                <Unicode>Beharrlich in dieſem Vorſatze ſchritt er, Wacht haltend,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="452,188 452,1885 532,1885 532,188"/>
+            <TextEquiv>
+                <Unicode>auf und ab, die Blicke auf den Punkt des Waldes geheftet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="524,130 524,1887 600,1887 600,130"/>
+            <TextEquiv>
+                <Unicode>wo er die geliebte Geſtalt hatte verſchwinden ſehen, wobei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="595,189 595,1887 672,1887 672,189"/>
+            <TextEquiv>
+                <Unicode>er für den Augenblick vergaß, daß ſein Poſten noch andere</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="665,150 665,1980 744,1980 744,150"/>
+            <TextEquiv>
+                <Unicode>Zwecke hätte, als den, die Rückkehr der Erſcheinnng zu er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="738,193 738,1957 813,1957 813,193"/>
+            <TextEquiv>
+                <Unicode>warten. Allein aus dieſer Abſonderung ſeines Geiſtes ward</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="808,193 808,1888 882,1888 882,193"/>
+            <TextEquiv>
+                <Unicode>er bald durch einen fernen Ton im Walde aufgeſchreckt, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="879,189 879,1888 956,1888 956,189"/>
+            <TextEquiv>
+                <Unicode>wie Waffengeklirr erklang. Plötzlich zum Bedenken ſeiner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="950,188 950,1889 1026,1889 1026,188"/>
+            <TextEquiv>
+                <Unicode>Pflicht zurückgeführt, einer Pflicht, die für ſeinen Vater und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="1019,187 1019,1889 1097,1889 1097,187"/>
+            <TextEquiv>
+                <Unicode>ſeine Reiſegenoſſen wichtig war, ſtellte Arthur ſich auf die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="1092,188 1092,1889 1166,1889 1166,188"/>
+            <TextEquiv>
+                <Unicode>Rothbrücke, wo ſich&#39;s am beſten Halt machen ließ, und wen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="1162,187 1162,1998 1240,1998 1240,187"/>
+            <TextEquiv>
+                <Unicode>dete Augen und Ohren nach der Gegend, von wannen Ge</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="1233,189 1233,1889 1311,1889 1311,189"/>
+            <TextEquiv>
+                <Unicode>fahr fich nahen möchte. Das Geklirr kam näher, Fußtritte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="1306,189 1306,1889 1381,1889 1381,189"/>
+            <TextEquiv>
+                <Unicode>wurden hörbar - Speere und Helme wurden am grünen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="1375,164 1375,1889 1446,1889 1446,164"/>
+            <TextEquiv>
+                <Unicode>Waldende ſichtbar und blinkten im Mondlicht. Allein die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="1447,191 1447,1888 1523,1888 1523,191"/>
+            <TextEquiv>
+                <Unicode>ſtattliche Geſtalt Rudolphs vom Donnerhügel, der an der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="1519,192 1519,2005 1595,2005 1595,192"/>
+            <TextEquiv>
+                <Unicode>Spitze der Schaar ſchritt, ward bald kenntlich, und verkün-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="1590,164 1590,2022 1662,2022 1662,164"/>
+            <TextEquiv>
+                <Unicode>dete unſerer Schildwacht die Heimkehr der Wachrunde. Bei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_96">
+        
+            <Coords points="1662,194 1662,1887 1736,1887 1736,194"/>
+            <TextEquiv>
+                <Unicode>deren Annäherung ward der Feldruf gewechſelt und Zeichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_97">
+        
+            <Coords points="1733,192 1733,1885 1808,1885 1808,192"/>
+            <TextEquiv>
+                <Unicode>und Gegenzeichen gehörig gegeben, wie es bei dergleichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_98">
+        
+            <Coords points="1803,194 1803,1886 1879,1886 1879,194"/>
+            <TextEquiv>
+                <Unicode>Gelegenheit üblich iſt; und als Rudolphs Begleiter einzeln</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_99">
+        
+            <Coords points="1873,196 1873,1886 1950,1886 1950,196"/>
+            <TextEquiv>
+                <Unicode>in das Schloß einzogen, erhielten ſie Befehl, ihre Kamera-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_100">
+        
+            <Coords points="1943,192 1943,1886 2021,1886 2021,192"/>
+            <TextEquiv>
+                <Unicode>den zu wecken, mit denen er die Runde auf&#39;s neue zu machen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_101">
+        
+            <Coords points="2016,197 2016,1885 2092,1885 2092,197"/>
+            <TextEquiv>
+                <Unicode>gedächte; auch zugleich Arthur Philipſon ablöſen zu laſſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_102">
+        
+            <Coords points="2086,195 2086,1887 2162,1887 2162,195"/>
+            <TextEquiv>
+                <Unicode>deſſen Wachtdienſt auf der Brücke ein Ende hätte. Dieſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_103">
+        
+            <Coords points="2157,192 2157,1991 2236,1991 2236,192"/>
+            <TextEquiv>
+                <Unicode>lezte Umſtand ward durch den dumpfen und fernen Hall der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_104">
+        
+            <Coords points="2228,196 2228,1989 2305,1989 2305,196"/>
+            <TextEquiv>
+                <Unicode>Münſterglocke in der Stadt Baſel beſtätigt, die, ihren düſtern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_105">
+        
+            <Coords points="2299,198 2299,1884 2393,1884 2393,198"/>
+            <TextEquiv>
+                <Unicode>Sang weit über Forſt und Feld verſendend, ankündigte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_106">
+        
+            <Coords points="2371,218 2371,1066 2446,1066 2446,218"/>
+            <TextEquiv>
+                <Unicode>daß Mitternacht vorüber war.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_107">
+        
+            <Coords points="2422,311 2422,1884 2517,1884 2517,311"/>
+            <TextEquiv>
+                <Unicode>„Und nun, Kamerad,“ fuhr Rudolph zu dem Engländer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_108">
+        
+            <Coords points="2509,202 2509,1884 2587,1884 2587,202"/>
+            <TextEquiv>
+                <Unicode>fort, „haben Nachtluft und langes Wachthalten Dich beftimmt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_109">
+        
+            <Coords points="2577,204 2577,1886 2659,1886 2659,204"/>
+            <TextEquiv>
+                <Unicode>zu Speiſe und Schlaf zurückzukehren, oder blieb Dir noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_110">
+        
+            <Coords points="2653,225 2653,1096 2729,1096 2729,225"/>
+            <TextEquiv>
+                <Unicode>Luſt, die Runde mitzumachen?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>145
+mindeſtens hoffen ließ, einen Schimmer von Licht auf das-
+ſelbe zu werfen.
+Beharrlich in dieſem Vorſatze ſchritt er, Wacht haltend,
+auf und ab, die Blicke auf den Punkt des Waldes geheftet,
+wo er die geliebte Geſtalt hatte verſchwinden ſehen, wobei
+er für den Augenblick vergaß, daß ſein Poſten noch andere
+Zwecke hätte, als den, die Rückkehr der Erſcheinnng zu er-
+warten. Allein aus dieſer Abſonderung ſeines Geiſtes ward
+er bald durch einen fernen Ton im Walde aufgeſchreckt, der
+wie Waffengeklirr erklang. Plötzlich zum Bedenken ſeiner
+Pflicht zurückgeführt, einer Pflicht, die für ſeinen Vater und
+ſeine Reiſegenoſſen wichtig war, ſtellte Arthur ſich auf die
+Rothbrücke, wo ſich&#39;s am beſten Halt machen ließ, und wen-
+dete Augen und Ohren nach der Gegend, von wannen Ge
+fahr fich nahen möchte. Das Geklirr kam näher, Fußtritte
+wurden hörbar - Speere und Helme wurden am grünen
+Waldende ſichtbar und blinkten im Mondlicht. Allein die
+ſtattliche Geſtalt Rudolphs vom Donnerhügel, der an der
+Spitze der Schaar ſchritt, ward bald kenntlich, und verkün-
+dete unſerer Schildwacht die Heimkehr der Wachrunde. Bei
+deren Annäherung ward der Feldruf gewechſelt und Zeichen
+und Gegenzeichen gehörig gegeben, wie es bei dergleichen
+Gelegenheit üblich iſt; und als Rudolphs Begleiter einzeln
+in das Schloß einzogen, erhielten ſie Befehl, ihre Kamera-
+den zu wecken, mit denen er die Runde auf&#39;s neue zu machen
+gedächte; auch zugleich Arthur Philipſon ablöſen zu laſſen,
+deſſen Wachtdienſt auf der Brücke ein Ende hätte. Dieſer
+lezte Umſtand ward durch den dumpfen und fernen Hall der
+Münſterglocke in der Stadt Baſel beſtätigt, die, ihren düſtern
+Sang weit über Forſt und Feld verſendend, ankündigte
+daß Mitternacht vorüber war.
+„Und nun, Kamerad,“ fuhr Rudolph zu dem Engländer
+fort, „haben Nachtluft und langes Wachthalten Dich beftimmt,
+zu Speiſe und Schlaf zurückzukehren, oder blieb Dir noch
+Luſt, die Runde mitzumachen?“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

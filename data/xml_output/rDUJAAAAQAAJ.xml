@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4042" imageWidth="2501">
+    <PrintSpace>
+        <Coords points="0,0 0,2501 4042,2501 4042,2501"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2501 4042,2501 4042,2501"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="567,381 567,1561 639,1561 639,381"/>
+            <TextEquiv>
+                <Unicode>chap. XII.] ARMY OF PHILIP.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="551,1747 551,2025 622,2025 622,1747"/>
+            <TextEquiv>
+                <Unicode>275</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="657,369 657,2065 754,2065 754,369"/>
+            <TextEquiv>
+                <Unicode>Flanders should enter Paris in great pomp after</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="761,365 761,2063 845,2063 845,365"/>
+            <TextEquiv>
+                <Unicode>the engagement&#34; The allies received as propi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="848,365 848,2066 924,2066 924,365"/>
+            <TextEquiv>
+                <Unicode>tious an oracle, which afterwards turned out to be</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="937,367 937,2067 1023,2067 1023,367"/>
+            <TextEquiv>
+                <Unicode>of a different and ambiguous character: they ac-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1026,370 1026,2068 1110,2068 1110,370"/>
+            <TextEquiv>
+                <Unicode>cordingly advanced at the head of a numerous</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1114,367 1114,2066 1197,2066 1197,367"/>
+            <TextEquiv>
+                <Unicode>army, amounting, it is said, to one hundred and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1202,366 1202,2068 1288,2068 1288,366"/>
+            <TextEquiv>
+                <Unicode>fifty thousand men. They assembled at Peronne,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1291,369 1291,2068 1366,2068 1366,369"/>
+            <TextEquiv>
+                <Unicode>in Flanders, and moved south-westwards into</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1382,405 1382,661 1443,661 1443,405"/>
+            <TextEquiv>
+                <Unicode>France.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1465,453 1465,2067 1551,2067 1551,453"/>
+            <TextEquiv>
+                <Unicode>The army of Philip was not nearly so numer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1554,367 1554,2069 1635,2069 1635,367"/>
+            <TextEquiv>
+                <Unicode>ous, but was composed of the flower of the French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1639,370 1639,2068 1728,2068 1728,370"/>
+            <TextEquiv>
+                <Unicode>chivalry, with the great princes of the blood royal,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1730,368 1730,2071 1795,2071 1795,368"/>
+            <TextEquiv>
+                <Unicode>and such of the vassals of the crown as were not</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1818,367 1818,2071 1902,2071 1902,367"/>
+            <TextEquiv>
+                <Unicode>in the confederaoy. The monarch also enjoyed the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1902,368 1902,2071 1991,2071 1991,368"/>
+            <TextEquiv>
+                <Unicode>advantage of the bravery and experience of a va-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1994,367 1994,2073 2085,2073 2085,367"/>
+            <TextEquiv>
+                <Unicode>liant kniglt-hospitaller, called Guerin, who acted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2078,368 2078,2072 2169,2072 2169,368"/>
+            <TextEquiv>
+                <Unicode>as quartermaster-general. Philip, having deter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2172,369 2172,2073 2255,2073 2255,369"/>
+            <TextEquiv>
+                <Unicode>mined to prevent the wasting of his own country</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2260,370 2260,2071 2343,2071 2343,370"/>
+            <TextEquiv>
+                <Unicode>by ravaging that of the enemy, directed his course</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2348,371 2348,2072 2432,2072 2432,371"/>
+            <TextEquiv>
+                <Unicode>towards Hainault with that purpose. But in the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2436,372 2436,2072 2511,2072 2511,372"/>
+            <TextEquiv>
+                <Unicode>course of their march, the French discovered the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2525,371 2525,2071 2608,2071 2608,371"/>
+            <TextEquiv>
+                <Unicode>numerous squadrons of the Emperor, on the oppo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2614,371 2614,2072 2687,2072 2687,371"/>
+            <TextEquiv>
+                <Unicode>site side of the Meuse, near Bouvines. The river</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2700,373 2700,2072 2784,2072 2784,373"/>
+            <TextEquiv>
+                <Unicode>was crossed by,a wooden bridge. The French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2788,370 2788,2072 2865,2072 2865,370"/>
+            <TextEquiv>
+                <Unicode>noblesse on the one side, and the German on the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2878,372 2878,2073 2960,2073 2960,372"/>
+            <TextEquiv>
+                <Unicode>other, rushed emulously to seize the passage. But</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2965,370 2965,2073 3049,2073 3049,370"/>
+            <TextEquiv>
+                <Unicode>it was occupied by the former; and the French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="3054,369 3054,2074 3138,2074 3138,369"/>
+            <TextEquiv>
+                <Unicode>infantry, principally the militia of the towns, passed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3140,371 3140,2072 3216,2072 3216,371"/>
+            <TextEquiv>
+                <Unicode>over under the Oriflamme, or banner of Saint De-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3227,371 3227,2073 3304,2073 3304,371"/>
+            <TextEquiv>
+                <Unicode>nis, and formed on the western side of the river.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="3317,379 3317,2073 3401,2073 3401,379"/>
+            <TextEquiv>
+                <Unicode>The King had stretched himself to repose uuder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="3404,370 3404,2095 3490,2095 3490,370"/>
+            <TextEquiv>
+                <Unicode>an ash-tree, when he was roused by the horsemen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>chap. XII.] ARMY OF PHILIP.
+275
+Flanders should enter Paris in great pomp after
+the engagement&#34; The allies received as propi-
+tious an oracle, which afterwards turned out to be
+of a different and ambiguous character: they ac-
+cordingly advanced at the head of a numerous
+army, amounting, it is said, to one hundred and
+fifty thousand men. They assembled at Peronne,
+in Flanders, and moved south-westwards into
+France.
+The army of Philip was not nearly so numer-
+ous, but was composed of the flower of the French
+chivalry, with the great princes of the blood royal,
+and such of the vassals of the crown as were not
+in the confederaoy. The monarch also enjoyed the
+advantage of the bravery and experience of a va-
+liant kniglt-hospitaller, called Guerin, who acted
+as quartermaster-general. Philip, having deter-
+mined to prevent the wasting of his own country
+by ravaging that of the enemy, directed his course
+towards Hainault with that purpose. But in the
+course of their march, the French discovered the
+numerous squadrons of the Emperor, on the oppo-
+site side of the Meuse, near Bouvines. The river
+was crossed by,a wooden bridge. The French
+noblesse on the one side, and the German on the
+other, rushed emulously to seize the passage. But
+it was occupied by the former; and the French
+infantry, principally the militia of the towns, passed
+over under the Oriflamme, or banner of Saint De-
+nis, and formed on the western side of the river.
+The King had stretched himself to repose uuder
+an ash-tree, when he was roused by the horsemen.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4042" imageWidth="2469">
+    <PrintSpace>
+        <Coords points="0,0 0,2469 4042,2469 4042,2469"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2469 4042,2469 4042,2469"/>
+        
+            <TextLine id="textline_34">
+        
+            <Coords points="505,319 505,2043 593,2043 593,319"/>
+            <TextEquiv>
+                <Unicode>CHAP. XIV.] GOVERNMENT OF PHILIP III. 341</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="614,319 614,2062 715,2062 715,319"/>
+            <TextEquiv>
+                <Unicode>ed her own life to save his. After the treaty of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="718,326 718,2050 801,2050 801,326"/>
+            <TextEquiv>
+                <Unicode>Tunis had been concluded, the Kings of France</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="808,319 808,2051 891,2051 891,319"/>
+            <TextEquiv>
+                <Unicode>and Sicily returned to their dominions - Philip</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="896,319 896,2052 979,2052 979,319"/>
+            <TextEquiv>
+                <Unicode>eager to take possession of the erown which had</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="984,320 984,2057 1068,2057 1068,320"/>
+            <TextEquiv>
+                <Unicode>fallen to him by inheritance, Charles desirous to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="1072,322 1072,2050 1160,2050 1160,322"/>
+            <TextEquiv>
+                <Unicode>secure and to enjoy that which he had obtained by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1175,353 1175,666 1245,666 1245,353"/>
+            <TextEquiv>
+                <Unicode>conquest.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1250,403 1250,2049 1336,2049 1336,403"/>
+            <TextEquiv>
+                <Unicode>Philip, the third of that name, called the Hardy,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1339,318 1339,2051 1421,2051 1421,318"/>
+            <TextEquiv>
+                <Unicode>seems to have been disposed to distinguish him-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1420,319 1420,2049 1511,2049 1511,319"/>
+            <TextEquiv>
+                <Unicode>self by enforcing the wise laws of King Louis, his</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1514,315 1514,2049 1597,2049 1597,315"/>
+            <TextEquiv>
+                <Unicode>father, for preventing private wars among his vas-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1599,316 1599,2049 1687,2049 1687,316"/>
+            <TextEquiv>
+                <Unicode>sals. He had soon an opportunity to show this</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1690,317 1690,2049 1774,2049 1774,317"/>
+            <TextEquiv>
+                <Unicode>disposition, in the manner he acted in a quarrel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1777,315 1777,2048 1845,2048 1845,315"/>
+            <TextEquiv>
+                <Unicode>between the Count of Foix and some of his vassals.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1867,321 1867,2048 1951,2048 1951,321"/>
+            <TextEquiv>
+                <Unicode>The King espoused the cause of the latter, and at</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="1955,314 1955,2059 2041,2059 2041,314"/>
+            <TextEquiv>
+                <Unicode>the head of his royal forces, besieged the castle of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="2044,317 2044,2049 2138,2049 2138,317"/>
+            <TextEquiv>
+                <Unicode>Foix, compelled the Count to surrender, detained</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2131,312 2131,2048 2220,2048 2220,312"/>
+            <TextEquiv>
+                <Unicode>him a certain time in prison, and only dismissed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2224,314 2224,2047 2306,2047 2306,314"/>
+            <TextEquiv>
+                <Unicode>him upon complete submission. The vigour of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2313,314 2313,2046 2395,2046 2395,314"/>
+            <TextEquiv>
+                <Unicode>government upon this occasion shows the perma-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2402,314 2402,2047 2483,2047 2483,314"/>
+            <TextEquiv>
+                <Unicode>nent result of the just and firm conduct of Saint</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="2489,319 2489,2044 2575,2044 2575,319"/>
+            <TextEquiv>
+                <Unicode>Louis. But the King&#39;s most remarkable adven-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="2580,312 2580,2047 2664,2047 2664,312"/>
+            <TextEquiv>
+                <Unicode>tures occurred in his own family, and were of a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="2667,334 2667,1141 2750,1141 2750,334"/>
+            <TextEquiv>
+                <Unicode>very distressing nature.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2754,399 2754,2042 2843,2042 2843,399"/>
+            <TextEquiv>
+                <Unicode>In his return from the crusade through Italy,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2844,317 2844,2044 2927,2044 2927,317"/>
+            <TextEquiv>
+                <Unicode>King Philip had the misfortune to lose his beauti-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2931,310 2931,2043 3020,2043 3020,310"/>
+            <TextEquiv>
+                <Unicode>ful wife, Isabel of Aragon, who had not hesitated</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="3021,309 3021,2043 3110,2043 3110,309"/>
+            <TextEquiv>
+                <Unicode>to follow him to the melancholy crusade in which</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="3109,310 3109,2041 3195,2041 3195,310"/>
+            <TextEquiv>
+                <Unicode>the royal family sustained so much loss. In the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="3200,311 3200,2046 3284,2046 3284,311"/>
+            <TextEquiv>
+                <Unicode>course of this journey, the Queen, being then near</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="3286,310 3286,2040 3362,2040 3362,310"/>
+            <TextEquiv>
+                <Unicode>her confinement, was thrown from her horse in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="3373,311 3373,2044 3465,2044 3465,311"/>
+            <TextEquiv>
+                <Unicode>crossing a river, and died in consequence. Isabel,</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>CHAP. XIV.] GOVERNMENT OF PHILIP III. 341
+ed her own life to save his. After the treaty of
+Tunis had been concluded, the Kings of France
+and Sicily returned to their dominions - Philip
+eager to take possession of the erown which had
+fallen to him by inheritance, Charles desirous to
+secure and to enjoy that which he had obtained by
+conquest.
+Philip, the third of that name, called the Hardy,
+seems to have been disposed to distinguish him-
+self by enforcing the wise laws of King Louis, his
+father, for preventing private wars among his vas-
+sals. He had soon an opportunity to show this
+disposition, in the manner he acted in a quarrel
+between the Count of Foix and some of his vassals.
+The King espoused the cause of the latter, and at
+the head of his royal forces, besieged the castle of
+Foix, compelled the Count to surrender, detained
+him a certain time in prison, and only dismissed
+him upon complete submission. The vigour of the
+government upon this occasion shows the perma-
+nent result of the just and firm conduct of Saint
+Louis. But the King&#39;s most remarkable adven-
+tures occurred in his own family, and were of a
+very distressing nature.
+In his return from the crusade through Italy,
+King Philip had the misfortune to lose his beauti-
+ful wife, Isabel of Aragon, who had not hesitated
+to follow him to the melancholy crusade in which
+the royal family sustained so much loss. In the
+course of this journey, the Queen, being then near
+her confinement, was thrown from her horse in
+crossing a river, and died in consequence. Isabel,</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4040" imageWidth="2466">
+    <PrintSpace>
+        <Coords points="0,0 0,2466 4040,2466 4040,2466"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2466 4040,2466 4040,2466"/>
+        
+            <TextLine id="textline_67">
+        
+            <Coords points="520,301 520,1582 589,1582 589,301"/>
+            <TextEquiv>
+                <Unicode>CHAP. XV]  TRIAL OF MARIGNY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="501,1832 501,1962 571,1962 571,1832"/>
+            <TextEquiv>
+                <Unicode>369</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="624,289 624,2004 706,2004 706,289"/>
+            <TextEquiv>
+                <Unicode>that the Kings of England laid claim to the inheri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="713,285 713,2143 789,2143 789,285"/>
+            <TextEquiv>
+                <Unicode>tance of France, in contradiction te the Salic law,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="800,288 800,2004 884,2004 884,288"/>
+            <TextEquiv>
+                <Unicode>and in right of this same Isabel&#39;s succession to her</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="891,322 891,541 953,541 953,322"/>
+            <TextEquiv>
+                <Unicode>father.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="978,372 978,2002 1054,2002 1054,372"/>
+            <TextEquiv>
+                <Unicode>Louis X., whom, for some uncertain reason, the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1066,289 1066,2004 1149,2004 1149,289"/>
+            <TextEquiv>
+                <Unicode>French called Hutin (or the Turbulent), next as-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1155,286 1155,2005 1239,2005 1239,286"/>
+            <TextEquiv>
+                <Unicode>cended the throne. The first point he had to con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="1243,283 1243,2012 1325,2012 1325,283"/>
+            <TextEquiv>
+                <Unicode>sider was the bringing to account the favourite of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="1331,284 1331,2001 1415,2001 1415,284"/>
+            <TextEquiv>
+                <Unicode>the deceased monarch, Enguerrand de Marigny,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="1416,282 1416,2001 1500,2001 1500,282"/>
+            <TextEquiv>
+                <Unicode>who had been the agent of Philip&#39;s exactions, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1504,282 1504,2001 1592,2001 1592,282"/>
+            <TextEquiv>
+                <Unicode>was supposed to have peculated enormously, as the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="1593,281 1593,2001 1679,2001 1679,281"/>
+            <TextEquiv>
+                <Unicode>money passed through his hands. Called before</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1681,280 1681,2002 1765,2002 1765,280"/>
+            <TextEquiv>
+                <Unicode>the princes of the blood, and closely interrogated</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="1769,278 1769,2009 1852,2009 1852,278"/>
+            <TextEquiv>
+                <Unicode>by the brother of the late king, Charles, Count of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="1859,290 1859,2000 1942,2000 1942,290"/>
+            <TextEquiv>
+                <Unicode>Valois, in particular, who, in fact, governed in the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="1947,276 1947,2001 2031,2001 2031,276"/>
+            <TextEquiv>
+                <Unicode>name of his nephew, the accused party answered</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="2036,302 2036,1007 2118,1007 2118,302"/>
+            <TextEquiv>
+                <Unicode>with great insolence.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="2125,357 2125,1997 2200,1997 2200,357"/>
+            <TextEquiv>
+                <Unicode>&#34;Where,&#34; said the Count de Valois, &#34;are the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="2212,289 2212,1394 2295,1394 2295,289"/>
+            <TextEquiv>
+                <Unicode>treasures of the late king?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="2300,357 2300,1998 2384,1998 2384,357"/>
+            <TextEquiv>
+                <Unicode>&#34;You shall have a good account of them,&#34; an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="2389,288 2389,1348 2473,1348 2473,288"/>
+            <TextEquiv>
+                <Unicode>swered the prisoner, haughtily.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="2476,355 2476,1996 2560,1996 2560,355"/>
+            <TextEquiv>
+                <Unicode>&#34;Give it me, then, instantly,&#34; answered the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="2565,307 2565,544 2630,544 2630,307"/>
+            <TextEquiv>
+                <Unicode>Prince.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="2651,352 2651,1995 2740,1995 2740,352"/>
+            <TextEquiv>
+                <Unicode>&#34;Since you press me to speak,&#34; replied Ma-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="2742,278 2742,1995 2828,1995 2828,278"/>
+            <TextEquiv>
+                <Unicode>rigny, &#34;I have given you one half of the treasure</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="2826,269 2826,1994 2917,1994 2917,269"/>
+            <TextEquiv>
+                <Unicode>of the late king, your brother, and, with the other</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="2918,281 2918,1558 3008,1558 3008,281"/>
+            <TextEquiv>
+                <Unicode>half, I have paid his majesty&#39;s debts.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_96">
+        
+            <Coords points="3009,350 3009,1729 3095,1729 3095,350"/>
+            <TextEquiv>
+                <Unicode>&#34;You lie,&#34; replied the Prince, in a rage.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_97">
+        
+            <Coords points="3095,352 3095,1673 3189,1673 3189,352"/>
+            <TextEquiv>
+                <Unicode>&#34;You lie yourself,&#34; replied Marigny.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_98">
+        
+            <Coords points="3172,354 3172,1987 3271,1987 3271,354"/>
+            <TextEquiv>
+                <Unicode>In consequence of this intemperate and insult-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_99">
+        
+            <Coords points="3263,263 3263,1989 3354,1989 3354,263"/>
+            <TextEquiv>
+                <Unicode>ing conduct, the fallen favourite was arrested,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_100">
+        
+            <Coords points="3350,264 3350,1979 3446,1979 3446,264"/>
+            <TextEquiv>
+                <Unicode>thrown into prison, and brought to trial, when he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_101">
+        
+            <Coords points="3457,369 3457,757 3512,757 3512,369"/>
+            <TextEquiv>
+                <Unicode>VOL. XXVII.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_102">
+        
+            <Coords points="3453,1106 3453,1239 3515,1239 3515,1106"/>
+            <TextEquiv>
+                <Unicode>2 A</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>CHAP. XV]  TRIAL OF MARIGNY.
+369
+that the Kings of England laid claim to the inheri-
+tance of France, in contradiction te the Salic law,
+and in right of this same Isabel&#39;s succession to her
+father.
+Louis X., whom, for some uncertain reason, the
+French called Hutin (or the Turbulent), next as-
+cended the throne. The first point he had to con-
+sider was the bringing to account the favourite of
+the deceased monarch, Enguerrand de Marigny,
+who had been the agent of Philip&#39;s exactions, and
+was supposed to have peculated enormously, as the
+money passed through his hands. Called before
+the princes of the blood, and closely interrogated
+by the brother of the late king, Charles, Count of
+Valois, in particular, who, in fact, governed in the
+name of his nephew, the accused party answered
+with great insolence.
+&#34;Where,&#34; said the Count de Valois, &#34;are the
+treasures of the late king?&#34;
+&#34;You shall have a good account of them,&#34; an-
+swered the prisoner, haughtily.
+&#34;Give it me, then, instantly,&#34; answered the
+Prince.
+&#34;Since you press me to speak,&#34; replied Ma-
+rigny, &#34;I have given you one half of the treasure
+of the late king, your brother, and, with the other
+half, I have paid his majesty&#39;s debts.&#34;
+&#34;You lie,&#34; replied the Prince, in a rage.
+&#34;You lie yourself,&#34; replied Marigny.
+In consequence of this intemperate and insult-
+ing conduct, the fallen favourite was arrested,
+thrown into prison, and brought to trial, when he
+VOL. XXVII.
+2 A</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

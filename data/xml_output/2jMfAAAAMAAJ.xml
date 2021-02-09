@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3088" imageWidth="2140">
+    <PrintSpace>
+        <Coords points="0,0 0,2140 3088,2140 3088,2140"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2140 3088,2140 3088,2140"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="207,759 207,1287 299,1287 299,759"/>
+            <TextEquiv>
+                <Unicode>- 21 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="345,166 345,1723 455,1723 455,166"/>
+            <TextEquiv>
+                <Unicode>Kreuzfahrer, wenn gleich derſelbe aus vielen Tau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="464,168 464,1726 541,1726 541,168"/>
+            <TextEquiv>
+                <Unicode>ſenden von Fußſoldaten beſtand, nur acht Reiter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="552,168 552,1724 629,1724 629,168"/>
+            <TextEquiv>
+                <Unicode>zeigte. Es iſt nicht zum Verwundern, ſagt ein Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="640,167 640,1724 718,1724 718,167"/>
+            <TextEquiv>
+                <Unicode>ſchichtſchreiber, wenn ein Vogel mit kurzen Flügeln,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="728,165 728,1724 804,1724 804,165"/>
+            <TextEquiv>
+                <Unicode>jedoch mit einem Schweife von ſo unverhältnißmäßi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="816,166 816,1730 894,1730 894,166"/>
+            <TextEquiv>
+                <Unicode>ger Länge einen fernen Flug nehmen könnte. Der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="904,167 904,1727 979,1727 979,167"/>
+            <TextEquiv>
+                <Unicode>Schwärmereifer dieſer Unwiſſenden und Voreiligen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="992,168 992,1728 1068,1728 1068,168"/>
+            <TextEquiv>
+                <Unicode>die eher einen Pöbelhaufen ausmachten, als daß ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1080,170 1080,1730 1154,1730 1154,170"/>
+            <TextEquiv>
+                <Unicode>ein Heer bildeten, und die durchaus keine Kriegs-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1169,168 1169,1730 1245,1730 1245,168"/>
+            <TextEquiv>
+                <Unicode>regel beobachteten, war ſo gewaltig, daß ſie die ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1258,171 1258,1735 1335,1735 1335,171"/>
+            <TextEquiv>
+                <Unicode>ringſte Vorſichtsmaaßregel nicht nur als unnütz, ſon-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1344,168 1344,1731 1420,1731 1420,168"/>
+            <TextEquiv>
+                <Unicode>dern als eine wirkliche Schmähung gegen den Him-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1433,168 1433,1736 1507,1736 1507,168"/>
+            <TextEquiv>
+                <Unicode>mel anſahen, die einen Zweifel vorausſetzte, ob die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1519,168 1519,1737 1597,1737 1597,168"/>
+            <TextEquiv>
+                <Unicode>Fürſehung auch wohl  die Krieger verſorgen und be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1604,169 1604,1736 1716,1736 1716,169"/>
+            <TextEquiv>
+                <Unicode>ſchüten werde, die ſich ſreiwillig dieſer heiligen Sache</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1681,179 1681,825 1781,825 1781,179"/>
+            <TextEquiv>
+                <Unicode>gewidmet hatten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1775,312 1775,1733 1859,1733 1859,312"/>
+            <TextEquiv>
+                <Unicode>Dieſer wildbewegte Pöbel erwartete deswegen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1871,171 1871,1741 1948,1741 1948,171"/>
+            <TextEquiv>
+                <Unicode>auch nicht die hohen Fürſten und Heerführer, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1958,171 1958,1740 2036,1740 2036,171"/>
+            <TextEquiv>
+                <Unicode>ſich zu gleichem Zuge anheiſchig gemacht hatten; ſon-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2045,171 2045,1741 2122,1741 2122,171"/>
+            <TextEquiv>
+                <Unicode>dern beſchloß, auf eigene Hand fortzuziehen. Sich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2135,172 2135,1744 2210,1744 2210,172"/>
+            <TextEquiv>
+                <Unicode>himmliſchen Schutzes zu verſichern, ſtelte man Peter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2222,173 2222,1742 2297,1742 2297,173"/>
+            <TextEquiv>
+                <Unicode>den Eremiten an die Spitze; jedoch weder ſeine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2309,172 2309,1741 2385,1741 2385,172"/>
+            <TextEquiv>
+                <Unicode>Leitung, noch die Geſchicklichkeit ſeines Unterführers,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2398,172 2398,1868 2474,1868 2474,172"/>
+            <TextEquiv>
+                <Unicode>eines tapferen, jedoch blutarmen Ritters Namens</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2484,174 2484,1746 2561,1746 2561,174"/>
+            <TextEquiv>
+                <Unicode>Walter, der wegen ſeiner Dürftigkeit den Beinamen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2571,174 2571,1931 2649,1931 2649,174"/>
+            <TextEquiv>
+                <Unicode>„der Hellerloſe“ erhalten hatte, waren vermögend,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2653,183 2653,1746 2739,1746 2739,183"/>
+            <TextEquiv>
+                <Unicode>einen ſo zahlreichen und regelloſen Schwarm zu zü-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 21 -
+Kreuzfahrer, wenn gleich derſelbe aus vielen Tau-
+ſenden von Fußſoldaten beſtand, nur acht Reiter
+zeigte. Es iſt nicht zum Verwundern, ſagt ein Ge-
+ſchichtſchreiber, wenn ein Vogel mit kurzen Flügeln,
+jedoch mit einem Schweife von ſo unverhältnißmäßi-
+ger Länge einen fernen Flug nehmen könnte. Der
+Schwärmereifer dieſer Unwiſſenden und Voreiligen,
+die eher einen Pöbelhaufen ausmachten, als daß ſie
+ein Heer bildeten, und die durchaus keine Kriegs-
+regel beobachteten, war ſo gewaltig, daß ſie die ge-
+ringſte Vorſichtsmaaßregel nicht nur als unnütz, ſon-
+dern als eine wirkliche Schmähung gegen den Him-
+mel anſahen, die einen Zweifel vorausſetzte, ob die
+Fürſehung auch wohl  die Krieger verſorgen und be-
+ſchüten werde, die ſich ſreiwillig dieſer heiligen Sache
+gewidmet hatten.
+Dieſer wildbewegte Pöbel erwartete deswegen
+auch nicht die hohen Fürſten und Heerführer, die
+ſich zu gleichem Zuge anheiſchig gemacht hatten; ſon-
+dern beſchloß, auf eigene Hand fortzuziehen. Sich
+himmliſchen Schutzes zu verſichern, ſtelte man Peter
+den Eremiten an die Spitze; jedoch weder ſeine
+Leitung, noch die Geſchicklichkeit ſeines Unterführers,
+eines tapferen, jedoch blutarmen Ritters Namens
+Walter, der wegen ſeiner Dürftigkeit den Beinamen
+„der Hellerloſe“ erhalten hatte, waren vermögend,
+einen ſo zahlreichen und regelloſen Schwarm zu zü-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3092" imageWidth="2138">
+    <PrintSpace>
+        <Coords points="0,0 0,2138 3092,2138 3092,2138"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2138 3092,2138 3092,2138"/>
+        
+            <TextLine id="textline_28">
+        
+            <Coords points="212,923 212,1318 293,1318 293,923"/>
+            <TextEquiv>
+                <Unicode>- 96 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="347,349 347,2151 448,2151 448,349"/>
+            <TextEquiv>
+                <Unicode>Conſtantia, Prinzeſſin von Caſtilien, die er nach der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="453,350 453,1919 536,1919 536,350"/>
+            <TextEquiv>
+                <Unicode>Erklärung des Conciliums von Baugence, daß ſeine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="540,349 540,1921 626,1921 626,349"/>
+            <TextEquiv>
+                <Unicode>Ehe mit Eleonoren von Aquitanien ungültig wäre,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="635,374 635,1035 715,1035 715,374"/>
+            <TextEquiv>
+                <Unicode>geheirathet hatte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="721,489 721,1913 796,1913 796,489"/>
+            <TextEquiv>
+                <Unicode>Prinz und Prinzeſſin waren Beide noch Kinder,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="806,353 806,1917 894,1917 894,353"/>
+            <TextEquiv>
+                <Unicode>allein es war in jenen Tagen herkömmlich, Vermäh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="897,354 897,1919 975,1919 975,354"/>
+            <TextEquiv>
+                <Unicode>lungsbündniſſe zwiſchen Perſonen hohen Standes viele</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="984,348 984,2076 1062,2076 1062,348"/>
+            <TextEquiv>
+                <Unicode>Jahre vor deren Vollährigkeit zu ſchließen. Hein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="1071,349 1071,1922 1151,1922 1151,349"/>
+            <TextEquiv>
+                <Unicode>rich, der ſich die Miene gab, als wäre er durch dieſe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1162,355 1162,1915 1235,1915 1235,355"/>
+            <TextEquiv>
+                <Unicode>Vermählung der geehrtere Theil, verſchwendete werth-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="1247,355 1247,1919 1339,1919 1339,355"/>
+            <TextEquiv>
+                <Unicode>volle Geſchenke an Alle am franzöſiſchen Hofe, deren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="1337,354 1337,1918 1414,1918 1414,354"/>
+            <TextEquiv>
+                <Unicode>gute Meinung oder beifällige Geſinnung ſeiner Un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1422,348 1422,2150 1504,2150 1504,348"/>
+            <TextEquiv>
+                <Unicode>terhandlung förderlich werden konnte. Seine Frei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1499,350 1499,2151 1596,2151 1596,350"/>
+            <TextEquiv>
+                <Unicode>gebigkeit erſtreckte ſich ſogar auf die Doctoren der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1589,331 1589,2152 1687,2152 1687,331"/>
+            <TextEquiv>
+                <Unicode>Univerſität, ja auf die Studenten derſelben, ſo wie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1678,350 1678,2150 1766,2150 1766,350"/>
+            <TextEquiv>
+                <Unicode>auf die vorzüglichſten Bürger. In jedem Punkte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1777,353 1777,1919 1850,1919 1850,353"/>
+            <TextEquiv>
+                <Unicode>der das Ceremoniel oder die Etikette betraf, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1863,349 1863,2132 1941,2132 1941,349"/>
+            <TextEquiv>
+                <Unicode>es Heinrichs Politik, dem Könige Ludwig die ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1953,354 1953,1917 2028,1917 2028,354"/>
+            <TextEquiv>
+                <Unicode>bindlichſte Aufmerkſamkeit zu bezeugen und unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="2041,353 2041,1915 2117,1915 2117,353"/>
+            <TextEquiv>
+                <Unicode>den Pflichtbeobachtungen eines getreuen Vaſallen je-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="2126,351 2126,1916 2203,1916 2203,351"/>
+            <TextEquiv>
+                <Unicode>nes furchtbare Anſehen zu verbergen, welches ohne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2215,352 2215,1915 2291,1915 2291,352"/>
+            <TextEquiv>
+                <Unicode>das ihn zum Gegenſtande des Neides und des Arg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="2299,351 2299,1917 2379,1917 2379,351"/>
+            <TextEquiv>
+                <Unicode>wohns ſeines Lehensherrn hätte machen müſſen. Er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2389,353 2389,1914 2470,1914 2470,353"/>
+            <TextEquiv>
+                <Unicode>ſtimmte ſogar der Abſicht Ludwigs hinſichtlich eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2480,353 2480,1912 2557,1912 2557,353"/>
+            <TextEquiv>
+                <Unicode>heiligen Krieges bei; indem er ſich verpflichtete, die-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2568,354 2568,1908 2644,1908 2644,354"/>
+            <TextEquiv>
+                <Unicode>ſem Monarchen mit ſeiner ganzen Streitmacht in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2655,354 2655,1911 2735,1911 2735,354"/>
+            <TextEquiv>
+                <Unicode>einem Kreuzzuge beizuſtehen, der nicht gegen die</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 96 -
+Conſtantia, Prinzeſſin von Caſtilien, die er nach der
+Erklärung des Conciliums von Baugence, daß ſeine
+Ehe mit Eleonoren von Aquitanien ungültig wäre,
+geheirathet hatte.
+Prinz und Prinzeſſin waren Beide noch Kinder,
+allein es war in jenen Tagen herkömmlich, Vermäh-
+lungsbündniſſe zwiſchen Perſonen hohen Standes viele
+Jahre vor deren Vollährigkeit zu ſchließen. Hein-
+rich, der ſich die Miene gab, als wäre er durch dieſe
+Vermählung der geehrtere Theil, verſchwendete werth-
+volle Geſchenke an Alle am franzöſiſchen Hofe, deren
+gute Meinung oder beifällige Geſinnung ſeiner Un-
+terhandlung förderlich werden konnte. Seine Frei-
+gebigkeit erſtreckte ſich ſogar auf die Doctoren der
+Univerſität, ja auf die Studenten derſelben, ſo wie
+auf die vorzüglichſten Bürger. In jedem Punkte,
+der das Ceremoniel oder die Etikette betraf, war
+es Heinrichs Politik, dem Könige Ludwig die ver-
+bindlichſte Aufmerkſamkeit zu bezeugen und unter
+den Pflichtbeobachtungen eines getreuen Vaſallen je-
+nes furchtbare Anſehen zu verbergen, welches ohne
+das ihn zum Gegenſtande des Neides und des Arg-
+wohns ſeines Lehensherrn hätte machen müſſen. Er
+ſtimmte ſogar der Abſicht Ludwigs hinſichtlich eines
+heiligen Krieges bei; indem er ſich verpflichtete, die-
+ſem Monarchen mit ſeiner ganzen Streitmacht in
+einem Kreuzzuge beizuſtehen, der nicht gegen die</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3092" imageWidth="2106">
+    <PrintSpace>
+        <Coords points="0,0 0,2106 3092,2106 3092,2106"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2106 3092,2106 3092,2106"/>
+        
+            <TextLine id="textline_56">
+        
+            <Coords points="187,774 187,1211 289,1211 289,774"/>
+            <TextEquiv>
+                <Unicode>- 219  -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="327,211 327,1762 447,1762 447,211"/>
+            <TextEquiv>
+                <Unicode>häuſer, die man be der Erſtürmnug erobert hatte;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="456,212 456,1764 532,1764 532,212"/>
+            <TextEquiv>
+                <Unicode>allein die untergeordneten Führer des Kreuzheeres</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="543,207 543,1764 619,1764 619,207"/>
+            <TextEquiv>
+                <Unicode>waren darüber unzufrieden, indem ſie vorbrachten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="632,205 632,1816 712,1816 712,205"/>
+            <TextEquiv>
+                <Unicode>daß bei ſolchen Gelegenheiten dem Oberfeldherrn nur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="721,207 721,1764 796,1764 796,207"/>
+            <TextEquiv>
+                <Unicode>ein Drittheil der Beute gebührte, der Reſt aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="809,205 809,1764 885,1764 885,205"/>
+            <TextEquiv>
+                <Unicode>ſeinen Kampfgenoſſen gehörte. Dies erregte unwil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="897,208 897,1762 1016,1762 1016,208"/>
+            <TextEquiv>
+                <Unicode>len und Ungehorſam bei den Lebensherren und unter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="979,176 979,1413 1063,1413 1063,176"/>
+            <TextEquiv>
+                <Unicode>grub nicht wenig Ludwigs Anſehen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="1027,345 1027,1915 1151,1915 1151,345"/>
+            <TextEquiv>
+                <Unicode>Als Mangel an Kriegszucht ſich auf ſolche Weiſe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="1163,207 1163,1761 1239,1761 1239,207"/>
+            <TextEquiv>
+                <Unicode>eingeſchlichen hatte, gewahrte man nur allzubald,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="1251,205 1251,1759 1327,1759 1327,205"/>
+            <TextEquiv>
+                <Unicode>daß das Heer Ludwigs des Heiligen um nichts bef-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="1336,203 1336,1762 1415,1762 1415,203"/>
+            <TextEquiv>
+                <Unicode>ſer war, als die früheren Kreuzfahrer; denn eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="1427,207 1427,1759 1500,1759 1500,207"/>
+            <TextEquiv>
+                <Unicode>Steinwurfs weit von dem Zelte des Königs wur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="1511,202 1511,1759 1592,1759 1592,202"/>
+            <TextEquiv>
+                <Unicode>den unter Begünſtigung mehrerer Höflinge die ärg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="1601,201 1601,1760 1677,1760 1677,201"/>
+            <TextEquiv>
+                <Unicode>ſten Frechheiten getrieben. Mittlerwelle blieben die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="1683,158 1683,1759 1774,1759 1774,158"/>
+            <TextEquiv>
+                <Unicode>Kreuzfahrer in Damiette, wo ſie zunächſt auf das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="1767,202 1767,1758 1856,1758 1856,202"/>
+            <TextEquiv>
+                <Unicode>Zurückweichen der Nilüberſchwemmnng und ſodann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1867,202 1867,1779 1942,1779 1942,202"/>
+            <TextEquiv>
+                <Unicode>auf die Ankunft des Grafen Alfons von Poitiers war-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1954,201 1954,1757 2028,1757 2028,201"/>
+            <TextEquiv>
+                <Unicode>teten, der durch das Ungeſtüm des Wetters, oder,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="2039,198 2039,1759 2116,1759 2116,198"/>
+            <TextEquiv>
+                <Unicode>wie Andere ſagen, durch ſpätere Ahfahrt von ſeinumn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="2121,198 2121,1857 2212,1857 2212,198"/>
+            <TextEquiv>
+                <Unicode>Bruder getrennt blieb. Endlich kam bieſer Prinz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="2217,201 2217,1757 2295,1757 2295,201"/>
+            <TextEquiv>
+                <Unicode>an; und Ludwig beſchloß einen Ausfall gegen Groß-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="2303,200 2303,1757 2383,1757 2383,200"/>
+            <TextEquiv>
+                <Unicode>Cairo, welches die Einzügler Babylon nannten, zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="2394,205 2394,1756 2470,1756 2470,205"/>
+            <TextEquiv>
+                <Unicode>machen. Allein der Nilſtrom, von dem die Chri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="2482,198 2482,1759 2557,1759 2557,198"/>
+            <TextEquiv>
+                <Unicode>ſten glaubten, er entſpränge im Erdenparadieſe, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="2571,197 2571,1757 2647,1757 2647,197"/>
+            <TextEquiv>
+                <Unicode>zur Zeit noch in der Fluth und hemmte alle Augen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="2658,198 2658,1754 2780,1754 2780,198"/>
+            <TextEquiv>
+                <Unicode>blicke ihr Vorſchreiten. Beſanders ward ihnen. ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 219  -
+häuſer, die man be der Erſtürmnug erobert hatte;
+allein die untergeordneten Führer des Kreuzheeres
+waren darüber unzufrieden, indem ſie vorbrachten,
+daß bei ſolchen Gelegenheiten dem Oberfeldherrn nur
+ein Drittheil der Beute gebührte, der Reſt aber
+ſeinen Kampfgenoſſen gehörte. Dies erregte unwil-
+len und Ungehorſam bei den Lebensherren und unter-
+grub nicht wenig Ludwigs Anſehen.
+Als Mangel an Kriegszucht ſich auf ſolche Weiſe
+eingeſchlichen hatte, gewahrte man nur allzubald,
+daß das Heer Ludwigs des Heiligen um nichts bef-
+ſer war, als die früheren Kreuzfahrer; denn eines
+Steinwurfs weit von dem Zelte des Königs wur-
+den unter Begünſtigung mehrerer Höflinge die ärg-
+ſten Frechheiten getrieben. Mittlerwelle blieben die
+Kreuzfahrer in Damiette, wo ſie zunächſt auf das
+Zurückweichen der Nilüberſchwemmnng und ſodann
+auf die Ankunft des Grafen Alfons von Poitiers war-
+teten, der durch das Ungeſtüm des Wetters, oder,
+wie Andere ſagen, durch ſpätere Ahfahrt von ſeinumn
+Bruder getrennt blieb. Endlich kam bieſer Prinz
+an; und Ludwig beſchloß einen Ausfall gegen Groß-
+Cairo, welches die Einzügler Babylon nannten, zu
+machen. Allein der Nilſtrom, von dem die Chri-
+ſten glaubten, er entſpränge im Erdenparadieſe, war
+zur Zeit noch in der Fluth und hemmte alle Augen-
+blicke ihr Vorſchreiten. Beſanders ward ihnen. ein</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3102" imageWidth="2146">
+    <PrintSpace>
+        <Coords points="0,0 0,2146 3102,2146 3102,2146"/>
+    </PrintSpace>
+    <TextRegion id="textblock_3">
+        <Coords points="0,0 0,2146 3102,2146 3102,2146"/>
+        
+            <TextLine id="textline_84">
+        
+            <Coords points="229,629 229,1215 287,1215 287,629"/>
+            <TextEquiv>
+                <Unicode>- 125 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="362,216 362,1779 441,1779 441,216"/>
+            <TextEquiv>
+                <Unicode>horſam zurückgeführt, der junge Heinrich unter allen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="452,156 452,1780 529,1780 529,156"/>
+            <TextEquiv>
+                <Unicode>ſeinen Brüdern der Tauglichſte war, die hohe Stel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="538,214 538,1779 617,1779 617,214"/>
+            <TextEquiv>
+                <Unicode>lung eines Vaſallen der franzöſiſchen Krone zu be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="629,212 629,1779 702,1779 702,212"/>
+            <TextEquiv>
+                <Unicode>haupten. Er hatte keinesweges daſſelbe Vertrauen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="714,212 714,1780 792,1780 792,212"/>
+            <TextEquiv>
+                <Unicode>zu den Fähigkeiten ſeiner übrigen Söhne, und war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="803,211 803,1779 880,1779 880,211"/>
+            <TextEquiv>
+                <Unicode>ſonach ſchier untröſtlich über den erlittenen Verluſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="890,350 890,1776 968,1776 968,350"/>
+            <TextEquiv>
+                <Unicode>Neue Kriege und Miſverſtändniſſe zwiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="977,211 977,1780 1057,1780 1057,211"/>
+            <TextEquiv>
+                <Unicode>Frankreich und England ergaben ſich auf Seiten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="1067,210 1067,1777 1140,1777 1140,210"/>
+            <TextEquiv>
+                <Unicode>Heinrichs aus einem Vorwande von keinesweges auf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="1153,209 1153,1778 1231,1778 1231,209"/>
+            <TextEquiv>
+                <Unicode>richtiger Beſchaffenheit. Adelheid, die Schweſter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="1243,208 1243,1778 1325,1778 1325,208"/>
+            <TextEquiv>
+                <Unicode>Philipps, des Königs von Frankreich, hatte eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_96">
+        
+            <Coords points="1331,208 1331,1777 1406,1777 1406,208"/>
+            <TextEquiv>
+                <Unicode>Zeitlang am engländiſchen Hofe unter dem Vertrage</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_97">
+        
+            <Coords points="1416,208 1416,1774 1492,1774 1492,208"/>
+            <TextEquiv>
+                <Unicode>reſidirt, mit Richard, der jetzt der älteſte der leben-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_98">
+        
+            <Coords points="1501,208 1501,1778 1579,1778 1579,208"/>
+            <TextEquiv>
+                <Unicode>den Söhne Heinrichs des Zweiten war, vermählt zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_99">
+        
+            <Coords points="1594,205 1594,1859 1670,1859 1670,205"/>
+            <TextEquiv>
+                <Unicode>werden. Allein aus etlichen nicht leicht genau zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_100">
+        
+            <Coords points="1681,207 1681,1772 1757,1772 1757,207"/>
+            <TextEquiv>
+                <Unicode>beſtimmenden Gründen verſchob der König von Eng-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_101">
+        
+            <Coords points="1769,209 1769,1777 1845,1777 1845,209"/>
+            <TextEquiv>
+                <Unicode>land zu mehreren Malen die Vermählung, ſo daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_102">
+        
+            <Coords points="1859,130 1859,1776 1936,1776 1936,130"/>
+            <TextEquiv>
+                <Unicode>er in Verdacht gerieth, er hege ſelbſt eine weder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_103">
+        
+            <Coords points="1946,204 1946,1771 2019,1771 2019,204"/>
+            <TextEquiv>
+                <Unicode>ſeinem Alter noch ſeinem Verſtande angemeſſene Lei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_104">
+        
+            <Coords points="2032,205 2032,1772 2110,1772 2110,205"/>
+            <TextEquiv>
+                <Unicode>denſchaft zu der jungen Prinzeſſen. König Philipp</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_105">
+        
+            <Coords points="2122,204 2122,1771 2199,1771 2199,204"/>
+            <TextEquiv>
+                <Unicode>verlangte nun mit dem Schwerte in der Hand die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_106">
+        
+            <Coords points="2209,209 2209,1769 2290,1769 2290,209"/>
+            <TextEquiv>
+                <Unicode>Verehelichung ſeiner Schweſter. Andere Gründe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_107">
+        
+            <Coords points="2296,207 2296,1771 2376,1771 2376,207"/>
+            <TextEquiv>
+                <Unicode>zum Mißvergnügen, die ſich fortwährend zwiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_108">
+        
+            <Coords points="2387,206 2387,1770 2461,1770 2461,206"/>
+            <TextEquiv>
+                <Unicode>einem ſo mächtigen Lehensherrn und einem ſo ſtolzen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_109">
+        
+            <Coords points="2475,207 2475,1785 2550,1785 2550,207"/>
+            <TextEquiv>
+                <Unicode>Vaſallen erhoben, erhitzten den Groll auf beiden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_110">
+        
+            <Coords points="2563,201 2563,1769 2638,1769 2638,201"/>
+            <TextEquiv>
+                <Unicode>Seiten; auch bewahrten Heinrichs Talente, die durch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_111">
+        
+            <Coords points="2651,208 2651,1766 2727,1766 2727,208"/>
+            <TextEquiv>
+                <Unicode>hohes Alter einigermaaßen in Abnahme ſeyn mog-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 125 -
+horſam zurückgeführt, der junge Heinrich unter allen
+ſeinen Brüdern der Tauglichſte war, die hohe Stel-
+lung eines Vaſallen der franzöſiſchen Krone zu be-
+haupten. Er hatte keinesweges daſſelbe Vertrauen
+zu den Fähigkeiten ſeiner übrigen Söhne, und war
+ſonach ſchier untröſtlich über den erlittenen Verluſt.
+Neue Kriege und Miſverſtändniſſe zwiſchen
+Frankreich und England ergaben ſich auf Seiten
+Heinrichs aus einem Vorwande von keinesweges auf-
+richtiger Beſchaffenheit. Adelheid, die Schweſter
+Philipps, des Königs von Frankreich, hatte eine
+Zeitlang am engländiſchen Hofe unter dem Vertrage
+reſidirt, mit Richard, der jetzt der älteſte der leben-
+den Söhne Heinrichs des Zweiten war, vermählt zu
+werden. Allein aus etlichen nicht leicht genau zu
+beſtimmenden Gründen verſchob der König von Eng-
+land zu mehreren Malen die Vermählung, ſo daß
+er in Verdacht gerieth, er hege ſelbſt eine weder
+ſeinem Alter noch ſeinem Verſtande angemeſſene Lei-
+denſchaft zu der jungen Prinzeſſen. König Philipp
+verlangte nun mit dem Schwerte in der Hand die
+Verehelichung ſeiner Schweſter. Andere Gründe
+zum Mißvergnügen, die ſich fortwährend zwiſchen
+einem ſo mächtigen Lehensherrn und einem ſo ſtolzen
+Vaſallen erhoben, erhitzten den Groll auf beiden
+Seiten; auch bewahrten Heinrichs Talente, die durch
+hohes Alter einigermaaßen in Abnahme ſeyn mog-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3103" imageWidth="2146">
+    <PrintSpace>
+        <Coords points="0,0 0,2146 3103,2146 3103,2146"/>
+    </PrintSpace>
+    <TextRegion id="textblock_4">
+        <Coords points="0,0 0,2146 3103,2146 3103,2146"/>
+        
+            <TextLine id="textline_112">
+        
+            <Coords points="222,812 222,1209 288,1209 288,812"/>
+            <TextEquiv>
+                <Unicode>- 77 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_113">
+        
+            <Coords points="351,249 351,1321 441,1321 441,249"/>
+            <TextEquiv>
+                <Unicode>wagten den Ankömmlingen weder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_114">
+        
+            <Coords points="358,1339 358,1949 432,1949 432,1339"/>
+            <TextEquiv>
+                <Unicode>Beiſtand noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_115">
+        
+            <Coords points="443,232 443,1841 521,1841 521,232"/>
+            <TextEquiv>
+                <Unicode>Widerſtand zu leiſten. Um ſich der Kreuzfahrer zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_116">
+        
+            <Coords points="535,232 535,1796 609,1796 609,232"/>
+            <TextEquiv>
+                <Unicode>entledigen, erboten ſie ſich, dieſelben nach Antiochien</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_117">
+        
+            <Coords points="621,230 621,1799 699,1799 699,230"/>
+            <TextEquiv>
+                <Unicode>überzuſetzen. So gingen der König und deſſen Edle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_118">
+        
+            <Coords points="711,229 711,1796 785,1796 785,229"/>
+            <TextEquiv>
+                <Unicode>und Ritter zu Attalia an Bord, um dem Fürſten-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_119">
+        
+            <Coords points="799,230 799,1797 874,1797 874,230"/>
+            <TextEquiv>
+                <Unicode>thume Antiochien zuzuſegeln, welches Bohemund wäh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_120">
+        
+            <Coords points="884,230 884,1811 961,1811 961,230"/>
+            <TextEquiv>
+                <Unicode>rend des erſten Kreuzzuges begründet hatte, das je-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_121">
+        
+            <Coords points="975,231 975,1795 1048,1795 1048,231"/>
+            <TextEquiv>
+                <Unicode>doch nunmehr von Raimund de Poitiers, einem latei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_122">
+        
+            <Coords points="1059,231 1059,1795 1137,1795 1137,231"/>
+            <TextEquiv>
+                <Unicode>niſchen Fürſten beherrſcht ward, der den König mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_123">
+        
+            <Coords points="1147,230 1147,1793 1237,1793 1237,230"/>
+            <TextEquiv>
+                <Unicode>den äußeren Zeichen der Hochachtung und Güte auf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_124">
+        
+            <Coords points="1231,225 1231,1792 1314,1792 1314,225"/>
+            <TextEquiv>
+                <Unicode>nahm. Indeſſen Ludwig betrachtete dieſe Aufmerk-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_125">
+        
+            <Coords points="1322,225 1322,1793 1402,1793 1402,225"/>
+            <TextEquiv>
+                <Unicode>ſamkeit und Höflichkeit mit Mißtrauen, indem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_126">
+        
+            <Coords points="1412,226 1412,1791 1485,1791 1485,226"/>
+            <TextEquiv>
+                <Unicode>es durchſchauete, wie Raimund die Abſicht hatte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_127">
+        
+            <Coords points="1499,223 1499,1917 1582,1917 1582,223"/>
+            <TextEquiv>
+                <Unicode>von den franzöſiſchen Streitern Beiſtand zum Schutze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_128">
+        
+            <Coords points="1576,222 1576,1965 1669,1965 1669,222"/>
+            <TextEquiv>
+                <Unicode>und zur Erweiterung ſeines eigenen Beſitzthums von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_129">
+        
+            <Coords points="1669,225 1669,1793 1751,1793 1751,225"/>
+            <TextEquiv>
+                <Unicode>Antiochien zu erlangen, und zu dem Ende deren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_130">
+        
+            <Coords points="1764,236 1764,1389 1839,1389 1839,236"/>
+            <TextEquiv>
+                <Unicode>Reiſe nach Jeruſalem zu unterbrechen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_131">
+        
+            <Coords points="1851,365 1851,1789 1927,1789 1927,365"/>
+            <TextEquiv>
+                <Unicode>Während nun der ausgeſuchteſte Theil des fran-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_132">
+        
+            <Coords points="1939,223 1939,1792 2016,1792 2016,223"/>
+            <TextEquiv>
+                <Unicode>zöſiſchen Heeres in Ludwigs Geleite Antiochien er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_133">
+        
+            <Coords points="2026,222 2026,1791 2104,1791 2104,222"/>
+            <TextEquiv>
+                <Unicode>reichte, machten diejenigen Schaaren, welche in Atta-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_134">
+        
+            <Coords points="2114,226 2114,1790 2195,1790 2195,226"/>
+            <TextEquiv>
+                <Unicode>lia geblieben waren, ſowohl zu Waſſer wie zu Lande,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_135">
+        
+            <Coords points="2203,224 2203,1790 2282,1790 2282,224"/>
+            <TextEquiv>
+                <Unicode>wiederholte Verſuche, zu ihrem Monarchen zu ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_136">
+        
+            <Coords points="2290,223 2290,1785 2369,1785 2369,223"/>
+            <TextEquiv>
+                <Unicode>langen; allein kein Verſuch wollte gelingen, und die-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_137">
+        
+            <Coords points="2380,224 2380,1790 2456,1790 2456,224"/>
+            <TextEquiv>
+                <Unicode>ſer ihr letzter Marſch war ſo unglücklich, der Stolz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_138">
+        
+            <Coords points="2466,221 2466,1832 2549,1832 2549,221"/>
+            <TextEquiv>
+                <Unicode>wie die Entſchloſſenheit der chriſtlichen Krieger ſo ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_139">
+        
+            <Coords points="2556,220 2556,1869 2632,1869 2632,220"/>
+            <TextEquiv>
+                <Unicode>ſunken, daß drei oder viertauſend von ihnen ſich nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_140">
+        
+            <Coords points="2639,222 2639,1791 2720,1791 2720,222"/>
+            <TextEquiv>
+                <Unicode>nur den Ungläubigen ergaben, ſondern ſogar zum</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 77 -
+wagten den Ankömmlingen weder
+Beiſtand noch
+Widerſtand zu leiſten. Um ſich der Kreuzfahrer zu
+entledigen, erboten ſie ſich, dieſelben nach Antiochien
+überzuſetzen. So gingen der König und deſſen Edle
+und Ritter zu Attalia an Bord, um dem Fürſten-
+thume Antiochien zuzuſegeln, welches Bohemund wäh-
+rend des erſten Kreuzzuges begründet hatte, das je-
+doch nunmehr von Raimund de Poitiers, einem latei-
+niſchen Fürſten beherrſcht ward, der den König mit
+den äußeren Zeichen der Hochachtung und Güte auf-
+nahm. Indeſſen Ludwig betrachtete dieſe Aufmerk-
+ſamkeit und Höflichkeit mit Mißtrauen, indem er
+es durchſchauete, wie Raimund die Abſicht hatte,
+von den franzöſiſchen Streitern Beiſtand zum Schutze
+und zur Erweiterung ſeines eigenen Beſitzthums von
+Antiochien zu erlangen, und zu dem Ende deren
+Reiſe nach Jeruſalem zu unterbrechen.
+Während nun der ausgeſuchteſte Theil des fran-
+zöſiſchen Heeres in Ludwigs Geleite Antiochien er-
+reichte, machten diejenigen Schaaren, welche in Atta-
+lia geblieben waren, ſowohl zu Waſſer wie zu Lande,
+wiederholte Verſuche, zu ihrem Monarchen zu ge-
+langen; allein kein Verſuch wollte gelingen, und die-
+ſer ihr letzter Marſch war ſo unglücklich, der Stolz
+wie die Entſchloſſenheit der chriſtlichen Krieger ſo ge-
+ſunken, daß drei oder viertauſend von ihnen ſich nicht
+nur den Ungläubigen ergaben, ſondern ſogar zum</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3101" imageWidth="2143">
+    <PrintSpace>
+        <Coords points="0,0 0,2143 3101,2143 3101,2143"/>
+    </PrintSpace>
+    <TextRegion id="textblock_5">
+        <Coords points="0,0 0,2143 3101,2143 3101,2143"/>
+        
+            <TextLine id="textline_141">
+        
+            <Coords points="189,959 189,1360 248,1360 248,959"/>
+            <TextEquiv>
+                <Unicode>- 44 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_142">
+        
+            <Coords points="298,377 298,1927 402,1927 402,377"/>
+            <TextEquiv>
+                <Unicode>mehr als Robert, der Herzog von der Normandie.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_143">
+        
+            <Coords points="413,373 413,2056 490,2056 490,373"/>
+            <TextEquiv>
+                <Unicode>Um ſich ſelbſt dem Kreuzzuge zu widmen, hatte die-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_144">
+        
+            <Coords points="502,378 502,1928 577,1928 577,378"/>
+            <TextEquiv>
+                <Unicode>ſer älteſte Sohn Wilhelms des Eroberers die Nor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_145">
+        
+            <Coords points="592,376 592,1936 666,1936 666,376"/>
+            <TextEquiv>
+                <Unicode>mandie, die von ſeines Vaters Beſitzungen der ein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_146">
+        
+            <Coords points="681,373 681,2034 759,2034 759,373"/>
+            <TextEquiv>
+                <Unicode>zige Theil war, der ihm zuſiel, an ſeinen Bruder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_147">
+        
+            <Coords points="767,376 767,1930 843,1930 843,376"/>
+            <TextEquiv>
+                <Unicode>Wilhelm den Rothen, König von England für eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_148">
+        
+            <Coords points="855,376 855,1928 932,1928 932,376"/>
+            <TextEquiv>
+                <Unicode>große Summe Geldes verpfändet. Allein während</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_149">
+        
+            <Coords points="943,375 943,1933 1020,1933 1020,375"/>
+            <TextEquiv>
+                <Unicode>Robert beſchäftigt war, mahomedaniſche Kämpen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_150">
+        
+            <Coords points="1032,376 1032,1933 1115,1933 1115,376"/>
+            <TextEquiv>
+                <Unicode>vom Wirbel bis zum Gürtel zu ſpalten und Thaten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_151">
+        
+            <Coords points="1119,378 1119,1934 1198,1934 1198,378"/>
+            <TextEquiv>
+                <Unicode>höchſt romantiſcher Tapferkeit zu verrichten, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_152">
+        
+            <Coords points="1203,375 1203,1934 1285,1934 1285,375"/>
+            <TextEquiv>
+                <Unicode>Wilhelm in Geheim bemüht, den Antheil zu ſichern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_153">
+        
+            <Coords points="1296,374 1296,2031 1377,2031 1377,374"/>
+            <TextEquiv>
+                <Unicode>und bleibend zu machen, den er an dem Pfande</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_154">
+        
+            <Coords points="1386,377 1386,1934 1462,1934 1462,377"/>
+            <TextEquiv>
+                <Unicode>hatte, das ihm durch das Lehen des Herzogthums</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_155">
+        
+            <Coords points="1469,375 1469,1932 1561,1932 1561,375"/>
+            <TextEquiv>
+                <Unicode>übergeben worden war, und bald ließ es ſich erken-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_156">
+        
+            <Coords points="1554,376 1554,1934 1648,1934 1648,376"/>
+            <TextEquiv>
+                <Unicode>nen, daß ſelbſt wenn Robert im Stande ſeyn und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_157">
+        
+            <Coords points="1648,377 1648,1935 1722,1935 1722,377"/>
+            <TextEquiv>
+                <Unicode>Verlangen tragen ſollte, ſein Land zurückzufordern,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_158">
+        
+            <Coords points="1732,375 1732,1937 1825,1937 1825,375"/>
+            <TextEquiv>
+                <Unicode>deſſen mächtigerer Bruder, aller Wahrſcheinlichkeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_159">
+        
+            <Coords points="1819,373 1819,2062 1901,2062 1901,373"/>
+            <TextEquiv>
+                <Unicode>nach, nicht auf ſein daran erlangtes Recht verzich-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_160">
+        
+            <Coords points="1911,373 1911,2017 1988,2017 1988,373"/>
+            <TextEquiv>
+                <Unicode>ten würde. Allein der Tod des Wilhelm Rufus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_161">
+        
+            <Coords points="1998,374 1998,1936 2073,1936 2073,374"/>
+            <TextEquiv>
+                <Unicode>brachte einen dritten Sohn des Eroberers mit in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_162">
+        
+            <Coords points="2084,375 2084,1935 2160,1935 2160,375"/>
+            <TextEquiv>
+                <Unicode>das Spiel. Dieſer war Heinrich, der Jüngſte, den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_163">
+        
+            <Coords points="2172,374 2172,1934 2248,1934 2248,374"/>
+            <TextEquiv>
+                <Unicode>ſeine Brüder, ſowohl Robert wie Wilhelm, nach</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_164">
+        
+            <Coords points="2250,374 2250,1933 2338,1933 2338,374"/>
+            <TextEquiv>
+                <Unicode>des Vaters Tode mit vieler Strenge behandelt und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_165">
+        
+            <Coords points="2340,374 2340,2007 2437,2007 2437,374"/>
+            <TextEquiv>
+                <Unicode>ihm den kleinſten, ſeinem Range geziemenden Jahr-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_166">
+        
+            <Coords points="2431,375 2431,1935 2514,1935 2514,375"/>
+            <TextEquiv>
+                <Unicode>gehalt verweigert hatten. Bürgerkrieg brach zwi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_167">
+        
+            <Coords points="2524,376 2524,1936 2599,1936 2599,376"/>
+            <TextEquiv>
+                <Unicode>ſchen den Brüdern aus, und bei einer denkwürdigen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_168">
+        
+            <Coords points="2612,375 2612,2032 2692,2032 2692,375"/>
+            <TextEquiv>
+                <Unicode>Gelegenheit ward Heinrich von ſeinen Brüdern in</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 44 -
+mehr als Robert, der Herzog von der Normandie.
+Um ſich ſelbſt dem Kreuzzuge zu widmen, hatte die-
+ſer älteſte Sohn Wilhelms des Eroberers die Nor-
+mandie, die von ſeines Vaters Beſitzungen der ein-
+zige Theil war, der ihm zuſiel, an ſeinen Bruder
+Wilhelm den Rothen, König von England für eine
+große Summe Geldes verpfändet. Allein während
+Robert beſchäftigt war, mahomedaniſche Kämpen
+vom Wirbel bis zum Gürtel zu ſpalten und Thaten
+höchſt romantiſcher Tapferkeit zu verrichten, war
+Wilhelm in Geheim bemüht, den Antheil zu ſichern
+und bleibend zu machen, den er an dem Pfande
+hatte, das ihm durch das Lehen des Herzogthums
+übergeben worden war, und bald ließ es ſich erken-
+nen, daß ſelbſt wenn Robert im Stande ſeyn und
+Verlangen tragen ſollte, ſein Land zurückzufordern,
+deſſen mächtigerer Bruder, aller Wahrſcheinlichkeit
+nach, nicht auf ſein daran erlangtes Recht verzich-
+ten würde. Allein der Tod des Wilhelm Rufus
+brachte einen dritten Sohn des Eroberers mit in
+das Spiel. Dieſer war Heinrich, der Jüngſte, den
+ſeine Brüder, ſowohl Robert wie Wilhelm, nach
+des Vaters Tode mit vieler Strenge behandelt und
+ihm den kleinſten, ſeinem Range geziemenden Jahr-
+gehalt verweigert hatten. Bürgerkrieg brach zwi-
+ſchen den Brüdern aus, und bei einer denkwürdigen
+Gelegenheit ward Heinrich von ſeinen Brüdern in</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3152" imageWidth="2217">
+    <PrintSpace>
+        <Coords points="0,0 0,2217 3152,2217 3152,2217"/>
+    </PrintSpace>
+    <TextRegion id="textblock_6">
+        <Coords points="0,0 0,2217 3152,2217 3152,2217"/>
+        
+            <TextLine id="textline_169">
+        
+            <Coords points="218,815 218,1208 300,1208 300,815"/>
+            <TextEquiv>
+                <Unicode>- 23 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_170">
+        
+            <Coords points="331,228 331,1786 436,1786 436,228"/>
+            <TextEquiv>
+                <Unicode>war, in verſchiedene Wogen eines und deſſelben her-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_171">
+        
+            <Coords points="445,229 445,1787 527,1787 527,229"/>
+            <TextEquiv>
+                <Unicode>anſchwemmenden Oceans, Deutſchland durchzogen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_172">
+        
+            <Coords points="532,227 532,1788 610,1788 610,227"/>
+            <TextEquiv>
+                <Unicode>und auf ſeinem Wege unerhörte Unordnungen an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_173">
+        
+            <Coords points="620,227 620,1788 696,1788 696,227"/>
+            <TextEquiv>
+                <Unicode>gerichtet hatte, gelangte es nach Hungarn, wo da-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_174">
+        
+            <Coords points="707,164 707,1868 789,1868 789,164"/>
+            <TextEquiv>
+                <Unicode>mals die Ueberreſte der Hunnen und Bulgarier an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_175">
+        
+            <Coords points="783,165 783,1790 878,1790 878,165"/>
+            <TextEquiv>
+                <Unicode>ſäſſig waren. Dieſes kecke Volk fand, obwohl es dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_176">
+        
+            <Coords points="884,228 884,1789 964,1789 964,228"/>
+            <TextEquiv>
+                <Unicode>chriſtlichen Glauben zugethan war, daß die kriege-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_177">
+        
+            <Coords points="970,225 970,1963 1059,1963 1059,225"/>
+            <TextEquiv>
+                <Unicode>riſchen Pilgrimme des Landes Dörfer plünderten und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_178">
+        
+            <Coords points="1061,228 1061,1791 1137,1791 1137,228"/>
+            <TextEquiv>
+                <Unicode>die Lebensmittel wegnahmen, und griff daher ohne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_179">
+        
+            <Coords points="1141,224 1141,1976 1225,1976 1225,224"/>
+            <TextEquiv>
+                <Unicode>Säumen zu den Waffen gegen die Durchzügler, be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_180">
+        
+            <Coords points="1235,225 1235,1791 1313,1791 1313,225"/>
+            <TextEquiv>
+                <Unicode>nutzt die Moräſte und ſchwierigen Päſſe des Landes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_181">
+        
+            <Coords points="1326,225 1326,1794 1410,1794 1410,225"/>
+            <TextEquiv>
+                <Unicode>und vernichtete ſo viele von den Kreuzfahrern, daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_182">
+        
+            <Coords points="1405,225 1405,1792 1485,1792 1485,225"/>
+            <TextEquiv>
+                <Unicode>nur ein Drittheil des Schwarmes, der mit dem Ein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_183">
+        
+            <Coords points="1497,227 1497,1796 1576,1796 1576,227"/>
+            <TextEquiv>
+                <Unicode>ſiedler Peter gezogen war, auf griechiſches Gebiet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_184">
+        
+            <Coords points="1585,232 1585,1794 1665,1794 1665,232"/>
+            <TextEquiv>
+                <Unicode>entrann. Hier half der Kaiſer Alexius, wiewohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_185">
+        
+            <Coords points="1670,232 1670,1794 1749,1794 1749,232"/>
+            <TextEquiv>
+                <Unicode>etwas erſtaunt (zweifelsohne über das erbärmliche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_186">
+        
+            <Coords points="1759,230 1759,1791 1841,1791 1841,230"/>
+            <TextEquiv>
+                <Unicode>Ausſehen der Vorhuth ſeiner abendländiſchen Hülfs-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_187">
+        
+            <Coords points="1848,230 1848,1794 1934,1794 1934,230"/>
+            <TextEquiv>
+                <Unicode>völker), ihren Bedürfniſſen ab und war bemühet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_188">
+        
+            <Coords points="1927,230 1927,1794 2019,1794 2019,230"/>
+            <TextEquiv>
+                <Unicode>ſie dahin zu bringen, Verſtärkungen von Europa</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_189">
+        
+            <Coords points="2026,231 2026,1792 2103,1792 2103,231"/>
+            <TextEquiv>
+                <Unicode>her abzuwarten. Allein nachdem ſie einmal der Oſt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_190">
+        
+            <Coords points="2113,233 2113,1795 2189,1795 2189,233"/>
+            <TextEquiv>
+                <Unicode>ſeite des Boſphorus, wohin die Staatsklugheit des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_191">
+        
+            <Coords points="2201,234 2201,1795 2287,1795 2287,234"/>
+            <TextEquiv>
+                <Unicode>Kaiſers ſie hatte bringen laſſen, nahe waren, ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_192">
+        
+            <Coords points="2281,237 2281,1796 2365,1796 2365,237"/>
+            <TextEquiv>
+                <Unicode>lockte der Schwärmereifer dies ſtürmiſche Heer von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_193">
+        
+            <Coords points="2379,250 2379,1400 2453,1400 2453,250"/>
+            <TextEquiv>
+                <Unicode>neuem, in ſein Verderben zu rennen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_194">
+        
+            <Coords points="2466,379 2466,1791 2543,1791 2543,379"/>
+            <TextEquiv>
+                <Unicode>Sie drangen vor nach Kleinaſien, und Soliman,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_195">
+        
+            <Coords points="2552,241 2552,1799 2630,1799 2630,241"/>
+            <TextEquiv>
+                <Unicode>der Sultan von Antiochien, lockte dieſe unwiſſenden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_196">
+        
+            <Coords points="2640,245 2640,1799 2717,1799 2717,245"/>
+            <TextEquiv>
+                <Unicode>Krieger in die Ebenen von Nicäa, wo ſie unter den</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 23 -
+war, in verſchiedene Wogen eines und deſſelben her-
+anſchwemmenden Oceans, Deutſchland durchzogen
+und auf ſeinem Wege unerhörte Unordnungen an-
+gerichtet hatte, gelangte es nach Hungarn, wo da-
+mals die Ueberreſte der Hunnen und Bulgarier an-
+ſäſſig waren. Dieſes kecke Volk fand, obwohl es dem
+chriſtlichen Glauben zugethan war, daß die kriege-
+riſchen Pilgrimme des Landes Dörfer plünderten und
+die Lebensmittel wegnahmen, und griff daher ohne
+Säumen zu den Waffen gegen die Durchzügler, be-
+nutzt die Moräſte und ſchwierigen Päſſe des Landes
+und vernichtete ſo viele von den Kreuzfahrern, daß
+nur ein Drittheil des Schwarmes, der mit dem Ein-
+ſiedler Peter gezogen war, auf griechiſches Gebiet
+entrann. Hier half der Kaiſer Alexius, wiewohl
+etwas erſtaunt (zweifelsohne über das erbärmliche
+Ausſehen der Vorhuth ſeiner abendländiſchen Hülfs-
+völker), ihren Bedürfniſſen ab und war bemühet,
+ſie dahin zu bringen, Verſtärkungen von Europa
+her abzuwarten. Allein nachdem ſie einmal der Oſt-
+ſeite des Boſphorus, wohin die Staatsklugheit des
+Kaiſers ſie hatte bringen laſſen, nahe waren, ver-
+lockte der Schwärmereifer dies ſtürmiſche Heer von
+neuem, in ſein Verderben zu rennen.
+Sie drangen vor nach Kleinaſien, und Soliman,
+der Sultan von Antiochien, lockte dieſe unwiſſenden
+Krieger in die Ebenen von Nicäa, wo ſie unter den</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

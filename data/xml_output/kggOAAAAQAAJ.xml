@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4104" imageWidth="2396">
+    <PrintSpace>
+        <Coords points="0,0 0,2396 4104,2396 4104,2396"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2396 4104,2396 4104,2396"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="314,404 314,1965 452,1965 452,404"/>
+            <TextEquiv>
+                <Unicode>THE HEART OF MID-LOTHIAN. 69</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="514,152 514,1969 643,1969 643,152"/>
+            <TextEquiv>
+                <Unicode>&#34;You asked her. questions on the sub-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="634,99 634,1973 755,1973 755,99"/>
+            <TextEquiv>
+                <Unicode>ject?&#34; he said, eagerly.  You must re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="765,99 765,1974 879,1974 879,99"/>
+            <TextEquiv>
+                <Unicode>memlier her answer was, a confession that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="897,99 897,1974 1010,1974 1010,99"/>
+            <TextEquiv>
+                <Unicode>she had been ruined by a villain - yes, lay a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1026,110 1026,1971 1151,1971 1151,110"/>
+            <TextEquiv>
+                <Unicode>strong emphasis on that - a cruel, false vil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1142,97 1142,2063 1281,2063 1281,97"/>
+            <TextEquiv>
+                <Unicode>lain call it - any other name is unnecessary;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1280,93 1280,1977 1407,1977 1407,93"/>
+            <TextEquiv>
+                <Unicode>and that she bore under her bosom the con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1399,91 1399,2058 1523,2058 1523,91"/>
+            <TextEquiv>
+                <Unicode>seqjuences of his guilt and her folly ; and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1536,102 1536,2180 1646,2180 1646,102"/>
+            <TextEquiv>
+                <Unicode>that he had assured her he would provide.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1652,104 1652,1975 1775,1975 1775,104"/>
+            <TextEquiv>
+                <Unicode>safely for her approaching illness.- Well</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1778,97 1778,1975 1905,1975 1905,97"/>
+            <TextEquiv>
+                <Unicode>he kept his word!&#34; These last words he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1912,109 1912,1976 2037,1976 2037,109"/>
+            <TextEquiv>
+                <Unicode>spoke as it were to himself, and with a vio-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2028,108 2028,1973 2168,1973 2168,108"/>
+            <TextEquiv>
+                <Unicode>lent gesture of self-accusation, and then</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2168,109 2168,1975 2279,1975 2279,109"/>
+            <TextEquiv>
+                <Unicode>calmly proceeded, &#34;You will remember</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2296,106 2296,1985 2406,1985 2406,106"/>
+            <TextEquiv>
+                <Unicode>all this? - That is all that is necesssary to be</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2424,144 2424,382 2537,382 2537,144"/>
+            <TextEquiv>
+                <Unicode>said.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2523,146 2523,1976 2662,1976 2662,146"/>
+            <TextEquiv>
+                <Unicode>&#34;But I cannot remember,&#34; answered</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2677,102 2677,2104 2819,2104 2819,102"/>
+            <TextEquiv>
+                <Unicode>Jeanie, with simplicity, &#34;that which Effie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2808,135 2808,815 2927,815 2927,135"/>
+            <TextEquiv>
+                <Unicode>never told me.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2899,211 2899,1979 3051,1979 3051,211"/>
+            <TextEquiv>
+                <Unicode>&#34;Are you so dull - so very dull of ap-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3059,108 3059,2094 3185,2094 3185,108"/>
+            <TextEquiv>
+                <Unicode>prehension!&#34; he exclaimed, suddenly grasp-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3177,111 3177,1979 3298,1979 3298,111"/>
+            <TextEquiv>
+                <Unicode>ing her arm, and holding it firm in his hand.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3312,109 3312,1977 3431,1977 3431,109"/>
+            <TextEquiv>
+                <Unicode>&#34;I tell you,&#34; (speaking.between his teeth,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3436,103 3436,1979 3580,1979 3580,103"/>
+            <TextEquiv>
+                <Unicode>and under his breath, but with great ener-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3584,780 3584,1088 3721,1088 3721,780"/>
+            <TextEquiv>
+                <Unicode>9</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>THE HEART OF MID-LOTHIAN. 69
+&#34;You asked her. questions on the sub-
+ject?&#34; he said, eagerly.  You must re-
+memlier her answer was, a confession that
+she had been ruined by a villain - yes, lay a
+strong emphasis on that - a cruel, false vil-
+lain call it - any other name is unnecessary;
+and that she bore under her bosom the con-
+seqjuences of his guilt and her folly ; and
+that he had assured her he would provide.
+safely for her approaching illness.- Well
+he kept his word!&#34; These last words he
+spoke as it were to himself, and with a vio-
+lent gesture of self-accusation, and then
+calmly proceeded, &#34;You will remember
+all this? - That is all that is necesssary to be
+said.&#34;
+&#34;But I cannot remember,&#34; answered
+Jeanie, with simplicity, &#34;that which Effie
+never told me.&#34;
+&#34;Are you so dull - so very dull of ap-
+prehension!&#34; he exclaimed, suddenly grasp-
+ing her arm, and holding it firm in his hand.
+&#34;I tell you,&#34; (speaking.between his teeth,
+and under his breath, but with great ener-
+9</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4113" imageWidth="2373">
+    <PrintSpace>
+        <Coords points="0,0 0,2373 4113,2373 4113,2373"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2373 4113,2373 4113,2373"/>
+        
+            <TextLine id="textline_26">
+        
+            <Coords points="313,527 313,2074 413,2074 413,527"/>
+            <TextEquiv>
+                <Unicode>THE HEART OF MID-LOTHIAN. 279</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="497,205 497,2089 626,2089 626,205"/>
+            <TextEquiv>
+                <Unicode>the justises, and the sworn inquest Of ex-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="616,203 616,2083 754,2083 754,203"/>
+            <TextEquiv>
+                <Unicode>tra-judicial confession, all authorities held</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="745,196 745,2083 864,2083 864,196"/>
+            <TextEquiv>
+                <Unicode>with the illustrious Fariuaceus, and Mat-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="881,201 881,2085 997,2085 997,201"/>
+            <TextEquiv>
+                <Unicode>theus, &#39;confessio extrajudicialis in se nulla</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="1013,194 1013,2090 1126,2090 1126,194"/>
+            <TextEquiv>
+                <Unicode>est, et quod nulllum est, non potest adminicu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="1135,194 1135,2086 1253,2086 1253,194"/>
+            <TextEquiv>
+                <Unicode>lari.&#39; It was totally inept, and void of all</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="1265,205 1265,2078 1378,2078 1378,205"/>
+            <TextEquiv>
+                <Unicode>strength and effect from the beginning; in-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="1393,201 1393,2083 1504,2083 1504,201"/>
+            <TextEquiv>
+                <Unicode>eapable, therefore, of being bolstered up or</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1521,197 1521,2078 1632,2078 1632,197"/>
+            <TextEquiv>
+                <Unicode>supported, or, according to the law-phrase,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="1648,197 1648,2085 1760,2085 1760,197"/>
+            <TextEquiv>
+                <Unicode>adminiculated, by other presumptive cir-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="1775,209 1775,2078 1888,2078 1888,209"/>
+            <TextEquiv>
+                <Unicode>cumstances. In the present cese, therefore,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1903,203 1903,2087 2015,2087 2015,203"/>
+            <TextEquiv>
+                <Unicode>letting the extra-judicial confession go, as</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2028,206 2028,2089 2142,2089 2142,206"/>
+            <TextEquiv>
+                <Unicode>it ought to go, for nothing,&#39;&#39; he contend-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2157,204 2157,2088 2269,2088 2269,204"/>
+            <TextEquiv>
+                <Unicode>ed,&#34; the proseutor had not made out the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2283,212 2283,2089 2399,2089 2399,212"/>
+            <TextEquiv>
+                <Unicode>second quality of the statute, that a live</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2410,208 2410,2087 2515,2087 2515,208"/>
+            <TextEquiv>
+                <Unicode>child had been born; and that, at least,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2539,206 2539,2091 2650,2091 2650,206"/>
+            <TextEquiv>
+                <Unicode>ought to be established before presump-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2667,185 2667,2093 2782,2093 2782,185"/>
+            <TextEquiv>
+                <Unicode>tions were received that it had been mur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="2792,206 2792,2231 2905,2231 2905,206"/>
+            <TextEquiv>
+                <Unicode>dered. If any of the assize,&#39;&#39; he said,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="2919,214 2919,2094 3031,2094 3031,214"/>
+            <TextEquiv>
+                <Unicode>&#34;should be of opinion that this was deal-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3048,212 3048,2092 3160,2092 3160,212"/>
+            <TextEquiv>
+                <Unicode>ing rather narrowly with the statute, they</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3175,218 3175,2096 3287,2096 3287,218"/>
+            <TextEquiv>
+                <Unicode>ought to consider that it was in its nature</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3301,216 3301,2096 3417,2096 3417,216"/>
+            <TextEquiv>
+                <Unicode>highly penal, and therefore entitled to no</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3432,175 3432,1339 3576,1339 3576,175"/>
+            <TextEquiv>
+                <Unicode>favourable construction.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>THE HEART OF MID-LOTHIAN. 279
+the justises, and the sworn inquest Of ex-
+tra-judicial confession, all authorities held
+with the illustrious Fariuaceus, and Mat-
+theus, &#39;confessio extrajudicialis in se nulla
+est, et quod nulllum est, non potest adminicu-
+lari.&#39; It was totally inept, and void of all
+strength and effect from the beginning; in-
+eapable, therefore, of being bolstered up or
+supported, or, according to the law-phrase,
+adminiculated, by other presumptive cir-
+cumstances. In the present cese, therefore,
+letting the extra-judicial confession go, as
+it ought to go, for nothing,&#39;&#39; he contend-
+ed,&#34; the proseutor had not made out the
+second quality of the statute, that a live
+child had been born; and that, at least,
+ought to be established before presump-
+tions were received that it had been mur-
+dered. If any of the assize,&#39;&#39; he said,
+&#34;should be of opinion that this was deal-
+ing rather narrowly with the statute, they
+ought to consider that it was in its nature
+highly penal, and therefore entitled to no
+favourable construction.&#34;</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

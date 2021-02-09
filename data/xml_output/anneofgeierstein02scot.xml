@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4530" imageWidth="2780">
+    <PrintSpace>
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="464,400 464,505 536,505 536,400"/>
+            <TextEquiv>
+                <Unicode>32</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="482,920 482,1905 582,1905 582,920"/>
+            <TextEquiv>
+                <Unicode>ANNE OF GEIERSTEIN.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="705,353 705,2461 816,2461 816,353"/>
+            <TextEquiv>
+                <Unicode>one mule can manage to carry? They must be</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="851,352 851,2464 960,2464 960,352"/>
+            <TextEquiv>
+                <Unicode>beggarly Bohemians, or those whom the French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="993,353 993,2462 1107,2462 1107,353"/>
+            <TextEquiv>
+                <Unicode>people call Escossais. The knaves! they shall</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1140,353 1140,2469 1250,2469 1250,353"/>
+            <TextEquiv>
+                <Unicode>pay with the pining of their paunches for the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1285,376 1285,1481 1396,1481 1396,376"/>
+            <TextEquiv>
+                <Unicode>poverty of their purses.&#39;&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1431,463 1431,2465 1542,2465 1542,463"/>
+            <TextEquiv>
+                <Unicode>&#34;Do not be too hasty, and please your ex-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1577,352 1577,2465 1687,2465 1687,352"/>
+            <TextEquiv>
+                <Unicode>cellency,&#39;&#39; quoth the squire; &#34;small budgets</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1723,351 1723,2468 1833,2468 1833,351"/>
+            <TextEquiv>
+                <Unicode>hold rich goods. But rich or poor, they are our</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1868,351 1868,2470 1974,2470 1974,351"/>
+            <TextEquiv>
+                <Unicode>men, at least they have all the marks - the el-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2010,352 2010,2470 2121,2470 2121,352"/>
+            <TextEquiv>
+                <Unicode>der, well-sized, and dark-visaged, may write</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2156,351 2156,2465 2267,2465 2267,351"/>
+            <TextEquiv>
+                <Unicode>fifty and five years, a beard somewhat grizzled;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2301,350 2301,2469 2411,2469 2411,350"/>
+            <TextEquiv>
+                <Unicode>- the younger, some two-and-twenty, taller</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2443,351 2443,2469 2544,2469 2544,351"/>
+            <TextEquiv>
+                <Unicode>than the first, and a well-favoured lad, with a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2588,356 2588,2288 2698,2288 2698,356"/>
+            <TextEquiv>
+                <Unicode>smooth chin and light-brown mustachoes.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2721,461 2721,2459 2835,2459 2835,461"/>
+            <TextEquiv>
+                <Unicode>&#34;Let them be admitted,&#34; said the Governor,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2882,352 2882,2466 2992,2466 2992,352"/>
+            <TextEquiv>
+                <Unicode>turning back in order again to descend to the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3027,352 3027,2466 3137,2466 3137,352"/>
+            <TextEquiv>
+                <Unicode>street, &#34;and bring them into the folter-kam-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3175,377 3175,1396 3258,1396 3258,377"/>
+            <TextEquiv>
+                <Unicode>mer of the toll house.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3318,463 3318,2464 3428,2464 3428,463"/>
+            <TextEquiv>
+                <Unicode>So saying, he betook himself to the place ap-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3461,353 3461,2468 3573,2468 3573,353"/>
+            <TextEquiv>
+                <Unicode>pointed, which was an apartment in the large</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3609,357 3609,2465 3718,2465 3718,357"/>
+            <TextEquiv>
+                <Unicode>tower that protected the eastern gate-way, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3752,355 3752,2467 3862,2467 3862,355"/>
+            <TextEquiv>
+                <Unicode>which were deposited the rack, with various other</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3897,358 3897,2465 3996,2465 3996,358"/>
+            <TextEquiv>
+                <Unicode>instruments of torture, which the cruel and ra-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="4038,365 4038,2471 4150,2471 4150,365"/>
+            <TextEquiv>
+                <Unicode>pacious Governor was in the habit of applying</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>32
+ANNE OF GEIERSTEIN.
+one mule can manage to carry? They must be
+beggarly Bohemians, or those whom the French
+people call Escossais. The knaves! they shall
+pay with the pining of their paunches for the
+poverty of their purses.&#39;&#34;
+&#34;Do not be too hasty, and please your ex-
+cellency,&#39;&#39; quoth the squire; &#34;small budgets
+hold rich goods. But rich or poor, they are our
+men, at least they have all the marks - the el-
+der, well-sized, and dark-visaged, may write
+fifty and five years, a beard somewhat grizzled;
+- the younger, some two-and-twenty, taller
+than the first, and a well-favoured lad, with a
+smooth chin and light-brown mustachoes.&#34;
+&#34;Let them be admitted,&#34; said the Governor,
+turning back in order again to descend to the
+street, &#34;and bring them into the folter-kam-
+mer of the toll house.&#34;
+So saying, he betook himself to the place ap-
+pointed, which was an apartment in the large
+tower that protected the eastern gate-way, in
+which were deposited the rack, with various other
+instruments of torture, which the cruel and ra-
+pacious Governor was in the habit of applying</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4530" imageWidth="2780">
+    <PrintSpace>
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+        
+            <TextLine id="textline_26">
+        
+            <Coords points="292,482 292,627 362,627 362,482"/>
+            <TextEquiv>
+                <Unicode>170</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="300,988 300,2001 360,2001 360,988"/>
+            <TextEquiv>
+                <Unicode>ANNE OF GEIERSTEIN.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="522,423 522,2554 617,2554 617,423"/>
+            <TextEquiv>
+                <Unicode>storms of Switzerland. Heaven was above us</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="664,422 664,2552 779,2552 779,422"/>
+            <TextEquiv>
+                <Unicode>then, as it is over us now. Adieu, my beloved</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="809,424 809,2553 920,2553 920,424"/>
+            <TextEquiv>
+                <Unicode>Arthur! Should I wait till the moment of sepa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="953,426 953,2553 1072,2553 1072,426"/>
+            <TextEquiv>
+                <Unicode>ration, there may be but short time to speak the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="1100,426 1100,2553 1215,2553 1215,426"/>
+            <TextEquiv>
+                <Unicode>fatal word, and no eye save thine own must see</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="1247,441 1247,1997 1360,1997 1360,441"/>
+            <TextEquiv>
+                <Unicode>the tear which I now wipe away.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="1391,534 1391,2554 1512,2554 1512,534"/>
+            <TextEquiv>
+                <Unicode>The painful feeling which accompanied this</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1537,428 1537,2556 1657,2556 1657,428"/>
+            <TextEquiv>
+                <Unicode>anticipation of their parting, was so sincere on</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="1682,433 1682,2560 1803,2560 1803,433"/>
+            <TextEquiv>
+                <Unicode>Arthur&#39;s part, as well as that of his father, that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="1829,432 1829,2563 1924,2563 1924,432"/>
+            <TextEquiv>
+                <Unicode>it did not at first occur to the former, as a source</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1970,433 1970,2566 2080,2566 2080,433"/>
+            <TextEquiv>
+                <Unicode>of consolation, that it seemed likely he might</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2115,433 2115,2568 2237,2568 2237,433"/>
+            <TextEquiv>
+                <Unicode>be placed under the guidance of the singular fe-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2260,436 2260,2569 2374,2569 2374,436"/>
+            <TextEquiv>
+                <Unicode>male, the memory of whom haunted him. True</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2404,439 2404,2563 2519,2563 2519,439"/>
+            <TextEquiv>
+                <Unicode>it was, that the beauty of Anne of Geierstein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2550,440 2550,2569 2663,2569 2663,440"/>
+            <TextEquiv>
+                <Unicode>as well as the striking circumstances in which</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2696,445 2696,2569 2802,2569 2802,445"/>
+            <TextEquiv>
+                <Unicode>he had exhibited herself, had on that very</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2842,443 2842,2573 2963,2573 2963,443"/>
+            <TextEquiv>
+                <Unicode>morning been the principal occupation of his</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="2987,446 2987,2573 3104,2573 3104,446"/>
+            <TextEquiv>
+                <Unicode>mind; but they were now chased from it by the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3132,447 3132,2574 3254,2574 3254,447"/>
+            <TextEquiv>
+                <Unicode>predominant recollection, that he was about to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3274,453 3274,2574 3398,2574 3398,453"/>
+            <TextEquiv>
+                <Unicode>bc separated in a moment of danger from a fa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3420,453 3420,2579 3531,2579 3531,453"/>
+            <TextEquiv>
+                <Unicode>ther, so well deserving of his highest esteem and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3571,486 3571,1404 3660,1404 3660,486"/>
+            <TextEquiv>
+                <Unicode>his fondest affection.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3710,568 3710,2578 3815,2578 3815,568"/>
+            <TextEquiv>
+                <Unicode>Meanwhile, that father dashed from his eye</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3854,463 3854,2583 3950,2583 3950,463"/>
+            <TextEquiv>
+                <Unicode>the tear which his devoted stoicism could not</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3995,464 3995,2582 4121,2582 4121,464"/>
+            <TextEquiv>
+                <Unicode>suppress, and, as if afraid of softening his re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>170
+ANNE OF GEIERSTEIN.
+storms of Switzerland. Heaven was above us
+then, as it is over us now. Adieu, my beloved
+Arthur! Should I wait till the moment of sepa-
+ration, there may be but short time to speak the
+fatal word, and no eye save thine own must see
+the tear which I now wipe away.&#34;
+The painful feeling which accompanied this
+anticipation of their parting, was so sincere on
+Arthur&#39;s part, as well as that of his father, that
+it did not at first occur to the former, as a source
+of consolation, that it seemed likely he might
+be placed under the guidance of the singular fe-
+male, the memory of whom haunted him. True
+it was, that the beauty of Anne of Geierstein,
+as well as the striking circumstances in which
+he had exhibited herself, had on that very
+morning been the principal occupation of his
+mind; but they were now chased from it by the
+predominant recollection, that he was about to
+bc separated in a moment of danger from a fa-
+ther, so well deserving of his highest esteem and
+his fondest affection.
+Meanwhile, that father dashed from his eye
+the tear which his devoted stoicism could not
+suppress, and, as if afraid of softening his re-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

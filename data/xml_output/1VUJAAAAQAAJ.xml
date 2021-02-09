@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3401" imageWidth="2173">
+    <PrintSpace>
+        <Coords points="0,0 0,2173 3401,2173 3401,2173"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2173 3401,2173 3401,2173"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="210,264 210,590 272,590 272,264"/>
+            <TextEquiv>
+                <Unicode>330</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="225,871 225,1283 274,1283 274,871"/>
+            <TextEquiv>
+                <Unicode>LETTERS ON</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="341,230 341,1918 429,1918 429,230"/>
+            <TextEquiv>
+                <Unicode>charge. It appears that the Major, with a maid-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="420,228 420,1919 508,1919 508,228"/>
+            <TextEquiv>
+                <Unicode>en sister who had kept his house, was subject to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="500,227 500,1917 589,1917 589,227"/>
+            <TextEquiv>
+                <Unicode>fits of melancholic lunacy, an infirmity easily re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="580,228 580,1918 666,1918 666,228"/>
+            <TextEquiv>
+                <Unicode>concilable with the formal pretences which he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="660,227 660,1918 746,1918 746,227"/>
+            <TextEquiv>
+                <Unicode>made to a high show of religious zeal. He was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="738,225 738,1916 826,1916 826,225"/>
+            <TextEquiv>
+                <Unicode>peculiar. in his gift of prayer, and as was the cus-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="819,226 819,1922 903,1922 903,226"/>
+            <TextEquiv>
+                <Unicode>tom of the period, was often  called to exercise</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="896,227 896,1920 985,1920 985,227"/>
+            <TextEquiv>
+                <Unicode>this talent by the bedside of sick persons, until it</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="978,226 978,1922 1064,1922 1064,226"/>
+            <TextEquiv>
+                <Unicode>came to be observed, that, by some association,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1058,224 1058,1916 1144,1916 1144,224"/>
+            <TextEquiv>
+                <Unicode>which it is more easy to conceive than to explain,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1135,226 1135,1919 1223,1919 1223,226"/>
+            <TextEquiv>
+                <Unicode>he could not pray with the same warmth and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1215,221 1215,1922 1304,1922 1304,221"/>
+            <TextEquiv>
+                <Unicode>fluency of expression, unless when he had in his</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1296,223 1296,1924 1382,1924 1382,223"/>
+            <TextEquiv>
+                <Unicode>hand a stick of peculiar shape and appearance,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1376,225 1376,1910 1460,1910 1460,225"/>
+            <TextEquiv>
+                <Unicode>which he generally walked with. It was noticed,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1455,226 1455,1916 1532,1916 1532,226"/>
+            <TextEquiv>
+                <Unicode>in short, that when this stick was taken from him,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1533,225 1533,1920 1622,1920 1622,225"/>
+            <TextEquiv>
+                <Unicode>his wit and talent appeared to forsake him. This</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1613,229 1613,1921 1701,1921 1701,229"/>
+            <TextEquiv>
+                <Unicode>Major Weir was seized by the magistrates on a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1692,229 1692,1921 1780,1921 1780,229"/>
+            <TextEquiv>
+                <Unicode>strange whisper that became current respecting</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1773,227 1773,1918 1859,1918 1859,227"/>
+            <TextEquiv>
+                <Unicode>vile practices, which he seems to have admitted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1852,230 1852,1919 1931,1919 1931,230"/>
+            <TextEquiv>
+                <Unicode>without, either shame or contrition. The dis-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1932,225 1932,2011 2018,2011 2018,225"/>
+            <TextEquiv>
+                <Unicode>gusting profligacies which he confessed, were of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2012,231 2012,1918 2098,1918 2098,231"/>
+            <TextEquiv>
+                <Unicode>such a character, that it maybe charitably hoped</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2092,229 2092,1917 2178,1917 2178,229"/>
+            <TextEquiv>
+                <Unicode>most of them were the fruits of a depraved</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2170,229 2170,1917 2259,1917 2259,229"/>
+            <TextEquiv>
+                <Unicode>imagination, though he appears to have been in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2250,227 2250,1919 2338,1919 2338,227"/>
+            <TextEquiv>
+                <Unicode>many respects a wicked and criminal hypocrite.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2330,231 2330,1919 2416,1919 2416,231"/>
+            <TextEquiv>
+                <Unicode>When he had completed his confession, he avow-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2409,229 2409,1918 2497,1918 2497,229"/>
+            <TextEquiv>
+                <Unicode>ed solemnly that he had not confessed the hun-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2489,230 2489,1921 2575,1921 2575,230"/>
+            <TextEquiv>
+                <Unicode>dredth part of the crimes which he had committed.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2567,230 2567,1920 2653,1920 2653,230"/>
+            <TextEquiv>
+                <Unicode>From this time he would answer no interroga-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2648,228 2648,1920 2734,1920 2734,228"/>
+            <TextEquiv>
+                <Unicode>tory, nor wonld he have recourse to prayer, ar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2728,228 2728,1920 2811,1920 2811,228"/>
+            <TextEquiv>
+                <Unicode>guing, that as he had no hope whatever of esca-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2806,227 2806,1920 2892,1920 2892,227"/>
+            <TextEquiv>
+                <Unicode>ping Satan, there was no need of incensing him by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2887,227 2887,1920 2970,1920 2970,227"/>
+            <TextEquiv>
+                <Unicode>vain efforts at repentance. His witchcraft seems</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2964,227 2964,1918 3054,1918 3054,227"/>
+            <TextEquiv>
+                <Unicode>to have been taken for granted on his own confes-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>330
+LETTERS ON
+charge. It appears that the Major, with a maid-
+en sister who had kept his house, was subject to
+fits of melancholic lunacy, an infirmity easily re-
+concilable with the formal pretences which he
+made to a high show of religious zeal. He was
+peculiar. in his gift of prayer, and as was the cus-
+tom of the period, was often  called to exercise
+this talent by the bedside of sick persons, until it
+came to be observed, that, by some association,
+which it is more easy to conceive than to explain,
+he could not pray with the same warmth and
+fluency of expression, unless when he had in his
+hand a stick of peculiar shape and appearance,
+which he generally walked with. It was noticed,
+in short, that when this stick was taken from him,
+his wit and talent appeared to forsake him. This
+Major Weir was seized by the magistrates on a
+strange whisper that became current respecting
+vile practices, which he seems to have admitted
+without, either shame or contrition. The dis-
+gusting profligacies which he confessed, were of
+such a character, that it maybe charitably hoped
+most of them were the fruits of a depraved
+imagination, though he appears to have been in
+many respects a wicked and criminal hypocrite.
+When he had completed his confession, he avow-
+ed solemnly that he had not confessed the hun-
+dredth part of the crimes which he had committed.
+From this time he would answer no interroga-
+tory, nor wonld he have recourse to prayer, ar-
+guing, that as he had no hope whatever of esca-
+ping Satan, there was no need of incensing him by
+vain efforts at repentance. His witchcraft seems
+to have been taken for granted on his own confes-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3406" imageWidth="2178">
+    <PrintSpace>
+        <Coords points="0,0 0,2178 3406,2178 3406,2178"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2178 3406,2178 3406,2178"/>
+        
+            <TextLine id="textline_36">
+        
+            <Coords points="228,282 228,408 289,408 289,282"/>
+            <TextEquiv>
+                <Unicode>212</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="243,880 243,1306 289,1306 289,880"/>
+            <TextEquiv>
+                <Unicode>LETTERS ON</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="353,245 353,1940 437,1940 437,245"/>
+            <TextEquiv>
+                <Unicode>chiefly current in France, but was known in other</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="435,243 435,1959 519,1959 519,243"/>
+            <TextEquiv>
+                <Unicode>Countries, and is the subject of great debate be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="513,239 513,1935 593,1935 593,239"/>
+            <TextEquiv>
+                <Unicode>tween Wier, Nande, Scot, on the one hand, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="592,236 592,1962 684,1962 684,236"/>
+            <TextEquiv>
+                <Unicode>their demonological adversaries on the other. The</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="671,237 671,1937 761,1937 761,237"/>
+            <TextEquiv>
+                <Unicode>idea, said the one party, was, that a human being</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="749,234 749,1960 841,1960 841,234"/>
+            <TextEquiv>
+                <Unicode>had the power, by sorcery, of transforming himself</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="830,232 830,1960 920,1960 920,232"/>
+            <TextEquiv>
+                <Unicode>into the shape of a wolf, and in that capacity, being</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="911,234 911,1962 1002,1962 1002,234"/>
+            <TextEquiv>
+                <Unicode>seized with a species of fury, he rushed out, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="990,231 990,1958 1080,1958 1080,231"/>
+            <TextEquiv>
+                <Unicode>made havoc among the flocks, slaying and was-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1068,230 1068,1958 1158,1958 1158,230"/>
+            <TextEquiv>
+                <Unicode>ting, like the animal whom he represented, far</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1148,228 1148,1960 1239,1960 1239,228"/>
+            <TextEquiv>
+                <Unicode>more than he could devour. The more incredu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1227,225 1227,1956 1316,1956 1316,225"/>
+            <TextEquiv>
+                <Unicode>lous reasoners would not allow of a real transfor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="1310,225 1310,1962 1387,1962 1387,225"/>
+            <TextEquiv>
+                <Unicode>mation, whether with or without the enchanted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="1389,225 1389,1957 1480,1957 1480,225"/>
+            <TextEquiv>
+                <Unicode>hide of a wolf, which in some cases was supposed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="1470,226 1470,1925 1558,1925 1558,226"/>
+            <TextEquiv>
+                <Unicode>to aid the metamorphosis, and contended that ly-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="1550,225 1550,1954 1640,1954 1640,225"/>
+            <TextEquiv>
+                <Unicode>canthropy only subsisted as a woful species of dis-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="1630,223 1630,1955 1719,1955 1719,223"/>
+            <TextEquiv>
+                <Unicode>ease, a melancholy state of mind, broken with ooca</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="1710,223 1710,1954 1800,1954 1800,223"/>
+            <TextEquiv>
+                <Unicode>sional fits of insanity, in which the patient ima-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="1789,223 1789,1955 1878,1955 1878,223"/>
+            <TextEquiv>
+                <Unicode>gined that he committed the ravages of which he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="1869,220 1869,1953 1958,1953 1958,220"/>
+            <TextEquiv>
+                <Unicode>was accused.  Such a person, a mere youth, was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="1949,220 1949,1946 2038,1946 2038,220"/>
+            <TextEquiv>
+                <Unicode>tried at Besançon, who gave himself out for a ser-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2029,219 2029,1951 2118,1951 2118,219"/>
+            <TextEquiv>
+                <Unicode>vant, or yeoman pricker, of the Lord of the Forest,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2107,213 2107,1949 2197,1949 2197,213"/>
+            <TextEquiv>
+                <Unicode>so he called his superior, who was judged to be the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2188,208 2188,2058 2277,2058 2277,208"/>
+            <TextEquiv>
+                <Unicode>devil. He was, by his master&#39;s power, transform-.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="2267,213 2267,1953 2356,1953 2356,213"/>
+            <TextEquiv>
+                <Unicode>ed into the likeness, and performed the usual func-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="2347,215 2347,1949 2437,1949 2437,215"/>
+            <TextEquiv>
+                <Unicode>tions, of a wolf, and was attended in his course</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="2427,215 2427,1951 2519,1951 2519,215"/>
+            <TextEquiv>
+                <Unicode>by one larger, which he supposed the Lord of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="2506,215 2506,1949 2595,1949 2595,215"/>
+            <TextEquiv>
+                <Unicode>the Forest himself. These wolves, he said, rava-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="2585,213 2585,1938 2695,1938 2695,213"/>
+            <TextEquiv>
+                <Unicode>ged the flocks, and throttled the dogs which stood</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="2667,214 2667,1916 2745,1916 2745,214"/>
+            <TextEquiv>
+                <Unicode>in their defence. If either had not seen the other,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="2745,213 2745,1941 2835,1941 2835,213"/>
+            <TextEquiv>
+                <Unicode>he howled, after the manner of the animal, to call</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="2824,214 2824,1914 2916,1914 2916,214"/>
+            <TextEquiv>
+                <Unicode>his comrade to his share of the prey; if he did not</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="2903,214 2903,1948 2996,1948 2996,214"/>
+            <TextEquiv>
+                <Unicode>come upon this signal, he proceeded to bury it the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="2988,233 2988,1009 3079,1009 3079,233"/>
+            <TextEquiv>
+                <Unicode>best way he could.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>212
+LETTERS ON
+chiefly current in France, but was known in other
+Countries, and is the subject of great debate be-
+tween Wier, Nande, Scot, on the one hand, and
+their demonological adversaries on the other. The
+idea, said the one party, was, that a human being
+had the power, by sorcery, of transforming himself
+into the shape of a wolf, and in that capacity, being
+seized with a species of fury, he rushed out, and
+made havoc among the flocks, slaying and was-
+ting, like the animal whom he represented, far
+more than he could devour. The more incredu-
+lous reasoners would not allow of a real transfor-
+mation, whether with or without the enchanted
+hide of a wolf, which in some cases was supposed
+to aid the metamorphosis, and contended that ly-
+canthropy only subsisted as a woful species of dis-
+ease, a melancholy state of mind, broken with ooca
+sional fits of insanity, in which the patient ima-
+gined that he committed the ravages of which he
+was accused.  Such a person, a mere youth, was
+tried at Besançon, who gave himself out for a ser-
+vant, or yeoman pricker, of the Lord of the Forest,
+so he called his superior, who was judged to be the
+devil. He was, by his master&#39;s power, transform-.
+ed into the likeness, and performed the usual func-
+tions, of a wolf, and was attended in his course
+by one larger, which he supposed the Lord of
+the Forest himself. These wolves, he said, rava-
+ged the flocks, and throttled the dogs which stood
+in their defence. If either had not seen the other,
+he howled, after the manner of the animal, to call
+his comrade to his share of the prey; if he did not
+come upon this signal, he proceeded to bury it the
+best way he could.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3406" imageWidth="2174">
+    <PrintSpace>
+        <Coords points="0,0 0,2174 3406,2174 3406,2174"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2174 3406,2174 3406,2174"/>
+        
+            <TextLine id="textline_72">
+        
+            <Coords points="238,299 238,423 303,423 303,299"/>
+            <TextEquiv>
+                <Unicode>224</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="249,902 249,1317 300,1317 300,902"/>
+            <TextEquiv>
+                <Unicode>LETTERS ON</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="355,310 355,1953 445,1953 445,310"/>
+            <TextEquiv>
+                <Unicode>frighful increase of the Prosecutions - Suddenly put a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="437,329 437,1786 512,1786 512,329"/>
+            <TextEquiv>
+                <Unicode>top to - The Penitence of those concerned in them.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="611,291 611,1949 701,1949 701,291"/>
+            <TextEquiv>
+                <Unicode>OUR account of Demonology in England must</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="692,259 692,1951 780,1951 780,259"/>
+            <TextEquiv>
+                <Unicode>naturally, as in every other country, depend</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="770,211 770,1960 860,1960 860,211"/>
+            <TextEquiv>
+                <Unicode>chiefly on the instances which history contains of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="852,257 852,1952 938,1952 938,257"/>
+            <TextEquiv>
+                <Unicode>the laws and prosecutions against witchcraft.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="929,262 929,1950 1019,1950 1019,262"/>
+            <TextEquiv>
+                <Unicode>Other superstitions arose and decayed, were</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1009,249 1009,1952 1099,1952 1099,249"/>
+            <TextEquiv>
+                <Unicode>dreaded or despised, without greater embarrass-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="1089,254 1089,1950 1179,1950 1179,254"/>
+            <TextEquiv>
+                <Unicode>ment, in the provinces in which they have a tem-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="1169,252 1169,1950 1258,1950 1258,252"/>
+            <TextEquiv>
+                <Unicode>porary currency, than that cowards and children</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="1249,256 1249,1959 1337,1959 1337,256"/>
+            <TextEquiv>
+                <Unicode>go out more seldom at night, while the reports of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="1328,251 1328,2156 1418,2156 1418,251"/>
+            <TextEquiv>
+                <Unicode>ghosts and fairies are peculiarly current. But</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="1407,253 1407,1952 1496,1952 1496,253"/>
+            <TextEquiv>
+                <Unicode>when the alarm of witchcraft arises, Superstition</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="1487,256 1487,1952 1577,1952 1577,256"/>
+            <TextEquiv>
+                <Unicode>dips her hand in the blood of the persons accused,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="1567,246 1567,1954 1656,1954 1656,246"/>
+            <TextEquiv>
+                <Unicode>and records in the annals of jurisprudenece their</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="1646,254 1646,1960 1736,1960 1736,254"/>
+            <TextEquiv>
+                <Unicode>trials, and the canses alleged in vindication of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="1726,256 1726,1951 1815,1951 1815,256"/>
+            <TextEquiv>
+                <Unicode>their execution. Respecting other fantastic alle-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="1807,183 1807,1949 1896,1949 1896,183"/>
+            <TextEquiv>
+                <Unicode>gations, the proof is necessarily transient and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="1884,255 1884,1949 1975,1949 1975,255"/>
+            <TextEquiv>
+                <Unicode>doubtful, depending upon the inaccurate testi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="1964,250 1964,1950 2053,1950 2053,250"/>
+            <TextEquiv>
+                <Unicode>mony of vague report and of doting tradition.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="2044,210 2044,2155 2135,2155 2135,210"/>
+            <TextEquiv>
+                <Unicode>But in cases of witchcraft, we have before us the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="2124,250 2124,1948 2214,1948 2214,250"/>
+            <TextEquiv>
+                <Unicode>recorded evidence upon which judge and jury act-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_96">
+        
+            <Coords points="2202,248 2202,1958 2293,1958 2293,248"/>
+            <TextEquiv>
+                <Unicode>ed, and can form an opinion with some degree of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_97">
+        
+            <Coords points="2281,251 2281,1950 2372,1950 2372,251"/>
+            <TextEquiv>
+                <Unicode>certainty of the grounds, real or fanciful, on which</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_98">
+        
+            <Coords points="2345,243 2345,2168 2463,2168 2463,243"/>
+            <TextEquiv>
+                <Unicode>they acquitted or condemned. It is, therefore, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_99">
+        
+            <Coords points="2441,246 2441,2109 2532,2109 2532,246"/>
+            <TextEquiv>
+                <Unicode>tracing this part of Demonology, with its accom-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_100">
+        
+            <Coords points="2521,241 2521,2158 2610,2158 2610,241"/>
+            <TextEquiv>
+                <Unicode>panying circumstances, that we have the best chance</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_101">
+        
+            <Coords points="2601,252 2601,1815 2691,1815 2691,252"/>
+            <TextEquiv>
+                <Unicode>of obtaining an accurate view of our subject.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_102">
+        
+            <Coords points="2680,251 2680,1947 2771,1947 2771,251"/>
+            <TextEquiv>
+                <Unicode>The existence of witchcraft was, no doubt, re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_103">
+        
+            <Coords points="2759,246 2759,1947 2852,1947 2852,246"/>
+            <TextEquiv>
+                <Unicode>ceived and credited in England, as in the coun-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_104">
+        
+            <Coords points="2838,243 2838,1947 2932,1947 2932,243"/>
+            <TextEquiv>
+                <Unicode>tries on the continent, and originally punished</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_105">
+        
+            <Coords points="2919,245 2919,1947 3010,1947 3010,245"/>
+            <TextEquiv>
+                <Unicode>accordingly. But after the fourteenth century,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_106">
+        
+            <Coords points="2994,245 2994,1945 3091,1945 3091,245"/>
+            <TextEquiv>
+                <Unicode>the practices which fell under such a description</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>224
+LETTERS ON
+frighful increase of the Prosecutions - Suddenly put a
+top to - The Penitence of those concerned in them.
+OUR account of Demonology in England must
+naturally, as in every other country, depend
+chiefly on the instances which history contains of
+the laws and prosecutions against witchcraft.
+Other superstitions arose and decayed, were
+dreaded or despised, without greater embarrass-
+ment, in the provinces in which they have a tem-
+porary currency, than that cowards and children
+go out more seldom at night, while the reports of
+ghosts and fairies are peculiarly current. But
+when the alarm of witchcraft arises, Superstition
+dips her hand in the blood of the persons accused,
+and records in the annals of jurisprudenece their
+trials, and the canses alleged in vindication of
+their execution. Respecting other fantastic alle-
+gations, the proof is necessarily transient and
+doubtful, depending upon the inaccurate testi-
+mony of vague report and of doting tradition.
+But in cases of witchcraft, we have before us the
+recorded evidence upon which judge and jury act-
+ed, and can form an opinion with some degree of
+certainty of the grounds, real or fanciful, on which
+they acquitted or condemned. It is, therefore, in
+tracing this part of Demonology, with its accom-
+panying circumstances, that we have the best chance
+of obtaining an accurate view of our subject.
+The existence of witchcraft was, no doubt, re-
+ceived and credited in England, as in the coun-
+tries on the continent, and originally punished
+accordingly. But after the fourteenth century,
+the practices which fell under such a description</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

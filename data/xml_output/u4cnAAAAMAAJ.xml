@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3464" imageWidth="2506">
+    <PrintSpace>
+        <Coords points="0,0 0,2506 3464,2506 3464,2506"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2506 3464,2506 3464,2506"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="269,1184 269,1265 332,1265 332,1184"/>
+            <TextEquiv>
+                <Unicode>15</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="462,381 462,2199 541,2199 541,381"/>
+            <TextEquiv>
+                <Unicode>„Dazu wird nicht viel Zeit bleiben,“  entgegnete Scharfen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="547,245 547,2202 628,2202 628,245"/>
+            <TextEquiv>
+                <Unicode>klau, ,,dem wird wohl der Strick zuvorkommen. So geſchwind</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="632,270 632,1106 711,1106 711,270"/>
+            <TextEquiv>
+                <Unicode>bricht ein Weiberherz nicht.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="734,380 734,2200 812,2200 812,380"/>
+            <TextEquiv>
+                <Unicode>„Kommt drauf an von was für Stoff es iſt, Herr. - Doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="820,244 820,2203 898,2203 898,244"/>
+            <TextEquiv>
+                <Unicode>kurz von der Sache, ich kann es nicht thun. Es iſt gegen mein Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="905,285 905,524 982,524 982,285"/>
+            <TextEquiv>
+                <Unicode>wiſſen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="989,380 989,2203 1086,2203 1086,380"/>
+            <TextEquiv>
+                <Unicode>,,Euer Gewiſſen, Burſche!“ ſagte Scharfenklau mit Hohn-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1091,286 1091,476 1166,476 1166,286"/>
+            <TextEquiv>
+                <Unicode>lachen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1176,378 1176,2204 1254,2204 1254,378"/>
+            <TextEquiv>
+                <Unicode>„Nun ja, Herr,“  erwiederte Ratcliffe ſehr ruhig,,,mein Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1261,244 1261,2205 1339,2205 1339,244"/>
+            <TextEquiv>
+                <Unicode>wiſſen. Jedermann hat eins, wenn es auch ſchwer iſt, ihm beizu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1346,238 1346,2206 1422,2206 1422,238"/>
+            <TextEquiv>
+                <Unicode>kommen. Meins iſt ſo gut außerm Schuß als der meiſten Leute</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1431,242 1431,2204 1509,2204 1509,242"/>
+            <TextEquiv>
+                <Unicode>ihrs; doch gehts damit wie mit der Ellbogenſpitze, manchmal kriegt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1516,251 1516,1837 1593,1837 1593,251"/>
+            <TextEquiv>
+                <Unicode>man einen Stoß weg, und da ſchmerzt es eine Weile.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1616,379 1616,2203 1697,2203 1697,379"/>
+            <TextEquiv>
+                <Unicode>„Wohl, Rat, da Ihr ſo zartſinnig ſeid, will ich ſelbſt mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1704,276 1704,683 1781,683 1781,276"/>
+            <TextEquiv>
+                <Unicode>ihr fprechen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1805,377 1805,2205 1883,2205 1883,377"/>
+            <TextEquiv>
+                <Unicode>Wirklich ließ Scharfenklau ſich zu dem kleinen dunkeln Zimmer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1891,238 1891,2203 1968,2203 1968,238"/>
+            <TextEquiv>
+                <Unicode>führen, das die unglückliche Effie jetzt bewohnte. Sie ſaß matt an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1978,194 1978,2202 2059,2202 2059,194"/>
+            <TextEquiv>
+                <Unicode>gelehnt auf ihrem Strohbettchen, in ein tiefes Träumen verloren.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2054,195 2054,2203 2140,2203 2140,195"/>
+            <TextEquiv>
+                <Unicode>Einige Speiſe ſtand auf dem Tiſch, von beſſerer Art, als Gefan-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2147,239 2147,2201 2224,2201 2224,239"/>
+            <TextEquiv>
+                <Unicode>gene ſie wohl ſonſt erhalten, allein ſie war unberührt. Der Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2231,237 2231,2208 2308,2208 2308,237"/>
+            <TextEquiv>
+                <Unicode>fängnißwärter, unter deſſen Aufſicht ſie ſtand, ſagte, daß ſie oft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2315,233 2315,2204 2411,2204 2411,233"/>
+            <TextEquiv>
+                <Unicode>in vier und zwanzig Stunden nichts als einen Trunk Waſſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2402,274 2402,491 2477,491 2477,274"/>
+            <TextEquiv>
+                <Unicode>genöſſe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2466,379 2466,2198 2566,2198 2566,379"/>
+            <TextEquiv>
+                <Unicode>Scharfenklau nahm einen Stuhl, gebot dem Schließer ſich zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2571,238 2571,2202 2648,2202 2648,238"/>
+            <TextEquiv>
+                <Unicode>entfernen, und begann das Geſpräch, indem er ſich bemühte ſeinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2657,234 2657,2198 2734,2198 2734,234"/>
+            <TextEquiv>
+                <Unicode>Ton und ſeiner Miene ſo viel Mitleidiges zu geben, als ſie füglich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2740,236 2740,2229 2819,2229 2819,236"/>
+            <TextEquiv>
+                <Unicode>ausdrücken konnten; denn jener war hart und rauh, dieſe liſtig,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2823,266 2823,941 2901,941 2901,266"/>
+            <TextEquiv>
+                <Unicode>ſtreng und ſelbſtſüchtig.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2923,376 2923,2194 3009,2194 3009,376"/>
+            <TextEquiv>
+                <Unicode>„„Nun Effie, wie iſts! Wie gehts, Kind!“ “ Ein tiefer Seuf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3012,271 3012,879 3086,879 3086,271"/>
+            <TextEquiv>
+                <Unicode>zer war die Antwort.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>15
+„Dazu wird nicht viel Zeit bleiben,“  entgegnete Scharfen-
+klau, ,,dem wird wohl der Strick zuvorkommen. So geſchwind
+bricht ein Weiberherz nicht.“
+„Kommt drauf an von was für Stoff es iſt, Herr. - Doch
+kurz von der Sache, ich kann es nicht thun. Es iſt gegen mein Ge-
+wiſſen.“
+,,Euer Gewiſſen, Burſche!“ ſagte Scharfenklau mit Hohn-
+lachen.
+„Nun ja, Herr,“  erwiederte Ratcliffe ſehr ruhig,,,mein Ge-
+wiſſen. Jedermann hat eins, wenn es auch ſchwer iſt, ihm beizu-
+kommen. Meins iſt ſo gut außerm Schuß als der meiſten Leute
+ihrs; doch gehts damit wie mit der Ellbogenſpitze, manchmal kriegt
+man einen Stoß weg, und da ſchmerzt es eine Weile.“
+„Wohl, Rat, da Ihr ſo zartſinnig ſeid, will ich ſelbſt mit
+ihr fprechen.“
+Wirklich ließ Scharfenklau ſich zu dem kleinen dunkeln Zimmer
+führen, das die unglückliche Effie jetzt bewohnte. Sie ſaß matt an-
+gelehnt auf ihrem Strohbettchen, in ein tiefes Träumen verloren.
+Einige Speiſe ſtand auf dem Tiſch, von beſſerer Art, als Gefan-
+gene ſie wohl ſonſt erhalten, allein ſie war unberührt. Der Ge-
+fängnißwärter, unter deſſen Aufſicht ſie ſtand, ſagte, daß ſie oft
+in vier und zwanzig Stunden nichts als einen Trunk Waſſer
+genöſſe.
+Scharfenklau nahm einen Stuhl, gebot dem Schließer ſich zu
+entfernen, und begann das Geſpräch, indem er ſich bemühte ſeinem
+Ton und ſeiner Miene ſo viel Mitleidiges zu geben, als ſie füglich
+ausdrücken konnten; denn jener war hart und rauh, dieſe liſtig,
+ſtreng und ſelbſtſüchtig.
+„„Nun Effie, wie iſts! Wie gehts, Kind!“ “ Ein tiefer Seuf-
+zer war die Antwort.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3477" imageWidth="2490">
+    <PrintSpace>
+        <Coords points="0,0 0,2490 3477,2490 3477,2490"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2490 3477,2490 3477,2490"/>
+        
+            <TextLine id="textline_31">
+        
+            <Coords points="279,1187 279,1316 352,1316 352,1187"/>
+            <TextEquiv>
+                <Unicode>103</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="479,404 479,2216 557,2216 557,404"/>
+            <TextEquiv>
+                <Unicode>„Ohne ſein Wiſſen, Jeanie! - Iſt das recht - Das mußt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="568,266 568,2216 644,2216 644,266"/>
+            <TextEquiv>
+                <Unicode>Du noch einmal überlegen. - Es iſt nicht recht,“ ſagte er mit be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="644,299 644,789 728,789 728,299"/>
+            <TextEquiv>
+                <Unicode>ſorglicher Miene.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="736,402 736,2213 812,2213 812,402"/>
+            <TextEquiv>
+                <Unicode>„Wenn ich nur in London wäre,“   ſagte Jeanie, um ſich zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="822,264 822,2215 897,2215 897,264"/>
+            <TextEquiv>
+                <Unicode>rechtfertigen; „ich würde ganz gewiß Mittel finden vor die Köni-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="907,268 907,2004 982,2004 982,268"/>
+            <TextEquiv>
+                <Unicode>gin zu kommen, ſie um meiner Schweſter eben zu bitten.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="991,399 991,2211 1067,2211 1067,399"/>
+            <TextEquiv>
+                <Unicode>„London! - Die Königin!- Ihrer Schweſter Leben! - Das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="1077,291 1077,1028 1149,1028 1149,291"/>
+            <TextEquiv>
+                <Unicode>Mädchen iſt raſend!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="1157,401 1157,2209 1236,2209 1236,401"/>
+            <TextEquiv>
+                <Unicode>„Das bin ich nicht, Lord; aber nach London zu gehen bin ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1243,259 1243,2211 1321,2211 1321,259"/>
+            <TextEquiv>
+                <Unicode>entſchloſſen, und ſollte ich mich auch von Thür zu Thür hinbetteln.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1328,260 1328,2214 1405,2214 1405,260"/>
+            <TextEquiv>
+                <Unicode>Und das muß ich, wenn Sie mir nicht etwas Geld zu den Reiſeko-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1414,258 1414,2213 1490,2213 1490,258"/>
+            <TextEquiv>
+                <Unicode>ſten leihen. Ein Weniges nur; Sie wiſſen, mein Vater iſt ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1500,258 1500,2212 1575,2212 1575,258"/>
+            <TextEquiv>
+                <Unicode>wohlhabender Mann, und wird nicht zugeben, daß irgend jemand,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1584,270 1584,1659 1660,1659 1660,270"/>
+            <TextEquiv>
+                <Unicode>am wenigſten Sie, Lord, durch mich verliere.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1670,398 1670,2210 1745,2210 1745,398"/>
+            <TextEquiv>
+                <Unicode>Kaum traute Stummendeich ſeinen Ohren, als er dieſes Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1753,255 1753,2375 1831,2375 1831,255"/>
+            <TextEquiv>
+                <Unicode>ſuch vernahm. Die Blicke ſtarr auf den Boden geheſtet, ſtand er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1839,282 1839,1297 1916,1297 1916,282"/>
+            <TextEquiv>
+                <Unicode>da, ohne eine Sylbe zu erwiedern.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1924,404 1924,2208 2002,2208 2002,404"/>
+            <TextEquiv>
+                <Unicode>„Ich ſehe, Sie wollen mir nicht helfen, Lord,“ ſagte Jeanie;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2009,262 2009,2216 2087,2216 2087,262"/>
+            <TextEquiv>
+                <Unicode>„ſo leben Sie denn wohl; und beſuchen Sie meinen Vater ja recht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="2095,286 2095,1302 2172,1302 2172,286"/>
+            <TextEquiv>
+                <Unicode>oft; er wird jetzt ſo verlaſſen ſein.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2177,405 2177,2211 2257,2211 2257,405"/>
+            <TextEquiv>
+                <Unicode>,,Wo will das närriſche Mädchen hin“ fagte Stummen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2264,263 2264,2217 2342,2217 2342,263"/>
+            <TextEquiv>
+                <Unicode>deich. Er nahm ſie bei der Hand. „Ich habe wohl ſchon früher</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2350,266 2350,2215 2426,2215 2426,266"/>
+            <TextEquiv>
+                <Unicode>daran gedacht, es blieb mir nur immer in der Kehle ſtecken,“  ſagte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2432,264 2432,2213 2511,2213 2511,264"/>
+            <TextEquiv>
+                <Unicode>er zu ſich ſelbſt, während er ſie ins Haus und in ein alterthümliches</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="2517,263 2517,2214 2596,2214 2596,263"/>
+            <TextEquiv>
+                <Unicode>Zimmer führte, deſſen Thür er hinter ſich verſchloß und verriegelte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="2603,263 2603,2218 2680,2218 2680,263"/>
+            <TextEquiv>
+                <Unicode>Als Jeanie, über dieſe Maßregel verwundert, noch an der Thür</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="2688,265 2688,2218 2766,2218 2766,265"/>
+            <TextEquiv>
+                <Unicode>ſtehen blieb, ließ der Lord ihre Hand los, und durch den Druck</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2774,269 2774,2217 2851,2217 2851,269"/>
+            <TextEquiv>
+                <Unicode>eines geheien Springſchloſſes in der Mauer öffnete er einen ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2858,269 2858,2218 2936,2218 2936,269"/>
+            <TextEquiv>
+                <Unicode>borgenen Wandſchrank, in welchem ein großer eiſerner Geldkaſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2943,272 2943,2219 3022,2219 3022,272"/>
+            <TextEquiv>
+                <Unicode>ſichtbar wurde. Er that auch dieſen auf, zog zwei oder drei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="3025,270 3025,2339 3109,2339 3109,270"/>
+            <TextEquiv>
+                <Unicode>Schieber heraus und zeigte ihr, daß ſie lederne Beutel voll Gold</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>103
+„Ohne ſein Wiſſen, Jeanie! - Iſt das recht - Das mußt
+Du noch einmal überlegen. - Es iſt nicht recht,“ ſagte er mit be-
+ſorglicher Miene.
+„Wenn ich nur in London wäre,“   ſagte Jeanie, um ſich zu
+rechtfertigen; „ich würde ganz gewiß Mittel finden vor die Köni-
+gin zu kommen, ſie um meiner Schweſter eben zu bitten.“
+„London! - Die Königin!- Ihrer Schweſter Leben! - Das
+Mädchen iſt raſend!“
+„Das bin ich nicht, Lord; aber nach London zu gehen bin ich
+entſchloſſen, und ſollte ich mich auch von Thür zu Thür hinbetteln.
+Und das muß ich, wenn Sie mir nicht etwas Geld zu den Reiſeko-
+ſten leihen. Ein Weniges nur; Sie wiſſen, mein Vater iſt ein
+wohlhabender Mann, und wird nicht zugeben, daß irgend jemand,
+am wenigſten Sie, Lord, durch mich verliere.“
+Kaum traute Stummendeich ſeinen Ohren, als er dieſes Ge-
+ſuch vernahm. Die Blicke ſtarr auf den Boden geheſtet, ſtand er
+da, ohne eine Sylbe zu erwiedern.
+„Ich ſehe, Sie wollen mir nicht helfen, Lord,“ ſagte Jeanie;
+„ſo leben Sie denn wohl; und beſuchen Sie meinen Vater ja recht
+oft; er wird jetzt ſo verlaſſen ſein.“
+,,Wo will das närriſche Mädchen hin“ fagte Stummen-
+deich. Er nahm ſie bei der Hand. „Ich habe wohl ſchon früher
+daran gedacht, es blieb mir nur immer in der Kehle ſtecken,“  ſagte
+er zu ſich ſelbſt, während er ſie ins Haus und in ein alterthümliches
+Zimmer führte, deſſen Thür er hinter ſich verſchloß und verriegelte.
+Als Jeanie, über dieſe Maßregel verwundert, noch an der Thür
+ſtehen blieb, ließ der Lord ihre Hand los, und durch den Druck
+eines geheien Springſchloſſes in der Mauer öffnete er einen ver-
+borgenen Wandſchrank, in welchem ein großer eiſerner Geldkaſten
+ſichtbar wurde. Er that auch dieſen auf, zog zwei oder drei
+Schieber heraus und zeigte ihr, daß ſie lederne Beutel voll Gold</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3452" imageWidth="2482">
+    <PrintSpace>
+        <Coords points="0,0 0,2482 3452,2482 3452,2482"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2482 3452,2482 3452,2482"/>
+        
+            <TextLine id="textline_63">
+        
+            <Coords points="466,415 466,983 561,983 561,415"/>
+            <TextEquiv>
+                <Unicode>Dieſe verneinte es.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="288,1199 288,1319 350,1319 350,1199"/>
+            <TextEquiv>
+                <Unicode>151</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="567,420 567,2240 646,2240 646,420"/>
+            <TextEquiv>
+                <Unicode>„Aber Deine Schweſter hatte eins, - ich weiß auch was dar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="658,314 658,862 733,862 733,314"/>
+            <TextEquiv>
+                <Unicode>aus geworden iſt.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="718,419 718,2241 817,2241 817,419"/>
+            <TextEquiv>
+                <Unicode>„um der göttlichen Gnade willen,“  rief Jeanie, ihrer Vor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="825,277 825,2248 901,2248 901,277"/>
+            <TextEquiv>
+                <Unicode>ſicht vergeſſend, „ſage mir, was aus dem unglücklichen Geſchöpf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="914,310 914,908 987,908 987,310"/>
+            <TextEquiv>
+                <Unicode>geworden, und“ -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="994,418 994,2235 1071,2235 1071,418"/>
+            <TextEquiv>
+                <Unicode>Magda ſtand ſtill, ſah ſie ſtarr mit ernſtem Btick an, und brach</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="1078,280 1078,2239 1155,2239 1155,280"/>
+            <TextEquiv>
+                <Unicode>dann in ein lautes Gelächter aus. „Ei ja doch, Mädchen, fange</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="1164,280 1164,2237 1238,2237 1238,280"/>
+            <TextEquiv>
+                <Unicode>mich wenn Du kannſt. - Dir iſt auch leicht etwas einzureden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="1244,280 1244,2242 1323,2242 1323,280"/>
+            <TextEquiv>
+                <Unicode>Wie ſollt&#39; ich von Deiner Schweſter Kind wiſſen! Mädchen müſ-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1334,279 1334,2241 1409,2241 1409,279"/>
+            <TextEquiv>
+                <Unicode>ſen nichts mit Kindern zu thun haben, bis ſie unter der Haube ſind,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1419,279 1419,2240 1492,2240 1492,279"/>
+            <TextEquiv>
+                <Unicode>aber dann kommt auch alles Nachbar und Gevattervolk, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="1503,278 1503,2243 1578,2243 1578,278"/>
+            <TextEquiv>
+                <Unicode>ſchmauſt, als wär es der luſtigſte Tag von der Welt. - Es heißt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="1587,279 1587,2240 1662,2240 1662,279"/>
+            <TextEquiv>
+                <Unicode>immer der Mädchen Kinder gedeihen wohl, doch mit meinem und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="1674,279 1674,2239 1748,2239 1748,279"/>
+            <TextEquiv>
+                <Unicode>Deiner Schweſter Kind iſt&#39;s nicht eingetroffen.  Aber das ſind</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1758,278 1758,2240 1834,2240 1834,278"/>
+            <TextEquiv>
+                <Unicode>traurige Geſchichten, ich muß nur ein wenig ſingen, damit ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="1844,280 1844,2246 1918,2246 1918,280"/>
+            <TextEquiv>
+                <Unicode>wieder luſtig werde. Es iſt ein Lied, das der hübſche Georg auf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1930,279 1930,2239 2004,2239 2004,279"/>
+            <TextEquiv>
+                <Unicode>mich machte, als ich einmal mit ihm nach Lockington zur Kirmes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="2015,278 2015,2240 2088,2240 2088,278"/>
+            <TextEquiv>
+                <Unicode>reiſte, ihn da in prächtigen Kleidern mit anderem Schauſpieler-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="2099,280 2099,2240 2173,2240 2173,280"/>
+            <TextEquiv>
+                <Unicode>volk ſpielen zu ſehen. Er hätte ſogar übel nicht dran gethan, mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="2183,281 2183,2239 2259,2239 2259,281"/>
+            <TextEquiv>
+                <Unicode>damals zu heirathen, wie er es verſprach, er kann noch wer weiß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="2269,280 2269,2238 2343,2238 2343,280"/>
+            <TextEquiv>
+                <Unicode>wie weit herum ſuchen, und trifft es nicht ſo gut.  Aber das ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="2353,310 2353,972 2429,972 2429,310"/>
+            <TextEquiv>
+                <Unicode>hört nicht zu dem Lied.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="2478,494 2478,1966 2543,1966 2543,494"/>
+            <TextEquiv>
+                <Unicode>Ich bin Magda des Dorfs, ich bin Magda der Stadt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="2547,495 2547,1992 2612,1992 2612,495"/>
+            <TextEquiv>
+                <Unicode>Ich bin Magda, die zum Liebiren den Herrlichsten hat;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="2614,500 2614,1818 2679,1818 2679,500"/>
+            <TextEquiv>
+                <Unicode>Blitzt die Gnäd&#39;ge von Schloß dort in Edelſtein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="2684,502 2684,1702 2749,1702 2749,502"/>
+            <TextEquiv>
+                <Unicode>Sie kann doch ſo luſtig als Magda nicht ſen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="2779,497 2779,1863 2867,1863 2867,497"/>
+            <TextEquiv>
+                <Unicode>ch bin Königin der Kirmes, ich bin Königin heut,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="2871,497 2871,1937 2933,1937 2933,497"/>
+            <TextEquiv>
+                <Unicode>Wo man rnnd um den Maibaum im Tanze ſich freut;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="2938,504 2938,1684 3000,1684 3000,504"/>
+            <TextEquiv>
+                <Unicode>Wild lodert das Feuer, und ſtrahlet ſo hell,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="3004,504 3004,1800 3072,1800 3072,504"/>
+            <TextEquiv>
+                <Unicode>Doch iſt&#39;s nicht ſo glanzend als ich und ſo ſchncll.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Dieſe verneinte es.
+151
+„Aber Deine Schweſter hatte eins, - ich weiß auch was dar-
+aus geworden iſt.“
+„um der göttlichen Gnade willen,“  rief Jeanie, ihrer Vor-
+ſicht vergeſſend, „ſage mir, was aus dem unglücklichen Geſchöpf
+geworden, und“ -
+Magda ſtand ſtill, ſah ſie ſtarr mit ernſtem Btick an, und brach
+dann in ein lautes Gelächter aus. „Ei ja doch, Mädchen, fange
+mich wenn Du kannſt. - Dir iſt auch leicht etwas einzureden.
+Wie ſollt&#39; ich von Deiner Schweſter Kind wiſſen! Mädchen müſ-
+ſen nichts mit Kindern zu thun haben, bis ſie unter der Haube ſind,
+aber dann kommt auch alles Nachbar und Gevattervolk, und
+ſchmauſt, als wär es der luſtigſte Tag von der Welt. - Es heißt
+immer der Mädchen Kinder gedeihen wohl, doch mit meinem und
+Deiner Schweſter Kind iſt&#39;s nicht eingetroffen.  Aber das ſind
+traurige Geſchichten, ich muß nur ein wenig ſingen, damit ich
+wieder luſtig werde. Es iſt ein Lied, das der hübſche Georg auf
+mich machte, als ich einmal mit ihm nach Lockington zur Kirmes
+reiſte, ihn da in prächtigen Kleidern mit anderem Schauſpieler-
+volk ſpielen zu ſehen. Er hätte ſogar übel nicht dran gethan, mich
+damals zu heirathen, wie er es verſprach, er kann noch wer weiß
+wie weit herum ſuchen, und trifft es nicht ſo gut.  Aber das ge-
+hört nicht zu dem Lied.
+Ich bin Magda des Dorfs, ich bin Magda der Stadt,
+Ich bin Magda, die zum Liebiren den Herrlichsten hat;
+Blitzt die Gnäd&#39;ge von Schloß dort in Edelſtein,
+Sie kann doch ſo luſtig als Magda nicht ſen.
+ch bin Königin der Kirmes, ich bin Königin heut,
+Wo man rnnd um den Maibaum im Tanze ſich freut;
+Wild lodert das Feuer, und ſtrahlet ſo hell,
+Doch iſt&#39;s nicht ſo glanzend als ich und ſo ſchncll.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>
