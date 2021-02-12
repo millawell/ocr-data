@@ -90,7 +90,7 @@ def main(pdf_path):
         sheet_record.language
     )
     
-    output_path = Path(f"../data/xml_output/{pdf_file_name}")
+    output_path = Path(f"../data/page_transcriptions/{pdf_file_name}")
     output_path = output_path.with_suffix(".xml")
     with open(output_path, "w") as fout:
         fout.write(serialized)

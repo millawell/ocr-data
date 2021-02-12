@@ -58,7 +58,7 @@ def main(pdf_path):
 
     pdf_file_name = Path(pdf_path).name
     images = extract_images(pdf_path)
-    xml_file_name = Path(f"../data/xml_output/{pdf_file_name}")
+    xml_file_name = Path(f"../data/page_transcriptions/{pdf_file_name}")
     xml_file_name = xml_file_name.with_suffix(".xml")
 
     with open(xml_file_name) as fin:
