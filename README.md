@@ -8,10 +8,10 @@ This repository consists of
 The data set can be found in the `data` directory and consists of a *.mets file for each of the pdfs that were used for transcription and a directory `data/page_transcriptions` that contains the transcriptions of the ground truth in PAGEXML format.
 The PDFs are not hosted here, but have to be retrieved from the respective institutions and can then be combined with the transcriptions found here. To compile the data set, please
 
-* Download all PDFs listed in the `*.mets` files into the `data/pdf_renamed/` directory and rename them ${identifier}.pdf
+* download all PDFs listed in the `*.mets` files into the `data/pdf_renamed/` directory and rename them ${identifier}.pdf
 * change to the `pipelines` directory and run the `make` command
 
-## How to create your own ground truth OUR data set?
+## How to create your own ground truth OCR data set?
 
 * Collect a set of PDFs from Google Books or the Internet Archive and select a set of Pages that you would like to transcribe
 * transcribe the text on the images for each pdf individually with the `ketos transcribe` framework found here http://kraken.re/ketos.html (Kiessling 2019) and store the resulting `*.html` a directory named after the pdfs identifier within the `data/transcriptions` directory.
