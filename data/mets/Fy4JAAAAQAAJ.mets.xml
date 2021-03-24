@@ -10,8 +10,8 @@
 	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
     <dmdSec ID="dmd001">
 		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
-            <dc:title content="Guy Mannering, Or, The Astrologer, Band 3"/> 
-            <dc:language content="en"/>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" content="Guy Mannering, Or, The Astrologer, Band 3"/> 
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" content="en"/>
 		</mdWrap>
 	</dmdSec>
     

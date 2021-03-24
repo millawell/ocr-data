@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?> <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
-    
 	<!-- METS header: Metadaten darüber, von wem und wie die Daten erzeugt wurden -->
 	<mets:metsHdr CREATEDATE="2021-02-09T21:18:00">
         <mets:agent OTHERTYPE="???" ROLE="CREATOR" TYPE="OTHER">
@@ -10,8 +9,8 @@
 	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
     <dmdSec ID="dmd001">
 		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
-            <dc:title content="Letters on Demonology and Witchcraft: Addressed to J.G. Lockhart, Esq"/> 
-            <dc:language content="en"/>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" content="Letters on Demonology and Witchcraft: Addressed to J.G. Lockhart, Esq"/> 
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" content="en"/>
 		</mdWrap>
 	</dmdSec>
 	
@@ -60,3 +59,4 @@
         </mets:div>
     </mets:structMap>
 </mets:mets>
+

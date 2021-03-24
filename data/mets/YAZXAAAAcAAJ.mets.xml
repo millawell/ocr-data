@@ -11,8 +11,8 @@
 	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
     <dmdSec ID="dmd001">
 		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
-            <dc:title content="W. Shakspeare's Sämmtliche Werke in einem Bande."/> 
-            <dc:language content="de"/>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" content="W. Shakspeare's Sämmtliche Werke in einem Bande."/> 
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" content="de"/>
 		</mdWrap>
 	</dmdSec>
     

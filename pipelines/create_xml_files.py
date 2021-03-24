@@ -3,7 +3,7 @@ sys.path.append("../utils/")
 import click
 import numpy as np
 from pathlib import Path
-from sheet import get_sheet_record, get_pdf_pages_of_book
+from mets import parse_mets, get_pdf_pages_of_book
 from transcriptions import get_bounding_boxes_from_transcription
 from pdfs import extract_images
 from jinja2 import Environment, FileSystemLoader
@@ -66,7 +66,7 @@ def main(pdf_path):
     pdf_file_name = Path(pdf_path).name
     identifier = Path(pdf_path).stem
 
-    sheet_record = get_sheet_record(pdf_file_name)
+    mets_record = parse_mets(pdf_file_name)
     pages = get_pdf_pages_of_book(pdf_file_name)
     images = extract_images(pdf_path)
 
@@ -90,8 +90,8 @@ def main(pdf_path):
 
         serialized_page = serialize_page(
             render_set,
-            sheet_record.book_url,
-            sheet_record.language
+            mets_record.book_url,
+            mets_record.language
         )
     
         output_path = Path(f"../data/xml_output/{pdf_file_name}_{page_nr}")

@@ -10,8 +10,8 @@
 	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
     <dmdSec ID="dmd001">
 		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
-            <dc:title content="Walter Scott's Werke, Band 2"/> 
-            <dc:language content="de"/>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" content="Walter Scott's Werke, Band 2"/> 
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" content="de"/>
 		</mdWrap>
 	</dmdSec>
 	<!-- File Section: Ab hier wird es erst richtig relevant, an dieser Stelle werden alle zum Objekt (in unserem Fall würde ich sagen 1 Objekt - 1 Titel - 1 METS Datei) gehörigen Daten referenziert -->
