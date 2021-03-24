@@ -9,25 +9,22 @@ from pdfs import extract_images
 from jinja2 import Environment, FileSystemLoader
 from kraken.serialization import _rescale
 
+def serialize_page(rec, urlpdf, langauge):
+    
+    image_name = rec["image_name"]
+    image_size = rec["image_size"]
+    writing_mode = rec["writing_mode"]
+    lines = rec["lines"]
 
-def serialize(records, urlpdf, langauge):
-    pages = []
-    for rec in records:
-        image_name = rec["image_name"]
-        image_size = rec["image_size"]
-        writing_mode = rec["writing_mode"]
-        lines = rec["lines"]
-
-        page = {'lines': [], 'size': image_size, 'name': image_name, 'writing_mode': writing_mode, 'scripts': None}  # type: dict
-        seg_idx = 0
-        char_idx = 0
-        for idx, record in enumerate(lines):
-            line = {'index': idx,
-                    'bbox': record["bbox"],
-                    'text': record["text"]
-                    }
-            page['lines'].append(line)
-        pages.append(page)
+    page = {'lines': [], 'size': image_size, 'name': image_name, 'writing_mode': writing_mode, 'scripts': None}
+    seg_idx = 0
+    char_idx = 0
+    for idx, rec_ in enumerate(lines):
+        line = {'index': idx,
+                'bbox': rec_["bbox"],
+                'text': rec_["text"]
+                }
+        page["lines"].append(line)
 
     env = Environment(
         loader=FileSystemLoader('../templates'),
@@ -38,7 +35,9 @@ def serialize(records, urlpdf, langauge):
     env.tests['whitespace'] = str.isspace
     env.filters['rescale'] = _rescale
     tmpl = env.get_template("hocr_lines.xml")
-    return tmpl.render(pages=pages, urlpdf=urlpdf, language=langauge)
+
+    return tmpl.render(page=page, urlpdf=urlpdf, language=langauge)
+
 
 @click.command()
 @click.option('--pdf_path')
@@ -59,25 +58,24 @@ def main(pdf_path):
     for transcribe in transcribes:
         bboxes += get_bounding_boxes_from_transcription(str(transcribe))
 
-    render_set = []
     for page_nr, (_, image), rec in zip(pages, images, bboxes):
-        render_set.append({
+        render_set = {
             "image_name": page_nr,
             "image_size": np.asarray(image).shape,
             "writing_mode": rec["writing_mode"],
             "lines": rec["lines"]
-        })
+        }
 
-    serialized = serialize(
-        render_set,
-        sheet_record.book_url,
-        sheet_record.language
-    )
+        serialized_page = serialize_page(
+            render_set,
+            sheet_record.book_url,
+            sheet_record.language
+        )
     
-    output_path = Path(f"../data/xml_output/{pdf_file_name}")
-    output_path = output_path.with_suffix(".hocr")
-    with open(output_path, "w") as fout:
-        fout.write(serialized)
+        output_path = Path(f"../data/xml_output/{pdf_file_name}_{page_nr}")
+        output_path = output_path.with_suffix(".hocr")
+        with open(output_path, "w") as fout:
+            fout.write(serialized_page)
 
 if __name__ == '__main__':
     main()
