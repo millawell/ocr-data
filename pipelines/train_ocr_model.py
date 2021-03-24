@@ -2,6 +2,9 @@ import subprocess
 import click
 from pathlib import Path
 from lxml import  etree
+import sys
+sys.path.append("../utils/")
+from sheet import get_sheet_record
 import tempfile
 from shutil import copy2
 from sklearn.model_selection import train_test_split
@@ -23,17 +26,12 @@ def main(pdf_path):
 
     pdf_file_name = Path(pdf_path).name
     identifier = Path(pdf_path).stem
-    xml_file_name = Path(f"../data/xml_output/{pdf_file_name}")
-    xml_file_name = xml_file_name.with_suffix(".hocr")
 
-    with open(xml_file_name) as fin:
-        tree = etree.fromstring(fin.read())
+    sheet_record = get_sheet_record(pdf_file_name)
 
-    language = tree.find(".//meta[@name='dc:language']").attrib['content']
-
-    if language == "en":
+    if sheet_record.language == "en":
         baseline_model = '../data/baseline_models/en_best.mlmodel'
-    elif language == "de":
+    elif sheet_record.language == "de":
         baseline_model = '../data/baseline_models/fraktur_1_best.mlmodel'
 
     with tempfile.TemporaryDirectory() as tmp_dir:
@@ -98,3 +96,14 @@ def main(pdf_path):
 
 if __name__ == '__main__':
     main()
+
+# from pathlib import Path
+# import pandas as pd
+# p = Path("../models/")
+# results = []
+# for f in p.iterdir():
+#     if f.suffix == '.txt' and f.stem.startswith('dataset_description'):
+#         results.append(pd.read_csv(f))
+# results = pd.concat(results)
+# results['improvement'] = results.fine_tuned_acc - results.baseline_acc
+# results.sort_values('fine_tuned_acc')

@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3084" imageWidth="2132">
+    <PrintSpace>
+        <Coords points="0,0 0,2132 3084,2132 3084,2132"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2132 3084,2132 3084,2132"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="215,781 215,1168 314,1168 314,781"/>
+            <TextEquiv>
+                <Unicode>- 9 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="381,174 381,1745 457,1745 457,174"/>
+            <TextEquiv>
+                <Unicode>mit Bitten um Mitleiden, oder mit Geſchrei des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="467,174 467,1745 549,1745 549,174"/>
+            <TextEquiv>
+                <Unicode>Entſetzens oder der Angſt empſing.“ Er wendete</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="559,169 559,1824 637,1824 637,169"/>
+            <TextEquiv>
+                <Unicode>das Angeſicht gegen die Wand, und erwartete mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="648,170 648,1747 726,1747 726,170"/>
+            <TextEquiv>
+                <Unicode>der höchſten Geiſtesanſtrengung den Tod, dem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="735,191 735,872 816,872 816,191"/>
+            <TextEquiv>
+                <Unicode>ſich ganz nahe wähnte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="791,318 791,1741 905,1741 905,318"/>
+            <TextEquiv>
+                <Unicode>Seine erſten Empſindungen waren zu überwäl-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="913,170 913,1746 992,1746 992,170"/>
+            <TextEquiv>
+                <Unicode>tigend geweſen. Die Gefahr war zu dringend und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1001,127 1001,1877 1078,1877 1078,127"/>
+            <TextEquiv>
+                <Unicode>von zu ſcheuslicher Art, als daß er hätte ſogleich zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1092,150 1092,1841 1169,1841 1169,150"/>
+            <TextEquiv>
+                <Unicode>einer ruhigen Betrachtung ſeiner mißlichen Lage ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1177,169 1177,1746 1256,1746 1256,169"/>
+            <TextEquiv>
+                <Unicode>langen können; ſo daß alle deutlicheren Erwägungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1264,168 1264,1745 1343,1745 1343,168"/>
+            <TextEquiv>
+                <Unicode>von dem einen umfaſſenden Gedanken an augen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1355,164 1355,1746 1432,1746 1432,164"/>
+            <TextEquiv>
+                <Unicode>blicklichen Tod verſchlungen wurden. Allein als ſeine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1444,167 1444,1746 1521,1746 1521,167"/>
+            <TextEquiv>
+                <Unicode>Begriffe ſich ſonderten, fuhr ihm der Gedanke an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1534,166 1534,1746 1611,1746 1611,166"/>
+            <TextEquiv>
+                <Unicode>ſeine Gattin durch die Seele. Was mogte ſie Ietzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1622,165 1622,1820 1698,1820 1698,165"/>
+            <TextEquiv>
+                <Unicode>leiden! und was mogte, während er einer ſo außer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1708,167 1708,1744 1787,1744 1787,167"/>
+            <TextEquiv>
+                <Unicode>ordentlichen Prüfung unterworfen ward, ihrem ſchwä-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1800,103 1800,1748 1875,1748 1875,103"/>
+            <TextEquiv>
+                <Unicode>cheren und weiblichen Muthe vorbehalten worden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1889,165 1889,1748 1967,1748 1967,165"/>
+            <TextEquiv>
+                <Unicode>ſeyn? Befand ſie ſich noch wenige Schritte weit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1975,166 1975,1746 2054,1746 2054,166"/>
+            <TextEquiv>
+                <Unicode>von ihm, wie es der Fall war, als ſie ſich Abends</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2064,168 2064,1744 2144,1744 2144,168"/>
+            <TextEquiv>
+                <Unicode>vorher ſchlafen legten? Oder hatten die Barbaren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2154,166 2154,1744 2232,1744 2232,166"/>
+            <TextEquiv>
+                <Unicode>die ihm ein ſo grauſames Loos bereiteten, ſich und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2245,166 2245,1745 2321,1745 2321,166"/>
+            <TextEquiv>
+                <Unicode>ſeiner Gattin unvorſichtiges Vertrauen zu Nutzen ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2333,166 2333,1745 2410,1745 2410,166"/>
+            <TextEquiv>
+                <Unicode>macht, um ihr eine ähnliche oder gar noch abſcheu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2421,168 2421,1745 2498,1745 2498,168"/>
+            <TextEquiv>
+                <Unicode>lichere Schmach aufzuerlegen? Schlief ſie oder wachte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2510,167 2510,1745 2587,1745 2587,167"/>
+            <TextEquiv>
+                <Unicode>ſie, oder konnte ſie in der Nähe eines ſo ſchreck-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2598,166 2598,1743 2677,1743 2677,166"/>
+            <TextEquiv>
+                <Unicode>lichen Gebrülles ſchlafen, das alles ringsum erſchüt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2688,163 2688,1743 2763,1743 2763,163"/>
+            <TextEquiv>
+                <Unicode>terte? Er beſchloß, ſie zu rufen, ſie wo möglich zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2773,163 2773,1762 2881,1762 2881,163"/>
+            <TextEquiv>
+                <Unicode>warnen, auf ihrer Huth zu ſeyn und ſich in Acht zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 9 -
+mit Bitten um Mitleiden, oder mit Geſchrei des
+Entſetzens oder der Angſt empſing.“ Er wendete
+das Angeſicht gegen die Wand, und erwartete mit
+der höchſten Geiſtesanſtrengung den Tod, dem er
+ſich ganz nahe wähnte.
+Seine erſten Empſindungen waren zu überwäl-
+tigend geweſen. Die Gefahr war zu dringend und
+von zu ſcheuslicher Art, als daß er hätte ſogleich zu
+einer ruhigen Betrachtung ſeiner mißlichen Lage ge-
+langen können; ſo daß alle deutlicheren Erwägungen
+von dem einen umfaſſenden Gedanken an augen-
+blicklichen Tod verſchlungen wurden. Allein als ſeine
+Begriffe ſich ſonderten, fuhr ihm der Gedanke an
+ſeine Gattin durch die Seele. Was mogte ſie Ietzt
+leiden! und was mogte, während er einer ſo außer-
+ordentlichen Prüfung unterworfen ward, ihrem ſchwä-
+cheren und weiblichen Muthe vorbehalten worden
+ſeyn? Befand ſie ſich noch wenige Schritte weit
+von ihm, wie es der Fall war, als ſie ſich Abends
+vorher ſchlafen legten? Oder hatten die Barbaren,
+die ihm ein ſo grauſames Loos bereiteten, ſich und
+ſeiner Gattin unvorſichtiges Vertrauen zu Nutzen ge-
+macht, um ihr eine ähnliche oder gar noch abſcheu-
+lichere Schmach aufzuerlegen? Schlief ſie oder wachte
+ſie, oder konnte ſie in der Nähe eines ſo ſchreck-
+lichen Gebrülles ſchlafen, das alles ringsum erſchüt-
+terte? Er beſchloß, ſie zu rufen, ſie wo möglich zu
+warnen, auf ihrer Huth zu ſeyn und ſich in Acht zu</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3080" imageWidth="2128">
+    <PrintSpace>
+        <Coords points="0,0 0,2128 3080,2128 3080,2128"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2128 3080,2128 3080,2128"/>
+        
+            <TextLine id="textline_29">
+        
+            <Coords points="215,553 215,1396 314,1396 314,553"/>
+            <TextEquiv>
+                <Unicode>- 87 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="369,158 369,1746 462,1746 462,158"/>
+            <TextEquiv>
+                <Unicode>„Ihr ſeht, daß die Noth des Alterthums eben ſo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="593,303 593,1742 726,1742 726,303"/>
+            <TextEquiv>
+                <Unicode>„Ja,“ antwortete Brunhilde, „und ich habe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="731,160 731,1749 814,1749 814,160"/>
+            <TextEquiv>
+                <Unicode>vor der berühmten Belagerung von Troja gehört,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="822,152 822,1984 902,1984 902,152"/>
+            <TextEquiv>
+                <Unicode>bei welcher Gelegenheit ein prunkender Feigling das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="913,68 913,1760 996,1760 996,68"/>
+            <TextEquiv>
+                <Unicode>Weib  eines Tapſern entſührte und jegliches ritter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1000,158 1000,1756 1077,1756 1077,158"/>
+            <TextEquiv>
+                <Unicode>liche Zuſammentreffen mit dem Ehemanne, dem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="1089,155 1089,1754 1165,1754 1165,155"/>
+            <TextEquiv>
+                <Unicode>Schmach angethan hatte, ſchonete, ſo daß daraus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="1175,156 1175,1766 1259,1766 1259,156"/>
+            <TextEquiv>
+                <Unicode>der Tod vieler ſeiner Brüder, die Verwüſtung ſei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1254,125 1254,1773 1340,1773 1340,125"/>
+            <TextEquiv>
+                <Unicode>nes Vaterlandes, der Verluſt aller Reichthümer des-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="1350,85 1350,1745 1439,1745 1439,85"/>
+            <TextEquiv>
+                <Unicode>ſelben hervorging und er ſelbſt dem Tod eines er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="1432,157 1432,1758 1522,1758 1522,157"/>
+            <TextEquiv>
+                <Unicode>bärmlichen Prahters ſtarb, der nur von ſeinen. Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1529,158 1529,1739 1606,1739 1606,158"/>
+            <TextEquiv>
+                <Unicode>noſſen beklagt  ward; und aus dem Alben ergiebt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1618,157 1618,1756 1696,1756 1696,157"/>
+            <TextEquiv>
+                <Unicode>ſich denn deutlch genug, wie Eure Vorſahren ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1706,167 1706,1509 1785,1509 1785,167"/>
+            <TextEquiv>
+                <Unicode>auf die Gesetze der Ritterſchaft verſtanden.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1792,292 1792,1736 1872,1736 1872,292"/>
+            <TextEquiv>
+                <Unicode>„Ihr ſeyd im Irrthum,, Gräſin,“ ſagte der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1881,159 1881,1762 1957,1762 1957,159"/>
+            <TextEquiv>
+                <Unicode>Cäſar; „die Unthaten des Paris waren die eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1970,159 1970,1743 2048,1743 2048,159"/>
+            <TextEquiv>
+                <Unicode>frechen Morgenländers; der Muth, der ſie rächte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="2060,163 2060,1661 2136,1661 2136,163"/>
+            <TextEquiv>
+                <Unicode>war der Muth der Söhne Griechenlands.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="2097,308 2097,1762 2228,1762 2228,308"/>
+            <TextEquiv>
+                <Unicode>„Ihr ſprecht gelehrt, Herr,“ entgegnete die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="2236,160 2236,1819 2313,1819 2313,160"/>
+            <TextEquiv>
+                <Unicode>Dame, „doch glaubt nicht, daß ich Euren Worten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2326,162 2326,1760 2402,1760 2402,162"/>
+            <TextEquiv>
+                <Unicode>eher glaube,  als  bis Ihr mir einen  griechiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="2411,162 2411,1766 2493,1766 2493,162"/>
+            <TextEquiv>
+                <Unicode>Ritter vorstelltet, der tapfer genug iſt, auſ den be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 87 -
+„Ihr ſeht, daß die Noth des Alterthums eben ſo
+„Ja,“ antwortete Brunhilde, „und ich habe
+vor der berühmten Belagerung von Troja gehört,
+bei welcher Gelegenheit ein prunkender Feigling das
+Weib  eines Tapſern entſührte und jegliches ritter-
+liche Zuſammentreffen mit dem Ehemanne, dem er
+Schmach angethan hatte, ſchonete, ſo daß daraus
+der Tod vieler ſeiner Brüder, die Verwüſtung ſei-
+nes Vaterlandes, der Verluſt aller Reichthümer des-
+ſelben hervorging und er ſelbſt dem Tod eines er-
+bärmlichen Prahters ſtarb, der nur von ſeinen. Ge-
+noſſen beklagt  ward; und aus dem Alben ergiebt
+ſich denn deutlch genug, wie Eure Vorſahren ſich
+auf die Gesetze der Ritterſchaft verſtanden.“
+„Ihr ſeyd im Irrthum,, Gräſin,“ ſagte der
+Cäſar; „die Unthaten des Paris waren die eines
+frechen Morgenländers; der Muth, der ſie rächte,
+war der Muth der Söhne Griechenlands.“
+„Ihr ſprecht gelehrt, Herr,“ entgegnete die
+Dame, „doch glaubt nicht, daß ich Euren Worten
+eher glaube,  als  bis Ihr mir einen  griechiſchen
+Ritter vorstelltet, der tapfer genug iſt, auſ den be-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3092" imageWidth="2122">
+    <PrintSpace>
+        <Coords points="0,0 0,2122 3092,2122 3092,2122"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2122 3092,2122 3092,2122"/>
+        
+            <TextLine id="textline_52">
+        
+            <Coords points="906,185 906,1418 1045,1418 1045,185"/>
+            <TextEquiv>
+                <Unicode>Zwanzigſtes Kapitel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="1087,662 1087,1237 1210,1237 1210,662"/>
+            <TextEquiv>
+                <Unicode>-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="1201,172 1201,1679 1312,1679 1312,172"/>
+            <TextEquiv>
+                <Unicode>Sie kommt, ſie kommt in allem Jugendreiz,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="1328,181 1328,1472 1394,1472 1394,181"/>
+            <TextEquiv>
+                <Unicode>In namenloſer Lieb&#39; und ächter Treue!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="1453,760 1453,1205 1564,1205 1564,760"/>
+            <TextEquiv>
+                <Unicode>-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="1620,229 1620,1719 1760,1719 1760,229"/>
+            <TextEquiv>
+                <Unicode>Nicht lange ſchritt Heribert durch die waldarti-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="1751,151 1751,1876 1848,1876 1848,151"/>
+            <TextEquiv>
+                <Unicode>gen Gänge des Gartens dem Schrei nach, ſo ſtürz-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="1845,155 1845,1732 1935,1732 1935,155"/>
+            <TextEquiv>
+                <Unicode>te ein weibliches Weſen ſich ihm in die Arme, das,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="1928,156 1928,1733 2011,1733 2011,156"/>
+            <TextEquiv>
+                <Unicode>wie es ſchien, durch  den ſie verfolgenden Sylvan</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2026,155 2026,1746 2103,1746 2103,155"/>
+            <TextEquiv>
+                <Unicode>beunruhigt worden  war. Die Geſtalt Heriberts,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="2113,156 2113,1747 2191,1747 2191,156"/>
+            <TextEquiv>
+                <Unicode>der mit auſgehobener Art den  Affen bedrohete,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="2202,72 2202,1748 2291,1748 2291,72"/>
+            <TextEquiv>
+                <Unicode>brachte dieſen ſofort zum Stillſtand, ſo daß er mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="2291,158 2291,1751 2412,1751 2412,158"/>
+            <TextEquiv>
+                <Unicode>einem argen Gekreische ſich in das naheliegende Di-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="2379,185 2379,754 2467,754 2467,185"/>
+            <TextEquiv>
+                <Unicode>ckig zurükzog.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="2426,186 2426,1746 2547,1746 2547,186"/>
+            <TextEquiv>
+                <Unicode>Des Verfolgers ledig, hatte Heribert Zeit, ei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="2549,159 2549,1752 2641,1752 2641,159"/>
+            <TextEquiv>
+                <Unicode>nen Blick auſ das Frauenzimmer zu werfen, das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="2646,159 2646,1737 2720,1737 2720,159"/>
+            <TextEquiv>
+                <Unicode>duch ihn Beiſtand erhielt. Sie war in ein vielfar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="2732,121 2732,1749 2813,1749 2813,121"/>
+            <TextEquiv>
+                <Unicode>biges Gewand gehüllt, an welchem Blaßgelb vor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Zwanzigſtes Kapitel.
+-
+Sie kommt, ſie kommt in allem Jugendreiz,
+In namenloſer Lieb&#39; und ächter Treue!
+-
+Nicht lange ſchritt Heribert durch die waldarti-
+gen Gänge des Gartens dem Schrei nach, ſo ſtürz-
+te ein weibliches Weſen ſich ihm in die Arme, das,
+wie es ſchien, durch  den ſie verfolgenden Sylvan
+beunruhigt worden  war. Die Geſtalt Heriberts,
+der mit auſgehobener Art den  Affen bedrohete,
+brachte dieſen ſofort zum Stillſtand, ſo daß er mit
+einem argen Gekreische ſich in das naheliegende Di-
+ckig zurükzog.
+Des Verfolgers ledig, hatte Heribert Zeit, ei-
+nen Blick auſ das Frauenzimmer zu werfen, das
+duch ihn Beiſtand erhielt. Sie war in ein vielfar-
+biges Gewand gehüllt, an welchem Blaßgelb vor-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3089" imageWidth="2119">
+    <PrintSpace>
+        <Coords points="0,0 0,2119 3089,2119 3089,2119"/>
+    </PrintSpace>
+    <TextRegion id="textblock_3">
+        <Coords points="0,0 0,2119 3089,2119 3089,2119"/>
+        
+            <TextLine id="textline_70">
+        
+            <Coords points="219,751 219,1190 278,1190 278,751"/>
+            <TextEquiv>
+                <Unicode>- 187 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="805,185 805,1801 932,1801 932,185"/>
+            <TextEquiv>
+                <Unicode>Drei und zwanzigſtes Kapitel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="1092,323 1092,1945 1231,1945 1231,323"/>
+            <TextEquiv>
+                <Unicode>Der Varangier verließ den Grafen von Paris</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="1238,188 1238,1764 1315,1764 1315,188"/>
+            <TextEquiv>
+                <Unicode>nicht eher, als bis dieſer ſeinen Siegelring, semee</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1327,189 1327,1766 1407,1766 1407,189"/>
+            <TextEquiv>
+                <Unicode>(wie die Wappenkundigen es benennen) mit zerſplit-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1416,189 1416,1766 1493,1766 1493,189"/>
+            <TextEquiv>
+                <Unicode>terten Lanzen und der ſtolzen Umſchrift „die mei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="1505,187 1505,1765 1581,1765 1581,187"/>
+            <TextEquiv>
+                <Unicode>nige unverletzt,“ ihm in die Hände legte. Verſehen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="1593,184 1593,1844 1669,1844 1669,184"/>
+            <TextEquiv>
+                <Unicode>mit dieſem Symbol des Vertrauens war es jetzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="1680,186 1680,1766 1760,1766 1760,186"/>
+            <TextEquiv>
+                <Unicode>ſein Geſchäft, dem Führer des Kreuzheers Kunde</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1770,188 1770,1770 1846,1770 1846,188"/>
+            <TextEquiv>
+                <Unicode>von der herannahenden Feierlichkeit des Zweikampfes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="1850,187 1850,1769 1934,1769 1934,187"/>
+            <TextEquiv>
+                <Unicode>im Namen Roberts von Paris und deſſen Gemahlin</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1945,186 1945,1770 2031,1770 2031,186"/>
+            <TextEquiv>
+                <Unicode>Brunhilde zu geben und von demſelben eine Schaar</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="2030,187 2030,1770 2111,1770 2111,187"/>
+            <TextEquiv>
+                <Unicode>abendländiſcher Krieger zu begehren, die darauf zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="2122,186 2122,1768 2202,1768 2202,186"/>
+            <TextEquiv>
+                <Unicode>ſehen hätte, daß Ehre und Redlichkeit in Anord-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="2209,186 2209,1768 2289,1768 2289,186"/>
+            <TextEquiv>
+                <Unicode>nung der Schranken und Fortführung des Zwei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="2296,187 2296,1769 2377,1769 2377,187"/>
+            <TextEquiv>
+                <Unicode>kampfes ſtreng beobachtet würden. Die Pflichten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="2384,187 2384,1772 2466,1772 2466,187"/>
+            <TextEquiv>
+                <Unicode>welche unſerm Varangier auferlegt waren, machten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="2477,184 2477,1930 2558,1930 2558,184"/>
+            <TextEquiv>
+                <Unicode>es ihm unmöglich, perſönlich ſich in Gottfrieds Lager</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="2567,178 2567,1948 2643,1948 2643,178"/>
+            <TextEquiv>
+                <Unicode>zu begeben; und obgleich es noch manchen Varangier</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="2652,182 2652,1773 2736,1773 2736,182"/>
+            <TextEquiv>
+                <Unicode>gab, auf deſſen Treue er ſich verlaſſen konnte, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="2742,183 2742,1808 2833,1808 2833,183"/>
+            <TextEquiv>
+                <Unicode>ihm unter denſelben Keiner bekannt, der unter ſei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 187 -
+Drei und zwanzigſtes Kapitel.
+Der Varangier verließ den Grafen von Paris
+nicht eher, als bis dieſer ſeinen Siegelring, semee
+(wie die Wappenkundigen es benennen) mit zerſplit-
+terten Lanzen und der ſtolzen Umſchrift „die mei-
+nige unverletzt,“ ihm in die Hände legte. Verſehen
+mit dieſem Symbol des Vertrauens war es jetzt
+ſein Geſchäft, dem Führer des Kreuzheers Kunde
+von der herannahenden Feierlichkeit des Zweikampfes
+im Namen Roberts von Paris und deſſen Gemahlin
+Brunhilde zu geben und von demſelben eine Schaar
+abendländiſcher Krieger zu begehren, die darauf zu
+ſehen hätte, daß Ehre und Redlichkeit in Anord-
+nung der Schranken und Fortführung des Zwei-
+kampfes ſtreng beobachtet würden. Die Pflichten,
+welche unſerm Varangier auferlegt waren, machten
+es ihm unmöglich, perſönlich ſich in Gottfrieds Lager
+zu begeben; und obgleich es noch manchen Varangier
+gab, auf deſſen Treue er ſich verlaſſen konnte, war
+ihm unter denſelben Keiner bekannt, der unter ſei-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3088" imageWidth="2118">
+    <PrintSpace>
+        <Coords points="0,0 0,2118 3088,2118 3088,2118"/>
+    </PrintSpace>
+    <TextRegion id="textblock_4">
+        <Coords points="0,0 0,2118 3088,2118 3088,2118"/>
+        
+            <TextLine id="textline_91">
+        
+            <Coords points="364,388 364,1968 447,1968 447,388"/>
+            <TextEquiv>
+                <Unicode>Mädchen, und ſetzte wie begeiſtert hinzu: „Das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="455,388 455,1968 535,1968 535,388"/>
+            <TextEquiv>
+                <Unicode>hieß geſprochen gleich dem Sohne Waldhof&#39;s, gleich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="545,390 545,1970 622,1970 622,390"/>
+            <TextEquiv>
+                <Unicode>einem Sprößling vom ächten Stame! Ich will</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="631,391 631,1969 712,1969 712,391"/>
+            <TextEquiv>
+                <Unicode>heimgehen und meine Gebieterin tröſten; denn wahr-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="725,392 725,1970 802,1970 802,392"/>
+            <TextEquiv>
+                <Unicode>ich! wenn jemals Gottes Gericht den Ausgang eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_96">
+        
+            <Coords points="811,390 811,2009 893,2009 893,390"/>
+            <TextEquiv>
+                <Unicode>Zweikampfes beſtimmte, ſo wird es in dieſem Falle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_97">
+        
+            <Coords points="901,392 901,1977 977,1977 977,392"/>
+            <TextEquiv>
+                <Unicode>gewiß geſchehen. Aber Du deuteſt an, der Graf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_98">
+        
+            <Coords points="979,392 979,1972 1084,1972 1084,392"/>
+            <TextEquiv>
+                <Unicode>ſey hier, ſey in Freiheit - meine Gebieterin wird</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_99">
+        
+            <Coords points="1073,400 1073,1640 1157,1640 1157,400"/>
+            <TextEquiv>
+                <Unicode>darüber Näheres wiſſen wollen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_100">
+        
+            <Coords points="1164,542 1164,1970 1246,1970 1246,542"/>
+            <TextEquiv>
+                <Unicode>„Sie mag ſich damit begnügen, zu wiſſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_101">
+        
+            <Coords points="1256,398 1256,1971 1337,1971 1337,398"/>
+            <TextEquiv>
+                <Unicode>ſagte Heribert, „daß ihr Gemahl unter der Obhuth</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_102">
+        
+            <Coords points="1345,398 1345,1974 1423,1974 1423,398"/>
+            <TextEquiv>
+                <Unicode>eines Freundes ſteht, der bemüht ſeyn wird, ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_103">
+        
+            <Coords points="1433,398 1433,1974 1512,1974 1512,398"/>
+            <TextEquiv>
+                <Unicode>gegen ſeine eigenen Thorheiten und Übertrieben-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_104">
+        
+            <Coords points="1519,396 1519,1977 1607,1977 1607,396"/>
+            <TextEquiv>
+                <Unicode>heiten zu ſchätzen, oder daß er auf alle Fälle unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_105">
+        
+            <Coords points="1600,396 1600,1982 1690,1982 1690,396"/>
+            <TextEquiv>
+                <Unicode>der Obhuth eines Mannes ſteht, der, wenn er auch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_106">
+        
+            <Coords points="1698,400 1698,1975 1778,1975 1778,400"/>
+            <TextEquiv>
+                <Unicode>nicht ſo eigentlich ſein Freund genannt werden kann,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_107">
+        
+            <Coords points="1783,400 1783,1979 1869,1979 1869,400"/>
+            <TextEquiv>
+                <Unicode>doch zuverläſſig nicht als Feind gegen ihn verfuhr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_108">
+        
+            <Coords points="1872,400 1872,1978 1962,1978 1962,400"/>
+            <TextEquiv>
+                <Unicode>und nimmer derfahren wird. Und nun lebe wohl,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_109">
+        
+            <Coords points="1955,347 1955,1983 2084,1983 2084,347"/>
+            <TextEquiv>
+                <Unicode>Du lange Zeit verloren Geweſene, Du Stetsge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_110">
+        
+            <Coords points="2119,385 2119,1985 2224,1985 2224,385"/>
+            <TextEquiv>
+                <Unicode>Ehe er noch mehr ſagen konnte, warf ſich die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_111">
+        
+            <Coords points="2216,405 2216,1984 2312,1984 2312,405"/>
+            <TextEquiv>
+                <Unicode>Angelſächſin nach etlichen vergeblichen Verſuchen, ihre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_112">
+        
+            <Coords points="2317,404 2317,1987 2399,1987 2399,404"/>
+            <TextEquiv>
+                <Unicode>Gefühle in Worten auszudrücken und ungeachtet der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_113">
+        
+            <Coords points="2406,407 2406,1986 2495,1986 2495,407"/>
+            <TextEquiv>
+                <Unicode>Sprödigkeit, die ſie vorhin hatte blicken laſſen, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Mädchen, und ſetzte wie begeiſtert hinzu: „Das
+hieß geſprochen gleich dem Sohne Waldhof&#39;s, gleich
+einem Sprößling vom ächten Stame! Ich will
+heimgehen und meine Gebieterin tröſten; denn wahr-
+ich! wenn jemals Gottes Gericht den Ausgang eines
+Zweikampfes beſtimmte, ſo wird es in dieſem Falle
+gewiß geſchehen. Aber Du deuteſt an, der Graf
+ſey hier, ſey in Freiheit - meine Gebieterin wird
+darüber Näheres wiſſen wollen.“
+„Sie mag ſich damit begnügen, zu wiſſen,
+ſagte Heribert, „daß ihr Gemahl unter der Obhuth
+eines Freundes ſteht, der bemüht ſeyn wird, ihn
+gegen ſeine eigenen Thorheiten und Übertrieben-
+heiten zu ſchätzen, oder daß er auf alle Fälle unter
+der Obhuth eines Mannes ſteht, der, wenn er auch
+nicht ſo eigentlich ſein Freund genannt werden kann,
+doch zuverläſſig nicht als Feind gegen ihn verfuhr
+und nimmer derfahren wird. Und nun lebe wohl,
+Du lange Zeit verloren Geweſene, Du Stetsge-
+Ehe er noch mehr ſagen konnte, warf ſich die
+Angelſächſin nach etlichen vergeblichen Verſuchen, ihre
+Gefühle in Worten auszudrücken und ungeachtet der
+Sprödigkeit, die ſie vorhin hatte blicken laſſen, in</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3083" imageWidth="2131">
+    <PrintSpace>
+        <Coords points="0,0 0,2131 3083,2131 3083,2131"/>
+    </PrintSpace>
+    <TextRegion id="textblock_5">
+        <Coords points="0,0 0,2131 3083,2131 3083,2131"/>
+        
+            <TextLine id="textline_114">
+        
+            <Coords points="217,768 217,1288 319,1288 319,768"/>
+            <TextEquiv>
+                <Unicode>- 99 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_115">
+        
+            <Coords points="312,180 312,1754 439,1754 439,180"/>
+            <TextEquiv>
+                <Unicode>bringe keinen Ausweg heraus, der nicht auf eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_116">
+        
+            <Coords points="438,179 438,1756 517,1756 517,179"/>
+            <TextEquiv>
+                <Unicode>oder andere überſpannte Weiſe von Euern thörigen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_117">
+        
+            <Coords points="526,176 526,1756 604,1756 604,176"/>
+            <TextEquiv>
+                <Unicode>Einwürfen zurückgewieſen würde. Hier ſteht ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_118">
+        
+            <Coords points="618,179 618,1758 693,1758 693,179"/>
+            <TextEquiv>
+                <Unicode>Mann, der durch die niedrigſte, gegen ſeine Gat-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_119">
+        
+            <Coords points="703,179 703,1759 789,1759 789,179"/>
+            <TextEquiv>
+                <Unicode>tin gebrauchte Liſt feinem Feinde in die Hände ſiel;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_120">
+        
+            <Coords points="793,184 793,1762 869,1762 869,184"/>
+            <TextEquiv>
+                <Unicode>ein Mann, gegen den eine ähnliche Liſt gebraucht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_121">
+        
+            <Coords points="877,181 877,1760 968,1760 968,181"/>
+            <TextEquiv>
+                <Unicode>ward, ſo daß der Dame Ehre und Leben dadurch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_122">
+        
+            <Coords points="962,181 962,1760 1048,1760 1048,181"/>
+            <TextEquiv>
+                <Unicode>gefährdet ſind, doch hält dieſer Mann es für noth-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_123">
+        
+            <Coords points="1058,181 1058,1761 1137,1761 1137,181"/>
+            <TextEquiv>
+                <Unicode>wendig, ſelbſt ſolchen mitternächtigen Vergiftern eben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_124">
+        
+            <Coords points="1149,167 1149,1767 1223,1767 1223,167"/>
+            <TextEquiv>
+                <Unicode>ſo ſtreng ſein Wort zu halten, als wenn er es den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_125">
+        
+            <Coords points="1230,183 1230,1764 1311,1764 1311,183"/>
+            <TextEquiv>
+                <Unicode>ehrlichſten Männern von der Welt gegeben hätte!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_126">
+        
+            <Coords points="1321,329 1321,1762 1411,1762 1411,329"/>
+            <TextEquiv>
+                <Unicode>„Du ſprichſt eine ſchmerzliche Wahrheit aus,“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_127">
+        
+            <Coords points="1405,185 1405,1767 1491,1767 1491,185"/>
+            <TextEquiv>
+                <Unicode>ſagte Graf Robert, „doch mein Wort iſt das Em-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_128">
+        
+            <Coords points="1501,184 1501,1764 1587,1764 1587,184"/>
+            <TextEquiv>
+                <Unicode>blem meines Glaubens; und wenn ich es einem ehr-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_129">
+        
+            <Coords points="1580,186 1580,1766 1668,1766 1668,186"/>
+            <TextEquiv>
+                <Unicode>loſen oder treubrüchigen Feinde gebe, ſo habe ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_130">
+        
+            <Coords points="1679,185 1679,1766 1756,1766 1756,185"/>
+            <TextEquiv>
+                <Unicode>unweiſe gehandelt; jedoch wenn ich einmal gegebenes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_131">
+        
+            <Coords points="1758,187 1758,1766 1844,1766 1844,187"/>
+            <TextEquiv>
+                <Unicode>Wort breche, ſo begehe ich dadurch eine ehrloſe Hand-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_132">
+        
+            <Coords points="1854,184 1854,1938 1931,1938 1931,184"/>
+            <TextEquiv>
+                <Unicode>kung, deren Schmach nimmer von meinem Schilde</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_133">
+        
+            <Coords points="1943,203 1943,1029 2021,1029 2021,203"/>
+            <TextEquiv>
+                <Unicode>abgewaſchen werden kann.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_134">
+        
+            <Coords points="2001,337 2001,1767 2110,1767 2110,337"/>
+            <TextEquiv>
+                <Unicode>„Meynt Ihr,“ ſprach der Varangier, „es ſey</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_135">
+        
+            <Coords points="2119,188 2119,1772 2201,1772 2201,188"/>
+            <TextEquiv>
+                <Unicode>wohl gethan, Eures Weibes Ehre auf den Ausgang</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_136">
+        
+            <Coords points="2206,186 2206,1872 2325,1872 2325,186"/>
+            <TextEquiv>
+                <Unicode>eines ungleichen Zweikampfes ſo verpſändet zu lafſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_137">
+        
+            <Coords points="2298,216 2298,744 2373,744 2373,216"/>
+            <TextEquiv>
+                <Unicode>wie ſie jetzt iſt?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_138">
+        
+            <Coords points="2349,342 2349,1767 2464,1767 2464,342"/>
+            <TextEquiv>
+                <Unicode>„Gott und die Heiligen mögen Dir dieſen Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_139">
+        
+            <Coords points="2473,194 2473,1822 2552,1822 2552,194"/>
+            <TextEquiv>
+                <Unicode>danken verzeihen!“ ſagte der Graf von Paris. „Ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_140">
+        
+            <Coords points="2564,196 2564,1772 2642,1772 2642,196"/>
+            <TextEquiv>
+                <Unicode>werde dieſem Kampfe mit eben ſo unerſchüttertem,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_141">
+        
+            <Coords points="2652,196 2652,1773 2731,1773 2731,196"/>
+            <TextEquiv>
+                <Unicode>wenn auch nicht ſo fröhlichem Herzen zuſehen, wo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_142">
+        
+            <Coords points="2741,198 2741,1771 2819,1771 2819,198"/>
+            <TextEquiv>
+                <Unicode>mit ich jemals zuſah, wie Lanzen zerſplittert wur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 99 -
+bringe keinen Ausweg heraus, der nicht auf eine
+oder andere überſpannte Weiſe von Euern thörigen
+Einwürfen zurückgewieſen würde. Hier ſteht ein
+Mann, der durch die niedrigſte, gegen ſeine Gat-
+tin gebrauchte Liſt feinem Feinde in die Hände ſiel;
+ein Mann, gegen den eine ähnliche Liſt gebraucht
+ward, ſo daß der Dame Ehre und Leben dadurch
+gefährdet ſind, doch hält dieſer Mann es für noth-
+wendig, ſelbſt ſolchen mitternächtigen Vergiftern eben
+ſo ſtreng ſein Wort zu halten, als wenn er es den
+ehrlichſten Männern von der Welt gegeben hätte!“
+„Du ſprichſt eine ſchmerzliche Wahrheit aus,“
+ſagte Graf Robert, „doch mein Wort iſt das Em-
+blem meines Glaubens; und wenn ich es einem ehr-
+loſen oder treubrüchigen Feinde gebe, ſo habe ich
+unweiſe gehandelt; jedoch wenn ich einmal gegebenes
+Wort breche, ſo begehe ich dadurch eine ehrloſe Hand-
+kung, deren Schmach nimmer von meinem Schilde
+abgewaſchen werden kann.“
+„Meynt Ihr,“ ſprach der Varangier, „es ſey
+wohl gethan, Eures Weibes Ehre auf den Ausgang
+eines ungleichen Zweikampfes ſo verpſändet zu lafſen,
+wie ſie jetzt iſt?“
+„Gott und die Heiligen mögen Dir dieſen Ge-
+danken verzeihen!“ ſagte der Graf von Paris. „Ich
+werde dieſem Kampfe mit eben ſo unerſchüttertem,
+wenn auch nicht ſo fröhlichem Herzen zuſehen, wo-
+mit ich jemals zuſah, wie Lanzen zerſplittert wur-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3103" imageWidth="2160">
+    <PrintSpace>
+        <Coords points="0,0 0,2160 3103,2160 3103,2160"/>
+    </PrintSpace>
+    <TextRegion id="textblock_6">
+        <Coords points="0,0 0,2160 3103,2160 3103,2160"/>
+        
+            <TextLine id="textline_143">
+        
+            <Coords points="209,814 209,1220 318,1220 318,814"/>
+            <TextEquiv>
+                <Unicode>- 75 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_144">
+        
+            <Coords points="338,234 338,1804 452,1804 452,234"/>
+            <TextEquiv>
+                <Unicode>werde, thätig zu ſeyn, ſobald es mit Ehren geſche-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_145">
+        
+            <Coords points="462,262 462,601 538,601 538,262"/>
+            <TextEquiv>
+                <Unicode>hen kann.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_146">
+        
+            <Coords points="550,233 550,1804 634,1804 634,233"/>
+            <TextEquiv>
+                <Unicode>„Daran zweifle ich nicht; doch bedünkt mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_147">
+        
+            <Coords points="648,228 648,1805 726,1805 726,228"/>
+            <TextEquiv>
+                <Unicode>ſolche Unterſcheidung etwas ſonderbar,“ entgegnete</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_148">
+        
+            <Coords points="729,172 729,1806 812,1806 812,172"/>
+            <TextEquiv>
+                <Unicode>der Varangier, „indem ſie einem Manne nur dann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_149">
+        
+            <Coords points="825,230 825,1806 934,1806 934,230"/>
+            <TextEquiv>
+                <Unicode>geſtattet, ſich ſeiner Haut zu wehren, ſobald er erſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_150">
+        
+            <Coords points="908,243 908,1269 992,1269 992,243"/>
+            <TextEquiv>
+                <Unicode>ſeinen Stammbaum befragt hat.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_151">
+        
+            <Coords points="1012,368 1012,1800 1094,1800 1094,368"/>
+            <TextEquiv>
+                <Unicode>„Seyd ohne Furcht, Herr,“ ſagte Graf Ro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_152">
+        
+            <Coords points="1104,218 1104,1982 1181,1982 1181,218"/>
+            <TextEquiv>
+                <Unicode>bert. „Die ſtrenge Regel der Ritterſchaft ſchreibt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_153">
+        
+            <Coords points="1194,228 1194,1804 1269,1804 1269,228"/>
+            <TextEquiv>
+                <Unicode>allerdings das vor, was ich Dir ſagte; doch wenn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_154">
+        
+            <Coords points="1279,226 1279,1802 1357,1802 1357,226"/>
+            <TextEquiv>
+                <Unicode>es darauf ankommt, ſich durchzuſchlagen, ſo lei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_155">
+        
+            <Coords points="1367,227 1367,1801 1447,1801 1447,227"/>
+            <TextEquiv>
+                <Unicode>det dieſe Regel weſentliche Abänderung und Aus-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_156">
+        
+            <Coords points="1450,242 1450,606 1534,606 1534,242"/>
+            <TextEquiv>
+                <Unicode>nahme.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_157">
+        
+            <Coords points="1556,370 1556,1793 1635,1793 1635,370"/>
+            <TextEquiv>
+                <Unicode>„So laß mich denn das Zeichen der Beſchwö-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_158">
+        
+            <Coords points="1647,163 1647,1803 1728,1803 1728,163"/>
+            <TextEquiv>
+                <Unicode>rung geben,“ verſetzte Heribert, „und dann wollen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_159">
+        
+            <Coords points="1730,228 1730,1646 1840,1646 1840,228"/>
+            <TextEquiv>
+                <Unicode>wir ſehen, was für ein böſer Geiſt erſcheint.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_160">
+        
+            <Coords points="1832,368 1832,1796 1933,1796 1933,368"/>
+            <TextEquiv>
+                <Unicode>Indem er dies ſprach, klopfte er auf eine be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_161">
+        
+            <Coords points="1944,232 1944,1288 2021,1288 2021,232"/>
+            <TextEquiv>
+                <Unicode>ſondere Weiſe und die Thür öffn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_162">
+        
+            <Coords points="2034,237 2034,1213 2110,1213 2110,237"/>
+            <TextEquiv>
+                <Unicode>Eine zwerghafte Negerin ſtand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_163">
+        
+            <Coords points="2122,233 2122,1249 2195,1249 2195,233"/>
+            <TextEquiv>
+                <Unicode>Das weiße Haar der Schwarze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_164">
+        
+            <Coords points="2212,229 2212,1248 2285,1248 2285,229"/>
+            <TextEquiv>
+                <Unicode>Widerſpruche mit ihrer Hautfa</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_165">
+        
+            <Coords points="2300,237 2300,1247 2374,1247 2374,237"/>
+            <TextEquiv>
+                <Unicode>ſchrillenden Lachen, das dieſen S</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_166">
+        
+            <Coords points="2388,233 2388,1234 2468,1234 2468,233"/>
+            <TextEquiv>
+                <Unicode>pflegt. Sie hatte in ihren Zügen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_167">
+        
+            <Coords points="2473,233 2473,1246 2553,1246 2553,233"/>
+            <TextEquiv>
+                <Unicode>es unterſucht ward, wie Boshe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_168">
+        
+            <Coords points="2564,236 2564,1061 2641,1061 2641,236"/>
+            <TextEquiv>
+                <Unicode>über Menſchenelend ausſah.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_169">
+        
+            <Coords points="2666,375 2666,1238 2755,1238 2755,375"/>
+            <TextEquiv>
+                <Unicode>„Iſt Agelaſtes -“ ſprachd</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_170">
+        
+            <Coords points="2748,228 2748,1243 2852,1243 2852,228"/>
+            <TextEquiv>
+                <Unicode>hatte er die arte nach im Mu</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 75 -
+werde, thätig zu ſeyn, ſobald es mit Ehren geſche-
+hen kann.“
+„Daran zweifle ich nicht; doch bedünkt mich
+ſolche Unterſcheidung etwas ſonderbar,“ entgegnete
+der Varangier, „indem ſie einem Manne nur dann
+geſtattet, ſich ſeiner Haut zu wehren, ſobald er erſt
+ſeinen Stammbaum befragt hat.“
+„Seyd ohne Furcht, Herr,“ ſagte Graf Ro-
+bert. „Die ſtrenge Regel der Ritterſchaft ſchreibt
+allerdings das vor, was ich Dir ſagte; doch wenn
+es darauf ankommt, ſich durchzuſchlagen, ſo lei-
+det dieſe Regel weſentliche Abänderung und Aus-
+nahme.“
+„So laß mich denn das Zeichen der Beſchwö-
+rung geben,“ verſetzte Heribert, „und dann wollen
+wir ſehen, was für ein böſer Geiſt erſcheint.“
+Indem er dies ſprach, klopfte er auf eine be-
+ſondere Weiſe und die Thür öffn
+Eine zwerghafte Negerin ſtand
+Das weiße Haar der Schwarze
+Widerſpruche mit ihrer Hautfa
+ſchrillenden Lachen, das dieſen S
+pflegt. Sie hatte in ihren Zügen
+es unterſucht ward, wie Boshe
+über Menſchenelend ausſah.
+„Iſt Agelaſtes -“ ſprachd
+hatte er die arte nach im Mu</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3093" imageWidth="2130">
+    <PrintSpace>
+        <Coords points="0,0 0,2130 3093,2130 3093,2130"/>
+    </PrintSpace>
+    <TextRegion id="textblock_7">
+        <Coords points="0,0 0,2130 3093,2130 3093,2130"/>
+        
+            <TextLine id="textline_171">
+        
+            <Coords points="239,720 239,1112 297,1112 297,720"/>
+            <TextEquiv>
+                <Unicode>- 43 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_172">
+        
+            <Coords points="345,127 345,1711 448,1711 448,127"/>
+            <TextEquiv>
+                <Unicode>des Meſſers, und weiß wohl, welche Wirkung es hat,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_173">
+        
+            <Coords points="457,124 457,1712 534,1712 534,124"/>
+            <TextEquiv>
+                <Unicode>wenn von ſtarker Fauſt ein Stoß über das Schlüſ-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_174">
+        
+            <Coords points="545,119 545,1899 624,1899 624,119"/>
+            <TextEquiv>
+                <Unicode>ſelbein vollführt ward - ich fühl&#39; es kommen. Der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_175">
+        
+            <Coords points="633,121 633,1720 714,1720 714,121"/>
+            <TextEquiv>
+                <Unicode>ſogenannte Unſterbliche wird jetzt, wenn die Prie-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_176">
+        
+            <Coords points="719,121 719,1830 807,1830 807,121"/>
+            <TextEquiv>
+                <Unicode>ſter wahrſprechen, wirklich ein Urſterblicher, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_177">
+        
+            <Coords points="800,119 800,1719 891,1719 891,119"/>
+            <TextEquiv>
+                <Unicode>der Bogen des Sebaſtes von Mytilene zerbricht, ehe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_178">
+        
+            <Coords points="895,127 895,1471 1012,1471 1012,127"/>
+            <TextEquiv>
+                <Unicode>noch ſein Köcher zur Hälfte geleert ward.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_179">
+        
+            <Coords points="1003,58 1003,1897 1123,1897 1123,58"/>
+            <TextEquiv>
+                <Unicode>Der räuberiſche Grieche ſank hierauf in Heri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_180">
+        
+            <Coords points="1109,118 1109,1897 1203,1897 1203,118"/>
+            <TextEquiv>
+                <Unicode>berts Arm zurück und endete ſein Leben mit einem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_181">
+        
+            <Coords points="1209,119 1209,1880 1292,1880 1292,119"/>
+            <TextEquiv>
+                <Unicode>Aechzen, welches der letzte Laut war, den er her-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_182">
+        
+            <Coords points="1295,126 1295,1714 1411,1714 1411,126"/>
+            <TextEquiv>
+                <Unicode>vorbrachte. Der Varangier ſtreckte den Leichnam</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_183">
+        
+            <Coords points="1392,152 1392,677 1494,677 1494,152"/>
+            <TextEquiv>
+                <Unicode>auf die Flur hin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_184">
+        
+            <Coords points="1472,275 1472,1714 1591,1714 1591,275"/>
+            <TextEquiv>
+                <Unicode>„Das iſt eine verwickelte Sache,“ ſprach er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_185">
+        
+            <Coords points="1600,127 1600,1838 1682,1838 1682,127"/>
+            <TextEquiv>
+                <Unicode>dann. „Ich bin zuverläſſig nicht dazn berufen, ei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_186">
+        
+            <Coords points="1691,130 1691,1710 1768,1710 1768,130"/>
+            <TextEquiv>
+                <Unicode>nen braven Mann, obſchon er rein Tedfeind iſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_187">
+        
+            <Coords points="1777,131 1777,1712 1860,1712 1860,131"/>
+            <TextEquiv>
+                <Unicode>deshalb zu tödten, weil er einen Böſewicht nieder-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_188">
+        
+            <Coords points="1863,129 1863,1714 1943,1714 1943,129"/>
+            <TextEquiv>
+                <Unicode>ſtieß, der in Geheim darauf ſann, mich ſelbſt um-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_189">
+        
+            <Coords points="1952,59 1952,1735 2043,1735 2043,59"/>
+            <TextEquiv>
+                <Unicode>zubringen. Auch iſt dieſer Ort ſo wenig wie dieſes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_190">
+        
+            <Coords points="2040,131 2040,1718 2121,1718 2121,131"/>
+            <TextEquiv>
+                <Unicode>Licht dazu geeignet, ſo zu fechten, wie es Kämpen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_191">
+        
+            <Coords points="2129,130 2129,1831 2221,1831 2221,130"/>
+            <TextEquiv>
+                <Unicode>zweier Nationen geziemt. Laſſen wir den Zviſt für</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_192">
+        
+            <Coords points="2208,131 2208,1830 2299,1830 2299,131"/>
+            <TextEquiv>
+                <Unicode>diesmal ruhen. Was ſagt Ihr dazu, edler Herr,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_193">
+        
+            <Coords points="2307,128 2307,1936 2396,1936 2396,128"/>
+            <TextEquiv>
+                <Unicode>wenn wir unſern Streit ſo lange verſchieben, bis</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_194">
+        
+            <Coords points="2389,134 2389,1715 2477,1715 2477,134"/>
+            <TextEquiv>
+                <Unicode>Ihr aus dieſen Kerkern des kaiſerlichen Palaſtes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_195">
+        
+            <Coords points="2485,134 2485,1717 2564,1717 2564,134"/>
+            <TextEquiv>
+                <Unicode>befreit, und Euern Freunden und Geleitsmännern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_196">
+        
+            <Coords points="2568,129 2568,1896 2654,1896 2654,129"/>
+            <TextEquiv>
+                <Unicode>zurückgegeben wurdet? Wenn ein armer Varan-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_197">
+        
+            <Coords points="2660,134 2660,1717 2743,1717 2743,134"/>
+            <TextEquiv>
+                <Unicode>gier Euch zu ſolchem Zwecke helfen könnte, würdet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_198">
+        
+            <Coords points="2749,132 2749,1715 2830,1715 2830,132"/>
+            <TextEquiv>
+                <Unicode>Ihr ihm, nach vollführter Befreiung, es weigern,</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 43 -
+des Meſſers, und weiß wohl, welche Wirkung es hat,
+wenn von ſtarker Fauſt ein Stoß über das Schlüſ-
+ſelbein vollführt ward - ich fühl&#39; es kommen. Der
+ſogenannte Unſterbliche wird jetzt, wenn die Prie-
+ſter wahrſprechen, wirklich ein Urſterblicher, und
+der Bogen des Sebaſtes von Mytilene zerbricht, ehe
+noch ſein Köcher zur Hälfte geleert ward.“
+Der räuberiſche Grieche ſank hierauf in Heri-
+berts Arm zurück und endete ſein Leben mit einem
+Aechzen, welches der letzte Laut war, den er her-
+vorbrachte. Der Varangier ſtreckte den Leichnam
+auf die Flur hin.
+„Das iſt eine verwickelte Sache,“ ſprach er
+dann. „Ich bin zuverläſſig nicht dazn berufen, ei-
+nen braven Mann, obſchon er rein Tedfeind iſt,
+deshalb zu tödten, weil er einen Böſewicht nieder-
+ſtieß, der in Geheim darauf ſann, mich ſelbſt um-
+zubringen. Auch iſt dieſer Ort ſo wenig wie dieſes
+Licht dazu geeignet, ſo zu fechten, wie es Kämpen
+zweier Nationen geziemt. Laſſen wir den Zviſt für
+diesmal ruhen. Was ſagt Ihr dazu, edler Herr,
+wenn wir unſern Streit ſo lange verſchieben, bis
+Ihr aus dieſen Kerkern des kaiſerlichen Palaſtes
+befreit, und Euern Freunden und Geleitsmännern
+zurückgegeben wurdet? Wenn ein armer Varan-
+gier Euch zu ſolchem Zwecke helfen könnte, würdet
+Ihr ihm, nach vollführter Befreiung, es weigern,</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

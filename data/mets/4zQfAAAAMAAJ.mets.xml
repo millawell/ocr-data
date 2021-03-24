@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?> <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+	<!-- METS header: Metadaten darüber, von wem und wie die Daten erzeugt wurden -->
+	<mets:metsHdr CREATEDATE="2021-02-09T21:18:00">
+        <mets:agent OTHERTYPE="???" ROLE="CREATOR" TYPE="OTHER">
+            <mets:name>OCR - Data</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+
+	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
+    <dmdSec ID="dmd001">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title content="Walter Scott's Werke, Band 7"/> 
+            <dc:language content="de"/>
+		</mdWrap>
+	</dmdSec>
+
+	<!-- File Section: Ab hier wird es erst richtig relevant, an dieser Stelle werden alle zum Objekt (in unserem Fall würde ich sagen 1 Objekt - 1 Titel - 1 METS Datei) gehörigen Daten referenziert -->
+    <mets:fileSec>
+        <mets:fileGrp USE="IMG">
+            <mets:file ID="pdf_4zQfAAAAMAAJ_14" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=14"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ_92" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=92"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ_122" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=122"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ_192" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=192"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ_151" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=151"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ_104" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=104"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ_80" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=80"/>
+            </mets:file>
+            <mets:file ID="pdf_4zQfAAAAMAAJ_50" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=4zQfAAAAMAAJ#page=50"/>
+            </mets:file>
+
+ 
+        </mets:fileGrp>
+		<mets:fileGrp USE="GT">
+		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
+            <mets:file ID="gt_4zQfAAAAMAAJ_14" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_14.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ_92" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_92.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ_122" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_122.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ_192" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_192.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ_151" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_151.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ_104" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_104.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ_80" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_80.xml"/>
+            </mets:file>
+            <mets:file ID="gt_4zQfAAAAMAAJ_50" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/4zQfAAAAMAAJ_50.xml"/>
+            </mets:file> 
+        </mets:fileGrp>
+    </mets:fileSec>
+	
+	<!-- Structural Map: Hier wird nur erneut durch gegenseitige Referenzierung der Konnex von Image und GT Dateien hergestellt, also quasi eine Map -->
+    <mets:structMap>
+        <mets:div ID="map_001">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_14"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_14"/>
+        </mets:div>
+        <mets:div ID="map_002">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_92"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_92"/>
+        </mets:div>
+        <mets:div ID="map_003">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_122"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_122"/>
+        </mets:div>
+        <mets:div ID="map_004">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_192"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_192"/>
+        </mets:div>
+        <mets:div ID="map_005">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_151"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_151"/>
+        </mets:div>
+        <mets:div ID="map_006">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_104"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_104"/>
+        </mets:div>
+        <mets:div ID="map_007">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_80"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_80"/>
+        </mets:div>
+        <mets:div ID="map_008">
+            <mets:fptr FILEID="gt_4zQfAAAAMAAJ_50"/>
+            <mets:fptr FILEID="pdf_4zQfAAAAMAAJ_50"/>
+        </mets:div>
+
+    </mets:structMap>
+</mets:mets>

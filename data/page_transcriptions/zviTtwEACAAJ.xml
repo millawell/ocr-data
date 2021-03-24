@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3704" imageWidth="2588">
+    <PrintSpace>
+        <Coords points="0,0 0,2588 3704,2588 3704,2588"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2588 3704,2588 3704,2588"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="424,1249 424,1379 486,1379 486,1249"/>
+            <TextEquiv>
+                <Unicode>134</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="618,468 618,2282 696,2282 696,468"/>
+            <TextEquiv>
+                <Unicode>„Nun, wenn ich das Geheimniß beſäße,“ ſagte der Bettler,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="705,328 705,2282 781,2282 781,328"/>
+            <TextEquiv>
+                <Unicode>„ſo würde ich auf der Hälfte beſtehen; denn ſehen Sie, obwohl ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="789,328 789,2279 870,2279 870,328"/>
+            <TextEquiv>
+                <Unicode>ein zerlumpter armer Kerl bin und Silber oder Gold nicht verkau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="874,325 874,2279 950,2279 950,325"/>
+            <TextEquiv>
+                <Unicode>fen dürfte, aus Furcht, aufgehangen zu werden, ſo könnt ich doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="961,327 961,2280 1036,2280 1036,327"/>
+            <TextEquiv>
+                <Unicode>Leute finden, die es mir mit beſſerm Profite abnähmen, als Sie es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1046,361 1046,890 1120,890 1120,361"/>
+            <TextEquiv>
+                <Unicode>im Sinne haben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1146,466 1146,2276 1223,2276 1223,466"/>
+            <TextEquiv>
+                <Unicode>„Ach, Himmel! - mein guter Freund, was hab&#39; ich denn ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1229,322 1229,2281 1312,2281 1312,322"/>
+            <TextEquiv>
+                <Unicode>ſagt - ich wollte ſagen, Sie ſollten dreiviertel, ſtatt die Hälfte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1316,314 1316,1891 1393,1891 1393,314"/>
+            <TextEquiv>
+                <Unicode>haben, und für mich wollt&#39; ich nur das eine Viertel.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1415,464 1415,2272 1495,2272 1495,464"/>
+            <TextEquiv>
+                <Unicode>„Nein, nein, Mr. Doufterswivel, wir wollen gleich theilen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1504,322 1504,2277 1578,2277 1578,322"/>
+            <TextEquiv>
+                <Unicode>was wir finden, gleich, wie Brüder. Nun beſehn Sie den Deckel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1588,323 1588,2276 1664,2276 1664,323"/>
+            <TextEquiv>
+                <Unicode>da, den ich aus dem Wege warf in den finſtern Winkel, während</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1673,319 1673,2395 1747,2395 1747,319"/>
+            <TextEquiv>
+                <Unicode>Monkbarns dort das Silber unterſuchte. Ich war froh, daß er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1758,319 1758,2375 1834,2375 1834,319"/>
+            <TextEquiv>
+                <Unicode>dies nicht zu ſehen bekam. Er hat ein ſcharfes Auge. Sie werden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1839,319 1839,2275 1919,2275 1919,319"/>
+            <TextEquiv>
+                <Unicode>die Schrift beſſer leſen können als ich - ich bin kein Bücherleſer,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1928,343 1928,1349 2018,1349 2018,343"/>
+            <TextEquiv>
+                <Unicode>wenigſtens hab ich keine Uebung.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2028,462 2028,2268 2106,2268 2106,462"/>
+            <TextEquiv>
+                <Unicode>Mit dieſer beſcheidenen Erklärung ſeiner Unkunde, brachte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2115,317 2115,2272 2192,2272 2192,317"/>
+            <TextEquiv>
+                <Unicode>Ochiltree hinter einem Pfeiler den Deckel des Silberkaſtens hervor,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2201,317 2201,2271 2277,2271 2277,317"/>
+            <TextEquiv>
+                <Unicode>der, nachdem er abgelöſt worden, während der gierigen Unter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2285,316 2285,2269 2361,2269 2361,316"/>
+            <TextEquiv>
+                <Unicode>ſuchung deſſen, was er barg, nachläſſig bei Seite geworfen wor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2370,316 2370,2271 2447,2271 2447,316"/>
+            <TextEquiv>
+                <Unicode>den war, und den der Bettler ſodann, wie es ſchien, verſteckt hatte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2456,316 2456,2274 2532,2274 2532,316"/>
+            <TextEquiv>
+                <Unicode>Es ſtand ein Wort und eine Ziffer auf dem Brete, und der Bettler</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2538,315 2538,2270 2618,2270 2618,315"/>
+            <TextEquiv>
+                <Unicode>machte dies deutlicher, indem er auf ſein zerlumptes blaues Taſchen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2624,313 2624,2270 2701,2270 2701,313"/>
+            <TextEquiv>
+                <Unicode>tuch ſpuckte und damit den Staub, der die Inſchrift verdunkelte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2709,319 2709,2142 2787,2142 2787,319"/>
+            <TextEquiv>
+                <Unicode>abwiſchte. Sie war mit gewöhnlichen Buchſtaben geſchrieben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2813,456 2813,2172 2889,2172 2889,456"/>
+            <TextEquiv>
+                <Unicode>„Können Sie&#39;s herausbringen,  ſagte Edie zum Adepten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2914,452 2914,2269 2990,2269 2990,452"/>
+            <TextEquiv>
+                <Unicode>„S,“   ſagte der Philoſoph, indem er wie ein Kind in der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2997,302 2997,2265 3076,2265 3076,302"/>
+            <TextEquiv>
+                <Unicode>Schule buchſtabirte; „S, T, A, R, C, H, - Starch - das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="3082,312 3082,2267 3161,2267 3161,312"/>
+            <TextEquiv>
+                <Unicode>iſt, was die Waſchweiber zu Halstüchern und Hemdkragen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3167,351 3167,667 3240,667 3240,351"/>
+            <TextEquiv>
+                <Unicode>brauchen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>134
+„Nun, wenn ich das Geheimniß beſäße,“ ſagte der Bettler,
+„ſo würde ich auf der Hälfte beſtehen; denn ſehen Sie, obwohl ich
+ein zerlumpter armer Kerl bin und Silber oder Gold nicht verkau-
+fen dürfte, aus Furcht, aufgehangen zu werden, ſo könnt ich doch
+Leute finden, die es mir mit beſſerm Profite abnähmen, als Sie es
+im Sinne haben.“
+„Ach, Himmel! - mein guter Freund, was hab&#39; ich denn ge-
+ſagt - ich wollte ſagen, Sie ſollten dreiviertel, ſtatt die Hälfte
+haben, und für mich wollt&#39; ich nur das eine Viertel.“
+„Nein, nein, Mr. Doufterswivel, wir wollen gleich theilen,
+was wir finden, gleich, wie Brüder. Nun beſehn Sie den Deckel
+da, den ich aus dem Wege warf in den finſtern Winkel, während
+Monkbarns dort das Silber unterſuchte. Ich war froh, daß er
+dies nicht zu ſehen bekam. Er hat ein ſcharfes Auge. Sie werden
+die Schrift beſſer leſen können als ich - ich bin kein Bücherleſer,
+wenigſtens hab ich keine Uebung.“
+Mit dieſer beſcheidenen Erklärung ſeiner Unkunde, brachte
+Ochiltree hinter einem Pfeiler den Deckel des Silberkaſtens hervor,
+der, nachdem er abgelöſt worden, während der gierigen Unter-
+ſuchung deſſen, was er barg, nachläſſig bei Seite geworfen wor-
+den war, und den der Bettler ſodann, wie es ſchien, verſteckt hatte.
+Es ſtand ein Wort und eine Ziffer auf dem Brete, und der Bettler
+machte dies deutlicher, indem er auf ſein zerlumptes blaues Taſchen-
+tuch ſpuckte und damit den Staub, der die Inſchrift verdunkelte,
+abwiſchte. Sie war mit gewöhnlichen Buchſtaben geſchrieben.
+„Können Sie&#39;s herausbringen,  ſagte Edie zum Adepten.
+„S,“   ſagte der Philoſoph, indem er wie ein Kind in der
+Schule buchſtabirte; „S, T, A, R, C, H, - Starch - das
+iſt, was die Waſchweiber zu Halstüchern und Hemdkragen
+brauchen.“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3670" imageWidth="2526">
+    <PrintSpace>
+        <Coords points="0,0 0,2526 3670,2526 3670,2526"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2526 3670,2526 3670,2526"/>
+        
+            <TextLine id="textline_31">
+        
+            <Coords points="1141,635 1141,1719 1244,1719 1244,635"/>
+            <TextEquiv>
+                <Unicode>D r i t t e s  K a p i t e l.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="1346,856 1346,1500 1442,1500 1442,856"/>
+            <TextEquiv>
+                <Unicode>-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="1522,855 1522,2101 1617,2101 1617,855"/>
+            <TextEquiv>
+                <Unicode>Wie heißt die Schuld, die nie geſtandne That,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="1611,857 1611,1996 1681,1996 1681,857"/>
+            <TextEquiv>
+                <Unicode>Die niemand kennt, die keine Buße ſühnt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1683,853 1683,2040 1752,2040 1752,853"/>
+            <TextEquiv>
+                <Unicode>- - - - Feſt bleibt ein jeder Muskel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="1752,857 1752,1965 1821,1965 1821,857"/>
+            <TextEquiv>
+                <Unicode>An ſeiner Stelle, feſt, doch nicht erſtarrt;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="1816,852 1816,2107 1885,2107 1885,852"/>
+            <TextEquiv>
+                <Unicode>Kein ſchnell Erröthen und kein Lippenbeben. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1901,1016 1901,2122 1996,2122 1996,1016"/>
+            <TextEquiv>
+                <Unicode>Die geheimnißvolle Mutter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2053,218 2053,2158 2129,2158 2129,218"/>
+            <TextEquiv>
+                <Unicode>Der Sarg hatte die Stelle verlaſſen, wo er erſt ſtand. Die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2137,189 2137,2324 2214,2324 2214,189"/>
+            <TextEquiv>
+                <Unicode>eidtragenden waren der Reihe nach, wie es ihr Rang oder der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2222,201 2222,2156 2299,2156 2299,201"/>
+            <TextEquiv>
+                <Unicode>Grad der Verwandtſchaft mit dem Verſtorbenen mit ſich brachte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2308,194 2308,2156 2390,2156 2390,194"/>
+            <TextEquiv>
+                <Unicode>aus der Hütte gegangen, während die jüngern männlichen Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2393,196 2393,2160 2472,2160 2472,196"/>
+            <TextEquiv>
+                <Unicode>ſchwiſter der Bahre ihres Bruders nachgeführt wurden, um mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2481,203 2481,2158 2557,2158 2557,203"/>
+            <TextEquiv>
+                <Unicode>Verwunderung eine Ceremonie zu betrachten, die ſie kaum begrei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="2565,195 2565,2156 2641,2156 2641,195"/>
+            <TextEquiv>
+                <Unicode>fen konnten. Dann erhoben ſich zunächſt die weiblichen Verwand-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="2650,201 2650,2160 2727,2160 2727,201"/>
+            <TextEquiv>
+                <Unicode>ten und nahmen, in Betracht der Lage der Aeltern, die Mädchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="2737,197 2737,2162 2812,2162 2812,197"/>
+            <TextEquiv>
+                <Unicode>der Familie mit, um dem unglücklichen Paare Zeit und Gelegenheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="2821,205 2821,2158 2898,2158 2898,205"/>
+            <TextEquiv>
+                <Unicode>zu geben, ihre Herzen gegenſeitig aufzuſchließen und durch Mit-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="2906,195 2906,2161 2984,2161 2984,195"/>
+            <TextEquiv>
+                <Unicode>theilung ihren Gram zu mildern. Aber ihre freundliche Abſicht war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2993,197 2993,2156 3069,2156 3069,197"/>
+            <TextEquiv>
+                <Unicode>ohne Nutzen. Kaum hatte die letzte Perſon die Hütte verlaſſen und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3073,197 3073,2158 3172,2158 3172,197"/>
+            <TextEquiv>
+                <Unicode>die Thür leiſe hinter ſich zugemacht, als der Vater, nachdem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>D r i t t e s  K a p i t e l.
+-
+Wie heißt die Schuld, die nie geſtandne That,
+Die niemand kennt, die keine Buße ſühnt
+- - - - Feſt bleibt ein jeder Muskel
+An ſeiner Stelle, feſt, doch nicht erſtarrt;
+Kein ſchnell Erröthen und kein Lippenbeben. -
+Die geheimnißvolle Mutter.
+Der Sarg hatte die Stelle verlaſſen, wo er erſt ſtand. Die
+eidtragenden waren der Reihe nach, wie es ihr Rang oder der
+Grad der Verwandtſchaft mit dem Verſtorbenen mit ſich brachte,
+aus der Hütte gegangen, während die jüngern männlichen Ge-
+ſchwiſter der Bahre ihres Bruders nachgeführt wurden, um mit
+Verwunderung eine Ceremonie zu betrachten, die ſie kaum begrei-
+fen konnten. Dann erhoben ſich zunächſt die weiblichen Verwand-
+ten und nahmen, in Betracht der Lage der Aeltern, die Mädchen
+der Familie mit, um dem unglücklichen Paare Zeit und Gelegenheit
+zu geben, ihre Herzen gegenſeitig aufzuſchließen und durch Mit-
+theilung ihren Gram zu mildern. Aber ihre freundliche Abſicht war
+ohne Nutzen. Kaum hatte die letzte Perſon die Hütte verlaſſen und
+die Thür leiſe hinter ſich zugemacht, als der Vater, nachdem er</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3676" imageWidth="2560">
+    <PrintSpace>
+        <Coords points="0,0 0,2560 3676,2560 3676,2560"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2560 3676,2560 3676,2560"/>
+        
+            <TextLine id="textline_52">
+        
+            <Coords points="340,1225 340,1347 401,1347 401,1225"/>
+            <TextEquiv>
+                <Unicode>189</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="525,302 525,2335 613,2335 613,302"/>
+            <TextEquiv>
+                <Unicode>laufen, und es heißt, ſie ſei von einer franzöſiſchen Flotte geiagt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="623,345 623,620 680,620 680,345"/>
+            <TextEquiv>
+                <Unicode>worden.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="720,446 720,2246 801,2246 801,446"/>
+            <TextEquiv>
+                <Unicode>„Die Search!““ ſagte Oldbuck, einen Augenblick nachſinnend</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="810,343 810,699 883,699 883,343"/>
+            <TextEquiv>
+                <Unicode>-„Oho!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="911,453 911,1950 986,1950 986,453"/>
+            <TextEquiv>
+                <Unicode>„Ja, ja! Capitain Taffrils Brigg, die Search.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="1006,444 1006,2246 1096,2246 1096,444"/>
+            <TextEquiv>
+                <Unicode>„Wie! iſt die verwandt mit: Search No.2.?“ ſagte Old-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="1090,303 1090,2252 1176,2252 1176,303"/>
+            <TextEquiv>
+                <Unicode>buck, indem er den Lichtſtrahl aufſing, den der Name des Fahr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="1181,314 1181,1886 1273,1886 1273,314"/>
+            <TextEquiv>
+                <Unicode>zeuges auf die räthſelhafte Schatzkiſte zu werfen ſchien.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="1285,446 1285,2252 1362,2252 1362,446"/>
+            <TextEquiv>
+                <Unicode>Der Bettler hielt ſich, wie ein Menſch, den man auf einer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="1372,307 1372,2253 1447,2253 1447,307"/>
+            <TextEquiv>
+                <Unicode>Schelmerei ertappt, die Mütze vors Geſicht, konnte aber doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="1456,305 1456,2253 1533,2253 1533,305"/>
+            <TextEquiv>
+                <Unicode>nicht umhin, herzlich zu lachen. „Jn Ihnen ſitzt der Teufel,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="1542,307 1542,2254 1628,2254 1628,307"/>
+            <TextEquiv>
+                <Unicode>Monkbarns, Sie kommen hinter Alles. Wer hätte gedacht, daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="1622,309 1622,2254 1704,2254 1704,309"/>
+            <TextEquiv>
+                <Unicode>Sie das ſo zuſammenreimen würden! der Henker! ich habe mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="1715,344 1715,944 1789,944 1789,344"/>
+            <TextEquiv>
+                <Unicode>ſchön fangen laſſen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="1785,449 1785,2255 1877,2255 1877,449"/>
+            <TextEquiv>
+                <Unicode>„Ich ſehe alles ſo deutlich,“  ſagte Oldbuck, „wie die Um-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="1884,311 1884,2259 1960,2259 1960,311"/>
+            <TextEquiv>
+                <Unicode>ſchrift auf einer gut erhaltenen Münze. Der Kaſten, worin das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="1971,309 1971,2332 2054,2332 2054,309"/>
+            <TextEquiv>
+                <Unicode>Metall gefunden ward, gehörte zur Brigg und der Schatz kam von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="2049,312 2049,2258 2132,2258 2132,312"/>
+            <TextEquiv>
+                <Unicode>meinem Phönir?“ (Edie nickte bejahend.) „Und er ward dort ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="2139,318 2139,2070 2219,2070 2219,318"/>
+            <TextEquiv>
+                <Unicode>graben, um Sir Arthur in ſeiner Verlegenheit zu tröſten?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="2244,451 2244,2255 2322,2255 2322,451"/>
+            <TextEquiv>
+                <Unicode>„Durch mich,“   ſagte Edie, ,,und zwei von den Seeleuten;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="2330,321 2330,2263 2406,2263 2406,321"/>
+            <TextEquiv>
+                <Unicode>dieſe wußten aber nicht, was darin war und glaubten nur, es ſei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="2415,314 2415,2262 2492,2262 2492,314"/>
+            <TextEquiv>
+                <Unicode>ein Bißchen Schmuggelwaare für den Capitain. Ich wachte Tag</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="2502,313 2502,2263 2578,2263 2578,313"/>
+            <TextEquiv>
+                <Unicode>und Nacht, bis ich es in den rechten Händen ſah, und als dann der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="2588,313 2588,2260 2664,2260 2664,313"/>
+            <TextEquiv>
+                <Unicode>deutſche Teufel den Deckel der Kiſte ſo anſah, da gab es mir glaub&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="2674,316 2674,2264 2750,2264 2750,316"/>
+            <TextEquiv>
+                <Unicode>ich ein ſchottiſcher Teufel ein, ihm den Poſſen zu ſpielen. Nun ſehn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="2759,315 2759,2265 2835,2265 2835,315"/>
+            <TextEquiv>
+                <Unicode>Sie doch, ich durfte dem Richter Kleinhans nicht mehr und nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="2844,315 2844,2268 2921,2268 2921,315"/>
+            <TextEquiv>
+                <Unicode>weniger ſagen, wenn ich nicht die ganze Geſchichte verrathen wollte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="2931,315 2931,2259 3007,2259 3007,315"/>
+            <TextEquiv>
+                <Unicode>und dann waren doch Unannehmlichkeiten für Lovel entſtanden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="3016,317 3016,2262 3091,2262 3091,317"/>
+            <TextEquiv>
+                <Unicode>Drum dacht&#39; ich, ich will lieber alles andere, als das kommen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="3104,358 3104,583 3177,583 3177,358"/>
+            <TextEquiv>
+                <Unicode>laſſen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>189
+laufen, und es heißt, ſie ſei von einer franzöſiſchen Flotte geiagt
+worden.“
+„Die Search!““ ſagte Oldbuck, einen Augenblick nachſinnend
+-„Oho!“
+„Ja, ja! Capitain Taffrils Brigg, die Search.“
+„Wie! iſt die verwandt mit: Search No.2.?“ ſagte Old-
+buck, indem er den Lichtſtrahl aufſing, den der Name des Fahr
+zeuges auf die räthſelhafte Schatzkiſte zu werfen ſchien.
+Der Bettler hielt ſich, wie ein Menſch, den man auf einer
+Schelmerei ertappt, die Mütze vors Geſicht, konnte aber doch
+nicht umhin, herzlich zu lachen. „Jn Ihnen ſitzt der Teufel,
+Monkbarns, Sie kommen hinter Alles. Wer hätte gedacht, daß
+Sie das ſo zuſammenreimen würden! der Henker! ich habe mich
+ſchön fangen laſſen.“
+„Ich ſehe alles ſo deutlich,“  ſagte Oldbuck, „wie die Um-
+ſchrift auf einer gut erhaltenen Münze. Der Kaſten, worin das
+Metall gefunden ward, gehörte zur Brigg und der Schatz kam von
+meinem Phönir?“ (Edie nickte bejahend.) „Und er ward dort ver-
+graben, um Sir Arthur in ſeiner Verlegenheit zu tröſten?“
+„Durch mich,“   ſagte Edie, ,,und zwei von den Seeleuten;
+dieſe wußten aber nicht, was darin war und glaubten nur, es ſei
+ein Bißchen Schmuggelwaare für den Capitain. Ich wachte Tag
+und Nacht, bis ich es in den rechten Händen ſah, und als dann der
+deutſche Teufel den Deckel der Kiſte ſo anſah, da gab es mir glaub&#39;
+ich ein ſchottiſcher Teufel ein, ihm den Poſſen zu ſpielen. Nun ſehn
+Sie doch, ich durfte dem Richter Kleinhans nicht mehr und nicht
+weniger ſagen, wenn ich nicht die ganze Geſchichte verrathen wollte,
+und dann waren doch Unannehmlichkeiten für Lovel entſtanden.
+Drum dacht&#39; ich, ich will lieber alles andere, als das kommen
+laſſen.“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

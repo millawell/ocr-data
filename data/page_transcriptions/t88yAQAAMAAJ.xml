@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3522" imageWidth="2584">
+    <PrintSpace>
+        <Coords points="0,0 0,2584 3522,2584 3522,2584"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2584 3522,2584 3522,2584"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="222,1227 222,1384 313,1384 313,1227"/>
+            <TextEquiv>
+                <Unicode>122</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="390,292 390,1627 471,1627 471,292"/>
+            <TextEquiv>
+                <Unicode>Voll widerwärt&#39;ger Fehler, ſchnöder Flecken,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="459,287 459,1814 537,1814 537,287"/>
+            <TextEquiv>
+                <Unicode>Krummbeinig, lahm, geſchwärzt und mißgeſtaltet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="528,291 528,1621 607,1621 607,291"/>
+            <TextEquiv>
+                <Unicode>Bedeckt mit Mälern, widerwärt&#39;gen Zeichen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="599,294 599,1521 678,1521 678,294"/>
+            <TextEquiv>
+                <Unicode>So ſorgt&#39; ich nicht, ich würde ruhig ſein;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="668,294 668,1465 741,1465 741,294"/>
+            <TextEquiv>
+                <Unicode>Ich würde nicht dich lieben und auch du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="735,291 735,1653 809,1653 809,291"/>
+            <TextEquiv>
+                <Unicode>Wärſt deiner fürſtlichen Geburt nicht werth,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="804,288 804,1739 879,1739 879,288"/>
+            <TextEquiv>
+                <Unicode>Verdienteſt nicht die Kron&#39;. Doch du biſt ſchön;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="873,287 873,1754 946,1754 946,287"/>
+            <TextEquiv>
+                <Unicode>Und, theurer Knab&#39;, Natur und Glück verbanden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="941,294 941,1520 1015,1520 1015,294"/>
+            <TextEquiv>
+                <Unicode>Dich groß zu machen ſich, bei der Geburt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1011,301 1011,1306 1084,1306 1084,301"/>
+            <TextEquiv>
+                <Unicode>Von Gaben der Natur, der Lilien</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1078,287 1078,1660 1155,1660 1155,287"/>
+            <TextEquiv>
+                <Unicode>Kannſt du dich rühmen, halberblühter Roſen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1147,292 1147,1559 1222,1559 1222,292"/>
+            <TextEquiv>
+                <Unicode>Doch, weh&#39; Fortuna iſt von dir gewendet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1216,292 1216,1648 1293,1648 1293,292"/>
+            <TextEquiv>
+                <Unicode>Beſtochen und verwandelt, buhlt ſie ſtündlich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1286,293 1286,1672 1358,1672 1358,293"/>
+            <TextEquiv>
+                <Unicode>Mit deinem Ohm Iohann; mit goldner Hand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1354,293 1354,1555 1427,1555 1427,293"/>
+            <TextEquiv>
+                <Unicode>Hat ſie den König Frankreichs angetrieben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1423,290 1423,1713 1496,1713 1496,290"/>
+            <TextEquiv>
+                <Unicode>Der Herrſchaft hohes Recht in Grund zu treten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1492,296 1492,1453 1564,1453 1564,296"/>
+            <TextEquiv>
+                <Unicode>Und ſich zu ihrem Kuppler herzugeben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1559,302 1559,1476 1634,1476 1634,302"/>
+            <TextEquiv>
+                <Unicode>Fortunens Kuppler iſt er und Iohanns,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1618,287 1618,1898 1698,1898 1698,287"/>
+            <TextEquiv>
+                <Unicode>Die mit ihm buhlt, dem frechen Kronenräuber. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1694,287 1694,1904 1772,1904 1772,287"/>
+            <TextEquiv>
+                <Unicode>Nun ſag&#39; mir, Mann, iſt Frankreich nicht meineidig?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1764,294 1764,1520 1839,1520 1839,294"/>
+            <TextEquiv>
+                <Unicode>Vergifte mir mit Worten ihn, ſonſt geh&#39;,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1833,291 1833,1556 1927,1556 1927,291"/>
+            <TextEquiv>
+                <Unicode>Und laß dies Weh allein, das ich allein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1904,309 1904,941 1978,941 1978,309"/>
+            <TextEquiv>
+                <Unicode>Nun tragen muß.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1984,369 1984,1445 2063,1445 2063,369"/>
+            <TextEquiv>
+                <Unicode>Sal. Verzeiht mir, hohe Fürſtin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2054,293 2054,1690 2131,1690 2131,293"/>
+            <TextEquiv>
+                <Unicode>Ohn&#39; euch kann ich nicht zu den Kön&#39;gen gehn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2140,359 2140,2114 2217,2114 2217,359"/>
+            <TextEquiv>
+                <Unicode>Conſt. Du kannſt, du ſollſt, ich will nicht mit dir gehn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2210,297 2210,1580 2285,1580 2285,297"/>
+            <TextEquiv>
+                <Unicode>Ich will mein Leid erſt lehren ſtolz zu ſein;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2278,292 2278,1703 2352,1703 2352,292"/>
+            <TextEquiv>
+                <Unicode>Denn Leid iſt ſtolz und macht den Eigner ſtark.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2349,294 2349,1561 2422,1561 2422,294"/>
+            <TextEquiv>
+                <Unicode>Vor mich und meines großen Leides Staat</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2416,297 2416,1457 2491,1457 2491,297"/>
+            <TextEquiv>
+                <Unicode>Laß Kön&#39;ge treten, denn ſo groß iſt es,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2486,305 2486,1347 2560,1347 2560,305"/>
+            <TextEquiv>
+                <Unicode>Daß nur die feſte ungeheure Erde</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2554,298 2554,1624 2627,1624 2627,298"/>
+            <TextEquiv>
+                <Unicode>Es tragen kann; hier ſitz&#39; ich und mein Leid,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2621,295 2621,1731 2697,1731 2697,295"/>
+            <TextEquiv>
+                <Unicode>Hier iſt mein Thron, laß ſich die Kön&#39;ge neigen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2686,1412 2686,2208 2748,2208 2748,1412"/>
+            <TextEquiv>
+                <Unicode>(Sie wirft ſich auf den Boden.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2754,325 2754,2240 2820,2240 2820,325"/>
+            <TextEquiv>
+                <Unicode>König Iohann, König Philipp, Louis, Blanca, Eleonore, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2813,618 2813,1954 2874,1954 2874,618"/>
+            <TextEquiv>
+                <Unicode>Baſtard, Oeſterreich und Gefolge treten auf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2867,363 2867,1882 2947,1882 2947,363"/>
+            <TextEquiv>
+                <Unicode>K. P hil. Ja, ſchöne Tochter, dieſer Freudentag</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2933,297 2933,1685 3014,1685 3014,297"/>
+            <TextEquiv>
+                <Unicode>Sei ſtets in Frankreich als ein Feſt gefeiert:</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>122
+Voll widerwärt&#39;ger Fehler, ſchnöder Flecken,
+Krummbeinig, lahm, geſchwärzt und mißgeſtaltet,
+Bedeckt mit Mälern, widerwärt&#39;gen Zeichen,
+So ſorgt&#39; ich nicht, ich würde ruhig ſein;
+Ich würde nicht dich lieben und auch du
+Wärſt deiner fürſtlichen Geburt nicht werth,
+Verdienteſt nicht die Kron&#39;. Doch du biſt ſchön;
+Und, theurer Knab&#39;, Natur und Glück verbanden
+Dich groß zu machen ſich, bei der Geburt.
+Von Gaben der Natur, der Lilien
+Kannſt du dich rühmen, halberblühter Roſen;
+Doch, weh&#39; Fortuna iſt von dir gewendet,
+Beſtochen und verwandelt, buhlt ſie ſtündlich
+Mit deinem Ohm Iohann; mit goldner Hand
+Hat ſie den König Frankreichs angetrieben
+Der Herrſchaft hohes Recht in Grund zu treten,
+Und ſich zu ihrem Kuppler herzugeben.
+Fortunens Kuppler iſt er und Iohanns,
+Die mit ihm buhlt, dem frechen Kronenräuber. -
+Nun ſag&#39; mir, Mann, iſt Frankreich nicht meineidig?
+Vergifte mir mit Worten ihn, ſonſt geh&#39;,
+Und laß dies Weh allein, das ich allein
+Nun tragen muß.
+Sal. Verzeiht mir, hohe Fürſtin,
+Ohn&#39; euch kann ich nicht zu den Kön&#39;gen gehn.
+Conſt. Du kannſt, du ſollſt, ich will nicht mit dir gehn
+Ich will mein Leid erſt lehren ſtolz zu ſein;
+Denn Leid iſt ſtolz und macht den Eigner ſtark.
+Vor mich und meines großen Leides Staat
+Laß Kön&#39;ge treten, denn ſo groß iſt es,
+Daß nur die feſte ungeheure Erde
+Es tragen kann; hier ſitz&#39; ich und mein Leid,
+Hier iſt mein Thron, laß ſich die Kön&#39;ge neigen.
+(Sie wirft ſich auf den Boden.)
+König Iohann, König Philipp, Louis, Blanca, Eleonore, der
+Baſtard, Oeſterreich und Gefolge treten auf.
+K. P hil. Ja, ſchöne Tochter, dieſer Freudentag
+Sei ſtets in Frankreich als ein Feſt gefeiert:</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3499" imageWidth="2593">
+    <PrintSpace>
+        <Coords points="0,0 0,2593 3499,2593 3499,2593"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2593 3499,2593 3499,2593"/>
+        
+            <TextLine id="textline_39">
+        
+            <Coords points="199,1302 199,1432 270,1432 270,1302"/>
+            <TextEquiv>
+                <Unicode>126</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="370,441 370,2000 449,2000 449,441"/>
+            <TextEquiv>
+                <Unicode>Conſt. So mag geſetzlich und erlaubt es ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="442,384 442,1595 514,1595 514,384"/>
+            <TextEquiv>
+                <Unicode>Daß ich mit Rom nun eine Weile fluche!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="510,386 510,1418 590,1418 590,386"/>
+            <TextEquiv>
+                <Unicode>Ruf Amen, guter Vater Kardinal,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="580,377 580,1687 653,1687 653,377"/>
+            <TextEquiv>
+                <Unicode>Zu meinem harten Fluch denn, außer mir,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="649,379 649,1709 726,1709 726,379"/>
+            <TextEquiv>
+                <Unicode>Hat keine Zunge Macht ihm recht zu fluchen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="907,377 907,1779 980,1779 980,377"/>
+            <TextEquiv>
+                <Unicode>So ſei es recht, daß Recht nicht Unrecht wehrt:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="974,375 974,1782 1050,1782 1050,375"/>
+            <TextEquiv>
+                <Unicode>Recht gibt nicht meinem Sohn das Königreich;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1045,372 1045,1780 1116,1780 1116,372"/>
+            <TextEquiv>
+                <Unicode>Denn wer das Recht beſitzt, der übt das Recht:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1114,371 1114,1728 1184,1728 1184,371"/>
+            <TextEquiv>
+                <Unicode>Drum, da das Recht vollkommen Unrecht iſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1182,368 1182,1909 1257,1909 1257,368"/>
+            <TextEquiv>
+                <Unicode>Wie kann das Recht der Zung&#39; den Fluch verbieten?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="1284,433 1284,2173 1362,2173 1362,433"/>
+            <TextEquiv>
+                <Unicode>Pand. Philipp von Frankreich, auf Gefahr des Fluchs,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="1355,374 1355,1692 1428,1692 1428,374"/>
+            <TextEquiv>
+                <Unicode>Laß des Erzketzers Hand ſogleich Ietzt fahren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="1424,370 1424,1721 1499,1721 1499,370"/>
+            <TextEquiv>
+                <Unicode>Und richte gegen ihn nun Frankreichs Macht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="1492,375 1492,1635 1565,1635 1565,375"/>
+            <TextEquiv>
+                <Unicode>Wenn er nicht Rom ſich ſelber unterwirft.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="1591,432 1591,2241 1671,2241 1671,432"/>
+            <TextEquiv>
+                <Unicode>Eleon. Blaß, Frankreich? O zieh nicht die Hand zurück.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="1679,435 1679,2139 1756,2139 1756,435"/>
+            <TextEquiv>
+                <Unicode>Conſt. Sieh, Teufel, zu, daß Frankreich nicht bereue,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="1748,372 1748,1680 1831,1680 1831,372"/>
+            <TextEquiv>
+                <Unicode>Denn ihre Trennung nimmt dir eine Seele.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="1826,434 1826,1978 1908,1978 1908,434"/>
+            <TextEquiv>
+                <Unicode>Oeſter. Hör&#39;, König Philipp, auf den Kardinal.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="1916,432 1916,2059 1993,2059 1993,432"/>
+            <TextEquiv>
+                <Unicode>Baſt. und häng&#39; ein Kalbfell um die feigen Glieder.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2018,429 2018,2136 2096,2136 2096,429"/>
+            <TextEquiv>
+                <Unicode>Oeſter. Gut, Schurk&#39;, ich ſtecke deinen Spott jetzt ein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2090,397 2090,639 2152,639 2152,397"/>
+            <TextEquiv>
+                <Unicode>Weil -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2176,443 2176,1586 2250,1586 2250,443"/>
+            <TextEquiv>
+                <Unicode>Baſt. Eure Hoſen dazu weit genug.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="2261,430 2261,2080 2339,2080 2339,430"/>
+            <TextEquiv>
+                <Unicode>K. Ioh. Philipp, was ſagſt du zu dem Kardinal?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="2345,433 2345,1930 2419,1930 2419,433"/>
+            <TextEquiv>
+                <Unicode>Conſt. Wie ſpräch&#39; er anders als der Kardinal?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="2445,426 2445,2214 2525,2214 2525,426"/>
+            <TextEquiv>
+                <Unicode>Louis. Bedenkt euch, Vater; &#39;s iſt der Unterſchied:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="2520,347 2520,1789 2592,1789 2592,347"/>
+            <TextEquiv>
+                <Unicode>Hier der Erwerb des ſchweren Fluchs von Rom,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="2588,363 2588,1906 2688,1906 2688,363"/>
+            <TextEquiv>
+                <Unicode>Dort leichteuer Verluſt von Englands Freundſchaſt:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="2655,384 2655,983 2729,983 2729,384"/>
+            <TextEquiv>
+                <Unicode>Das Klein&#39;re wählt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="2911,371 2911,1575 2987,1575 2987,371"/>
+            <TextEquiv>
+                <Unicode>Dich in Geſtalt der unentweihten Braut.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>126
+Conſt. So mag geſetzlich und erlaubt es ſein,
+Daß ich mit Rom nun eine Weile fluche!
+Ruf Amen, guter Vater Kardinal,
+Zu meinem harten Fluch denn, außer mir,
+Hat keine Zunge Macht ihm recht zu fluchen.
+So ſei es recht, daß Recht nicht Unrecht wehrt:
+Recht gibt nicht meinem Sohn das Königreich;
+Denn wer das Recht beſitzt, der übt das Recht:
+Drum, da das Recht vollkommen Unrecht iſt,
+Wie kann das Recht der Zung&#39; den Fluch verbieten?
+Pand. Philipp von Frankreich, auf Gefahr des Fluchs,
+Laß des Erzketzers Hand ſogleich Ietzt fahren,
+Und richte gegen ihn nun Frankreichs Macht,
+Wenn er nicht Rom ſich ſelber unterwirft.
+Eleon. Blaß, Frankreich? O zieh nicht die Hand zurück.
+Conſt. Sieh, Teufel, zu, daß Frankreich nicht bereue,
+Denn ihre Trennung nimmt dir eine Seele.
+Oeſter. Hör&#39;, König Philipp, auf den Kardinal.
+Baſt. und häng&#39; ein Kalbfell um die feigen Glieder.
+Oeſter. Gut, Schurk&#39;, ich ſtecke deinen Spott jetzt ein,
+Weil -
+Baſt. Eure Hoſen dazu weit genug.
+K. Ioh. Philipp, was ſagſt du zu dem Kardinal?
+Conſt. Wie ſpräch&#39; er anders als der Kardinal?
+Louis. Bedenkt euch, Vater; &#39;s iſt der Unterſchied:
+Hier der Erwerb des ſchweren Fluchs von Rom,
+Dort leichteuer Verluſt von Englands Freundſchaſt:
+Das Klein&#39;re wählt.
+Dich in Geſtalt der unentweihten Braut.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3480" imageWidth="2584">
+    <PrintSpace>
+        <Coords points="0,0 0,2584 3480,2584 3480,2584"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2584 3480,2584 3480,2584"/>
+        
+            <TextLine id="textline_69">
+        
+            <Coords points="178,1108 178,1284 292,1284 292,1108"/>
+            <TextEquiv>
+                <Unicode>129</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="376,234 376,1374 460,1374 460,234"/>
+            <TextEquiv>
+                <Unicode>Doch du ſchwurſt gegen die Religion;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="452,227 452,1596 531,1596 531,227"/>
+            <TextEquiv>
+                <Unicode>Du ſchwöreſt wider das, bei dem du ſchwörſt;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="521,228 521,1497 597,1497 597,228"/>
+            <TextEquiv>
+                <Unicode>Du ſchwörſt &#39;nen Eid, um gegen einen Eid</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="590,227 590,1640 669,1640 669,227"/>
+            <TextEquiv>
+                <Unicode>Für deine Treu&#39; zu zeugen: denn die Wahrheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="653,225 653,1543 737,1543 737,225"/>
+            <TextEquiv>
+                <Unicode>Iſt, daß du deines Schwurs nicht ſicher biſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="728,224 728,1616 805,1616 805,224"/>
+            <TextEquiv>
+                <Unicode>Und ſchwöreſt nur, meineidig nicht zu werden;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="796,219 796,1822 873,1822 873,219"/>
+            <TextEquiv>
+                <Unicode>Was für ne Spötterei wär&#39;s ſonſt zu ſchwören?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="866,223 866,1565 941,1565 941,223"/>
+            <TextEquiv>
+                <Unicode>Du aber ſchwörſt, meineidig nur zu werden;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="934,220 934,1524 1010,1524 1010,220"/>
+            <TextEquiv>
+                <Unicode>Meineidig noch am meiſten, wenn du hältſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1000,223 1000,1546 1078,1546 1078,223"/>
+            <TextEquiv>
+                <Unicode>Was du geſchworen. Nun, dein letzter Eid,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="1072,223 1072,1487 1147,1487 1147,223"/>
+            <TextEquiv>
+                <Unicode>Entgegen deinem erſten, iſt Empörung,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1142,222 1142,1569 1217,1569 1217,222"/>
+            <TextEquiv>
+                <Unicode>Empörung gegen dich: drum kannſt du beſſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="1211,225 1211,1512 1288,1512 1288,225"/>
+            <TextEquiv>
+                <Unicode>Nicht ſiegen, als wenn du dein edles Selbſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="1279,187 1279,1443 1355,1443 1355,187"/>
+            <TextEquiv>
+                <Unicode>Bewaffneſt wider dieſe eitle Lockung;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="1347,227 1347,1431 1423,1431 1423,227"/>
+            <TextEquiv>
+                <Unicode>Daß du dies Beſſre wähleſt, beten wir,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="1416,225 1416,1493 1492,1493 1492,225"/>
+            <TextEquiv>
+                <Unicode>Wenn das Gebet du würdigeſt; doch wiſſe,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="1485,222 1485,1666 1559,1666 1559,222"/>
+            <TextEquiv>
+                <Unicode>Wenn nicht, ſo fallen unſre Flüch&#39; auf dich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="1533,221 1533,1668 1631,1668 1631,221"/>
+            <TextEquiv>
+                <Unicode>Ss ſchwer, daß du ſie nicht abſchütteln kannſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="1806,303 1806,1203 1883,1203 1883,303"/>
+            <TextEquiv>
+                <Unicode>Baſt. Wird&#39;s nicht bald?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="1879,221 1879,1688 1956,1688 1956,221"/>
+            <TextEquiv>
+                <Unicode>Wird nicht ein Kalbfell dir das Maul verſtopfen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="1967,303 1967,1456 2041,1456 2041,303"/>
+            <TextEquiv>
+                <Unicode>Louis. Auf, Vater, zu den Waffen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="2069,308 2069,1120 2145,1120 2145,308"/>
+            <TextEquiv>
+                <Unicode>Blanca. Wie, am Tag</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="2136,225 2136,1488 2212,1488 2212,225"/>
+            <TextEquiv>
+                <Unicode>Der Hochzeit? Gegen jenes Blut, dem du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="2201,224 2201,1519 2280,1519 2280,224"/>
+            <TextEquiv>
+                <Unicode>Dich haſt vermählt? Wie, ſollen unſer Feſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="2274,229 2274,1563 2349,1563 2349,229"/>
+            <TextEquiv>
+                <Unicode>Erſchlagne feiern? Schmetternde Trompeten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="2339,221 2339,1769 2417,1769 2417,221"/>
+            <TextEquiv>
+                <Unicode>Und Trommelwirbel, - Lärm der grauſen Hölle -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_96">
+        
+            <Coords points="2411,229 2411,1502 2491,1502 2491,229"/>
+            <TextEquiv>
+                <Unicode>Den Feſtaufzug begleiten? Mein Gemahl,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_97">
+        
+            <Coords points="2479,225 2479,1600 2558,1600 2558,225"/>
+            <TextEquiv>
+                <Unicode>O hör&#39; mich! - wie ſo neu das Wort Gemahl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_98">
+        
+            <Coords points="2549,225 2549,1611 2622,1611 2622,225"/>
+            <TextEquiv>
+                <Unicode>In meinem Munde! - ja, um dieſen Namen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_99">
+        
+            <Coords points="2617,225 2617,1593 2695,1593 2695,225"/>
+            <TextEquiv>
+                <Unicode>Den meine Zung&#39; bis jetzt nicht ausgeſprochen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_100">
+        
+            <Coords points="2685,223 2685,1623 2768,1623 2768,223"/>
+            <TextEquiv>
+                <Unicode>Ich bitt&#39; auf meinen Knie&#39;n, bewaffne dich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_101">
+        
+            <Coords points="2759,217 2759,1022 2833,1022 2833,217"/>
+            <TextEquiv>
+                <Unicode>Nicht gegen meinen Ohm.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_102">
+        
+            <Coords points="2858,311 2858,1189 2932,1189 2932,311"/>
+            <TextEquiv>
+                <Unicode>Conſt. Auf meinen Knie&#39;n,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_103">
+        
+            <Coords points="2923,231 2923,1431 3003,1431 3003,231"/>
+            <TextEquiv>
+                <Unicode>Durch Knieen abgehärtet, bitt ich dich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_104">
+        
+            <Coords points="2999,344 2999,613 3104,613 3104,344"/>
+            <TextEquiv>
+                <Unicode>III.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>129
+Doch du ſchwurſt gegen die Religion;
+Du ſchwöreſt wider das, bei dem du ſchwörſt;
+Du ſchwörſt &#39;nen Eid, um gegen einen Eid
+Für deine Treu&#39; zu zeugen: denn die Wahrheit
+Iſt, daß du deines Schwurs nicht ſicher biſt,
+Und ſchwöreſt nur, meineidig nicht zu werden;
+Was für ne Spötterei wär&#39;s ſonſt zu ſchwören?
+Du aber ſchwörſt, meineidig nur zu werden;
+Meineidig noch am meiſten, wenn du hältſt
+Was du geſchworen. Nun, dein letzter Eid,
+Entgegen deinem erſten, iſt Empörung,
+Empörung gegen dich: drum kannſt du beſſer
+Nicht ſiegen, als wenn du dein edles Selbſt
+Bewaffneſt wider dieſe eitle Lockung;
+Daß du dies Beſſre wähleſt, beten wir,
+Wenn das Gebet du würdigeſt; doch wiſſe,
+Wenn nicht, ſo fallen unſre Flüch&#39; auf dich
+Ss ſchwer, daß du ſie nicht abſchütteln kannſt,
+Baſt. Wird&#39;s nicht bald?
+Wird nicht ein Kalbfell dir das Maul verſtopfen?
+Louis. Auf, Vater, zu den Waffen!
+Blanca. Wie, am Tag
+Der Hochzeit? Gegen jenes Blut, dem du
+Dich haſt vermählt? Wie, ſollen unſer Feſt
+Erſchlagne feiern? Schmetternde Trompeten
+Und Trommelwirbel, - Lärm der grauſen Hölle -
+Den Feſtaufzug begleiten? Mein Gemahl,
+O hör&#39; mich! - wie ſo neu das Wort Gemahl
+In meinem Munde! - ja, um dieſen Namen,
+Den meine Zung&#39; bis jetzt nicht ausgeſprochen,
+Ich bitt&#39; auf meinen Knie&#39;n, bewaffne dich
+Nicht gegen meinen Ohm.
+Conſt. Auf meinen Knie&#39;n,
+Durch Knieen abgehärtet, bitt ich dich,
+III.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

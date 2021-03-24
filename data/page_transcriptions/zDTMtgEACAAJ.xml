@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3442" imageWidth="2488">
+    <PrintSpace>
+        <Coords points="0,0 0,2488 3442,2488 3442,2488"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2488 3442,2488 3442,2488"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="250,1145 250,1306 326,1306 326,1145"/>
+            <TextEquiv>
+                <Unicode>101</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="441,271 441,2226 530,2226 530,271"/>
+            <TextEquiv>
+                <Unicode>ohne weiter zu gehen. Ihr ſagt, die beiben Diener wären Mem-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="529,269 529,2226 611,2226 611,269"/>
+            <TextEquiv>
+                <Unicode>men, - ihr und euer Kamerad könnt ſie gewältigen, und der Teu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="604,266 604,2248 705,2248 705,266"/>
+            <TextEquiv>
+                <Unicode>fel ſoll mich holen, wenn ich&#39;s nicht mit eurer ſchottiſchen wilden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="700,304 700,818 771,818 771,304"/>
+            <TextEquiv>
+                <Unicode>Katze aufnehme.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="773,276 773,2227 862,2227 862,276"/>
+            <TextEquiv>
+                <Unicode>„Ihr werdet finden, daß das tollkühn ſein heißt,“ ſagte Hay-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="868,272 868,2227 947,2227 947,272"/>
+            <TextEquiv>
+                <Unicode>raddin; „denn abgeſehn davon, daß wir ſelber nicht beſondre Fech-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="954,273 954,2229 1030,2229 1030,273"/>
+            <TextEquiv>
+                <Unicode>ter ſind, ſo hat ſich dieſer Burſch mit dem beſten Ritter in Frank-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1039,270 1039,2229 1122,2229 1122,270"/>
+            <TextEquiv>
+                <Unicode>reich gemeſſen, und iſt mit Ehren davon gekommen - ich habe die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1123,238 1123,1906 1226,1906 1226,238"/>
+            <TextEquiv>
+                <Unicode>geſehen, die ihn dem Dunois hart genug zuſetzen ſahen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1227,314 1227,2228 1304,2228 1304,314"/>
+            <TextEquiv>
+                <Unicode>„Hagel und Sturmwetter! &#39;s iſt nur eure Feigheit, die aus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1310,290 1310,1548 1408,1548 1408,290"/>
+            <TextEquiv>
+                <Unicode>euch ſpricht,“ ſagte der deutſche Soldat.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1409,412 1409,2227 1500,2227 1500,412"/>
+            <TextEquiv>
+                <Unicode>„Ich bin ſo wenig feig als ihr ſelber,“ ſagte Hayraddin; „aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1498,270 1498,2235 1580,2235 1580,270"/>
+            <TextEquiv>
+                <Unicode>ſechten iſt nicht meine Sache. Wenn ihr es laßt, wie es verabredet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1573,266 1573,2358 1663,2358 1663,266"/>
+            <TextEquiv>
+                <Unicode>ward, ſo iſt&#39;s gut - wo nicht, ſo führe ich ſie ſicher zu des Biſchofs</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1667,269 1667,2232 1744,2232 1744,269"/>
+            <TextEquiv>
+                <Unicode>Palaſt, und Wilhelm von der Mark kann ſich ihrer dort leicht be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1750,266 1750,2232 1854,2232 1854,266"/>
+            <TextEquiv>
+                <Unicode>mächtigen, vorausgeſetzt, daß er nur halb ſo ſtark iſt, als er vor</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1840,293 1840,1033 1915,1033 1915,293"/>
+            <TextEquiv>
+                <Unicode>einer Woche behauptete.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1932,411 1932,2228 2018,2228 2018,411"/>
+            <TextEquiv>
+                <Unicode>„Potztauſend!“ ſagte der Soldat, „wir ſind ſo ſtark und noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2027,264 2027,2232 2103,2232 2103,264"/>
+            <TextEquiv>
+                <Unicode>ſtärker; aber wir hören eben von den hundert Lanzen von Bur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2110,234 2110,2234 2188,2234 2188,234"/>
+            <TextEquiv>
+                <Unicode>gund das iſts, ſiehſt du; fünf Mann auf die Lanze machen Fünf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2191,272 2191,2239 2275,2239 2275,272"/>
+            <TextEquiv>
+                <Unicode>hundert, und dann hol mich der Teufel, wenn ſie nicht eher uns ſu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2283,272 2283,2234 2359,2234 2359,272"/>
+            <TextEquiv>
+                <Unicode>chen werden, als wir ſie; denn der Biſchoff hat eine gute Macht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2368,288 2368,1320 2447,1320 2447,288"/>
+            <TextEquiv>
+                <Unicode>auf den Beinen, das bleibt wahr!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2451,380 2451,2230 2548,2230 2548,380"/>
+            <TextEquiv>
+                <Unicode>„Es bleibt alſo bei dem Hinterhalt am Kreuze der drei Könige,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2549,183 2549,2119 2639,2119 2639,183"/>
+            <TextEquiv>
+                <Unicode>ober ihr müßt das Unternehmen aufgeben,“ ſagte der Zigeuner.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2646,411 2646,2233 2739,2233 2739,411"/>
+            <TextEquiv>
+                <Unicode>„Aufgeben, aufgeben das Unternehmen mit der reichen Braut</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2742,242 2742,2238 2817,2238 2817,242"/>
+            <TextEquiv>
+                <Unicode>für unſern edlen Hauptmann - Teufel! Erſt wollt ich&#39;s mit der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2827,177 2827,2238 2903,2238 2903,177"/>
+            <TextEquiv>
+                <Unicode>Hölle aufnehmen. - Mein Seel, wir alle werden Fürſten und Her-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2910,275 2910,2254 2988,2254 2988,275"/>
+            <TextEquiv>
+                <Unicode>zöge ſein, die ſie hier Ducs nennen, und wir werden Schnaps im</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2996,272 2996,2234 3077,2234 3077,272"/>
+            <TextEquiv>
+                <Unicode>Weinkeller haben und franzöſiſche Kronen die ſchwere Menge, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>101
+ohne weiter zu gehen. Ihr ſagt, die beiben Diener wären Mem-
+men, - ihr und euer Kamerad könnt ſie gewältigen, und der Teu-
+fel ſoll mich holen, wenn ich&#39;s nicht mit eurer ſchottiſchen wilden
+Katze aufnehme.“
+„Ihr werdet finden, daß das tollkühn ſein heißt,“ ſagte Hay-
+raddin; „denn abgeſehn davon, daß wir ſelber nicht beſondre Fech-
+ter ſind, ſo hat ſich dieſer Burſch mit dem beſten Ritter in Frank-
+reich gemeſſen, und iſt mit Ehren davon gekommen - ich habe die
+geſehen, die ihn dem Dunois hart genug zuſetzen ſahen.“
+„Hagel und Sturmwetter! &#39;s iſt nur eure Feigheit, die aus
+euch ſpricht,“ ſagte der deutſche Soldat.
+„Ich bin ſo wenig feig als ihr ſelber,“ ſagte Hayraddin; „aber
+ſechten iſt nicht meine Sache. Wenn ihr es laßt, wie es verabredet
+ward, ſo iſt&#39;s gut - wo nicht, ſo führe ich ſie ſicher zu des Biſchofs
+Palaſt, und Wilhelm von der Mark kann ſich ihrer dort leicht be-
+mächtigen, vorausgeſetzt, daß er nur halb ſo ſtark iſt, als er vor
+einer Woche behauptete.“
+„Potztauſend!“ ſagte der Soldat, „wir ſind ſo ſtark und noch
+ſtärker; aber wir hören eben von den hundert Lanzen von Bur-
+gund das iſts, ſiehſt du; fünf Mann auf die Lanze machen Fünf-
+hundert, und dann hol mich der Teufel, wenn ſie nicht eher uns ſu-
+chen werden, als wir ſie; denn der Biſchoff hat eine gute Macht
+auf den Beinen, das bleibt wahr!“
+„Es bleibt alſo bei dem Hinterhalt am Kreuze der drei Könige,
+ober ihr müßt das Unternehmen aufgeben,“ ſagte der Zigeuner.
+„Aufgeben, aufgeben das Unternehmen mit der reichen Braut
+für unſern edlen Hauptmann - Teufel! Erſt wollt ich&#39;s mit der
+Hölle aufnehmen. - Mein Seel, wir alle werden Fürſten und Her-
+zöge ſein, die ſie hier Ducs nennen, und wir werden Schnaps im
+Weinkeller haben und franzöſiſche Kronen die ſchwere Menge, und</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3427" imageWidth="2487">
+    <PrintSpace>
+        <Coords points="0,0 0,2487 3427,2487 3427,2487"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2487 3427,2487 3427,2487"/>
+        
+            <TextLine id="textline_31">
+        
+            <Coords points="288,1159 288,1283 348,1283 348,1159"/>
+            <TextEquiv>
+                <Unicode>115</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="482,243 482,2200 562,2200 562,243"/>
+            <TextEquiv>
+                <Unicode>den Sagen und Liedern ſeiner Heimat ergötzt, von denen er die letz-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="564,246 564,2200 646,2200 646,246"/>
+            <TextEquiv>
+                <Unicode>tern in ſeiner Mutterſprache ſang, während ſeine Bemühung, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="654,245 654,2200 731,2200 731,245"/>
+            <TextEquiv>
+                <Unicode>letztere in ſeinem fremdartigen und unvollkommenen Franzöſiſch wie-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="738,244 738,2203 817,2203 817,244"/>
+            <TextEquiv>
+                <Unicode>derzugeben, hundert kleine Mißverſtändniſſe und Irrthümer der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="825,247 825,2202 900,2202 900,247"/>
+            <TextEquiv>
+                <Unicode>Sprache veranlaßten, ſo unterhaltend wie die Erzählungen ſelbſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="901,247 901,2201 984,2201 984,247"/>
+            <TextEquiv>
+                <Unicode>Aber an dieſen ſorgenreichen Morgen ritt er zur Seite der Damen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="994,246 994,2203 1070,2203 1070,246"/>
+            <TextEquiv>
+                <Unicode>von Croye ohne die gewöhnlichen Verſuche, ſie zu unterhalten, zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="1079,246 1079,2203 1154,2203 1154,246"/>
+            <TextEquiv>
+                <Unicode>machen, und es mußte ihnen natürlich ſein Schweigen als etwas</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="1157,268 1157,1212 1239,1212 1239,268"/>
+            <TextEquiv>
+                <Unicode>außerordentliches auffallen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1250,384 1250,2200 1324,2200 1324,384"/>
+            <TextEquiv>
+                <Unicode>„Unſer junger Begleiter hat einen Wolf geſehn,“ ſagte Dame</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1335,245 1335,2205 1411,2205 1411,245"/>
+            <TextEquiv>
+                <Unicode>Hameline, auf einen alten Aberglauben anſpielend, „und er hat</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1420,254 1420,1182 1494,1182 1494,254"/>
+            <TextEquiv>
+                <Unicode>die Sprache darüber verloren.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1505,384 1505,2202 1580,2202 1580,384"/>
+            <TextEquiv>
+                <Unicode>„Zu ſagen, ich hätte einen Fuchs aufgeſpürt, wäre paſſen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1591,250 1591,2020 1667,2020 1667,250"/>
+            <TextEquiv>
+                <Unicode>der,“ dachte Quentin, ohne dies laut zur Antwort zu geben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1670,340 1670,2204 1758,2204 1758,340"/>
+            <TextEquiv>
+                <Unicode>„Befindet ihr euch wohl, Herr Quentin?“ ſagte Gräfin Iſa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1751,239 1751,2327 1841,2327 1841,239"/>
+            <TextEquiv>
+                <Unicode>belle in ſo theilnehmendem Tone, daß ſie ſelbſt darüber erröthete,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1844,247 1844,2207 1921,2207 1921,247"/>
+            <TextEquiv>
+                <Unicode>während ſie fühlte, daß ſie etwas weiter gegangen, als der Abſtand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1931,279 1931,1004 2008,1004 2008,279"/>
+            <TextEquiv>
+                <Unicode>zwiſchen ihnen geſtattete.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2013,385 2013,2205 2092,2205 2092,385"/>
+            <TextEquiv>
+                <Unicode>„Er hat zu lange bei den luſtigen Mönchen geſeſſen,“ ſagte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="2097,250 2097,2210 2174,2210 2174,250"/>
+            <TextEquiv>
+                <Unicode>Dame Hameline; „die Schotten gleichen den Deutſchen, die all</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2185,249 2185,2211 2268,2211 2268,249"/>
+            <TextEquiv>
+                <Unicode>ihre Luſt beim Rheinwein dran geben, und dann nur wankende</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2261,249 2261,2211 2360,2211 2360,249"/>
+            <TextEquiv>
+                <Unicode>Schritte zum Abendtanz und ſchmerzende Häupter am Morgen ins</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2356,274 2356,1091 2432,1091 2432,274"/>
+            <TextEquiv>
+                <Unicode>Frauengemach mitbringen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2442,385 2442,2341 2517,2341 2517,385"/>
+            <TextEquiv>
+                <Unicode>„Nein, ſchöne Damen,“ ſagte Quentin; „ich verdiene euren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="2527,250 2527,2212 2602,2212 2602,250"/>
+            <TextEquiv>
+                <Unicode>Tadel nicht. Die guten Mönche waren faſt die ganze Nacht bei ih-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="2612,252 2612,2214 2686,2214 2686,252"/>
+            <TextEquiv>
+                <Unicode>rer Andacht beſchäftigt; und was mich betrifft, mein Trank war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="2695,257 2695,1968 2783,1968 2783,257"/>
+            <TextEquiv>
+                <Unicode>blos ein Becher ihres dünnſten und gemeinſten Weines.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2776,389 2776,2211 2868,2211 2868,389"/>
+            <TextEquiv>
+                <Unicode>„Die Schlechtigkit ſeines Mahles iſts, was ihm die gute</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2867,255 2867,2216 2941,2216 2941,255"/>
+            <TextEquiv>
+                <Unicode>Laune geraubt hat,“ ſagte die Gräfin Iſabelle. „Munter, Herr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2949,255 2949,2218 3025,2218 3025,255"/>
+            <TextEquiv>
+                <Unicode>Quentin; und ſollten wir je mein altes Schloß von Bracguemont</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="3033,257 3033,2214 3114,2214 3114,257"/>
+            <TextEquiv>
+                <Unicode>mit einander beſuchen, ſo will ich ſelber euer Mundſchenk ſein und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="3119,1615 3119,1708 3190,1708 3190,1615"/>
+            <TextEquiv>
+                <Unicode>8*</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>115
+den Sagen und Liedern ſeiner Heimat ergötzt, von denen er die letz-
+tern in ſeiner Mutterſprache ſang, während ſeine Bemühung, die
+letztere in ſeinem fremdartigen und unvollkommenen Franzöſiſch wie-
+derzugeben, hundert kleine Mißverſtändniſſe und Irrthümer der
+Sprache veranlaßten, ſo unterhaltend wie die Erzählungen ſelbſt.
+Aber an dieſen ſorgenreichen Morgen ritt er zur Seite der Damen
+von Croye ohne die gewöhnlichen Verſuche, ſie zu unterhalten, zu
+machen, und es mußte ihnen natürlich ſein Schweigen als etwas
+außerordentliches auffallen.
+„Unſer junger Begleiter hat einen Wolf geſehn,“ ſagte Dame
+Hameline, auf einen alten Aberglauben anſpielend, „und er hat
+die Sprache darüber verloren.“
+„Zu ſagen, ich hätte einen Fuchs aufgeſpürt, wäre paſſen-
+der,“ dachte Quentin, ohne dies laut zur Antwort zu geben.
+„Befindet ihr euch wohl, Herr Quentin?“ ſagte Gräfin Iſa-
+belle in ſo theilnehmendem Tone, daß ſie ſelbſt darüber erröthete,
+während ſie fühlte, daß ſie etwas weiter gegangen, als der Abſtand
+zwiſchen ihnen geſtattete.
+„Er hat zu lange bei den luſtigen Mönchen geſeſſen,“ ſagte
+Dame Hameline; „die Schotten gleichen den Deutſchen, die all
+ihre Luſt beim Rheinwein dran geben, und dann nur wankende
+Schritte zum Abendtanz und ſchmerzende Häupter am Morgen ins
+Frauengemach mitbringen.“
+„Nein, ſchöne Damen,“ ſagte Quentin; „ich verdiene euren
+Tadel nicht. Die guten Mönche waren faſt die ganze Nacht bei ih-
+rer Andacht beſchäftigt; und was mich betrifft, mein Trank war
+blos ein Becher ihres dünnſten und gemeinſten Weines.“
+„Die Schlechtigkit ſeines Mahles iſts, was ihm die gute
+Laune geraubt hat,“ ſagte die Gräfin Iſabelle. „Munter, Herr
+Quentin; und ſollten wir je mein altes Schloß von Bracguemont
+mit einander beſuchen, ſo will ich ſelber euer Mundſchenk ſein und
+8*</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3427" imageWidth="2523">
+    <PrintSpace>
+        <Coords points="0,0 0,2523 3427,2523 3427,2523"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2523 3427,2523 3427,2523"/>
+        
+            <TextLine id="textline_64">
+        
+            <Coords points="207,1221 207,1351 273,1351 273,1221"/>
+            <TextEquiv>
+                <Unicode>174</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="377,301 377,2270 482,2270 482,301"/>
+            <TextEquiv>
+                <Unicode>ſuchte erſt mittelſt der Marthon mit Ludwig in Verbindung zu tre-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="489,304 489,2270 564,2270 564,304"/>
+            <TextEquiv>
+                <Unicode>ten; aber wie es ſcheint konnte ſie nicht zu ihm gelangen, ſondern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="575,303 575,2267 658,2267 658,303"/>
+            <TextEquiv>
+                <Unicode>nur zum Aſtrologen, dem ſie alle Vorgänge auf der Reiſe und zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="653,302 653,2274 734,2274 734,302"/>
+            <TextEquiv>
+                <Unicode>Schönwald mittheilte; ſchwerlich aber werden ihre Nachrichten je</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="745,303 745,2271 821,2271 821,303"/>
+            <TextEquiv>
+                <Unicode>zu Ludwig gelangen, außer in der Form einer Prophezeiung. Aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="830,301 830,2268 906,2268 906,301"/>
+            <TextEquiv>
+                <Unicode>hört mein Geheimniß, welches wichtiger iſt, als irgend ein Umſtand,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="916,302 916,2267 999,2267 999,302"/>
+            <TextEquiv>
+                <Unicode>den Marthon mitzutheilen hatte. Wilhelm von der Mark hat eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="994,301 994,2266 1077,2266 1077,301"/>
+            <TextEquiv>
+                <Unicode>zahlreiche und ſturke Heeresmacht in der Stadt Lüttich verſammelt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="1086,303 1086,2264 1168,2264 1168,303"/>
+            <TextEquiv>
+                <Unicode>und vermehrt ſie täglich mit Hilfe der Schätze des alten Prieſters.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1163,304 1163,2265 1244,2265 1244,304"/>
+            <TextEquiv>
+                <Unicode>Aber er gedenkt keineswegs eine Schlacht mit der burgundiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1256,303 1256,2268 1331,2268 1331,303"/>
+            <TextEquiv>
+                <Unicode>Ritterſchaft zu wagen, und noch weniger eine Belagerung in der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="1340,302 1340,2263 1415,2263 1415,302"/>
+            <TextEquiv>
+                <Unicode>ſchlechtbefeſtigten Stadt auszuhalten. Er denkt folgendermaßen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="1426,302 1426,2267 1500,2267 1500,302"/>
+            <TextEquiv>
+                <Unicode>zu verfahren: - er will den hitzköpſigen Karl die Stadt ohne Wi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="1511,300 1511,2389 1585,2389 1585,300"/>
+            <TextEquiv>
+                <Unicode>derſtand berennen laſſen, in der Nacht aber mit ſeiner ganzen Macht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1596,305 1596,2284 1671,2284 1671,305"/>
+            <TextEquiv>
+                <Unicode>einen Ausfall gegen die Belagerer thun. Viele will er als franzöſi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="1681,305 1681,2266 1754,2266 1754,305"/>
+            <TextEquiv>
+                <Unicode>ſche Krteger verkleiden, die ſich des Feldgeſchrei&#39;s „Frankreich!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1765,304 1765,2282 1838,2282 1838,304"/>
+            <TextEquiv>
+                <Unicode>Saint Louis! und Denis Montjoie!“ bedienen ſollen, als ob eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="1848,303 1848,2267 1926,2267 1926,303"/>
+            <TextEquiv>
+                <Unicode>ſtarke Abtheilung franzöſiſcher Hilfstruppen in der Stadt läge.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="1936,302 1936,2267 2010,2267 2010,302"/>
+            <TextEquiv>
+                <Unicode>Dies muß nothwendig Verwirrung unter den Burgundern hervor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="2019,303 2019,2268 2094,2268 2094,303"/>
+            <TextEquiv>
+                <Unicode>bringen; und wofern König Ludwig mit ſeinen Leibwachen, ſeinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="2106,307 2106,2267 2180,2267 2180,307"/>
+            <TextEquiv>
+                <Unicode>Gefolge und den Kriegern, die er etwa mit ſich führt, die Anſtren-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="2192,306 2192,2271 2268,2271 2268,306"/>
+            <TextEquiv>
+                <Unicode>gungen des Ebers der Ardennen unterſtützt, ſo zweifelt dieſer nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="2277,305 2277,2269 2351,2269 2351,305"/>
+            <TextEquiv>
+                <Unicode>an einer gänzlichen Niederlage des burgundiſchen Heeres. - Dies</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="2360,305 2360,2274 2436,2274 2436,305"/>
+            <TextEquiv>
+                <Unicode>iſt mein Geheimniß und ich vermache es euch. Fördert oder hindert</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="2439,304 2439,2269 2521,2269 2521,304"/>
+            <TextEquiv>
+                <Unicode>das Unternehmen - verkauft die Kunde an König Ludwig oder an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="2530,309 2530,2273 2606,2273 2606,309"/>
+            <TextEquiv>
+                <Unicode>Herzog Karl, mir iſt das einerlei - rettet oder verderbt wen ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="2613,305 2613,2274 2690,2274 2690,305"/>
+            <TextEquiv>
+                <Unicode>wollt; ich für mein Theil bedauere nur, daß ich die Sache nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="2701,308 2701,2274 2776,2274 2776,308"/>
+            <TextEquiv>
+                <Unicode>gleich einer Mine in die Luft ſprengen kann, um Alle miteinander</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="2787,343 2787,788 2862,788 2862,343"/>
+            <TextEquiv>
+                <Unicode>zu verderben!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="2871,443 2871,2268 2946,2268 2946,443"/>
+            <TextEquiv>
+                <Unicode>„Es iſt in der That ein wichtiges Geheimniß, ſagte Quentin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="2956,307 2956,2274 3034,2274 3034,307"/>
+            <TextEquiv>
+                <Unicode>der alsbald begriff, wie leicht die Nationaloiferſucht in einem Lager</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>174
+ſuchte erſt mittelſt der Marthon mit Ludwig in Verbindung zu tre-
+ten; aber wie es ſcheint konnte ſie nicht zu ihm gelangen, ſondern
+nur zum Aſtrologen, dem ſie alle Vorgänge auf der Reiſe und zu
+Schönwald mittheilte; ſchwerlich aber werden ihre Nachrichten je
+zu Ludwig gelangen, außer in der Form einer Prophezeiung. Aber
+hört mein Geheimniß, welches wichtiger iſt, als irgend ein Umſtand,
+den Marthon mitzutheilen hatte. Wilhelm von der Mark hat eine
+zahlreiche und ſturke Heeresmacht in der Stadt Lüttich verſammelt,
+und vermehrt ſie täglich mit Hilfe der Schätze des alten Prieſters.
+Aber er gedenkt keineswegs eine Schlacht mit der burgundiſchen
+Ritterſchaft zu wagen, und noch weniger eine Belagerung in der
+ſchlechtbefeſtigten Stadt auszuhalten. Er denkt folgendermaßen
+zu verfahren: - er will den hitzköpſigen Karl die Stadt ohne Wi-
+derſtand berennen laſſen, in der Nacht aber mit ſeiner ganzen Macht
+einen Ausfall gegen die Belagerer thun. Viele will er als franzöſi-
+ſche Krteger verkleiden, die ſich des Feldgeſchrei&#39;s „Frankreich!
+Saint Louis! und Denis Montjoie!“ bedienen ſollen, als ob eine
+ſtarke Abtheilung franzöſiſcher Hilfstruppen in der Stadt läge.
+Dies muß nothwendig Verwirrung unter den Burgundern hervor-
+bringen; und wofern König Ludwig mit ſeinen Leibwachen, ſeinem
+Gefolge und den Kriegern, die er etwa mit ſich führt, die Anſtren-
+gungen des Ebers der Ardennen unterſtützt, ſo zweifelt dieſer nicht
+an einer gänzlichen Niederlage des burgundiſchen Heeres. - Dies
+iſt mein Geheimniß und ich vermache es euch. Fördert oder hindert
+das Unternehmen - verkauft die Kunde an König Ludwig oder an
+Herzog Karl, mir iſt das einerlei - rettet oder verderbt wen ihr
+wollt; ich für mein Theil bedauere nur, daß ich die Sache nicht
+gleich einer Mine in die Luft ſprengen kann, um Alle miteinander
+zu verderben!“
+„Es iſt in der That ein wichtiges Geheimniß, ſagte Quentin,
+der alsbald begriff, wie leicht die Nationaloiferſucht in einem Lager</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

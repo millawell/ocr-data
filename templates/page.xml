@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+{% set vars = {'text_block_id': 0, 'text_line_id': 0} %}
+<Page imageFilename="pixel" imageHeight="{{ page.image_height }}" imageWidth="{{ page.image_width }}">
+    <PrintSpace>
+        <Coords points="0,0 0,{{page.image_width}} {{page.image_height}},{{page.image_width}} {{page.image_height}},{{page.image_width}}"/>
+    </PrintSpace>
+    <TextRegion id="textblock_{{ vars.text_block_id }}">
+        <Coords points="0,0 0,{{page.image_width}} {{page.image_height}},{{page.image_width}} {{page.image_height}},{{page.image_width}}"/>
+        {% if vars.update({'text_block_id': vars.text_block_id+1}) %} {% endif %}        
+        {% for line in page.lines %}
+            <TextLine id="textline_{{ vars.text_line_id }}">
+            {% if vars.update({'text_line_id': vars.text_line_id+1}) %} {% endif %}        
+            <Coords points="{{line.top_left}} {{line.top_right}} {{line.bottom_right}} {{line.bottom_left}}"/>
+            <TextEquiv>
+                <Unicode>{{ line.text }}</Unicode>
+            </TextEquiv>
+            </TextLine>
+        {% endfor %}
+        <TextEquiv>
+            <Unicode>{{page.text}}</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

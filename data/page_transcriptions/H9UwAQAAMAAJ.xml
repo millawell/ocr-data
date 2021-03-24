@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3497" imageWidth="2533">
+    <PrintSpace>
+        <Coords points="0,0 0,2533 3497,2533 3497,2533"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2533 3497,2533 3497,2533"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="208,1224 208,1383 286,1383 286,1224"/>
+            <TextEquiv>
+                <Unicode>119</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="372,321 372,2298 474,2298 474,321"/>
+            <TextEquiv>
+                <Unicode>Die Bürger der Stadt, oder, wie ſie lieber ſagten, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="484,323 484,2299 560,2299 560,323"/>
+            <TextEquiv>
+                <Unicode>guten Stadt Perth, hatten ſeit mehreren Generationen einen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="568,322 568,2299 647,2299 647,322"/>
+            <TextEquiv>
+                <Unicode>Beſchützer und Oberrichter ſolcher Art in dem edlen Hauſe der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="658,317 658,2298 733,2298 733,317"/>
+            <TextEquiv>
+                <Unicode>Charteris, Herren von Kinfauns, in der Nähe der Stadt ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="745,318 745,2299 821,2299 821,318"/>
+            <TextEquiv>
+                <Unicode>funden. Kaum ein Jahrhundert (zur Zeit Roberts III.) war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="833,318 833,2298 911,2298 911,318"/>
+            <TextEquiv>
+                <Unicode>verſchwunden, ſeit der Erſte dieſer ausgezeichneten Familie ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="919,319 919,2297 997,2297 997,319"/>
+            <TextEquiv>
+                <Unicode>auf dem feſten Schloſſe niedergelaſſen hatte, das ihm damals</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1003,323 1003,2294 1083,2294 1083,323"/>
+            <TextEquiv>
+                <Unicode>gehörte, ſo wie das maleriſche und fruchtbare Gebiet ringsum.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1092,323 1092,2345 1172,2345 1172,323"/>
+            <TextEquiv>
+                <Unicode>Aber die Geſchichte deſſen, der ſich ſo angeſiedelt hatte, an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1182,318 1182,2295 1264,2295 1264,318"/>
+            <TextEquiv>
+                <Unicode>ſich ſchon ritterlich und romantiſch, war geeignet, die Nieder-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1267,322 1267,2293 1350,2293 1350,322"/>
+            <TextEquiv>
+                <Unicode>laſſung eines Fremden in dem Lande zu erleichtern, wohin</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1353,320 1353,2297 1432,2297 1432,320"/>
+            <TextEquiv>
+                <Unicode>das Schickſal ihn geführt hatte. Wir erzählen ſie, wie ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1443,316 1443,2293 1520,2293 1520,316"/>
+            <TextEquiv>
+                <Unicode>eine alte Sage gibt, welche große Wahrſcheinlichkeit hat und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1525,319 1525,2293 1608,2293 1608,319"/>
+            <TextEquiv>
+                <Unicode>vielleicht begründet genug iſt, um in ernſteren Geſchichtsbü-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1619,327 1619,1910 1694,1910 1694,327"/>
+            <TextEquiv>
+                <Unicode>chern, als das vorliegende, eine Stelle zu ſinden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1703,429 1703,2292 1780,2292 1780,429"/>
+            <TextEquiv>
+                <Unicode>Während der kurzen Laufbahn des berühmten Patrioten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1789,321 1789,2290 1867,2290 1867,321"/>
+            <TextEquiv>
+                <Unicode>Sir William Wallace, und als ſeine Waffen für eine Zeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1878,318 1878,2294 1956,2294 1956,318"/>
+            <TextEquiv>
+                <Unicode>lang die engliſchen Eindringlinge aus ſeinem Vaterlande ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1962,322 1962,2293 2052,2293 2052,322"/>
+            <TextEquiv>
+                <Unicode>trieben hatten, ſoll er mit einigen vertrauten Freunden eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2046,318 2046,2290 2128,2290 2128,318"/>
+            <TextEquiv>
+                <Unicode>Fahrt nach Frankreich unternommen haben, um zu verſuchen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2136,317 2136,2293 2214,2293 2214,317"/>
+            <TextEquiv>
+                <Unicode>ob ſeine perſönliche Gegenwart (denn er war in allen Län-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2221,316 2221,2294 2304,2294 2304,316"/>
+            <TextEquiv>
+                <Unicode>dern ſeiner Tapferkeit wegen geachtet) den König von Frank-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2310,307 2310,2293 2390,2293 2390,307"/>
+            <TextEquiv>
+                <Unicode>reich beſtimmen könnte, ein Corps Hülfstruppen nach Schott-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2396,317 2396,2289 2477,2289 2477,317"/>
+            <TextEquiv>
+                <Unicode>land zu ſchicken, oder einen andern Beiſtand, um den Schot-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2484,315 2484,2286 2564,2286 2564,315"/>
+            <TextEquiv>
+                <Unicode>ten zu Wiedergewinnung ihrer Unabhängigkeit zu verhelfen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2570,427 2570,2285 2652,2285 2652,427"/>
+            <TextEquiv>
+                <Unicode>Der ſchottiſche Held befand ſich an Bord eines kleinen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2658,306 2658,2289 2739,2289 2739,306"/>
+            <TextEquiv>
+                <Unicode>Fahrzeugs und ſteuerte nach dem Hafen von Dieppe, als in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2747,316 2747,2287 2824,2287 2824,316"/>
+            <TextEquiv>
+                <Unicode>der Ferne ein Segel erſchien, welches die Seefahrer anfangs</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2836,344 2836,1065 2912,1065 2912,344"/>
+            <TextEquiv>
+                <Unicode>mit Furcht und Beſorg</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2922,347 2922,1054 2995,1054 2995,347"/>
+            <TextEquiv>
+                <Unicode>Schrecken betrachteten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3007,346 3007,1067 3084,1067 3084,346"/>
+            <TextEquiv>
+                <Unicode>stürzung rühre, unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>119
+Die Bürger der Stadt, oder, wie ſie lieber ſagten, der
+guten Stadt Perth, hatten ſeit mehreren Generationen einen
+Beſchützer und Oberrichter ſolcher Art in dem edlen Hauſe der
+Charteris, Herren von Kinfauns, in der Nähe der Stadt ge-
+funden. Kaum ein Jahrhundert (zur Zeit Roberts III.) war
+verſchwunden, ſeit der Erſte dieſer ausgezeichneten Familie ſich
+auf dem feſten Schloſſe niedergelaſſen hatte, das ihm damals
+gehörte, ſo wie das maleriſche und fruchtbare Gebiet ringsum.
+Aber die Geſchichte deſſen, der ſich ſo angeſiedelt hatte, an
+ſich ſchon ritterlich und romantiſch, war geeignet, die Nieder-
+laſſung eines Fremden in dem Lande zu erleichtern, wohin
+das Schickſal ihn geführt hatte. Wir erzählen ſie, wie ſie
+eine alte Sage gibt, welche große Wahrſcheinlichkeit hat und
+vielleicht begründet genug iſt, um in ernſteren Geſchichtsbü-
+chern, als das vorliegende, eine Stelle zu ſinden.
+Während der kurzen Laufbahn des berühmten Patrioten
+Sir William Wallace, und als ſeine Waffen für eine Zeit
+lang die engliſchen Eindringlinge aus ſeinem Vaterlande ver-
+trieben hatten, ſoll er mit einigen vertrauten Freunden eine
+Fahrt nach Frankreich unternommen haben, um zu verſuchen,
+ob ſeine perſönliche Gegenwart (denn er war in allen Län-
+dern ſeiner Tapferkeit wegen geachtet) den König von Frank-
+reich beſtimmen könnte, ein Corps Hülfstruppen nach Schott-
+land zu ſchicken, oder einen andern Beiſtand, um den Schot-
+ten zu Wiedergewinnung ihrer Unabhängigkeit zu verhelfen.
+Der ſchottiſche Held befand ſich an Bord eines kleinen
+Fahrzeugs und ſteuerte nach dem Hafen von Dieppe, als in
+der Ferne ein Segel erſchien, welches die Seefahrer anfangs
+mit Furcht und Beſorg
+Schrecken betrachteten.
+stürzung rühre, unter</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3498" imageWidth="2500">
+    <PrintSpace>
+        <Coords points="0,0 0,2500 3498,2500 3498,2500"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2500 3498,2500 3498,2500"/>
+        
+            <TextLine id="textline_32">
+        
+            <Coords points="197,1144 197,1275 258,1275 258,1144"/>
+            <TextEquiv>
+                <Unicode>140</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="371,219 371,2188 448,2188 448,219"/>
+            <TextEquiv>
+                <Unicode>Sage, welche Harry Gow zu verbreiten beliebte; denn obwohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="459,219 459,2196 535,2196 535,219"/>
+            <TextEquiv>
+                <Unicode>ihm wenig an der Sache lag, hatte er doch immer an der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="545,216 545,2194 621,2194 621,216"/>
+            <TextEquiv>
+                <Unicode>Wahrheit der romantiſchen Thaten des Strumpfwirkers ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="630,218 630,2190 709,2190 709,218"/>
+            <TextEquiv>
+                <Unicode>zweifelt, die er nun doch in gewiſſem Grade für richtig halten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="714,214 714,2192 804,2192 804,214"/>
+            <TextEquiv>
+                <Unicode>mußte. Der ſchlaue alte Glover durchſchaute die Sache beſſer.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="806,323 806,2188 880,2188 880,323"/>
+            <TextEquiv>
+                <Unicode>„Ihr werdet den armen Strumpfwirker toll machen,“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="891,211 891,2190 968,2190 968,211"/>
+            <TextEquiv>
+                <Unicode>ſlüſterte er Harry zu; „er wird mit ſeiner Klapper lärmen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="978,216 978,2193 1055,2193 1055,216"/>
+            <TextEquiv>
+                <Unicode>als wär&#39;s eine Stadtglocke an einem Freudenfeſte, während er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1068,219 1068,2191 1144,2191 1144,219"/>
+            <TextEquiv>
+                <Unicode>der Ordnunng und des Anſtandes wegen ganz ſtill ſein ſollte.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1156,323 1156,2187 1233,2187 1233,323"/>
+            <TextEquiv>
+                <Unicode>„O, bei unſrer lieben Frau, Vater,“ erwiederte der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1241,218 1241,2189 1318,2189 1318,218"/>
+            <TextEquiv>
+                <Unicode>Schmied, „ich liebe den armen kleinen Prahlhans, und mag</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1329,217 1329,2189 1404,2189 1404,217"/>
+            <TextEquiv>
+                <Unicode>nicht daran denken, ihn reuig und ſchweigend beim Ober-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1417,216 1417,2190 1491,2190 1491,216"/>
+            <TextEquiv>
+                <Unicode>richter zu ſehen, während alle Uebrigen und beſonders der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1502,233 1502,1533 1579,1533 1579,233"/>
+            <TextEquiv>
+                <Unicode>giftige Apotheker ihre Meinung ſagten.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1591,323 1591,2190 1668,2190 1668,323"/>
+            <TextEquiv>
+                <Unicode>„Du biſt ein allzuguter Burſche, Harry,“ antwortete Si-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1677,218 1677,2197 1753,2197 1753,218"/>
+            <TextEquiv>
+                <Unicode>mon. „Merk&#39; aber den Unterſchied zwiſchen dieſen beiden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1764,216 1764,2194 1854,2194 1854,216"/>
+            <TextEquiv>
+                <Unicode>Männern. Der harmloſe kleine Strumpfwirker nimmt die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="1848,217 1848,2191 1930,2191 1930,217"/>
+            <TextEquiv>
+                <Unicode>Miene eines Drachen an, um ſeine natürliche Feigheit zu ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="1940,217 1940,2193 2016,2193 2016,217"/>
+            <TextEquiv>
+                <Unicode>ſtecken, während der argliſtige Apotheker ſich bemüht, ſchüch-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2025,216 2025,2192 2113,2192 2113,216"/>
+            <TextEquiv>
+                <Unicode>tern, muthlos und beſcheiden zu ſcheinen, um ſeine gefährliche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2106,219 2106,2188 2198,2188 2198,219"/>
+            <TextEquiv>
+                <Unicode>Gemüthsart zu bergen. Die Natter iſt nicht minder tödtlich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2202,219 2202,2188 2279,2188 2279,219"/>
+            <TextEquiv>
+                <Unicode>weil ſie unter einen Stein kriecht. Ich ſage Dir, Sohn Harry,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2287,216 2287,2188 2364,2188 2364,216"/>
+            <TextEquiv>
+                <Unicode>daß, bei all ſeinen kriechenden Blicken und ſchüchternen Worten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="2375,217 2375,2185 2451,2185 2451,217"/>
+            <TextEquiv>
+                <Unicode>dies elende Gerippe Unheil mehr liebt, als es Gefahr fürchtet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="2463,219 2463,2188 2551,2188 2551,219"/>
+            <TextEquiv>
+                <Unicode>- Aber hier ſtehen wir vor des Oberrichters Schloß. Und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="2545,214 2545,2192 2625,2192 2625,214"/>
+            <TextEquiv>
+                <Unicode>Kinfauns iſt ein ſtattlicher Ort, und es gereicht der Stadt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2638,216 2638,2192 2715,2192 2715,216"/>
+            <TextEquiv>
+                <Unicode>zum Vortheil, den Eigner eines ſo tüchtigen Schloſſes zur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2725,238 2725,1436 2801,1436 2801,238"/>
+            <TextEquiv>
+                <Unicode>oberſten Magiſtratsperſon zu haben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2787,326 2787,2206 2892,2206 2892,326"/>
+            <TextEquiv>
+                <Unicode>„In der That eine hübſche Burg,“ ſagte der Schmied,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="2898,224 2898,2189 2977,2189 2977,224"/>
+            <TextEquiv>
+                <Unicode>auf den breitfluthenden Tay blickend, der unter der Höhe hin-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="2986,218 2986,2288 3065,2288 3065,218"/>
+            <TextEquiv>
+                <Unicode>floß, worauf das Schloß ſtand, gleich ſeinem modernen Nach-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>140
+Sage, welche Harry Gow zu verbreiten beliebte; denn obwohl
+ihm wenig an der Sache lag, hatte er doch immer an der
+Wahrheit der romantiſchen Thaten des Strumpfwirkers ge-
+zweifelt, die er nun doch in gewiſſem Grade für richtig halten
+mußte. Der ſchlaue alte Glover durchſchaute die Sache beſſer.
+„Ihr werdet den armen Strumpfwirker toll machen,“
+ſlüſterte er Harry zu; „er wird mit ſeiner Klapper lärmen,
+als wär&#39;s eine Stadtglocke an einem Freudenfeſte, während er
+der Ordnunng und des Anſtandes wegen ganz ſtill ſein ſollte.“
+„O, bei unſrer lieben Frau, Vater,“ erwiederte der
+Schmied, „ich liebe den armen kleinen Prahlhans, und mag
+nicht daran denken, ihn reuig und ſchweigend beim Ober-
+richter zu ſehen, während alle Uebrigen und beſonders der
+giftige Apotheker ihre Meinung ſagten.“
+„Du biſt ein allzuguter Burſche, Harry,“ antwortete Si-
+mon. „Merk&#39; aber den Unterſchied zwiſchen dieſen beiden
+Männern. Der harmloſe kleine Strumpfwirker nimmt die
+Miene eines Drachen an, um ſeine natürliche Feigheit zu ver-
+ſtecken, während der argliſtige Apotheker ſich bemüht, ſchüch-
+tern, muthlos und beſcheiden zu ſcheinen, um ſeine gefährliche
+Gemüthsart zu bergen. Die Natter iſt nicht minder tödtlich,
+weil ſie unter einen Stein kriecht. Ich ſage Dir, Sohn Harry,
+daß, bei all ſeinen kriechenden Blicken und ſchüchternen Worten,
+dies elende Gerippe Unheil mehr liebt, als es Gefahr fürchtet.
+- Aber hier ſtehen wir vor des Oberrichters Schloß. Und
+Kinfauns iſt ein ſtattlicher Ort, und es gereicht der Stadt
+zum Vortheil, den Eigner eines ſo tüchtigen Schloſſes zur
+oberſten Magiſtratsperſon zu haben.“
+„In der That eine hübſche Burg,“ ſagte der Schmied,
+auf den breitfluthenden Tay blickend, der unter der Höhe hin-
+floß, worauf das Schloß ſtand, gleich ſeinem modernen Nach-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3462" imageWidth="2476">
+    <PrintSpace>
+        <Coords points="0,0 0,2476 3462,2476 3462,2476"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2476 3462,2476 3462,2476"/>
+        
+            <TextLine id="textline_64">
+        
+            <Coords points="177,1135 177,1265 239,1265 239,1135"/>
+            <TextEquiv>
+                <Unicode>144</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="335,215 335,2187 440,2187 440,215"/>
+            <TextEquiv>
+                <Unicode>rettete. Aber hier kommt endlich der Wein. Schenkt meinen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="437,217 437,2188 514,2188 514,217"/>
+            <TextEquiv>
+                <Unicode>guten Freunden und Gäſten ein, bis es überläuft. Auf das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="524,221 524,2190 600,2190 600,221"/>
+            <TextEquiv>
+                <Unicode>Wohl von St. Johnſton und ein fröhlicher Willkomm Euch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="612,221 612,2190 690,2190 690,221"/>
+            <TextEquiv>
+                <Unicode>Allen, meine wackern Freunde! Und nun ſetzt Euch und eßt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="700,218 700,2202 801,2202 801,218"/>
+            <TextEquiv>
+                <Unicode>einen Biſſen, denn die Sonne ſteht hoch und Ihr muntern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="785,231 785,1614 864,1614 864,231"/>
+            <TextEquiv>
+                <Unicode>Leute werdet lange nichts genoſſen haben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="870,325 870,2208 949,2208 949,325"/>
+            <TextEquiv>
+                <Unicode>„Bevor wir eſſen, Mylord Oberrichter,“ ſagte der Bailie,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="961,218 961,2190 1037,2190 1037,218"/>
+            <TextEquiv>
+                <Unicode>„laßt uns den dringenden Grund unſeres Kommens berichten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="1049,238 1049,1479 1123,1479 1123,238"/>
+            <TextEquiv>
+                <Unicode>welchen wir noch nicht berührt haben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1135,328 1135,2191 1210,2191 1210,328"/>
+            <TextEquiv>
+                <Unicode>„Nein, ich bitte, Bailie,“  ſagte der Oberrichter, „laßt das,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1218,222 1218,2193 1299,2193 1299,222"/>
+            <TextEquiv>
+                <Unicode>bis Ihr gegeſſen habt. Eine Beſchwerde gegen die übermü-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="1309,222 1309,2196 1387,2196 1387,222"/>
+            <TextEquiv>
+                <Unicode>thigen Jackmen und Diener der Edeln, die in den Straßen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="1393,226 1393,2194 1472,2194 1472,226"/>
+            <TextEquiv>
+                <Unicode>der Stadt Ball ſpielten, oder ſonſt ſo eine hübſche Sache?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="1480,332 1480,2192 1562,2192 1562,332"/>
+            <TextEquiv>
+                <Unicode>„Nein, Mylord,“  ſagte Craigdallie ernſt und feſt. „Die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1569,197 1569,2198 1659,2198 1659,197"/>
+            <TextEquiv>
+                <Unicode>Herren der Jackmen ſind&#39;s, über die wir klagen, weil ſie Ball</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="1655,224 1655,2200 1736,2200 1736,224"/>
+            <TextEquiv>
+                <Unicode>mit der Ehre unſerer Familien ſpielten, und ſo wenig Umſtände</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1745,224 1745,2198 1823,2198 1823,224"/>
+            <TextEquiv>
+                <Unicode>mit unſrer Töchter Schlafkammern machen, als wären ſie in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="1830,227 1830,2198 1923,2198 1923,227"/>
+            <TextEquiv>
+                <Unicode>einem Bordel zu Paris. Eine Schaar Nachtſchwärmer, -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="1917,226 1917,2200 1999,2200 1999,226"/>
+            <TextEquiv>
+                <Unicode>Hofleute und Männer von Rang, wie nur zu viel Grund zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="2007,229 2007,2197 2088,2197 2088,229"/>
+            <TextEquiv>
+                <Unicode>glauben iſt, - verſuchten in letzter Nacht die Fenſter in Si-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="2095,229 2095,2199 2174,2199 2174,229"/>
+            <TextEquiv>
+                <Unicode>mon Glovers Hauſe zu erſteigen; ſie ſtanden mit gezogenen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="2182,228 2182,2198 2263,2198 2263,228"/>
+            <TextEquiv>
+                <Unicode>Wehren zu ihrer Vertheidigung, als ſie durch Harry Schmied</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="2272,229 2272,2198 2351,2198 2351,229"/>
+            <TextEquiv>
+                <Unicode>geſtört wurden, und ſie kämpften, bis ſie von den erwachten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="2363,253 2363,1204 2437,1204 2437,253"/>
+            <TextEquiv>
+                <Unicode>Bürgern vertrieben wurden.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="2434,338 2434,2200 2527,2200 2527,338"/>
+            <TextEquiv>
+                <Unicode>„Wie?“ ſagte Sir Patrick, den Becher niederſetzend, den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="2531,234 2531,2201 2610,2201 2610,234"/>
+            <TextEquiv>
+                <Unicode>er eben erheben wollte. „Teufel, beweist mir das, und bei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="2619,235 2619,2203 2698,2203 2698,235"/>
+            <TextEquiv>
+                <Unicode>der Seele Thomas von Longueville&#39;s, mit meiner beſten Macht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="2704,235 2704,2203 2783,2203 2783,235"/>
+            <TextEquiv>
+                <Unicode>will ich Euch beiſtehen und ſollt&#39; es mir Leben und Land ko-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="2791,234 2791,2203 2881,2203 2881,234"/>
+            <TextEquiv>
+                <Unicode>ſten. - Wer bezeugt das? - Simon Glover, man kennt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="2881,237 2881,2205 2959,2205 2959,237"/>
+            <TextEquiv>
+                <Unicode>Euch als ehrlichen und behutſamen Mann - nehmt Ihr die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="2967,244 2967,1943 3048,1943 3048,244"/>
+            <TextEquiv>
+                <Unicode>Wahrheit dieſer Beſchuldigung auf Euer Gewiſſen?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>144
+rettete. Aber hier kommt endlich der Wein. Schenkt meinen
+guten Freunden und Gäſten ein, bis es überläuft. Auf das
+Wohl von St. Johnſton und ein fröhlicher Willkomm Euch
+Allen, meine wackern Freunde! Und nun ſetzt Euch und eßt
+einen Biſſen, denn die Sonne ſteht hoch und Ihr muntern
+Leute werdet lange nichts genoſſen haben.“
+„Bevor wir eſſen, Mylord Oberrichter,“ ſagte der Bailie,
+„laßt uns den dringenden Grund unſeres Kommens berichten,
+welchen wir noch nicht berührt haben.“
+„Nein, ich bitte, Bailie,“  ſagte der Oberrichter, „laßt das,
+bis Ihr gegeſſen habt. Eine Beſchwerde gegen die übermü-
+thigen Jackmen und Diener der Edeln, die in den Straßen
+der Stadt Ball ſpielten, oder ſonſt ſo eine hübſche Sache?“
+„Nein, Mylord,“  ſagte Craigdallie ernſt und feſt. „Die
+Herren der Jackmen ſind&#39;s, über die wir klagen, weil ſie Ball
+mit der Ehre unſerer Familien ſpielten, und ſo wenig Umſtände
+mit unſrer Töchter Schlafkammern machen, als wären ſie in
+einem Bordel zu Paris. Eine Schaar Nachtſchwärmer, -
+Hofleute und Männer von Rang, wie nur zu viel Grund zu
+glauben iſt, - verſuchten in letzter Nacht die Fenſter in Si-
+mon Glovers Hauſe zu erſteigen; ſie ſtanden mit gezogenen
+Wehren zu ihrer Vertheidigung, als ſie durch Harry Schmied
+geſtört wurden, und ſie kämpften, bis ſie von den erwachten
+Bürgern vertrieben wurden.“
+„Wie?“ ſagte Sir Patrick, den Becher niederſetzend, den
+er eben erheben wollte. „Teufel, beweist mir das, und bei
+der Seele Thomas von Longueville&#39;s, mit meiner beſten Macht
+will ich Euch beiſtehen und ſollt&#39; es mir Leben und Land ko-
+ſten. - Wer bezeugt das? - Simon Glover, man kennt
+Euch als ehrlichen und behutſamen Mann - nehmt Ihr die
+Wahrheit dieſer Beſchuldigung auf Euer Gewiſſen?“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

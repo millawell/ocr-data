@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3487" imageWidth="2533">
+    <PrintSpace>
+        <Coords points="0,0 0,2533 3487,2533 3487,2533"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2533 3487,2533 3487,2533"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="238,1232 238,1322 301,1322 301,1232"/>
+            <TextEquiv>
+                <Unicode>80</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="408,288 408,2265 499,2265 499,288"/>
+            <TextEquiv>
+                <Unicode>ſüßer Geruch ſein, und mit ihrer Hülfe wollen wir dem Zau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="493,288 493,2266 577,2266 577,288"/>
+            <TextEquiv>
+                <Unicode>ber und der Verführung entgegenwirken, worein ſich unſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="588,287 588,2267 661,2267 661,287"/>
+            <TextEquiv>
+                <Unicode>Bruder verſtrickt hat. Er ſoll die Banden dieſer Delila zer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="674,238 674,2268 752,2268 752,238"/>
+            <TextEquiv>
+                <Unicode>reißen, wie Simſon die neuen Stricke zerriß, womit ihn die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="762,286 762,2409 839,2409 839,286"/>
+            <TextEquiv>
+                <Unicode>Philiſter gebunden hatten, aber die ſchändliche Zauberin, wel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="847,247 847,2396 928,2396 928,247"/>
+            <TextEquiv>
+                <Unicode>che ihre Bezauberungen bei einem Mitgliede des heiligen Tem-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="938,291 938,2069 1013,2069 1013,291"/>
+            <TextEquiv>
+                <Unicode>pels angewendet hat, ſoll ſicherlich des Todes ſterben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1025,397 1025,2263 1101,2263 1101,397"/>
+            <TextEquiv>
+                <Unicode>„Aber die engliſchen Geſetze“ - ſagte der Präceptor, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1111,286 1111,2266 1195,2266 1195,286"/>
+            <TextEquiv>
+                <Unicode>ſich zwar freute, daß der Zorn des Großmeiſters ſich ſo glück-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1190,287 1190,2266 1276,2266 1276,287"/>
+            <TextEquiv>
+                <Unicode>lich von ihm und Bois-Guilbert abgewendet habe, doch aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1287,305 1287,1543 1364,1543 1364,305"/>
+            <TextEquiv>
+                <Unicode>fürchtete, er möge ihn zu weit führen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1374,398 1374,2264 1452,2264 1452,398"/>
+            <TextEquiv>
+                <Unicode>„Die engliſchen Geſetze,“ erwiderte Beaumanoir, „erlauben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1459,288 1459,2267 1538,2267 1538,288"/>
+            <TextEquiv>
+                <Unicode>und ermächtigen jeden Richter innerhalb ſeiner Iurisdiction</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1549,288 1549,2268 1626,2268 1626,288"/>
+            <TextEquiv>
+                <Unicode>Gerechtigkeit zu üben. Der geringſte Edelmann kann eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1634,289 1634,2267 1713,2267 1713,289"/>
+            <TextEquiv>
+                <Unicode>auf ſeinem Gebiete gefundene Hexe verhaften und nach der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1720,288 1720,2268 1800,2268 1800,288"/>
+            <TextEquiv>
+                <Unicode>Unterſuchung verurtheilen. Wie ſollte man dem Großmeiſter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1812,288 1812,2267 1889,2267 1889,288"/>
+            <TextEquiv>
+                <Unicode>des Tempels innerhalb des Präceptoriums ſeines Ordens</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1899,289 1899,2267 1987,2267 1987,289"/>
+            <TextEquiv>
+                <Unicode>dieſes Recht verweigern? Nein Wir wollen urtheilen und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1987,291 1987,2268 2064,2268 2064,291"/>
+            <TextEquiv>
+                <Unicode>verdammen. Bereite die Schloßhalle zu dem Prozeſſe der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2077,325 2077,805 2149,805 2149,325"/>
+            <TextEquiv>
+                <Unicode>Zauberin vor.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2160,400 2160,2261 2240,2261 2240,400"/>
+            <TextEquiv>
+                <Unicode>Albert Malvoiſin verbeugte ſich und ging - nicht um Be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2249,289 2249,2265 2326,2265 2326,289"/>
+            <TextEquiv>
+                <Unicode>fehle zu geben, die Halle in Bereitſchaft zu halten, ſondern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2336,290 2336,2266 2412,2266 2412,290"/>
+            <TextEquiv>
+                <Unicode>um Bois-Guilbert aufzuſuchen, und ihm mitzutheilen, wie die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2425,292 2425,2264 2500,2264 2500,292"/>
+            <TextEquiv>
+                <Unicode>Sachen wahrſcheinlich enden würden. Er fand ihn bald,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2509,290 2509,2267 2597,2267 2597,290"/>
+            <TextEquiv>
+                <Unicode>ſchäumend vor Unwillen wegen einer Zurückweiſung, die er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2599,292 2599,2266 2674,2266 2674,292"/>
+            <TextEquiv>
+                <Unicode>wieder von der ſchönen Iüdin erfahren hatte. „Die Undank-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2686,290 2686,2261 2765,2261 2765,290"/>
+            <TextEquiv>
+                <Unicode>bare,“ ſagte er, „den zurückzuweiſen, der unter Blut und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2774,288 2774,2264 2850,2264 2850,288"/>
+            <TextEquiv>
+                <Unicode>Flammen ihr Leben mit Gefahr ſeines eigenen würde gerettet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2862,289 2862,2265 2939,2265 2939,289"/>
+            <TextEquiv>
+                <Unicode>haben! Beim Himmel, Malvoiſin! ich blieb da, bis Balken</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2950,294 2950,2265 3024,2265 3024,294"/>
+            <TextEquiv>
+                <Unicode>und Sparren um mich her krachten. Ich war das Ziel von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3029,294 3029,2264 3120,2264 3120,294"/>
+            <TextEquiv>
+                <Unicode>hundert Pfeilen; ſie raſſelten an meiner Rüſtung, gleich Schloßen</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>80
+ſüßer Geruch ſein, und mit ihrer Hülfe wollen wir dem Zau-
+ber und der Verführung entgegenwirken, worein ſich unſer
+Bruder verſtrickt hat. Er ſoll die Banden dieſer Delila zer-
+reißen, wie Simſon die neuen Stricke zerriß, womit ihn die
+Philiſter gebunden hatten, aber die ſchändliche Zauberin, wel-
+che ihre Bezauberungen bei einem Mitgliede des heiligen Tem-
+pels angewendet hat, ſoll ſicherlich des Todes ſterben.“
+„Aber die engliſchen Geſetze“ - ſagte der Präceptor, der
+ſich zwar freute, daß der Zorn des Großmeiſters ſich ſo glück-
+lich von ihm und Bois-Guilbert abgewendet habe, doch aber
+fürchtete, er möge ihn zu weit führen.
+„Die engliſchen Geſetze,“ erwiderte Beaumanoir, „erlauben
+und ermächtigen jeden Richter innerhalb ſeiner Iurisdiction
+Gerechtigkeit zu üben. Der geringſte Edelmann kann eine
+auf ſeinem Gebiete gefundene Hexe verhaften und nach der
+Unterſuchung verurtheilen. Wie ſollte man dem Großmeiſter
+des Tempels innerhalb des Präceptoriums ſeines Ordens
+dieſes Recht verweigern? Nein Wir wollen urtheilen und
+verdammen. Bereite die Schloßhalle zu dem Prozeſſe der
+Zauberin vor.“
+Albert Malvoiſin verbeugte ſich und ging - nicht um Be-
+fehle zu geben, die Halle in Bereitſchaft zu halten, ſondern
+um Bois-Guilbert aufzuſuchen, und ihm mitzutheilen, wie die
+Sachen wahrſcheinlich enden würden. Er fand ihn bald,
+ſchäumend vor Unwillen wegen einer Zurückweiſung, die er
+wieder von der ſchönen Iüdin erfahren hatte. „Die Undank-
+bare,“ ſagte er, „den zurückzuweiſen, der unter Blut und
+Flammen ihr Leben mit Gefahr ſeines eigenen würde gerettet
+haben! Beim Himmel, Malvoiſin! ich blieb da, bis Balken
+und Sparren um mich her krachten. Ich war das Ziel von
+hundert Pfeilen; ſie raſſelten an meiner Rüſtung, gleich Schloßen</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3484" imageWidth="2536">
+    <PrintSpace>
+        <Coords points="0,0 0,2536 3484,2536 3484,2536"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2536 3484,2536 3484,2536"/>
+        
+            <TextLine id="textline_32">
+        
+            <Coords points="192,1046 192,1382 282,1382 282,1046"/>
+            <TextEquiv>
+                <Unicode>167</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="378,428 378,2285 458,2285 458,428"/>
+            <TextEquiv>
+                <Unicode>„Und Ihr habt mich gefunden,“ ſagte Cedric, „bereit un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="467,323 467,2290 546,2290 546,323"/>
+            <TextEquiv>
+                <Unicode>ſere edlen Pläne für Ehre und Freiheit wieder aufzunehmen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="554,318 554,2292 632,2292 632,318"/>
+            <TextEquiv>
+                <Unicode>Ich ſage Dir, es tagt kein Morgen wieder ſo günſtig, als der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="641,324 641,2289 720,2289 720,324"/>
+            <TextEquiv>
+                <Unicode>uächſte ſür die Befreiung des edlen Stammes der Sachſen!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="727,432 727,2364 807,2364 807,432"/>
+            <TextEquiv>
+                <Unicode>„Rede mir nicht von Iemandes Befreiung,“ ſagte Athel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="811,322 811,2289 893,2289 893,322"/>
+            <TextEquiv>
+                <Unicode>ſtane; „ich bin eher geſonnen den ſchändlichen Abt zu züchti-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="901,320 901,2287 980,2287 980,320"/>
+            <TextEquiv>
+                <Unicode>gen. Er ſoll hängen auf der oberſten Spitze dieſes Schloſſes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="988,326 988,2289 1064,2289 1064,326"/>
+            <TextEquiv>
+                <Unicode>von Coningsburgh in ſeiner Kutte und Stola; und ſind die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="1074,324 1074,2288 1153,2288 1153,324"/>
+            <TextEquiv>
+                <Unicode>Treppen zu enge für ſeinen fetten Leichnam, ſo laſſe ich ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="1164,343 1164,1160 1236,1160 1236,343"/>
+            <TextEquiv>
+                <Unicode>vou außen hinaufziehen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="1249,426 1249,2283 1329,2283 1329,426"/>
+            <TextEquiv>
+                <Unicode>„Aber, mein Sohn,“ ſagte Editha, „bedenke doch ſein hei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="1336,359 1336,726 1417,726 1417,359"/>
+            <TextEquiv>
+                <Unicode>liges Amt.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="1421,426 1421,2284 1505,2284 1505,426"/>
+            <TextEquiv>
+                <Unicode>„Bedenkt doch mein dreitägiges Faſten,“ verſetzte Athelſtane;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="1507,318 1507,2290 1589,2290 1589,318"/>
+            <TextEquiv>
+                <Unicode>„ſie ſollen mir Alle bluten, Front-de-Boeuf wurde wegen weit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="1596,319 1596,2286 1677,2286 1677,319"/>
+            <TextEquiv>
+                <Unicode>weniger lebendig verbrannt, denn er hielt für ſeine Gefangenen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="1683,323 1683,2286 1761,2286 1761,323"/>
+            <TextEquiv>
+                <Unicode>einen guten Tiſch, nur zu viel Knoblauch war zuletzt in der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="1770,317 1770,2284 1847,2284 1847,317"/>
+            <TextEquiv>
+                <Unicode>Suppe. Aber dieſe undankbaren, heuchleriſchen Schurken, ſo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="1856,230 1856,2290 1934,2290 1934,230"/>
+            <TextEquiv>
+                <Unicode>oſt ſelbſt eingeladene Schmeichler an meinem Tiſche, die mir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="1943,319 1943,2285 2023,2285 2023,319"/>
+            <TextEquiv>
+                <Unicode>nicht einmal eine Suppe, wenn auch mit Knoblauch geben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2029,313 2029,2285 2106,2285 2106,313"/>
+            <TextEquiv>
+                <Unicode>wollten. - Nein, dieſe müſſen hängen, bei Hengiſts Seele!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2118,429 2118,2114 2195,2114 2195,429"/>
+            <TextEquiv>
+                <Unicode>„Aber der Papſt, mein edler Freund,“ ſagte Cedric.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="2204,423 2204,2280 2282,2280 2282,423"/>
+            <TextEquiv>
+                <Unicode>„Aber der Teufel, mein edler Freund,“ verſetzte Athelſtane,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="2291,316 2291,2282 2369,2282 2369,316"/>
+            <TextEquiv>
+                <Unicode>„ſie müſſen ſterben, und nun nichts mehr von ihnen. Wären</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="2377,319 2377,2281 2455,2281 2455,319"/>
+            <TextEquiv>
+                <Unicode>ſie auch die beſten Mönche auf Erden, die Welt würde doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="2467,333 2467,1092 2541,1092 2541,333"/>
+            <TextEquiv>
+                <Unicode>auch ohne ſie beſtehen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="2549,422 2549,2280 2629,2280 2629,422"/>
+            <TextEquiv>
+                <Unicode>„Schämt Euch, edler Athelſtane,“ ſagte Cedrie, „vergeſſet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="2637,314 2637,2279 2716,2279 2716,314"/>
+            <TextEquiv>
+                <Unicode>ſolche Elende bei der ehrenvollen Laufdahn, die ſich Euch auf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="2723,304 2723,2281 2802,2281 2802,304"/>
+            <TextEquiv>
+                <Unicode>ſchließt. Sage dieſem normänniſchen Fürſten, Richard von Anjou,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="2812,314 2812,2279 2889,2279 2889,314"/>
+            <TextEquiv>
+                <Unicode>daß, ſo löwenherzig er auch iſt, er den Thron Alfreds nicht ohne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="2897,309 2897,2279 2976,2279 2976,309"/>
+            <TextEquiv>
+                <Unicode>Widerſpruch behaupten wird, ſo lange noch ein Abkömmling</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="2984,310 2984,2277 3064,2277 3064,310"/>
+            <TextEquiv>
+                <Unicode>des heiligen Bekenners lebe, der ihn ihm ſtreitig machen könne.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>167
+„Und Ihr habt mich gefunden,“ ſagte Cedric, „bereit un-
+ſere edlen Pläne für Ehre und Freiheit wieder aufzunehmen.
+Ich ſage Dir, es tagt kein Morgen wieder ſo günſtig, als der
+uächſte ſür die Befreiung des edlen Stammes der Sachſen!“
+„Rede mir nicht von Iemandes Befreiung,“ ſagte Athel-
+ſtane; „ich bin eher geſonnen den ſchändlichen Abt zu züchti-
+gen. Er ſoll hängen auf der oberſten Spitze dieſes Schloſſes
+von Coningsburgh in ſeiner Kutte und Stola; und ſind die
+Treppen zu enge für ſeinen fetten Leichnam, ſo laſſe ich ihn
+vou außen hinaufziehen.“
+„Aber, mein Sohn,“ ſagte Editha, „bedenke doch ſein hei-
+liges Amt.“
+„Bedenkt doch mein dreitägiges Faſten,“ verſetzte Athelſtane;
+„ſie ſollen mir Alle bluten, Front-de-Boeuf wurde wegen weit
+weniger lebendig verbrannt, denn er hielt für ſeine Gefangenen
+einen guten Tiſch, nur zu viel Knoblauch war zuletzt in der
+Suppe. Aber dieſe undankbaren, heuchleriſchen Schurken, ſo
+oſt ſelbſt eingeladene Schmeichler an meinem Tiſche, die mir
+nicht einmal eine Suppe, wenn auch mit Knoblauch geben
+wollten. - Nein, dieſe müſſen hängen, bei Hengiſts Seele!“
+„Aber der Papſt, mein edler Freund,“ ſagte Cedric.
+„Aber der Teufel, mein edler Freund,“ verſetzte Athelſtane,
+„ſie müſſen ſterben, und nun nichts mehr von ihnen. Wären
+ſie auch die beſten Mönche auf Erden, die Welt würde doch
+auch ohne ſie beſtehen.“
+„Schämt Euch, edler Athelſtane,“ ſagte Cedrie, „vergeſſet
+ſolche Elende bei der ehrenvollen Laufdahn, die ſich Euch auf-
+ſchließt. Sage dieſem normänniſchen Fürſten, Richard von Anjou,
+daß, ſo löwenherzig er auch iſt, er den Thron Alfreds nicht ohne
+Widerſpruch behaupten wird, ſo lange noch ein Abkömmling
+des heiligen Bekenners lebe, der ihn ihm ſtreitig machen könne.“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="3647" imageWidth="2591">
+    <PrintSpace>
+        <Coords points="0,0 0,2591 3647,2591 3647,2591"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2591 3647,2591 3647,2591"/>
+        
+            <TextLine id="textline_64">
+        
+            <Coords points="317,1269 317,1401 379,1401 379,1269"/>
+            <TextEquiv>
+                <Unicode>194</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="491,335 491,2314 569,2314 569,335"/>
+            <TextEquiv>
+                <Unicode>Wamba trug an dieſem Tage eine neue Kappe und einen un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="576,348 576,2322 665,2322 665,348"/>
+            <TextEquiv>
+                <Unicode>geheuren Schmuck von ſilbernen Glöckchen. So wie ſie Wil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="666,347 666,2323 749,2323 749,347"/>
+            <TextEquiv>
+                <Unicode>freds Unglück und Gefahren redlich getheilt hatten, blieben ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="743,355 743,1922 835,1922 835,355"/>
+            <TextEquiv>
+                <Unicode>auch im Gllück ſeine Theilnehmer und Gefährten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="840,421 840,2322 917,2322 917,421"/>
+            <TextEquiv>
+                <Unicode>Außer dieſem Dienergefolge wurde dieſe Hochzeit auch ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="928,347 928,2321 1007,2321 1007,347"/>
+            <TextEquiv>
+                <Unicode>herrlicht durch den Beſuch vornehmer Normänner und Sachſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="1015,347 1015,2321 1095,2321 1095,347"/>
+            <TextEquiv>
+                <Unicode>die den allgemeinen Iubel der niedern Stände theilten, welche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="1099,346 1099,2323 1180,2323 1180,346"/>
+            <TextEquiv>
+                <Unicode>in dieſer Verbindung ein Pfand künftigen Friedens zwiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="1190,341 1190,2513 1271,2513 1271,341"/>
+            <TextEquiv>
+                <Unicode>zwei Geſchlechtern erblickten, die ſich ſeit der Zeit ſo vollkom-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="1273,340 1273,2513 1369,2513 1369,340"/>
+            <TextEquiv>
+                <Unicode>men vermiſcht haben, daß ſich kein Unterſchied mehr erkennen läßt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="1362,340 1362,2513 1462,2513 1462,340"/>
+            <TextEquiv>
+                <Unicode>Cedric lebte noch ſo lange, die Anyäherung dieſer Vereinigung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="1449,339 1449,2513 1539,2513 1539,339"/>
+            <TextEquiv>
+                <Unicode>zu bemerken; allein erſt unter der Regierung Eduards des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="1532,339 1532,2513 1626,2513 1626,339"/>
+            <TextEquiv>
+                <Unicode>Dritten wurde die vermiſchte Sprache, die ietzt Engliſch heißt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="1619,340 1619,2513 1716,2513 1716,340"/>
+            <TextEquiv>
+                <Unicode>am Hofe zu London geſprochen, ſo wie auch erſt von der Zeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="1709,339 1709,2513 1828,2513 1828,339"/>
+            <TextEquiv>
+                <Unicode>an der feindliche Unterſchied zwiſchen Normannen und Sachſen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="1802,363 1802,1546 1879,1546 1879,363"/>
+            <TextEquiv>
+                <Unicode>gänzlich verſchwunden zu ſein ſcheint.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="1861,449 1861,2511 1981,2511 1981,449"/>
+            <TextEquiv>
+                <Unicode>Am zweiten Morgen nach ihrem Hochzeitstage wurde der Lady</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="1971,336 1971,2513 2050,2513 2050,336"/>
+            <TextEquiv>
+                <Unicode>Rowena von ihrer Zofe Elgitha gemeldet, daßein junges Mädchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="2061,344 2061,2316 2137,2316 2137,344"/>
+            <TextEquiv>
+                <Unicode>da ſei, welches mit ihr ohne Zeugen zu ſprechen wüuſche. Rowena</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="2147,345 2147,2317 2224,2317 2224,345"/>
+            <TextEquiv>
+                <Unicode>wunderte ſich darüber, wurde aber neugierig, ließt das Mäd-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="2234,343 2234,2321 2314,2321 2314,343"/>
+            <TextEquiv>
+                <Unicode>chen hereinkommen und befahl ihren Leuten, ſich zu entfernen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="2322,394 2322,2326 2395,2326 2395,394"/>
+            <TextEquiv>
+                <Unicode>Die Fremde trat ein - eine edle, impoſante Geſtalt. Der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="2410,342 2410,2327 2487,2327 2487,342"/>
+            <TextEquiv>
+                <Unicode>lange weiße Schleier, der ſie umſloß, beſchattete mehr die An-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="2496,341 2496,2328 2575,2328 2575,341"/>
+            <TextEquiv>
+                <Unicode>muth und Majeſtät ihres Weſens, als daß er ſie verhüllte. Ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="2581,341 2581,2323 2659,2323 2659,341"/>
+            <TextEquiv>
+                <Unicode>Benehmen war höchſt achtungsvoll, doch ohne den mindeſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="2669,281 2669,2325 2748,2325 2748,281"/>
+            <TextEquiv>
+                <Unicode>Schatten von Furcht, oder das Beſtreben, ſich Rowena&#39;s Gunſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="2754,342 2754,2325 2837,2325 2837,342"/>
+            <TextEquiv>
+                <Unicode>zu erwerben. Rowena war ſtets bereit, fremde Anſprüche an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="2842,342 2842,2325 2923,2325 2923,342"/>
+            <TextEquiv>
+                <Unicode>zuerkennen und fremde Gefühle zu theilen. Sie ſtand auf, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="2930,345 2930,2328 3012,2328 3012,345"/>
+            <TextEquiv>
+                <Unicode>würde ſogleich die liebenswürdige Fremde zu einem Sitze ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="3015,345 3015,2326 3091,2326 3091,345"/>
+            <TextEquiv>
+                <Unicode>ſührt haben, allein ſie ſah Elgitha an, nnd änßerte abermals</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="3098,345 3098,2503 3189,2503 3189,345"/>
+            <TextEquiv>
+                <Unicode>den Wunſch, mit Lady Rowena allein zn reden. Elgitha war</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>194
+Wamba trug an dieſem Tage eine neue Kappe und einen un-
+geheuren Schmuck von ſilbernen Glöckchen. So wie ſie Wil-
+freds Unglück und Gefahren redlich getheilt hatten, blieben ſie
+auch im Gllück ſeine Theilnehmer und Gefährten.
+Außer dieſem Dienergefolge wurde dieſe Hochzeit auch ver-
+herrlicht durch den Beſuch vornehmer Normänner und Sachſen,
+die den allgemeinen Iubel der niedern Stände theilten, welche
+in dieſer Verbindung ein Pfand künftigen Friedens zwiſchen
+zwei Geſchlechtern erblickten, die ſich ſeit der Zeit ſo vollkom-
+men vermiſcht haben, daß ſich kein Unterſchied mehr erkennen läßt.
+Cedric lebte noch ſo lange, die Anyäherung dieſer Vereinigung
+zu bemerken; allein erſt unter der Regierung Eduards des
+Dritten wurde die vermiſchte Sprache, die ietzt Engliſch heißt,
+am Hofe zu London geſprochen, ſo wie auch erſt von der Zeit
+an der feindliche Unterſchied zwiſchen Normannen und Sachſen
+gänzlich verſchwunden zu ſein ſcheint.
+Am zweiten Morgen nach ihrem Hochzeitstage wurde der Lady
+Rowena von ihrer Zofe Elgitha gemeldet, daßein junges Mädchen
+da ſei, welches mit ihr ohne Zeugen zu ſprechen wüuſche. Rowena
+wunderte ſich darüber, wurde aber neugierig, ließt das Mäd-
+chen hereinkommen und befahl ihren Leuten, ſich zu entfernen.
+Die Fremde trat ein - eine edle, impoſante Geſtalt. Der
+lange weiße Schleier, der ſie umſloß, beſchattete mehr die An-
+muth und Majeſtät ihres Weſens, als daß er ſie verhüllte. Ihr
+Benehmen war höchſt achtungsvoll, doch ohne den mindeſten
+Schatten von Furcht, oder das Beſtreben, ſich Rowena&#39;s Gunſt
+zu erwerben. Rowena war ſtets bereit, fremde Anſprüche an-
+zuerkennen und fremde Gefühle zu theilen. Sie ſtand auf, und
+würde ſogleich die liebenswürdige Fremde zu einem Sitze ge-
+ſührt haben, allein ſie ſah Elgitha an, nnd änßerte abermals
+den Wunſch, mit Lady Rowena allein zn reden. Elgitha war</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

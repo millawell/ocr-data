@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4088" imageWidth="2296">
+    <PrintSpace>
+        <Coords points="0,0 0,2296 4088,2296 4088,2296"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2296 4088,2296 4088,2296"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="384,303 384,462 494,462 494,303"/>
+            <TextEquiv>
+                <Unicode>324</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="382,823 382,1625 537,1625 537,823"/>
+            <TextEquiv>
+                <Unicode>THE ANTIQUARY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="578,263 578,2150 714,2150 714,263"/>
+            <TextEquiv>
+                <Unicode>religion holds most holy, tell me, reve-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="726,267 726,2152 853,2152 853,267"/>
+            <TextEquiv>
+                <Unicode>rend father, what I am to expect from a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="845,272 845,2162 967,2162 967,272"/>
+            <TextEquiv>
+                <Unicode>communication, opened by a token con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="982,270 982,2160 1084,2160 1084,270"/>
+            <TextEquiv>
+                <Unicode>nected with such horrible recollections?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1107,353 1107,2151 1225,2151 1225,353"/>
+            <TextEquiv>
+                <Unicode>The old man, appalled by a manner so</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1236,264 1236,2158 1351,2158 1351,264"/>
+            <TextEquiv>
+                <Unicode>different from what he had expected from</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1364,275 1364,2161 1481,2161 1481,275"/>
+            <TextEquiv>
+                <Unicode>the proud and powerful nobleman, was at</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1498,277 1498,2163 1602,2163 1602,277"/>
+            <TextEquiv>
+                <Unicode>a loss how to answer, and in what manner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1624,281 1624,2161 1749,2161 1749,281"/>
+            <TextEquiv>
+                <Unicode>to undeceive him - &#34;Tell me&#34;, continued</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1740,279 1740,2162 1876,2162 1876,279"/>
+            <TextEquiv>
+                <Unicode>the Earl, in a tone of increasing trepida-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1873,283 1873,2163 2004,2163 2004,283"/>
+            <TextEquiv>
+                <Unicode>tion and agony - &#34;tell me, do you come</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1995,283 1995,2167 2120,2167 2120,283"/>
+            <TextEquiv>
+                <Unicode>to say, that all that has been done to ex-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2129,285 2129,2167 2260,2167 2260,285"/>
+            <TextEquiv>
+                <Unicode>piate guilt so horrible, has been too little</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2266,284 2266,2187 2387,2187 2387,284"/>
+            <TextEquiv>
+                <Unicode>and too trivial for the offence, and to point</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2395,289 2395,2171 2481,2171 2481,289"/>
+            <TextEquiv>
+                <Unicode>out new and more efficacious modes of se-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2512,266 2512,2168 2635,2168 2635,266"/>
+            <TextEquiv>
+                <Unicode>vere penance? - I will not blench from it,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2652,291 2652,2171 2764,2171 2764,291"/>
+            <TextEquiv>
+                <Unicode>father - let me suffer the pains of my</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2771,293 2771,2173 2916,2173 2916,293"/>
+            <TextEquiv>
+                <Unicode>crime here in the body, rather than here-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2909,240 2909,1339 3020,1339 3020,240"/>
+            <TextEquiv>
+                <Unicode>after in the spirit!&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3034,303 3034,2171 3149,2171 3149,303"/>
+            <TextEquiv>
+                <Unicode>Edie had now recollection enough to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3164,298 3164,2169 3275,2169 3275,298"/>
+            <TextEquiv>
+                <Unicode>perceive, that if he did not interrupt the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3293,297 3293,2162 3417,2162 3417,297"/>
+            <TextEquiv>
+                <Unicode>frankness of Lord Glenallan&#39;s admissions,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3409,299 3409,2179 3529,2179 3529,299"/>
+            <TextEquiv>
+                <Unicode>he was likely to become the confidant of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3546,301 3546,2173 3659,2173 3659,301"/>
+            <TextEquiv>
+                <Unicode>more than might be safe for him to know.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>324
+THE ANTIQUARY.
+religion holds most holy, tell me, reve-
+rend father, what I am to expect from a
+communication, opened by a token con-
+nected with such horrible recollections?&#34;
+The old man, appalled by a manner so
+different from what he had expected from
+the proud and powerful nobleman, was at
+a loss how to answer, and in what manner
+to undeceive him - &#34;Tell me&#34;, continued
+the Earl, in a tone of increasing trepida-
+tion and agony - &#34;tell me, do you come
+to say, that all that has been done to ex-
+piate guilt so horrible, has been too little
+and too trivial for the offence, and to point
+out new and more efficacious modes of se-
+vere penance? - I will not blench from it,
+father - let me suffer the pains of my
+crime here in the body, rather than here-
+after in the spirit!&#34;
+Edie had now recollection enough to
+perceive, that if he did not interrupt the
+frankness of Lord Glenallan&#39;s admissions,
+he was likely to become the confidant of
+more than might be safe for him to know.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4094" imageWidth="2308">
+    <PrintSpace>
+        <Coords points="0,0 0,2308 4094,2308 4094,2308"/>
+    </PrintSpace>
+    <TextRegion id="textblock_1">
+        <Coords points="0,0 0,2308 4094,2308 4094,2308"/>
+        
+            <TextLine id="textline_26">
+        
+            <Coords points="348,347 348,687 466,687 466,347"/>
+            <TextEquiv>
+                <Unicode>62</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="323,769 323,1658 443,1658 443,769"/>
+            <TextEquiv>
+                <Unicode>THE ANTIQUARY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="527,298 527,2303 675,2303 675,298"/>
+            <TextEquiv>
+                <Unicode>added to their national inrerest in his be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="666,302 666,2302 789,2302 789,302"/>
+            <TextEquiv>
+                <Unicode>half. A travelling friar, they said, that is</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="795,251 795,2206 933,2206 933,251"/>
+            <TextEquiv>
+                <Unicode>here to-day and away to-morrow, may say</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="921,302 921,2302 1043,2302 1043,302"/>
+            <TextEquiv>
+                <Unicode>what he pleases, but it is we, the ancient</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="1053,305 1053,2260 1175,2260 1175,305"/>
+            <TextEquiv>
+                <Unicode>and constant inhabitants of the country,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="1178,221 1178,2305 1311,2305 1311,221"/>
+            <TextEquiv>
+                <Unicode>that are left at the mercy of the insulted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="1295,301 1295,2331 1437,2331 1437,301"/>
+            <TextEquiv>
+                <Unicode>daemon, and must, of course, pay for al</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="1433,302 1433,2292 1567,2292 1567,302"/>
+            <TextEquiv>
+                <Unicode>Under the irritation occasioned by these</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="1557,302 1557,2300 1692,2300 1692,302"/>
+            <TextEquiv>
+                <Unicode>reflections, the peasants from injurious</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="1693,302 1693,2214 1827,2214 1827,302"/>
+            <TextEquiv>
+                <Unicode>language betook themselves to stones, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="1817,298 1817,2298 1954,2298 1954,298"/>
+            <TextEquiv>
+                <Unicode>having pebbled the priest pretty hand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="1943,221 1943,2179 2079,2179 2079,221"/>
+            <TextEquiv>
+                <Unicode>somely, they dreve him owut of tle parish</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2069,300 2069,2204 2202,2204 2202,300"/>
+            <TextEquiv>
+                <Unicode>to preach against dmons elsewhere.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2187,396 2187,2204 2321,2204 2321,396"/>
+            <TextEquiv>
+                <Unicode>Three young men, who had been pre-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2334,222 2334,2292 2463,2292 2463,222"/>
+            <TextEquiv>
+                <Unicode>sent and assisting upon this occasion,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2452,226 2452,2306 2588,2306 2588,226"/>
+            <TextEquiv>
+                <Unicode>were upon their return to the hut, where</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2588,296 2588,2218 2717,2218 2717,296"/>
+            <TextEquiv>
+                <Unicode>they carried on the laborious and mean</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="2713,292 2713,2302 2846,2302 2846,292"/>
+            <TextEquiv>
+                <Unicode>occupation of preparing charcoal  for the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="2835,292 2835,2303 2974,2303 2974,292"/>
+            <TextEquiv>
+                <Unicode>smelting furnaces. On the way, their con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="2970,289 2970,2307 3099,2307 3099,289"/>
+            <TextEquiv>
+                <Unicode>versation naturally turned upon the, de</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3089,290 3089,2165 3228,2165 3228,290"/>
+            <TextEquiv>
+                <Unicode>mon of the Harz and the doctrine of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3217,225 3217,2334 3355,2334 3355,225"/>
+            <TextEquiv>
+                <Unicode>capuchin. Max and George Waldeck, the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3345,286 3345,2311 3484,2311 3484,286"/>
+            <TextEquiv>
+                <Unicode>two elder brohers, although they allowed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3471,287 3471,2309 3629,2309 3629,287"/>
+            <TextEquiv>
+                <Unicode>the language of the capichin to have</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>62
+THE ANTIQUARY.
+added to their national inrerest in his be-
+half. A travelling friar, they said, that is
+here to-day and away to-morrow, may say
+what he pleases, but it is we, the ancient
+and constant inhabitants of the country,
+that are left at the mercy of the insulted
+daemon, and must, of course, pay for al
+Under the irritation occasioned by these
+reflections, the peasants from injurious
+language betook themselves to stones, and
+having pebbled the priest pretty hand
+somely, they dreve him owut of tle parish
+to preach against dmons elsewhere.
+Three young men, who had been pre-
+sent and assisting upon this occasion,
+were upon their return to the hut, where
+they carried on the laborious and mean
+occupation of preparing charcoal  for the
+smelting furnaces. On the way, their con-
+versation naturally turned upon the, de
+mon of the Harz and the doctrine of the
+capuchin. Max and George Waldeck, the
+two elder brohers, although they allowed
+the language of the capichin to have</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+<Page imageFilename="pixel" imageHeight="4086" imageWidth="2272">
+    <PrintSpace>
+        <Coords points="0,0 0,2272 4086,2272 4086,2272"/>
+    </PrintSpace>
+    <TextRegion id="textblock_2">
+        <Coords points="0,0 0,2272 4086,2272 4086,2272"/>
+        
+            <TextLine id="textline_52">
+        
+            <Coords points="331,244 331,1566 472,1566 472,244"/>
+            <TextEquiv>
+                <Unicode>164 THE ANTIQUARY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="540,231 540,2113 666,2113 666,231"/>
+            <TextEquiv>
+                <Unicode>the faith of a desperate and ruined man,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="657,230 657,2131 801,2131 801,230"/>
+            <TextEquiv>
+                <Unicode>I&#39;ll send you where you shall see spirits</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="774,200 774,776 908,776 908,200"/>
+            <TextEquiv>
+                <Unicode>enough.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="923,335 923,2123 1037,2123 1037,335"/>
+            <TextEquiv>
+                <Unicode>The treasure-fnder, trembling between</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="1050,235 1050,2111 1175,2111 1175,235"/>
+            <TextEquiv>
+                <Unicode>his terror for the supernatural beings by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="1167,237 1167,2113 1290,2113 1290,237"/>
+            <TextEquiv>
+                <Unicode>whom he supposed himself to be surround-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="1304,231 1304,2126 1406,2126 1406,231"/>
+            <TextEquiv>
+                <Unicode>ed, and for his life, which seemed to be at</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="1434,240 1434,2113 1556,2113 1556,240"/>
+            <TextEquiv>
+                <Unicode>the mercy of a desperate man, could only</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="1564,222 1564,2177 1686,2177 1686,222"/>
+            <TextEquiv>
+                <Unicode>bring out, &#34;Mine patron, this is not the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="1687,243 1687,2129 1832,2129 1832,243"/>
+            <TextEquiv>
+                <Unicode>allerbestmost usage. Consider, mine ho-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="1820,245 1820,1871 1934,1871 1934,245"/>
+            <TextEquiv>
+                <Unicode>oured sir, that de spirits&#34; --</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="1931,266 1931,2139 2073,2139 2073,266"/>
+            <TextEquiv>
+                <Unicode>Here Edie, who began to enter into the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="2068,245 2068,2121 2202,2121 2202,245"/>
+            <TextEquiv>
+                <Unicode>humour of the scene, uttered an extraor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="2190,226 2190,2288 2328,2288 2328,226"/>
+            <TextEquiv>
+                <Unicode>inary howl, being an exaltation and a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="2318,247 2318,2296 2456,2296 2456,247"/>
+            <TextEquiv>
+                <Unicode>prolongation of the most deplorable whine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="2446,251 2446,2131 2584,2131 2584,251"/>
+            <TextEquiv>
+                <Unicode>in which he was accustomed to solicit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="2575,225 2575,2132 2713,2132 2713,225"/>
+            <TextEquiv>
+                <Unicode>charity- Dousterswivel flung himself on</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="2699,255 2699,2139 2857,2139 2857,255"/>
+            <TextEquiv>
+                <Unicode>his knees, &#34;Dear Sir Arthurs, let us go, or</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="2821,287 2821,819 2953,819 2953,287"/>
+            <TextEquiv>
+                <Unicode>let me go!&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="2947,278 2947,2136 3096,2136 3096,278"/>
+            <TextEquiv>
+                <Unicode>&#34;No, you cheating sondrel,&#34; said the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="3085,257 3085,2296 3226,2296 3226,257"/>
+            <TextEquiv>
+                <Unicode>knight, unsheatbing the sword which he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="3218,262 3218,2129 3340,2129 3340,262"/>
+            <TextEquiv>
+                <Unicode>had brought for the purposes of the exor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="3345,234 3345,2152 3480,2152 3480,234"/>
+            <TextEquiv>
+                <Unicode>cism, &#34;that shift will not serve  you -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="3470,267 3470,2129 3629,2129 3629,267"/>
+            <TextEquiv>
+                <Unicode>Monkbarns warhned me long since of your</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>164 THE ANTIQUARY.
+the faith of a desperate and ruined man,
+I&#39;ll send you where you shall see spirits
+enough.&#34;
+The treasure-fnder, trembling between
+his terror for the supernatural beings by
+whom he supposed himself to be surround-
+ed, and for his life, which seemed to be at
+the mercy of a desperate man, could only
+bring out, &#34;Mine patron, this is not the
+allerbestmost usage. Consider, mine ho-
+oured sir, that de spirits&#34; --
+Here Edie, who began to enter into the
+humour of the scene, uttered an extraor-
+inary howl, being an exaltation and a
+prolongation of the most deplorable whine
+in which he was accustomed to solicit
+charity- Dousterswivel flung himself on
+his knees, &#34;Dear Sir Arthurs, let us go, or
+let me go!&#34;
+&#34;No, you cheating sondrel,&#34; said the
+knight, unsheatbing the sword which he
+had brought for the purposes of the exor-
+cism, &#34;that shift will not serve  you -
+Monkbarns warhned me long since of your</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

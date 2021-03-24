@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="8070" imageWidth="4360">
+    <PrintSpace>
+        <Coords points="0,0 0,4360 8070,4360 8070,4360"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,4360 8070,4360 8070,4360"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="753,969 753,3034 853,3034 853,969"/>
+            <TextEquiv>
+                <Unicode>CHAP. IV. THE DEJEUNER.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="721,3513 721,3685 858,3685 858,3513"/>
+            <TextEquiv>
+                <Unicode>65</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="1082,209 1082,3750 1278,3750 1278,209"/>
+            <TextEquiv>
+                <Unicode>the old man; &#34;but I was about to say, since you</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="1291,204 1291,3757 1515,3757 1515,204"/>
+            <TextEquiv>
+                <Unicode>like your present meal so well, that the Scottish</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1555,200 1555,3757 1743,3757 1743,200"/>
+            <TextEquiv>
+                <Unicode>archers of the guard eat as good a one, or a bet-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1792,254 1792,1413 1976,1413 1976,254"/>
+            <TextEquiv>
+                <Unicode>ter, every day.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="2018,386 2018,3755 2226,3755 2226,386"/>
+            <TextEquiv>
+                <Unicode>&#34;No wonder,&#39;&#39; said Durward, &#34;for if they</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="2270,192 2270,3754 2453,3754 2453,192"/>
+            <TextEquiv>
+                <Unicode>are shut up in the sallows&#34; nests all night, they</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="2507,188 2507,3758 2691,3758 2691,188"/>
+            <TextEquiv>
+                <Unicode>must needs have a curious appetite in the morn-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="2747,256 2747,609 2931,609 2931,256"/>
+            <TextEquiv>
+                <Unicode>ing.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2985,361 2985,3987 3173,3987 3173,361"/>
+            <TextEquiv>
+                <Unicode>&#34;And plenty to gratify it upon,&#34; said Maitre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="3227,183 3227,3747 3413,3747 3413,183"/>
+            <TextEquiv>
+                <Unicode>Pierre. &#34;They need not, like the Burgundians,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="3467,93 3467,3757 3655,3757 3655,93"/>
+            <TextEquiv>
+                <Unicode>choose a bare back, that they may have a full</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="3710,177 3710,3755 3891,3755 3891,177"/>
+            <TextEquiv>
+                <Unicode>belly - they dress like counts, and feast like ab-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="3951,251 3951,671 4085,671 4085,251"/>
+            <TextEquiv>
+                <Unicode>bots.&#34;&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="4187,366 4187,3141 4366,3141 4366,366"/>
+            <TextEquiv>
+                <Unicode>&#34;It is well for them,&#34; said Durward.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="4432,352 4432,3741 4620,3741 4620,352"/>
+            <TextEquiv>
+                <Unicode>&#34;And wherefore will you not take service</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="4658,167 4658,3746 4859,3746 4859,167"/>
+            <TextEquiv>
+                <Unicode>here, young man? Your uncle might, I dare</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="4907,165 4907,3743 5093,3743 5093,165"/>
+            <TextEquiv>
+                <Unicode>say, have you placed on the file when there should</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="5145,165 5145,3743 5335,3743 5335,165"/>
+            <TextEquiv>
+                <Unicode>a vacancy occur. And, hark inyour ear, I my-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="5387,171 5387,3741 5573,3741 5573,171"/>
+            <TextEquiv>
+                <Unicode>elf have some little interest, and might be of some</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="5625,160 5625,3736 5810,3736 5810,160"/>
+            <TextEquiv>
+                <Unicode>use to you. You can ride, I presume, as well as</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="5866,222 5866,1421 6003,1421 6003,222"/>
+            <TextEquiv>
+                <Unicode>draw the bow?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="6109,343 6109,3726 6293,3726 6293,343"/>
+            <TextEquiv>
+                <Unicode>&#34;Our race are as good horsemcn as ever put a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="6342,160 6342,3734 6538,3734 6538,160"/>
+            <TextEquiv>
+                <Unicode>plated shoe into a steel stirrup; and I know not</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="6615,417 6615,912 6709,912 6709,417"/>
+            <TextEquiv>
+                <Unicode>VOL. I.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>CHAP. IV. THE DEJEUNER.
+65
+the old man; &#34;but I was about to say, since you
+like your present meal so well, that the Scottish
+archers of the guard eat as good a one, or a bet-
+ter, every day.&#34;
+&#34;No wonder,&#39;&#39; said Durward, &#34;for if they
+are shut up in the sallows&#34; nests all night, they
+must needs have a curious appetite in the morn-
+ing.&#34;
+&#34;And plenty to gratify it upon,&#34; said Maitre
+Pierre. &#34;They need not, like the Burgundians,
+choose a bare back, that they may have a full
+belly - they dress like counts, and feast like ab-
+bots.&#34;&#34;
+&#34;It is well for them,&#34; said Durward.
+&#34;And wherefore will you not take service
+here, young man? Your uncle might, I dare
+say, have you placed on the file when there should
+a vacancy occur. And, hark inyour ear, I my-
+elf have some little interest, and might be of some
+use to you. You can ride, I presume, as well as
+draw the bow?&#34;
+&#34;Our race are as good horsemcn as ever put a
+plated shoe into a steel stirrup; and I know not
+VOL. I.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

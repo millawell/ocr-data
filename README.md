@@ -1,44 +1,22 @@
 # ocr-data
+This repository consists of 
 
-In order to create the dataset, the two following python programs have to be executed:
+* a ground truth OCR data set for historical prints from around 1830. 
+* a framework to create and share your own ground truth OCR data sets if you don't own the copyright for the images used. 
 
--split_pdfs.py
--process_hocr.py 
+## How to get the ground truth OCR data set?
+The data set can be found in the `data` directory and consists of a *.mets file for each of the pdfs that were used for transcription and a directory `data/page_transcriptions` that contains the transcriptions of the ground truth in PAGEXML format.
+The PDFs are not hosted here, but have to be retrieved from the respective institutions and can then be combined with the transcriptions found here. To compile the data set, please
 
+* download all PDFs listed in the `*.mets` files into the `data/pdf_renamed/` directory and rename them ${identifier}.pdf
+* change to the `pipelines` directory and run the `make` command
 
-The split_pdfs.py script takes a PDF file as input and outputs single predefined pages of the PDF as PNG images. In addition the script deletes automaticall generated watermark images.
-Input:
-    --pdf_path      : path to the PDF file
-    --pagenr_list   : list of pages to extract
-    --out_dir       : path to the directory to save PNGs of single pages
+## How to create your own ground truth OCR data set?
 
-Example usage:
-python3 split_pdfs.py \
-    --pdf_path split/de_wood.pdf \
-    --pagenr_list [24,51,63] \
-    --out_dir ./transcriptions/de_wood/test2/
+* Collect a set of PDFs from Google Books or the Internet Archive and select a set of Pages that you would like to transcribe
+* transcribe the text on the images for each pdf individually with the `ketos transcribe` framework found here http://kraken.re/ketos.html (Kiessling 2019) and store the resulting `*.html` a directory named after the pdfs identifier within the `data/transcriptions` directory.
+* Now, you can run the `python create_xml_files.py` for each of the pdfs which will output a data set similar to the one from our case study in this repository and other scholars who would like  to use your data set can reproduce it without you having to publish the Google Books PDF yourself. 
 
+___
 
-The process_hocr.py uses the precomputed PNG images and an hocr file to create small image/text snippets containing only a single line.
-Input:
-    --hocr_path     : path to the HOCR file
-    --pagenr_list   : list of pages to process (image names of the processing PNGs)
-    --in_dir        : path to directory of saved PNGs of single pages
-    --out_dir       : path to directory to save pairs of line-image snippet and line-text snippet
-
-
-Example usage:
-python3 process_hocr.py \
-    --hocr_path ./transcriptions/de_wood/de_wood.hocr \
-    --pagenr_list [24,51,63] \
-    --in_dir ./transcriptions/de_wood/test2/ \
-    --out_dir ./transcriptions/de_wood/test3/
-
-    
-    
-    
-Python libary requirements: 
-import click
-import subprocess
-from PIL import Image
-from lxml import etree
+Kiessling, Benjamin. “Kraken - an Universal Text Recognizer for the Humanities.” DH Conference Proceedings, vol. 30, 2019.
