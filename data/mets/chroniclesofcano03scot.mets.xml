@@ -19,10 +19,10 @@
     <mets:fileSec>
         <mets:fileGrp USE="IMG">
             <mets:file ID="pdf_chroniclesofcano03scot_91" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=chroniclesofcano03scot#page=91"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/chroniclesofcano03scot#page=91"/>
             </mets:file>
             <mets:file ID="pdf_chroniclesofcano03scot_328" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=chroniclesofcano03scot#page=328"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/chroniclesofcano03scot#page=328"/>
             </mets:file>
         </mets:fileGrp>
 		<mets:fileGrp USE="GT">

@@ -19,7 +19,7 @@
     <mets:fileSec>
         <mets:fileGrp USE="IMG">
             <mets:file ID="pdf_quentindurward01scotuoft_139" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=quentindurward01scotuoft#page=139"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/quentindurward01scotuoft#page=139"/>
             </mets:file>
         </mets:fileGrp>
 		<mets:fileGrp USE="GT">

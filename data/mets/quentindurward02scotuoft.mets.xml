@@ -19,10 +19,10 @@
     <mets:fileSec>
         <mets:fileGrp USE="IMG">
             <mets:file ID="pdf_quentindurward02scotuoft_143" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=quentindurward02scotuoft#page=143"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/quentindurward02scotuoft#page=143"/>
             </mets:file>
             <mets:file ID="pdf_quentindurward02scotuoft_330" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=quentindurward02scotuoft#page=330"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/quentindurward02scotuoft#page=330"/>
             </mets:file>
         </mets:fileGrp>
 		<mets:fileGrp USE="GT">

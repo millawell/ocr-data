@@ -19,7 +19,7 @@
     <mets:fileSec>
         <mets:fileGrp USE="IMG">
             <mets:file ID="pdf_anneofgeierstein03scot_77" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=anneofgeierstein03scot#page=77"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/anneofgeierstein03scot#page=77"/>
             </mets:file>
         </mets:fileGrp>
 		<mets:fileGrp USE="GT">
