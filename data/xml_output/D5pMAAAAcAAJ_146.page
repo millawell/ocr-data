@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3030" imageWidth="2026">
+    <PrintSpace>
+        <Coords points="0,0 0,2026 3030,2026 3030,2026"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2026 3030,2026 3030,2026"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="117,975 117,1173 198,1173 198,975"/>
+            <TextEquiv>
+                <Unicode>145</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="237,187 237,1886 339,1886 339,187"/>
+            <TextEquiv>
+                <Unicode>mindeſtens hoffen ließ, einen Schimmer von Licht auf das-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="312,220 312,661 387,661 387,220"/>
+            <TextEquiv>
+                <Unicode>ſelbe zu werfen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="362,299 362,1882 460,1882 460,299"/>
+            <TextEquiv>
+                <Unicode>Beharrlich in dieſem Vorſatze ſchritt er, Wacht haltend,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="452,188 452,1885 532,1885 532,188"/>
+            <TextEquiv>
+                <Unicode>auf und ab, die Blicke auf den Punkt des Waldes geheftet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="524,130 524,1887 600,1887 600,130"/>
+            <TextEquiv>
+                <Unicode>wo er die geliebte Geſtalt hatte verſchwinden ſehen, wobei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="595,189 595,1887 672,1887 672,189"/>
+            <TextEquiv>
+                <Unicode>er für den Augenblick vergaß, daß ſein Poſten noch andere</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="665,150 665,1980 744,1980 744,150"/>
+            <TextEquiv>
+                <Unicode>Zwecke hätte, als den, die Rückkehr der Erſcheinnng zu er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="738,193 738,1957 813,1957 813,193"/>
+            <TextEquiv>
+                <Unicode>warten. Allein aus dieſer Abſonderung ſeines Geiſtes ward</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="808,193 808,1888 882,1888 882,193"/>
+            <TextEquiv>
+                <Unicode>er bald durch einen fernen Ton im Walde aufgeſchreckt, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="879,189 879,1888 956,1888 956,189"/>
+            <TextEquiv>
+                <Unicode>wie Waffengeklirr erklang. Plötzlich zum Bedenken ſeiner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="950,188 950,1889 1026,1889 1026,188"/>
+            <TextEquiv>
+                <Unicode>Pflicht zurückgeführt, einer Pflicht, die für ſeinen Vater und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1019,187 1019,1889 1097,1889 1097,187"/>
+            <TextEquiv>
+                <Unicode>ſeine Reiſegenoſſen wichtig war, ſtellte Arthur ſich auf die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1092,188 1092,1889 1166,1889 1166,188"/>
+            <TextEquiv>
+                <Unicode>Rothbrücke, wo ſich&#39;s am beſten Halt machen ließ, und wen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1162,187 1162,1998 1240,1998 1240,187"/>
+            <TextEquiv>
+                <Unicode>dete Augen und Ohren nach der Gegend, von wannen Ge</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1233,189 1233,1889 1311,1889 1311,189"/>
+            <TextEquiv>
+                <Unicode>fahr fich nahen möchte. Das Geklirr kam näher, Fußtritte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1306,189 1306,1889 1381,1889 1381,189"/>
+            <TextEquiv>
+                <Unicode>wurden hörbar - Speere und Helme wurden am grünen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1375,164 1375,1889 1446,1889 1446,164"/>
+            <TextEquiv>
+                <Unicode>Waldende ſichtbar und blinkten im Mondlicht. Allein die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1447,191 1447,1888 1523,1888 1523,191"/>
+            <TextEquiv>
+                <Unicode>ſtattliche Geſtalt Rudolphs vom Donnerhügel, der an der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1519,192 1519,2005 1595,2005 1595,192"/>
+            <TextEquiv>
+                <Unicode>Spitze der Schaar ſchritt, ward bald kenntlich, und verkün-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1590,164 1590,2022 1662,2022 1662,164"/>
+            <TextEquiv>
+                <Unicode>dete unſerer Schildwacht die Heimkehr der Wachrunde. Bei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1662,194 1662,1887 1736,1887 1736,194"/>
+            <TextEquiv>
+                <Unicode>deren Annäherung ward der Feldruf gewechſelt und Zeichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1733,192 1733,1885 1808,1885 1808,192"/>
+            <TextEquiv>
+                <Unicode>und Gegenzeichen gehörig gegeben, wie es bei dergleichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1803,194 1803,1886 1879,1886 1879,194"/>
+            <TextEquiv>
+                <Unicode>Gelegenheit üblich iſt; und als Rudolphs Begleiter einzeln</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1873,196 1873,1886 1950,1886 1950,196"/>
+            <TextEquiv>
+                <Unicode>in das Schloß einzogen, erhielten ſie Befehl, ihre Kamera-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1943,192 1943,1886 2021,1886 2021,192"/>
+            <TextEquiv>
+                <Unicode>den zu wecken, mit denen er die Runde auf&#39;s neue zu machen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2016,197 2016,1885 2092,1885 2092,197"/>
+            <TextEquiv>
+                <Unicode>gedächte; auch zugleich Arthur Philipſon ablöſen zu laſſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2086,195 2086,1887 2162,1887 2162,195"/>
+            <TextEquiv>
+                <Unicode>deſſen Wachtdienſt auf der Brücke ein Ende hätte. Dieſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2157,192 2157,1991 2236,1991 2236,192"/>
+            <TextEquiv>
+                <Unicode>lezte Umſtand ward durch den dumpfen und fernen Hall der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2228,196 2228,1989 2305,1989 2305,196"/>
+            <TextEquiv>
+                <Unicode>Münſterglocke in der Stadt Baſel beſtätigt, die, ihren düſtern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2299,198 2299,1884 2393,1884 2393,198"/>
+            <TextEquiv>
+                <Unicode>Sang weit über Forſt und Feld verſendend, ankündigte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2371,218 2371,1066 2446,1066 2446,218"/>
+            <TextEquiv>
+                <Unicode>daß Mitternacht vorüber war.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2422,311 2422,1884 2517,1884 2517,311"/>
+            <TextEquiv>
+                <Unicode>„Und nun, Kamerad,“ fuhr Rudolph zu dem Engländer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2509,202 2509,1884 2587,1884 2587,202"/>
+            <TextEquiv>
+                <Unicode>fort, „haben Nachtluft und langes Wachthalten Dich beftimmt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2577,204 2577,1886 2659,1886 2659,204"/>
+            <TextEquiv>
+                <Unicode>zu Speiſe und Schlaf zurückzukehren, oder blieb Dir noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2653,225 2653,1096 2729,1096 2729,225"/>
+            <TextEquiv>
+                <Unicode>Luſt, die Runde mitzumachen?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>145
+mindeſtens hoffen ließ, einen Schimmer von Licht auf das-
+ſelbe zu werfen.
+Beharrlich in dieſem Vorſatze ſchritt er, Wacht haltend,
+auf und ab, die Blicke auf den Punkt des Waldes geheftet,
+wo er die geliebte Geſtalt hatte verſchwinden ſehen, wobei
+er für den Augenblick vergaß, daß ſein Poſten noch andere
+Zwecke hätte, als den, die Rückkehr der Erſcheinnng zu er-
+warten. Allein aus dieſer Abſonderung ſeines Geiſtes ward
+er bald durch einen fernen Ton im Walde aufgeſchreckt, der
+wie Waffengeklirr erklang. Plötzlich zum Bedenken ſeiner
+Pflicht zurückgeführt, einer Pflicht, die für ſeinen Vater und
+ſeine Reiſegenoſſen wichtig war, ſtellte Arthur ſich auf die
+Rothbrücke, wo ſich&#39;s am beſten Halt machen ließ, und wen-
+dete Augen und Ohren nach der Gegend, von wannen Ge
+fahr fich nahen möchte. Das Geklirr kam näher, Fußtritte
+wurden hörbar - Speere und Helme wurden am grünen
+Waldende ſichtbar und blinkten im Mondlicht. Allein die
+ſtattliche Geſtalt Rudolphs vom Donnerhügel, der an der
+Spitze der Schaar ſchritt, ward bald kenntlich, und verkün-
+dete unſerer Schildwacht die Heimkehr der Wachrunde. Bei
+deren Annäherung ward der Feldruf gewechſelt und Zeichen
+und Gegenzeichen gehörig gegeben, wie es bei dergleichen
+Gelegenheit üblich iſt; und als Rudolphs Begleiter einzeln
+in das Schloß einzogen, erhielten ſie Befehl, ihre Kamera-
+den zu wecken, mit denen er die Runde auf&#39;s neue zu machen
+gedächte; auch zugleich Arthur Philipſon ablöſen zu laſſen,
+deſſen Wachtdienſt auf der Brücke ein Ende hätte. Dieſer
+lezte Umſtand ward durch den dumpfen und fernen Hall der
+Münſterglocke in der Stadt Baſel beſtätigt, die, ihren düſtern
+Sang weit über Forſt und Feld verſendend, ankündigte
+daß Mitternacht vorüber war.
+„Und nun, Kamerad,“ fuhr Rudolph zu dem Engländer
+fort, „haben Nachtluft und langes Wachthalten Dich beftimmt,
+zu Speiſe und Schlaf zurückzukehren, oder blieb Dir noch
+Luſt, die Runde mitzumachen?“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4718" imageWidth="2876">
+    <PrintSpace>
+        <Coords points="0,0 0,2876 4718,2876 4718,2876"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2876 4718,2876 4718,2876"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="549,487 549,1919 619,1919 619,487"/>
+            <TextEquiv>
+                <Unicode>108 COUNT ROBERT OF PARIS.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="731,524 731,2341 828,2341 828,524"/>
+            <TextEquiv>
+                <Unicode>burdened by the mandate of some inexorable ma-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="854,530 854,2340 950,2340 950,530"/>
+            <TextEquiv>
+                <Unicode>gician, and of which the operation was so terri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="977,532 977,2338 1074,2338 1074,532"/>
+            <TextEquiv>
+                <Unicode>fying, that the crews of the vessels attacked by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1098,532 1098,2342 1196,2342 1196,532"/>
+            <TextEquiv>
+                <Unicode>this strange weapon frequently forsook every</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1222,535 1222,2337 1308,2337 1308,535"/>
+            <TextEquiv>
+                <Unicode>means of defence, and run themselves ashore.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1341,541 1341,2345 1436,2345 1436,541"/>
+            <TextEquiv>
+                <Unicode>One of the principal ingredients of this dreadful</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1460,532 1460,2344 1554,2344 1554,532"/>
+            <TextEquiv>
+                <Unicode>fire was supposed to be naphtha, or the bitumen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1578,516 1578,2340 1667,2340 1667,516"/>
+            <TextEquiv>
+                <Unicode>which is collected on the banks of the Dead Sea,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1698,511 1698,2343 1795,2343 1795,511"/>
+            <TextEquiv>
+                <Unicode>and which, when in a state of ignition, could only</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1819,533 1819,2344 1917,2344 1917,533"/>
+            <TextEquiv>
+                <Unicode>be extinguished by a very singular mixture, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1933,528 1933,2530 2030,2530 2030,528"/>
+            <TextEquiv>
+                <Unicode>which it was not likely to come in contact with.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2056,522 2056,2338 2151,2338 2151,522"/>
+            <TextEquiv>
+                <Unicode>It produced a thick smoke and loud explosion,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2175,536 2175,2344 2274,2344 2274,536"/>
+            <TextEquiv>
+                <Unicode>and was capable, says Gibbon, of communicating</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2296,538 2296,2344 2389,2344 2389,538"/>
+            <TextEquiv>
+                <Unicode>its flames with equal vehemence in descent or</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2417,537 2417,2346 2513,2346 2513,537"/>
+            <TextEquiv>
+                <Unicode>lateral progress. In sieges, it was poured from</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2538,510 2538,2344 2640,2344 2640,510"/>
+            <TextEquiv>
+                <Unicode>the ramparts, or launched, like our bombs, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2655,523 2655,2339 2745,2339 2745,523"/>
+            <TextEquiv>
+                <Unicode>redhot balls of stone or iron, or it was darted in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2780,509 2780,2348 2888,2348 2888,509"/>
+            <TextEquiv>
+                <Unicode>flax twisted round arrows and in javelins. It</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2902,540 2902,2350 2998,2350 2998,540"/>
+            <TextEquiv>
+                <Unicode>was considered as a state secret of the greatest</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3023,532 3023,2350 3133,2350 3133,532"/>
+            <TextEquiv>
+                <Unicode>importance; and for wellnigh four centuries it</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3144,538 3144,2349 3243,2349 3243,538"/>
+            <TextEquiv>
+                <Unicode>was unknown to the Mahometans. But at length</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3261,507 3261,2346 3362,2346 3362,507"/>
+            <TextEquiv>
+                <Unicode>the composition was discovered by the Saracens,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3383,502 3383,2344 3482,2344 3482,502"/>
+            <TextEquiv>
+                <Unicode>and used by them for repelling the Crusaders,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3502,500 3502,2344 3615,2344 3615,500"/>
+            <TextEquiv>
+                <Unicode>and overpowering the Greeks, upon whose side</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>108 COUNT ROBERT OF PARIS.
+burdened by the mandate of some inexorable ma-
+gician, and of which the operation was so terri-
+fying, that the crews of the vessels attacked by
+this strange weapon frequently forsook every
+means of defence, and run themselves ashore.
+One of the principal ingredients of this dreadful
+fire was supposed to be naphtha, or the bitumen
+which is collected on the banks of the Dead Sea,
+and which, when in a state of ignition, could only
+be extinguished by a very singular mixture, and
+which it was not likely to come in contact with.
+It produced a thick smoke and loud explosion,
+and was capable, says Gibbon, of communicating
+its flames with equal vehemence in descent or
+lateral progress. In sieges, it was poured from
+the ramparts, or launched, like our bombs, in
+redhot balls of stone or iron, or it was darted in
+flax twisted round arrows and in javelins. It
+was considered as a state secret of the greatest
+importance; and for wellnigh four centuries it
+was unknown to the Mahometans. But at length
+the composition was discovered by the Saracens,
+and used by them for repelling the Crusaders,
+and overpowering the Greeks, upon whose side</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

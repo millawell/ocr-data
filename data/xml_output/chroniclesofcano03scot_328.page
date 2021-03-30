@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="5110" imageWidth="2870">
+    <PrintSpace>
+        <Coords points="0,0 0,2870 5110,2870 5110,2870"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2870 5110,2870 5110,2870"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="512,1447 512,1626 592,1626 592,1447"/>
+            <TextEquiv>
+                <Unicode>320</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="763,452 763,2596 880,2596 880,452"/>
+            <TextEquiv>
+                <Unicode>ward to support his foster-father in the terrible</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="908,453 908,2599 1027,2599 1027,453"/>
+            <TextEquiv>
+                <Unicode>struggle, ere some other of the Clan Chattan</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="1055,452 1055,2596 1170,2596 1170,452"/>
+            <TextEquiv>
+                <Unicode>should come up. When he was within five</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1201,454 1201,2594 1320,2594 1320,454"/>
+            <TextEquiv>
+                <Unicode>yards, and sternly determined to take his share</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1348,458 1348,2604 1461,2604 1461,458"/>
+            <TextEquiv>
+                <Unicode>in the death-fight, his foster-father fell, cleft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1497,463 1497,2594 1605,2594 1605,463"/>
+            <TextEquiv>
+                <Unicode>from the collar-bone wellnigh to the heart,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1641,464 1641,2601 1752,2601 1752,464"/>
+            <TextEquiv>
+                <Unicode>and murmuring with his last breath, Bas air</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1787,463 1787,2598 1896,2598 1896,463"/>
+            <TextEquiv>
+                <Unicode>son Eachin ! - The unfortunate youth saw the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1931,467 1931,2607 2030,2607 2030,467"/>
+            <TextEquiv>
+                <Unicode>fall of his last friend, and at the same moment</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2076,467 2076,2607 2189,2607 2189,467"/>
+            <TextEquiv>
+                <Unicode>beheld the deadly enemy who had hunted him</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2226,472 2226,2608 2340,2608 2340,472"/>
+            <TextEquiv>
+                <Unicode>through the whole field, standing within sword&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2373,473 2373,2608 2493,2608 2493,473"/>
+            <TextEquiv>
+                <Unicode>point of him, and brandishing the huge wea-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2518,470 2518,2604 2638,2604 2638,470"/>
+            <TextEquiv>
+                <Unicode>pon which had hewed its way to his life through</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2665,476 2665,2608 2780,2608 2780,476"/>
+            <TextEquiv>
+                <Unicode>so many obstacles. Perhaps this was enough</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2810,479 2810,2614 2924,2614 2924,479"/>
+            <TextEquiv>
+                <Unicode>to bring his constitutional timidity to its high-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2957,482 2957,2613 3073,2613 3073,482"/>
+            <TextEquiv>
+                <Unicode>est point; or perhaps he recollected at the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="3100,480 3100,2614 3193,2614 3193,480"/>
+            <TextEquiv>
+                <Unicode>same moment that he was without defensive</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3241,476 3241,2615 3376,2615 3376,476"/>
+            <TextEquiv>
+                <Unicode>armour, and that a line of enemies, halting in-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3391,477 3391,2619 3504,2619 3504,477"/>
+            <TextEquiv>
+                <Unicode>deed and crippled, but eager for revenge and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3536,483 3536,2618 3646,2618 3646,483"/>
+            <TextEquiv>
+                <Unicode>blood, were closely approaching. It is enough</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3680,482 3680,2615 3799,2615 3799,482"/>
+            <TextEquiv>
+                <Unicode>to say, that his heart sickened, his eyes darken-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3826,484 3826,2615 3936,2615 3936,484"/>
+            <TextEquiv>
+                <Unicode>ed, his ears tingled, his brain turned giddy-all</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3972,479 3972,2614 4081,2614 4081,479"/>
+            <TextEquiv>
+                <Unicode>other considerations were lost in the apprehen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="4114,486 4114,2613 4224,2613 4224,486"/>
+            <TextEquiv>
+                <Unicode>sion of instant death; and drawing one ineffec-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>320
+ward to support his foster-father in the terrible
+struggle, ere some other of the Clan Chattan
+should come up. When he was within five
+yards, and sternly determined to take his share
+in the death-fight, his foster-father fell, cleft
+from the collar-bone wellnigh to the heart,
+and murmuring with his last breath, Bas air
+son Eachin ! - The unfortunate youth saw the
+fall of his last friend, and at the same moment
+beheld the deadly enemy who had hunted him
+through the whole field, standing within sword&#39;s
+point of him, and brandishing the huge wea-
+pon which had hewed its way to his life through
+so many obstacles. Perhaps this was enough
+to bring his constitutional timidity to its high-
+est point; or perhaps he recollected at the
+same moment that he was without defensive
+armour, and that a line of enemies, halting in-
+deed and crippled, but eager for revenge and
+blood, were closely approaching. It is enough
+to say, that his heart sickened, his eyes darken-
+ed, his ears tingled, his brain turned giddy-all
+other considerations were lost in the apprehen-
+sion of instant death; and drawing one ineffec-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

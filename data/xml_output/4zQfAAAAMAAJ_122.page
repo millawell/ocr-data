@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3092" imageWidth="2122">
+    <PrintSpace>
+        <Coords points="0,0 0,2122 3092,2122 3092,2122"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2122 3092,2122 3092,2122"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="906,185 906,1418 1045,1418 1045,185"/>
+            <TextEquiv>
+                <Unicode>Zwanzigſtes Kapitel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="1087,662 1087,1237 1210,1237 1210,662"/>
+            <TextEquiv>
+                <Unicode>-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="1201,172 1201,1679 1312,1679 1312,172"/>
+            <TextEquiv>
+                <Unicode>Sie kommt, ſie kommt in allem Jugendreiz,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="1328,181 1328,1472 1394,1472 1394,181"/>
+            <TextEquiv>
+                <Unicode>In namenloſer Lieb&#39; und ächter Treue!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1453,760 1453,1205 1564,1205 1564,760"/>
+            <TextEquiv>
+                <Unicode>-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1620,229 1620,1719 1760,1719 1760,229"/>
+            <TextEquiv>
+                <Unicode>Nicht lange ſchritt Heribert durch die waldarti-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1751,151 1751,1876 1848,1876 1848,151"/>
+            <TextEquiv>
+                <Unicode>gen Gänge des Gartens dem Schrei nach, ſo ſtürz-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1845,155 1845,1732 1935,1732 1935,155"/>
+            <TextEquiv>
+                <Unicode>te ein weibliches Weſen ſich ihm in die Arme, das,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1928,156 1928,1733 2011,1733 2011,156"/>
+            <TextEquiv>
+                <Unicode>wie es ſchien, durch  den ſie verfolgenden Sylvan</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="2026,155 2026,1746 2103,1746 2103,155"/>
+            <TextEquiv>
+                <Unicode>beunruhigt worden  war. Die Geſtalt Heriberts,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2113,156 2113,1747 2191,1747 2191,156"/>
+            <TextEquiv>
+                <Unicode>der mit auſgehobener Art den  Affen bedrohete,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2202,72 2202,1748 2291,1748 2291,72"/>
+            <TextEquiv>
+                <Unicode>brachte dieſen ſofort zum Stillſtand, ſo daß er mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2291,158 2291,1751 2412,1751 2412,158"/>
+            <TextEquiv>
+                <Unicode>einem argen Gekreische ſich in das naheliegende Di-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2379,185 2379,754 2467,754 2467,185"/>
+            <TextEquiv>
+                <Unicode>ckig zurükzog.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2426,186 2426,1746 2547,1746 2547,186"/>
+            <TextEquiv>
+                <Unicode>Des Verfolgers ledig, hatte Heribert Zeit, ei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2549,159 2549,1752 2641,1752 2641,159"/>
+            <TextEquiv>
+                <Unicode>nen Blick auſ das Frauenzimmer zu werfen, das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2646,159 2646,1737 2720,1737 2720,159"/>
+            <TextEquiv>
+                <Unicode>duch ihn Beiſtand erhielt. Sie war in ein vielfar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2732,121 2732,1749 2813,1749 2813,121"/>
+            <TextEquiv>
+                <Unicode>biges Gewand gehüllt, an welchem Blaßgelb vor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Zwanzigſtes Kapitel.
+-
+Sie kommt, ſie kommt in allem Jugendreiz,
+In namenloſer Lieb&#39; und ächter Treue!
+-
+Nicht lange ſchritt Heribert durch die waldarti-
+gen Gänge des Gartens dem Schrei nach, ſo ſtürz-
+te ein weibliches Weſen ſich ihm in die Arme, das,
+wie es ſchien, durch  den ſie verfolgenden Sylvan
+beunruhigt worden  war. Die Geſtalt Heriberts,
+der mit auſgehobener Art den  Affen bedrohete,
+brachte dieſen ſofort zum Stillſtand, ſo daß er mit
+einem argen Gekreische ſich in das naheliegende Di-
+ckig zurükzog.
+Des Verfolgers ledig, hatte Heribert Zeit, ei-
+nen Blick auſ das Frauenzimmer zu werfen, das
+duch ihn Beiſtand erhielt. Sie war in ein vielfar-
+biges Gewand gehüllt, an welchem Blaßgelb vor-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

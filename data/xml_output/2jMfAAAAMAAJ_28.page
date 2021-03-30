@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3088" imageWidth="2140">
+    <PrintSpace>
+        <Coords points="0,0 0,2140 3088,2140 3088,2140"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2140 3088,2140 3088,2140"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="207,759 207,1287 299,1287 299,759"/>
+            <TextEquiv>
+                <Unicode>- 21 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="345,166 345,1723 455,1723 455,166"/>
+            <TextEquiv>
+                <Unicode>Kreuzfahrer, wenn gleich derſelbe aus vielen Tau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="464,168 464,1726 541,1726 541,168"/>
+            <TextEquiv>
+                <Unicode>ſenden von Fußſoldaten beſtand, nur acht Reiter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="552,168 552,1724 629,1724 629,168"/>
+            <TextEquiv>
+                <Unicode>zeigte. Es iſt nicht zum Verwundern, ſagt ein Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="640,167 640,1724 718,1724 718,167"/>
+            <TextEquiv>
+                <Unicode>ſchichtſchreiber, wenn ein Vogel mit kurzen Flügeln,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="728,165 728,1724 804,1724 804,165"/>
+            <TextEquiv>
+                <Unicode>jedoch mit einem Schweife von ſo unverhältnißmäßi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="816,166 816,1730 894,1730 894,166"/>
+            <TextEquiv>
+                <Unicode>ger Länge einen fernen Flug nehmen könnte. Der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="904,167 904,1727 979,1727 979,167"/>
+            <TextEquiv>
+                <Unicode>Schwärmereifer dieſer Unwiſſenden und Voreiligen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="992,168 992,1728 1068,1728 1068,168"/>
+            <TextEquiv>
+                <Unicode>die eher einen Pöbelhaufen ausmachten, als daß ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1080,170 1080,1730 1154,1730 1154,170"/>
+            <TextEquiv>
+                <Unicode>ein Heer bildeten, und die durchaus keine Kriegs-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1169,168 1169,1730 1245,1730 1245,168"/>
+            <TextEquiv>
+                <Unicode>regel beobachteten, war ſo gewaltig, daß ſie die ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1258,171 1258,1735 1335,1735 1335,171"/>
+            <TextEquiv>
+                <Unicode>ringſte Vorſichtsmaaßregel nicht nur als unnütz, ſon-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1344,168 1344,1731 1420,1731 1420,168"/>
+            <TextEquiv>
+                <Unicode>dern als eine wirkliche Schmähung gegen den Him-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1433,168 1433,1736 1507,1736 1507,168"/>
+            <TextEquiv>
+                <Unicode>mel anſahen, die einen Zweifel vorausſetzte, ob die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1519,168 1519,1737 1597,1737 1597,168"/>
+            <TextEquiv>
+                <Unicode>Fürſehung auch wohl  die Krieger verſorgen und be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1604,169 1604,1736 1716,1736 1716,169"/>
+            <TextEquiv>
+                <Unicode>ſchüten werde, die ſich ſreiwillig dieſer heiligen Sache</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1681,179 1681,825 1781,825 1781,179"/>
+            <TextEquiv>
+                <Unicode>gewidmet hatten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1775,312 1775,1733 1859,1733 1859,312"/>
+            <TextEquiv>
+                <Unicode>Dieſer wildbewegte Pöbel erwartete deswegen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1871,171 1871,1741 1948,1741 1948,171"/>
+            <TextEquiv>
+                <Unicode>auch nicht die hohen Fürſten und Heerführer, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1958,171 1958,1740 2036,1740 2036,171"/>
+            <TextEquiv>
+                <Unicode>ſich zu gleichem Zuge anheiſchig gemacht hatten; ſon-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2045,171 2045,1741 2122,1741 2122,171"/>
+            <TextEquiv>
+                <Unicode>dern beſchloß, auf eigene Hand fortzuziehen. Sich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2135,172 2135,1744 2210,1744 2210,172"/>
+            <TextEquiv>
+                <Unicode>himmliſchen Schutzes zu verſichern, ſtelte man Peter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2222,173 2222,1742 2297,1742 2297,173"/>
+            <TextEquiv>
+                <Unicode>den Eremiten an die Spitze; jedoch weder ſeine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2309,172 2309,1741 2385,1741 2385,172"/>
+            <TextEquiv>
+                <Unicode>Leitung, noch die Geſchicklichkeit ſeines Unterführers,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2398,172 2398,1868 2474,1868 2474,172"/>
+            <TextEquiv>
+                <Unicode>eines tapferen, jedoch blutarmen Ritters Namens</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2484,174 2484,1746 2561,1746 2561,174"/>
+            <TextEquiv>
+                <Unicode>Walter, der wegen ſeiner Dürftigkeit den Beinamen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2571,174 2571,1931 2649,1931 2649,174"/>
+            <TextEquiv>
+                <Unicode>„der Hellerloſe“ erhalten hatte, waren vermögend,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2653,183 2653,1746 2739,1746 2739,183"/>
+            <TextEquiv>
+                <Unicode>einen ſo zahlreichen und regelloſen Schwarm zu zü-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 21 -
+Kreuzfahrer, wenn gleich derſelbe aus vielen Tau-
+ſenden von Fußſoldaten beſtand, nur acht Reiter
+zeigte. Es iſt nicht zum Verwundern, ſagt ein Ge-
+ſchichtſchreiber, wenn ein Vogel mit kurzen Flügeln,
+jedoch mit einem Schweife von ſo unverhältnißmäßi-
+ger Länge einen fernen Flug nehmen könnte. Der
+Schwärmereifer dieſer Unwiſſenden und Voreiligen,
+die eher einen Pöbelhaufen ausmachten, als daß ſie
+ein Heer bildeten, und die durchaus keine Kriegs-
+regel beobachteten, war ſo gewaltig, daß ſie die ge-
+ringſte Vorſichtsmaaßregel nicht nur als unnütz, ſon-
+dern als eine wirkliche Schmähung gegen den Him-
+mel anſahen, die einen Zweifel vorausſetzte, ob die
+Fürſehung auch wohl  die Krieger verſorgen und be-
+ſchüten werde, die ſich ſreiwillig dieſer heiligen Sache
+gewidmet hatten.
+Dieſer wildbewegte Pöbel erwartete deswegen
+auch nicht die hohen Fürſten und Heerführer, die
+ſich zu gleichem Zuge anheiſchig gemacht hatten; ſon-
+dern beſchloß, auf eigene Hand fortzuziehen. Sich
+himmliſchen Schutzes zu verſichern, ſtelte man Peter
+den Eremiten an die Spitze; jedoch weder ſeine
+Leitung, noch die Geſchicklichkeit ſeines Unterführers,
+eines tapferen, jedoch blutarmen Ritters Namens
+Walter, der wegen ſeiner Dürftigkeit den Beinamen
+„der Hellerloſe“ erhalten hatte, waren vermögend,
+einen ſo zahlreichen und regelloſen Schwarm zu zü-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

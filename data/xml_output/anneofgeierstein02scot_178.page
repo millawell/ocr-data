@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4530" imageWidth="2780">
+    <PrintSpace>
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="292,482 292,627 362,627 362,482"/>
+            <TextEquiv>
+                <Unicode>170</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="300,988 300,2001 360,2001 360,988"/>
+            <TextEquiv>
+                <Unicode>ANNE OF GEIERSTEIN.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="522,423 522,2554 617,2554 617,423"/>
+            <TextEquiv>
+                <Unicode>storms of Switzerland. Heaven was above us</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="664,422 664,2552 779,2552 779,422"/>
+            <TextEquiv>
+                <Unicode>then, as it is over us now. Adieu, my beloved</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="809,424 809,2553 920,2553 920,424"/>
+            <TextEquiv>
+                <Unicode>Arthur! Should I wait till the moment of sepa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="953,426 953,2553 1072,2553 1072,426"/>
+            <TextEquiv>
+                <Unicode>ration, there may be but short time to speak the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1100,426 1100,2553 1215,2553 1215,426"/>
+            <TextEquiv>
+                <Unicode>fatal word, and no eye save thine own must see</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1247,441 1247,1997 1360,1997 1360,441"/>
+            <TextEquiv>
+                <Unicode>the tear which I now wipe away.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1391,534 1391,2554 1512,2554 1512,534"/>
+            <TextEquiv>
+                <Unicode>The painful feeling which accompanied this</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1537,428 1537,2556 1657,2556 1657,428"/>
+            <TextEquiv>
+                <Unicode>anticipation of their parting, was so sincere on</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1682,433 1682,2560 1803,2560 1803,433"/>
+            <TextEquiv>
+                <Unicode>Arthur&#39;s part, as well as that of his father, that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1829,432 1829,2563 1924,2563 1924,432"/>
+            <TextEquiv>
+                <Unicode>it did not at first occur to the former, as a source</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1970,433 1970,2566 2080,2566 2080,433"/>
+            <TextEquiv>
+                <Unicode>of consolation, that it seemed likely he might</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2115,433 2115,2568 2237,2568 2237,433"/>
+            <TextEquiv>
+                <Unicode>be placed under the guidance of the singular fe-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2260,436 2260,2569 2374,2569 2374,436"/>
+            <TextEquiv>
+                <Unicode>male, the memory of whom haunted him. True</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2404,439 2404,2563 2519,2563 2519,439"/>
+            <TextEquiv>
+                <Unicode>it was, that the beauty of Anne of Geierstein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2550,440 2550,2569 2663,2569 2663,440"/>
+            <TextEquiv>
+                <Unicode>as well as the striking circumstances in which</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2696,445 2696,2569 2802,2569 2802,445"/>
+            <TextEquiv>
+                <Unicode>he had exhibited herself, had on that very</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2842,443 2842,2573 2963,2573 2963,443"/>
+            <TextEquiv>
+                <Unicode>morning been the principal occupation of his</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2987,446 2987,2573 3104,2573 3104,446"/>
+            <TextEquiv>
+                <Unicode>mind; but they were now chased from it by the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3132,447 3132,2574 3254,2574 3254,447"/>
+            <TextEquiv>
+                <Unicode>predominant recollection, that he was about to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3274,453 3274,2574 3398,2574 3398,453"/>
+            <TextEquiv>
+                <Unicode>bc separated in a moment of danger from a fa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3420,453 3420,2579 3531,2579 3531,453"/>
+            <TextEquiv>
+                <Unicode>ther, so well deserving of his highest esteem and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3571,486 3571,1404 3660,1404 3660,486"/>
+            <TextEquiv>
+                <Unicode>his fondest affection.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3710,568 3710,2578 3815,2578 3815,568"/>
+            <TextEquiv>
+                <Unicode>Meanwhile, that father dashed from his eye</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3854,463 3854,2583 3950,2583 3950,463"/>
+            <TextEquiv>
+                <Unicode>the tear which his devoted stoicism could not</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="3995,464 3995,2582 4121,2582 4121,464"/>
+            <TextEquiv>
+                <Unicode>suppress, and, as if afraid of softening his re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>170
+ANNE OF GEIERSTEIN.
+storms of Switzerland. Heaven was above us
+then, as it is over us now. Adieu, my beloved
+Arthur! Should I wait till the moment of sepa-
+ration, there may be but short time to speak the
+fatal word, and no eye save thine own must see
+the tear which I now wipe away.&#34;
+The painful feeling which accompanied this
+anticipation of their parting, was so sincere on
+Arthur&#39;s part, as well as that of his father, that
+it did not at first occur to the former, as a source
+of consolation, that it seemed likely he might
+be placed under the guidance of the singular fe-
+male, the memory of whom haunted him. True
+it was, that the beauty of Anne of Geierstein,
+as well as the striking circumstances in which
+he had exhibited herself, had on that very
+morning been the principal occupation of his
+mind; but they were now chased from it by the
+predominant recollection, that he was about to
+bc separated in a moment of danger from a fa-
+ther, so well deserving of his highest esteem and
+his fondest affection.
+Meanwhile, that father dashed from his eye
+the tear which his devoted stoicism could not
+suppress, and, as if afraid of softening his re-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -26,7 +26,7 @@
 		<mets:fileGrp USE="GT">
 		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
             <mets:file ID="gt_$$$$$$$$" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/$$$$$$$$.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/$$$$$$$$.page"/>
             </mets:file>
  
         </mets:fileGrp>

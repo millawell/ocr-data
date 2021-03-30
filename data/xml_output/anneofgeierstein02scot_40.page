@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4530" imageWidth="2780">
+    <PrintSpace>
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2780 4530,2780 4530,2780"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="464,400 464,505 536,505 536,400"/>
+            <TextEquiv>
+                <Unicode>32</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="482,920 482,1905 582,1905 582,920"/>
+            <TextEquiv>
+                <Unicode>ANNE OF GEIERSTEIN.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="705,353 705,2461 816,2461 816,353"/>
+            <TextEquiv>
+                <Unicode>one mule can manage to carry? They must be</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="851,352 851,2464 960,2464 960,352"/>
+            <TextEquiv>
+                <Unicode>beggarly Bohemians, or those whom the French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="993,353 993,2462 1107,2462 1107,353"/>
+            <TextEquiv>
+                <Unicode>people call Escossais. The knaves! they shall</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1140,353 1140,2469 1250,2469 1250,353"/>
+            <TextEquiv>
+                <Unicode>pay with the pining of their paunches for the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1285,376 1285,1481 1396,1481 1396,376"/>
+            <TextEquiv>
+                <Unicode>poverty of their purses.&#39;&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1431,463 1431,2465 1542,2465 1542,463"/>
+            <TextEquiv>
+                <Unicode>&#34;Do not be too hasty, and please your ex-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1577,352 1577,2465 1687,2465 1687,352"/>
+            <TextEquiv>
+                <Unicode>cellency,&#39;&#39; quoth the squire; &#34;small budgets</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1723,351 1723,2468 1833,2468 1833,351"/>
+            <TextEquiv>
+                <Unicode>hold rich goods. But rich or poor, they are our</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1868,351 1868,2470 1974,2470 1974,351"/>
+            <TextEquiv>
+                <Unicode>men, at least they have all the marks - the el-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2010,352 2010,2470 2121,2470 2121,352"/>
+            <TextEquiv>
+                <Unicode>der, well-sized, and dark-visaged, may write</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2156,351 2156,2465 2267,2465 2267,351"/>
+            <TextEquiv>
+                <Unicode>fifty and five years, a beard somewhat grizzled;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2301,350 2301,2469 2411,2469 2411,350"/>
+            <TextEquiv>
+                <Unicode>- the younger, some two-and-twenty, taller</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2443,351 2443,2469 2544,2469 2544,351"/>
+            <TextEquiv>
+                <Unicode>than the first, and a well-favoured lad, with a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2588,356 2588,2288 2698,2288 2698,356"/>
+            <TextEquiv>
+                <Unicode>smooth chin and light-brown mustachoes.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2721,461 2721,2459 2835,2459 2835,461"/>
+            <TextEquiv>
+                <Unicode>&#34;Let them be admitted,&#34; said the Governor,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2882,352 2882,2466 2992,2466 2992,352"/>
+            <TextEquiv>
+                <Unicode>turning back in order again to descend to the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3027,352 3027,2466 3137,2466 3137,352"/>
+            <TextEquiv>
+                <Unicode>street, &#34;and bring them into the folter-kam-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3175,377 3175,1396 3258,1396 3258,377"/>
+            <TextEquiv>
+                <Unicode>mer of the toll house.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3318,463 3318,2464 3428,2464 3428,463"/>
+            <TextEquiv>
+                <Unicode>So saying, he betook himself to the place ap-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3461,353 3461,2468 3573,2468 3573,353"/>
+            <TextEquiv>
+                <Unicode>pointed, which was an apartment in the large</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3609,357 3609,2465 3718,2465 3718,357"/>
+            <TextEquiv>
+                <Unicode>tower that protected the eastern gate-way, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3752,355 3752,2467 3862,2467 3862,355"/>
+            <TextEquiv>
+                <Unicode>which were deposited the rack, with various other</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3897,358 3897,2465 3996,2465 3996,358"/>
+            <TextEquiv>
+                <Unicode>instruments of torture, which the cruel and ra-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="4038,365 4038,2471 4150,2471 4150,365"/>
+            <TextEquiv>
+                <Unicode>pacious Governor was in the habit of applying</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>32
+ANNE OF GEIERSTEIN.
+one mule can manage to carry? They must be
+beggarly Bohemians, or those whom the French
+people call Escossais. The knaves! they shall
+pay with the pining of their paunches for the
+poverty of their purses.&#39;&#34;
+&#34;Do not be too hasty, and please your ex-
+cellency,&#39;&#39; quoth the squire; &#34;small budgets
+hold rich goods. But rich or poor, they are our
+men, at least they have all the marks - the el-
+der, well-sized, and dark-visaged, may write
+fifty and five years, a beard somewhat grizzled;
+- the younger, some two-and-twenty, taller
+than the first, and a well-favoured lad, with a
+smooth chin and light-brown mustachoes.&#34;
+&#34;Let them be admitted,&#34; said the Governor,
+turning back in order again to descend to the
+street, &#34;and bring them into the folter-kam-
+mer of the toll house.&#34;
+So saying, he betook himself to the place ap-
+pointed, which was an apartment in the large
+tower that protected the eastern gate-way, in
+which were deposited the rack, with various other
+instruments of torture, which the cruel and ra-
+pacious Governor was in the habit of applying</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

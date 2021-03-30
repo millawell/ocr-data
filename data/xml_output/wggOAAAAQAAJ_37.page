@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4066" imageWidth="2364">
+    <PrintSpace>
+        <Coords points="0,0 0,2364 4066,2364 4066,2364"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2364 4066,2364 4066,2364"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="241,464 241,2168 411,2168 411,464"/>
+            <TextEquiv>
+                <Unicode>THE HEART OF MID-LOTHIAN. 25</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="465,157 465,2033 566,2033 566,157"/>
+            <TextEquiv>
+                <Unicode>ficient in those means of recommendation</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="604,158 604,2035 719,2035 719,158"/>
+            <TextEquiv>
+                <Unicode>which are necessary passports to the hospi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="725,188 725,1045 847,1045 847,188"/>
+            <TextEquiv>
+                <Unicode>tality of an inn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="856,116 856,2042 962,2042 962,116"/>
+            <TextEquiv>
+                <Unicode>I ventured to call the attention of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="988,161 988,2037 1105,2037 1105,161"/>
+            <TextEquiv>
+                <Unicode>two. dashing young blades, for such they</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1116,166 1116,2041 1215,2041 1215,166"/>
+            <TextEquiv>
+                <Unicode>seemed, to the desolate condition of their</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1242,171 1242,2047 1353,2047 1353,171"/>
+            <TextEquiv>
+                <Unicode>fellow-traveller. They took the hint with</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1372,189 1372,1018 1483,1018 1483,189"/>
+            <TextEquiv>
+                <Unicode>ready good-nature.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1497,275 1497,2048 1596,2048 1596,275"/>
+            <TextEquiv>
+                <Unicode>&#34;O true, Mr Dunover,&#34; said one of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1622,175 1622,2045 1747,2045 1747,175"/>
+            <TextEquiv>
+                <Unicode>youngsters, &#34;you must not remain on the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1739,149 1739,2046 1865,2046 1865,149"/>
+            <TextEquiv>
+                <Unicode>pave here; you must go and have some</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1874,168 1874,2047 2000,2047 2000,168"/>
+            <TextEquiv>
+                <Unicode>dinner with. us - Halkit and I must have</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1992,175 1992,2048 2119,2048 2119,175"/>
+            <TextEquiv>
+                <Unicode>a post-chaise to go on, at all events, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2130,178 2130,2271 2248,2271 2248,178"/>
+            <TextEquiv>
+                <Unicode>we will set you down wherever suits you</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2265,212 2265,709 2349,709 2349,212"/>
+            <TextEquiv>
+                <Unicode>best.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2357,280 2357,2301 2500,2301 2500,280"/>
+            <TextEquiv>
+                <Unicode>The poor man, for such his dress, as well</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2513,179 2513,2059 2623,2059 2623,179"/>
+            <TextEquiv>
+                <Unicode>as his diffidence, bespoke him, made the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2632,176 2632,2334 2752,2334 2752,176"/>
+            <TextEquiv>
+                <Unicode>sort of acknowledging bow by which says</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2764,187 2764,2058 2891,2058 2891,187"/>
+            <TextEquiv>
+                <Unicode>a Scotchman, &#34;It&#39;s too much honour for</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2894,185 2894,2061 3023,2061 3023,185"/>
+            <TextEquiv>
+                <Unicode>the like of me;&#34; and followed humbly be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3014,189 3014,2061 3139,2061 3139,189"/>
+            <TextEquiv>
+                <Unicode>hind his gay patrons, all three besprinkling</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3148,189 3148,2063 3262,2063 3262,189"/>
+            <TextEquiv>
+                <Unicode>the dusty road as they walked along with</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3276,185 3276,2250 3391,2250 3391,185"/>
+            <TextEquiv>
+                <Unicode>the moisture of their drenched garments,</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>THE HEART OF MID-LOTHIAN. 25
+ficient in those means of recommendation
+which are necessary passports to the hospi-
+tality of an inn.
+I ventured to call the attention of the
+two. dashing young blades, for such they
+seemed, to the desolate condition of their
+fellow-traveller. They took the hint with
+ready good-nature.
+&#34;O true, Mr Dunover,&#34; said one of the
+youngsters, &#34;you must not remain on the
+pave here; you must go and have some
+dinner with. us - Halkit and I must have
+a post-chaise to go on, at all events, and
+we will set you down wherever suits you
+best.&#34;
+The poor man, for such his dress, as well
+as his diffidence, bespoke him, made the
+sort of acknowledging bow by which says
+a Scotchman, &#34;It&#39;s too much honour for
+the like of me;&#34; and followed humbly be-
+hind his gay patrons, all three besprinkling
+the dusty road as they walked along with
+the moisture of their drenched garments,</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

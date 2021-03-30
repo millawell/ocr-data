@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3506" imageWidth="2534">
+    <PrintSpace>
+        <Coords points="0,0 0,2534 3506,2534 3506,2534"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2534 3506,2534 3506,2534"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="292,1156 292,1487 364,1487 364,1156"/>
+            <TextEquiv>
+                <Unicode>187</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="455,252 455,1716 536,1716 536,252"/>
+            <TextEquiv>
+                <Unicode>Blickt auf den Boden, legt dann ſeinen Finger</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="528,255 528,1624 604,1624 604,255"/>
+            <TextEquiv>
+                <Unicode>Sich an die Schläfe; plötzlich ſpringt er auf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="597,250 597,1638 671,1638 671,250"/>
+            <TextEquiv>
+                <Unicode>Und fällt in raſchen Gang, hält wieder an,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="664,252 664,1646 739,1646 739,252"/>
+            <TextEquiv>
+                <Unicode>Schlägt heftig an die Bruſt; drauf richtet er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="732,253 732,1573 833,1573 833,253"/>
+            <TextEquiv>
+                <Unicode>Zum Mond den Blick; ſeltſame Stellungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="802,267 802,988 876,988 876,267"/>
+            <TextEquiv>
+                <Unicode>Bemerkten wir an ihm.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="887,332 887,1224 962,1224 962,332"/>
+            <TextEquiv>
+                <Unicode>König. Es mag wohl ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="957,253 957,1612 1031,1612 1031,253"/>
+            <TextEquiv>
+                <Unicode>Daß Meuterei in ſeinem Herzen. Heut</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1024,245 1024,1929 1128,1929 1128,245"/>
+            <TextEquiv>
+                <Unicode>Schickt&#39; er zum Durchſehn mir Stattsſchriften zu,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1092,253 1092,1537 1167,1537 1167,253"/>
+            <TextEquiv>
+                <Unicode>Wie ich gefordert; und wißt ihr, was ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1162,258 1162,1347 1238,1347 1238,258"/>
+            <TextEquiv>
+                <Unicode>Gefunden? nur unwiſſend zugelegt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1229,254 1229,1638 1304,1638 1304,254"/>
+            <TextEquiv>
+                <Unicode>Ein Inventar, wahrhaftig, ſo bedeutend, -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1299,254 1299,1549 1371,1549 1371,254"/>
+            <TextEquiv>
+                <Unicode>Von ſeinen Schätzen, ſilbernen Geſchirren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1366,246 1366,1868 1450,1868 1450,246"/>
+            <TextEquiv>
+                <Unicode>Von reichen Stoffen, Prunkgeräth des Hauſes,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1436,252 1436,1635 1509,1635 1509,252"/>
+            <TextEquiv>
+                <Unicode>Was mir von ſo gar hohem Werthe ſcheint,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1503,258 1503,1339 1604,1339 1604,258"/>
+            <TextEquiv>
+                <Unicode>Daß es des Unterthanen rechtlichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1570,269 1570,924 1646,924 1646,269"/>
+            <TextEquiv>
+                <Unicode>Beſitz weit überſteigt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1655,335 1655,1197 1733,1197 1733,335"/>
+            <TextEquiv>
+                <Unicode>Norf. &#39;s iſt Gottes Wille;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1725,256 1725,1583 1799,1583 1799,256"/>
+            <TextEquiv>
+                <Unicode>Ein guter Geiſt hat das Papier gelegt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1794,250 1794,1563 1877,1563 1877,250"/>
+            <TextEquiv>
+                <Unicode>In das Paket, eu&#39;r Aug&#39; damit zu ſegnen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1856,308 1856,2149 1953,2149 1953,308"/>
+            <TextEquiv>
+                <Unicode>König. Wenn wir nur denken könnten, daß ſein Sinnen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1946,250 1946,1600 2024,1600 2024,250"/>
+            <TextEquiv>
+                <Unicode>Hoch ob der Erde ſchwebte in Betrachtung,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2016,254 2016,1470 2092,1470 2092,254"/>
+            <TextEquiv>
+                <Unicode>Auf geiſtge Güter einzig nur gerichtet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2082,252 2082,1583 2160,1583 2160,252"/>
+            <TextEquiv>
+                <Unicode>So möchte er verharrn in ſeinem Brüten:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2147,240 2147,1985 2248,1985 2248,240"/>
+            <TextEquiv>
+                <Unicode>Dh fürcht ich, untern Monde weilt ſein Trachten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2221,256 2221,1355 2303,1355 2303,256"/>
+            <TextEquiv>
+                <Unicode>Nicht werth ſo ernſter Ueberlegung.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2298,240 2298,2296 2374,2296 2374,240"/>
+            <TextEquiv>
+                <Unicode>(Der König nimmt ſeinen Sitz ein, und ſpricht leiſe mit Lovell, der zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2357,1062 2357,1431 2417,1431 2417,1062"/>
+            <TextEquiv>
+                <Unicode>Wolfey geht.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2428,344 2428,762 2498,762 2498,344"/>
+            <TextEquiv>
+                <Unicode>Wolſ. Gott</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2495,95 2495,1417 2569,1417 2569,95"/>
+            <TextEquiv>
+                <Unicode>Verzeihe mir, und ſegne eure Hoheit!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2578,310 2578,2018 2655,2018 2655,310"/>
+            <TextEquiv>
+                <Unicode>König. Mylord, ihr ſeid von geiſt&#39;gen Schätzen voll,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2645,229 2645,1609 2722,1609 2722,229"/>
+            <TextEquiv>
+                <Unicode>Ihr tragt ein Inventar der reichſten Gnad&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2718,249 2718,1601 2792,1601 2792,249"/>
+            <TextEquiv>
+                <Unicode>Im Herzen, das ihr jetzt wohl überrechnet;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2785,248 2785,1654 2860,1654 2860,248"/>
+            <TextEquiv>
+                <Unicode>Kaum habt ihr Zeit, der geiſtgen Muße weg</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2855,246 2855,1789 2930,1789 2930,246"/>
+            <TextEquiv>
+                <Unicode>Fu ird&#39;ſchem Zweck ne kleine Spann&#39; zu ſtehlen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2924,207 2924,1698 2998,1698 2998,207"/>
+            <TextEquiv>
+                <Unicode>Gewiß, ihr ſeid ein ſchlechter Hauswirth drin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2990,245 2990,1781 3066,1781 3066,245"/>
+            <TextEquiv>
+                <Unicode>Und freut mich&#39;s, meines Gleichen euch zu finden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>187
+Blickt auf den Boden, legt dann ſeinen Finger
+Sich an die Schläfe; plötzlich ſpringt er auf
+Und fällt in raſchen Gang, hält wieder an,
+Schlägt heftig an die Bruſt; drauf richtet er
+Zum Mond den Blick; ſeltſame Stellungen
+Bemerkten wir an ihm.
+König. Es mag wohl ſein,
+Daß Meuterei in ſeinem Herzen. Heut
+Schickt&#39; er zum Durchſehn mir Stattsſchriften zu,
+Wie ich gefordert; und wißt ihr, was ich
+Gefunden? nur unwiſſend zugelegt,
+Ein Inventar, wahrhaftig, ſo bedeutend, -
+Von ſeinen Schätzen, ſilbernen Geſchirren,
+Von reichen Stoffen, Prunkgeräth des Hauſes,
+Was mir von ſo gar hohem Werthe ſcheint,
+Daß es des Unterthanen rechtlichen
+Beſitz weit überſteigt.
+Norf. &#39;s iſt Gottes Wille;
+Ein guter Geiſt hat das Papier gelegt
+In das Paket, eu&#39;r Aug&#39; damit zu ſegnen.
+König. Wenn wir nur denken könnten, daß ſein Sinnen
+Hoch ob der Erde ſchwebte in Betrachtung,
+Auf geiſtge Güter einzig nur gerichtet,
+So möchte er verharrn in ſeinem Brüten:
+Dh fürcht ich, untern Monde weilt ſein Trachten,
+Nicht werth ſo ernſter Ueberlegung.
+(Der König nimmt ſeinen Sitz ein, und ſpricht leiſe mit Lovell, der zu
+Wolfey geht.)
+Wolſ. Gott
+Verzeihe mir, und ſegne eure Hoheit!
+König. Mylord, ihr ſeid von geiſt&#39;gen Schätzen voll,
+Ihr tragt ein Inventar der reichſten Gnad&#39;
+Im Herzen, das ihr jetzt wohl überrechnet;
+Kaum habt ihr Zeit, der geiſtgen Muße weg
+Fu ird&#39;ſchem Zweck ne kleine Spann&#39; zu ſtehlen.
+Gewiß, ihr ſeid ein ſchlechter Hauswirth drin,
+Und freut mich&#39;s, meines Gleichen euch zu finden.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

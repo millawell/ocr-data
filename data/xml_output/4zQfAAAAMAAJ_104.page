@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3083" imageWidth="2131">
+    <PrintSpace>
+        <Coords points="0,0 0,2131 3083,2131 3083,2131"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2131 3083,2131 3083,2131"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="217,768 217,1288 319,1288 319,768"/>
+            <TextEquiv>
+                <Unicode>- 99 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="312,180 312,1754 439,1754 439,180"/>
+            <TextEquiv>
+                <Unicode>bringe keinen Ausweg heraus, der nicht auf eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="438,179 438,1756 517,1756 517,179"/>
+            <TextEquiv>
+                <Unicode>oder andere überſpannte Weiſe von Euern thörigen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="526,176 526,1756 604,1756 604,176"/>
+            <TextEquiv>
+                <Unicode>Einwürfen zurückgewieſen würde. Hier ſteht ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="618,179 618,1758 693,1758 693,179"/>
+            <TextEquiv>
+                <Unicode>Mann, der durch die niedrigſte, gegen ſeine Gat-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="703,179 703,1759 789,1759 789,179"/>
+            <TextEquiv>
+                <Unicode>tin gebrauchte Liſt feinem Feinde in die Hände ſiel;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="793,184 793,1762 869,1762 869,184"/>
+            <TextEquiv>
+                <Unicode>ein Mann, gegen den eine ähnliche Liſt gebraucht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="877,181 877,1760 968,1760 968,181"/>
+            <TextEquiv>
+                <Unicode>ward, ſo daß der Dame Ehre und Leben dadurch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="962,181 962,1760 1048,1760 1048,181"/>
+            <TextEquiv>
+                <Unicode>gefährdet ſind, doch hält dieſer Mann es für noth-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1058,181 1058,1761 1137,1761 1137,181"/>
+            <TextEquiv>
+                <Unicode>wendig, ſelbſt ſolchen mitternächtigen Vergiftern eben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1149,167 1149,1767 1223,1767 1223,167"/>
+            <TextEquiv>
+                <Unicode>ſo ſtreng ſein Wort zu halten, als wenn er es den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1230,183 1230,1764 1311,1764 1311,183"/>
+            <TextEquiv>
+                <Unicode>ehrlichſten Männern von der Welt gegeben hätte!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1321,329 1321,1762 1411,1762 1411,329"/>
+            <TextEquiv>
+                <Unicode>„Du ſprichſt eine ſchmerzliche Wahrheit aus,“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1405,185 1405,1767 1491,1767 1491,185"/>
+            <TextEquiv>
+                <Unicode>ſagte Graf Robert, „doch mein Wort iſt das Em-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1501,184 1501,1764 1587,1764 1587,184"/>
+            <TextEquiv>
+                <Unicode>blem meines Glaubens; und wenn ich es einem ehr-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1580,186 1580,1766 1668,1766 1668,186"/>
+            <TextEquiv>
+                <Unicode>loſen oder treubrüchigen Feinde gebe, ſo habe ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1679,185 1679,1766 1756,1766 1756,185"/>
+            <TextEquiv>
+                <Unicode>unweiſe gehandelt; jedoch wenn ich einmal gegebenes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1758,187 1758,1766 1844,1766 1844,187"/>
+            <TextEquiv>
+                <Unicode>Wort breche, ſo begehe ich dadurch eine ehrloſe Hand-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1854,184 1854,1938 1931,1938 1931,184"/>
+            <TextEquiv>
+                <Unicode>kung, deren Schmach nimmer von meinem Schilde</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1943,203 1943,1029 2021,1029 2021,203"/>
+            <TextEquiv>
+                <Unicode>abgewaſchen werden kann.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2001,337 2001,1767 2110,1767 2110,337"/>
+            <TextEquiv>
+                <Unicode>„Meynt Ihr,“ ſprach der Varangier, „es ſey</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2119,188 2119,1772 2201,1772 2201,188"/>
+            <TextEquiv>
+                <Unicode>wohl gethan, Eures Weibes Ehre auf den Ausgang</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2206,186 2206,1872 2325,1872 2325,186"/>
+            <TextEquiv>
+                <Unicode>eines ungleichen Zweikampfes ſo verpſändet zu lafſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2298,216 2298,744 2373,744 2373,216"/>
+            <TextEquiv>
+                <Unicode>wie ſie jetzt iſt?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2349,342 2349,1767 2464,1767 2464,342"/>
+            <TextEquiv>
+                <Unicode>„Gott und die Heiligen mögen Dir dieſen Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2473,194 2473,1822 2552,1822 2552,194"/>
+            <TextEquiv>
+                <Unicode>danken verzeihen!“ ſagte der Graf von Paris. „Ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2564,196 2564,1772 2642,1772 2642,196"/>
+            <TextEquiv>
+                <Unicode>werde dieſem Kampfe mit eben ſo unerſchüttertem,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2652,196 2652,1773 2731,1773 2731,196"/>
+            <TextEquiv>
+                <Unicode>wenn auch nicht ſo fröhlichem Herzen zuſehen, wo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2741,198 2741,1771 2819,1771 2819,198"/>
+            <TextEquiv>
+                <Unicode>mit ich jemals zuſah, wie Lanzen zerſplittert wur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 99 -
+bringe keinen Ausweg heraus, der nicht auf eine
+oder andere überſpannte Weiſe von Euern thörigen
+Einwürfen zurückgewieſen würde. Hier ſteht ein
+Mann, der durch die niedrigſte, gegen ſeine Gat-
+tin gebrauchte Liſt feinem Feinde in die Hände ſiel;
+ein Mann, gegen den eine ähnliche Liſt gebraucht
+ward, ſo daß der Dame Ehre und Leben dadurch
+gefährdet ſind, doch hält dieſer Mann es für noth-
+wendig, ſelbſt ſolchen mitternächtigen Vergiftern eben
+ſo ſtreng ſein Wort zu halten, als wenn er es den
+ehrlichſten Männern von der Welt gegeben hätte!“
+„Du ſprichſt eine ſchmerzliche Wahrheit aus,“
+ſagte Graf Robert, „doch mein Wort iſt das Em-
+blem meines Glaubens; und wenn ich es einem ehr-
+loſen oder treubrüchigen Feinde gebe, ſo habe ich
+unweiſe gehandelt; jedoch wenn ich einmal gegebenes
+Wort breche, ſo begehe ich dadurch eine ehrloſe Hand-
+kung, deren Schmach nimmer von meinem Schilde
+abgewaſchen werden kann.“
+„Meynt Ihr,“ ſprach der Varangier, „es ſey
+wohl gethan, Eures Weibes Ehre auf den Ausgang
+eines ungleichen Zweikampfes ſo verpſändet zu lafſen,
+wie ſie jetzt iſt?“
+„Gott und die Heiligen mögen Dir dieſen Ge-
+danken verzeihen!“ ſagte der Graf von Paris. „Ich
+werde dieſem Kampfe mit eben ſo unerſchüttertem,
+wenn auch nicht ſo fröhlichem Herzen zuſehen, wo-
+mit ich jemals zuſah, wie Lanzen zerſplittert wur-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

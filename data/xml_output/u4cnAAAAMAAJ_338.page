@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3452" imageWidth="2482">
+    <PrintSpace>
+        <Coords points="0,0 0,2482 3452,2482 3452,2482"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2482 3452,2482 3452,2482"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="466,415 466,983 561,983 561,415"/>
+            <TextEquiv>
+                <Unicode>Dieſe verneinte es.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="288,1199 288,1319 350,1319 350,1199"/>
+            <TextEquiv>
+                <Unicode>151</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="567,420 567,2240 646,2240 646,420"/>
+            <TextEquiv>
+                <Unicode>„Aber Deine Schweſter hatte eins, - ich weiß auch was dar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="658,314 658,862 733,862 733,314"/>
+            <TextEquiv>
+                <Unicode>aus geworden iſt.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="718,419 718,2241 817,2241 817,419"/>
+            <TextEquiv>
+                <Unicode>„um der göttlichen Gnade willen,“  rief Jeanie, ihrer Vor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="825,277 825,2248 901,2248 901,277"/>
+            <TextEquiv>
+                <Unicode>ſicht vergeſſend, „ſage mir, was aus dem unglücklichen Geſchöpf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="914,310 914,908 987,908 987,310"/>
+            <TextEquiv>
+                <Unicode>geworden, und“ -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="994,418 994,2235 1071,2235 1071,418"/>
+            <TextEquiv>
+                <Unicode>Magda ſtand ſtill, ſah ſie ſtarr mit ernſtem Btick an, und brach</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1078,280 1078,2239 1155,2239 1155,280"/>
+            <TextEquiv>
+                <Unicode>dann in ein lautes Gelächter aus. „Ei ja doch, Mädchen, fange</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1164,280 1164,2237 1238,2237 1238,280"/>
+            <TextEquiv>
+                <Unicode>mich wenn Du kannſt. - Dir iſt auch leicht etwas einzureden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1244,280 1244,2242 1323,2242 1323,280"/>
+            <TextEquiv>
+                <Unicode>Wie ſollt&#39; ich von Deiner Schweſter Kind wiſſen! Mädchen müſ-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1334,279 1334,2241 1409,2241 1409,279"/>
+            <TextEquiv>
+                <Unicode>ſen nichts mit Kindern zu thun haben, bis ſie unter der Haube ſind,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1419,279 1419,2240 1492,2240 1492,279"/>
+            <TextEquiv>
+                <Unicode>aber dann kommt auch alles Nachbar und Gevattervolk, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1503,278 1503,2243 1578,2243 1578,278"/>
+            <TextEquiv>
+                <Unicode>ſchmauſt, als wär es der luſtigſte Tag von der Welt. - Es heißt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1587,279 1587,2240 1662,2240 1662,279"/>
+            <TextEquiv>
+                <Unicode>immer der Mädchen Kinder gedeihen wohl, doch mit meinem und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1674,279 1674,2239 1748,2239 1748,279"/>
+            <TextEquiv>
+                <Unicode>Deiner Schweſter Kind iſt&#39;s nicht eingetroffen.  Aber das ſind</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1758,278 1758,2240 1834,2240 1834,278"/>
+            <TextEquiv>
+                <Unicode>traurige Geſchichten, ich muß nur ein wenig ſingen, damit ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1844,280 1844,2246 1918,2246 1918,280"/>
+            <TextEquiv>
+                <Unicode>wieder luſtig werde. Es iſt ein Lied, das der hübſche Georg auf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1930,279 1930,2239 2004,2239 2004,279"/>
+            <TextEquiv>
+                <Unicode>mich machte, als ich einmal mit ihm nach Lockington zur Kirmes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2015,278 2015,2240 2088,2240 2088,278"/>
+            <TextEquiv>
+                <Unicode>reiſte, ihn da in prächtigen Kleidern mit anderem Schauſpieler-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2099,280 2099,2240 2173,2240 2173,280"/>
+            <TextEquiv>
+                <Unicode>volk ſpielen zu ſehen. Er hätte ſogar übel nicht dran gethan, mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2183,281 2183,2239 2259,2239 2259,281"/>
+            <TextEquiv>
+                <Unicode>damals zu heirathen, wie er es verſprach, er kann noch wer weiß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2269,280 2269,2238 2343,2238 2343,280"/>
+            <TextEquiv>
+                <Unicode>wie weit herum ſuchen, und trifft es nicht ſo gut.  Aber das ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2353,310 2353,972 2429,972 2429,310"/>
+            <TextEquiv>
+                <Unicode>hört nicht zu dem Lied.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2478,494 2478,1966 2543,1966 2543,494"/>
+            <TextEquiv>
+                <Unicode>Ich bin Magda des Dorfs, ich bin Magda der Stadt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2547,495 2547,1992 2612,1992 2612,495"/>
+            <TextEquiv>
+                <Unicode>Ich bin Magda, die zum Liebiren den Herrlichsten hat;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2614,500 2614,1818 2679,1818 2679,500"/>
+            <TextEquiv>
+                <Unicode>Blitzt die Gnäd&#39;ge von Schloß dort in Edelſtein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2684,502 2684,1702 2749,1702 2749,502"/>
+            <TextEquiv>
+                <Unicode>Sie kann doch ſo luſtig als Magda nicht ſen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2779,497 2779,1863 2867,1863 2867,497"/>
+            <TextEquiv>
+                <Unicode>ch bin Königin der Kirmes, ich bin Königin heut,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2871,497 2871,1937 2933,1937 2933,497"/>
+            <TextEquiv>
+                <Unicode>Wo man rnnd um den Maibaum im Tanze ſich freut;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2938,504 2938,1684 3000,1684 3000,504"/>
+            <TextEquiv>
+                <Unicode>Wild lodert das Feuer, und ſtrahlet ſo hell,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3004,504 3004,1800 3072,1800 3072,504"/>
+            <TextEquiv>
+                <Unicode>Doch iſt&#39;s nicht ſo glanzend als ich und ſo ſchncll.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Dieſe verneinte es.
+151
+„Aber Deine Schweſter hatte eins, - ich weiß auch was dar-
+aus geworden iſt.“
+„um der göttlichen Gnade willen,“  rief Jeanie, ihrer Vor-
+ſicht vergeſſend, „ſage mir, was aus dem unglücklichen Geſchöpf
+geworden, und“ -
+Magda ſtand ſtill, ſah ſie ſtarr mit ernſtem Btick an, und brach
+dann in ein lautes Gelächter aus. „Ei ja doch, Mädchen, fange
+mich wenn Du kannſt. - Dir iſt auch leicht etwas einzureden.
+Wie ſollt&#39; ich von Deiner Schweſter Kind wiſſen! Mädchen müſ-
+ſen nichts mit Kindern zu thun haben, bis ſie unter der Haube ſind,
+aber dann kommt auch alles Nachbar und Gevattervolk, und
+ſchmauſt, als wär es der luſtigſte Tag von der Welt. - Es heißt
+immer der Mädchen Kinder gedeihen wohl, doch mit meinem und
+Deiner Schweſter Kind iſt&#39;s nicht eingetroffen.  Aber das ſind
+traurige Geſchichten, ich muß nur ein wenig ſingen, damit ich
+wieder luſtig werde. Es iſt ein Lied, das der hübſche Georg auf
+mich machte, als ich einmal mit ihm nach Lockington zur Kirmes
+reiſte, ihn da in prächtigen Kleidern mit anderem Schauſpieler-
+volk ſpielen zu ſehen. Er hätte ſogar übel nicht dran gethan, mich
+damals zu heirathen, wie er es verſprach, er kann noch wer weiß
+wie weit herum ſuchen, und trifft es nicht ſo gut.  Aber das ge-
+hört nicht zu dem Lied.
+Ich bin Magda des Dorfs, ich bin Magda der Stadt,
+Ich bin Magda, die zum Liebiren den Herrlichsten hat;
+Blitzt die Gnäd&#39;ge von Schloß dort in Edelſtein,
+Sie kann doch ſo luſtig als Magda nicht ſen.
+ch bin Königin der Kirmes, ich bin Königin heut,
+Wo man rnnd um den Maibaum im Tanze ſich freut;
+Wild lodert das Feuer, und ſtrahlet ſo hell,
+Doch iſt&#39;s nicht ſo glanzend als ich und ſo ſchncll.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3480" imageWidth="2584">
+    <PrintSpace>
+        <Coords points="0,0 0,2584 3480,2584 3480,2584"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2584 3480,2584 3480,2584"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="178,1108 178,1284 292,1284 292,1108"/>
+            <TextEquiv>
+                <Unicode>129</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="376,234 376,1374 460,1374 460,234"/>
+            <TextEquiv>
+                <Unicode>Doch du ſchwurſt gegen die Religion;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="452,227 452,1596 531,1596 531,227"/>
+            <TextEquiv>
+                <Unicode>Du ſchwöreſt wider das, bei dem du ſchwörſt;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="521,228 521,1497 597,1497 597,228"/>
+            <TextEquiv>
+                <Unicode>Du ſchwörſt &#39;nen Eid, um gegen einen Eid</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="590,227 590,1640 669,1640 669,227"/>
+            <TextEquiv>
+                <Unicode>Für deine Treu&#39; zu zeugen: denn die Wahrheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="653,225 653,1543 737,1543 737,225"/>
+            <TextEquiv>
+                <Unicode>Iſt, daß du deines Schwurs nicht ſicher biſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="728,224 728,1616 805,1616 805,224"/>
+            <TextEquiv>
+                <Unicode>Und ſchwöreſt nur, meineidig nicht zu werden;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="796,219 796,1822 873,1822 873,219"/>
+            <TextEquiv>
+                <Unicode>Was für ne Spötterei wär&#39;s ſonſt zu ſchwören?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="866,223 866,1565 941,1565 941,223"/>
+            <TextEquiv>
+                <Unicode>Du aber ſchwörſt, meineidig nur zu werden;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="934,220 934,1524 1010,1524 1010,220"/>
+            <TextEquiv>
+                <Unicode>Meineidig noch am meiſten, wenn du hältſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1000,223 1000,1546 1078,1546 1078,223"/>
+            <TextEquiv>
+                <Unicode>Was du geſchworen. Nun, dein letzter Eid,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1072,223 1072,1487 1147,1487 1147,223"/>
+            <TextEquiv>
+                <Unicode>Entgegen deinem erſten, iſt Empörung,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1142,222 1142,1569 1217,1569 1217,222"/>
+            <TextEquiv>
+                <Unicode>Empörung gegen dich: drum kannſt du beſſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1211,225 1211,1512 1288,1512 1288,225"/>
+            <TextEquiv>
+                <Unicode>Nicht ſiegen, als wenn du dein edles Selbſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1279,187 1279,1443 1355,1443 1355,187"/>
+            <TextEquiv>
+                <Unicode>Bewaffneſt wider dieſe eitle Lockung;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1347,227 1347,1431 1423,1431 1423,227"/>
+            <TextEquiv>
+                <Unicode>Daß du dies Beſſre wähleſt, beten wir,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1416,225 1416,1493 1492,1493 1492,225"/>
+            <TextEquiv>
+                <Unicode>Wenn das Gebet du würdigeſt; doch wiſſe,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1485,222 1485,1666 1559,1666 1559,222"/>
+            <TextEquiv>
+                <Unicode>Wenn nicht, ſo fallen unſre Flüch&#39; auf dich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1533,221 1533,1668 1631,1668 1631,221"/>
+            <TextEquiv>
+                <Unicode>Ss ſchwer, daß du ſie nicht abſchütteln kannſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1806,303 1806,1203 1883,1203 1883,303"/>
+            <TextEquiv>
+                <Unicode>Baſt. Wird&#39;s nicht bald?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1879,221 1879,1688 1956,1688 1956,221"/>
+            <TextEquiv>
+                <Unicode>Wird nicht ein Kalbfell dir das Maul verſtopfen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1967,303 1967,1456 2041,1456 2041,303"/>
+            <TextEquiv>
+                <Unicode>Louis. Auf, Vater, zu den Waffen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2069,308 2069,1120 2145,1120 2145,308"/>
+            <TextEquiv>
+                <Unicode>Blanca. Wie, am Tag</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2136,225 2136,1488 2212,1488 2212,225"/>
+            <TextEquiv>
+                <Unicode>Der Hochzeit? Gegen jenes Blut, dem du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2201,224 2201,1519 2280,1519 2280,224"/>
+            <TextEquiv>
+                <Unicode>Dich haſt vermählt? Wie, ſollen unſer Feſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2274,229 2274,1563 2349,1563 2349,229"/>
+            <TextEquiv>
+                <Unicode>Erſchlagne feiern? Schmetternde Trompeten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2339,221 2339,1769 2417,1769 2417,221"/>
+            <TextEquiv>
+                <Unicode>Und Trommelwirbel, - Lärm der grauſen Hölle -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2411,229 2411,1502 2491,1502 2491,229"/>
+            <TextEquiv>
+                <Unicode>Den Feſtaufzug begleiten? Mein Gemahl,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2479,225 2479,1600 2558,1600 2558,225"/>
+            <TextEquiv>
+                <Unicode>O hör&#39; mich! - wie ſo neu das Wort Gemahl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2549,225 2549,1611 2622,1611 2622,225"/>
+            <TextEquiv>
+                <Unicode>In meinem Munde! - ja, um dieſen Namen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2617,225 2617,1593 2695,1593 2695,225"/>
+            <TextEquiv>
+                <Unicode>Den meine Zung&#39; bis jetzt nicht ausgeſprochen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2685,223 2685,1623 2768,1623 2768,223"/>
+            <TextEquiv>
+                <Unicode>Ich bitt&#39; auf meinen Knie&#39;n, bewaffne dich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2759,217 2759,1022 2833,1022 2833,217"/>
+            <TextEquiv>
+                <Unicode>Nicht gegen meinen Ohm.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2858,311 2858,1189 2932,1189 2932,311"/>
+            <TextEquiv>
+                <Unicode>Conſt. Auf meinen Knie&#39;n,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2923,231 2923,1431 3003,1431 3003,231"/>
+            <TextEquiv>
+                <Unicode>Durch Knieen abgehärtet, bitt ich dich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2999,344 2999,613 3104,613 3104,344"/>
+            <TextEquiv>
+                <Unicode>III.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>129
+Doch du ſchwurſt gegen die Religion;
+Du ſchwöreſt wider das, bei dem du ſchwörſt;
+Du ſchwörſt &#39;nen Eid, um gegen einen Eid
+Für deine Treu&#39; zu zeugen: denn die Wahrheit
+Iſt, daß du deines Schwurs nicht ſicher biſt,
+Und ſchwöreſt nur, meineidig nicht zu werden;
+Was für ne Spötterei wär&#39;s ſonſt zu ſchwören?
+Du aber ſchwörſt, meineidig nur zu werden;
+Meineidig noch am meiſten, wenn du hältſt
+Was du geſchworen. Nun, dein letzter Eid,
+Entgegen deinem erſten, iſt Empörung,
+Empörung gegen dich: drum kannſt du beſſer
+Nicht ſiegen, als wenn du dein edles Selbſt
+Bewaffneſt wider dieſe eitle Lockung;
+Daß du dies Beſſre wähleſt, beten wir,
+Wenn das Gebet du würdigeſt; doch wiſſe,
+Wenn nicht, ſo fallen unſre Flüch&#39; auf dich
+Ss ſchwer, daß du ſie nicht abſchütteln kannſt,
+Baſt. Wird&#39;s nicht bald?
+Wird nicht ein Kalbfell dir das Maul verſtopfen?
+Louis. Auf, Vater, zu den Waffen!
+Blanca. Wie, am Tag
+Der Hochzeit? Gegen jenes Blut, dem du
+Dich haſt vermählt? Wie, ſollen unſer Feſt
+Erſchlagne feiern? Schmetternde Trompeten
+Und Trommelwirbel, - Lärm der grauſen Hölle -
+Den Feſtaufzug begleiten? Mein Gemahl,
+O hör&#39; mich! - wie ſo neu das Wort Gemahl
+In meinem Munde! - ja, um dieſen Namen,
+Den meine Zung&#39; bis jetzt nicht ausgeſprochen,
+Ich bitt&#39; auf meinen Knie&#39;n, bewaffne dich
+Nicht gegen meinen Ohm.
+Conſt. Auf meinen Knie&#39;n,
+Durch Knieen abgehärtet, bitt ich dich,
+III.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

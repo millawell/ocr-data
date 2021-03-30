@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4725" imageWidth="2887">
+    <PrintSpace>
+        <Coords points="0,0 0,2887 4725,2887 4725,2887"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2887 4725,2887 4725,2887"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="682,606 682,1986 803,1986 803,606"/>
+            <TextEquiv>
+                <Unicode>158 COUNT ROBERT OF PARIS.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="871,591 871,2411 952,2411 952,591"/>
+            <TextEquiv>
+                <Unicode>confidence that the rules of fair battle will be</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="994,612 994,1433 1091,1433 1091,612"/>
+            <TextEquiv>
+                <Unicode>punctually observed.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="1117,603 1117,2404 1217,2404 1217,603"/>
+            <TextEquiv>
+                <Unicode>The two Grecian officers transmitted this reply</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1238,544 1238,2406 1338,2406 1338,544"/>
+            <TextEquiv>
+                <Unicode>to the Emperor, who heard it with pleasure;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1362,587 1362,2406 1460,2406 1460,587"/>
+            <TextEquiv>
+                <Unicode>and, immediately proceeding to act upon the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1482,590 1482,2409 1579,2409 1579,590"/>
+            <TextEquiv>
+                <Unicode>principle which he had laid down, of maintaining</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1601,585 1601,2404 1696,2404 1696,585"/>
+            <TextEquiv>
+                <Unicode>peace, if possible, with the crusaders, named</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1703,592 1703,2408 1817,2408 1817,592"/>
+            <TextEquiv>
+                <Unicode>Prince Tancred with the Proto-spathaire as</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1826,596 1826,2402 1941,2402 1941,596"/>
+            <TextEquiv>
+                <Unicode>Field Marshals of the lists, fully empowered,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1950,590 1950,2409 2059,2409 2059,590"/>
+            <TextEquiv>
+                <Unicode>under the Emperor, t decide all the terms of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2072,588 2072,2406 2173,2406 2173,588"/>
+            <TextEquiv>
+                <Unicode>the combat, and to have recourse to Alexias</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2208,590 2208,2412 2306,2412 2306,590"/>
+            <TextEquiv>
+                <Unicode>himself where their opinions disagreed. This</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2332,590 2332,2407 2418,2407 2418,590"/>
+            <TextEquiv>
+                <Unicode>was made known to the assistants, who were</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2450,592 2450,2404 2544,2404 2544,592"/>
+            <TextEquiv>
+                <Unicode>thus prepared for the entry into the lists of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2568,598 2568,2404 2648,2404 2648,598"/>
+            <TextEquiv>
+                <Unicode>Grecian officer and the Italian Prince in full</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2688,587 2688,2399 2801,2399 2801,587"/>
+            <TextEquiv>
+                <Unicode>armour, while a solemn proclamation announced</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2811,591 2811,2397 2926,2397 2926,591"/>
+            <TextEquiv>
+                <Unicode>to all the spectators their solemn office. The</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2918,594 2918,2402 3010,2402 3010,594"/>
+            <TextEquiv>
+                <Unicode>same annunciation commanded the assistants of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3056,597 3056,2399 3152,2399 3152,597"/>
+            <TextEquiv>
+                <Unicode>every kind to clear a convenient part of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3180,594 3180,2402 3264,2402 3264,594"/>
+            <TextEquiv>
+                <Unicode>seats which surrounded the lists on one side, that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3300,596 3300,2402 3396,2402 3396,596"/>
+            <TextEquiv>
+                <Unicode>it might serve for the accommodation of Prince</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3423,621 3423,1367 3497,1367 3497,621"/>
+            <TextEquiv>
+                <Unicode>Tancred&#39;s followers.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3540,691 3540,2401 3628,2401 3628,691"/>
+            <TextEquiv>
+                <Unicode>Achilles Tatius, who was a heedful observer of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3663,593 3663,2397 3762,2397 3762,593"/>
+            <TextEquiv>
+                <Unicode>all these passages, saw with alarm, that by the</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>158 COUNT ROBERT OF PARIS.
+confidence that the rules of fair battle will be
+punctually observed.&#34;
+The two Grecian officers transmitted this reply
+to the Emperor, who heard it with pleasure;
+and, immediately proceeding to act upon the
+principle which he had laid down, of maintaining
+peace, if possible, with the crusaders, named
+Prince Tancred with the Proto-spathaire as
+Field Marshals of the lists, fully empowered,
+under the Emperor, t decide all the terms of
+the combat, and to have recourse to Alexias
+himself where their opinions disagreed. This
+was made known to the assistants, who were
+thus prepared for the entry into the lists of the
+Grecian officer and the Italian Prince in full
+armour, while a solemn proclamation announced
+to all the spectators their solemn office. The
+same annunciation commanded the assistants of
+every kind to clear a convenient part of the
+seats which surrounded the lists on one side, that
+it might serve for the accommodation of Prince
+Tancred&#39;s followers.
+Achilles Tatius, who was a heedful observer of
+all these passages, saw with alarm, that by the</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

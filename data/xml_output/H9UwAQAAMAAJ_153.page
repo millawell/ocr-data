@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3498" imageWidth="2500">
+    <PrintSpace>
+        <Coords points="0,0 0,2500 3498,2500 3498,2500"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2500 3498,2500 3498,2500"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="197,1144 197,1275 258,1275 258,1144"/>
+            <TextEquiv>
+                <Unicode>140</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="371,219 371,2188 448,2188 448,219"/>
+            <TextEquiv>
+                <Unicode>Sage, welche Harry Gow zu verbreiten beliebte; denn obwohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="459,219 459,2196 535,2196 535,219"/>
+            <TextEquiv>
+                <Unicode>ihm wenig an der Sache lag, hatte er doch immer an der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="545,216 545,2194 621,2194 621,216"/>
+            <TextEquiv>
+                <Unicode>Wahrheit der romantiſchen Thaten des Strumpfwirkers ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="630,218 630,2190 709,2190 709,218"/>
+            <TextEquiv>
+                <Unicode>zweifelt, die er nun doch in gewiſſem Grade für richtig halten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="714,214 714,2192 804,2192 804,214"/>
+            <TextEquiv>
+                <Unicode>mußte. Der ſchlaue alte Glover durchſchaute die Sache beſſer.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="806,323 806,2188 880,2188 880,323"/>
+            <TextEquiv>
+                <Unicode>„Ihr werdet den armen Strumpfwirker toll machen,“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="891,211 891,2190 968,2190 968,211"/>
+            <TextEquiv>
+                <Unicode>ſlüſterte er Harry zu; „er wird mit ſeiner Klapper lärmen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="978,216 978,2193 1055,2193 1055,216"/>
+            <TextEquiv>
+                <Unicode>als wär&#39;s eine Stadtglocke an einem Freudenfeſte, während er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1068,219 1068,2191 1144,2191 1144,219"/>
+            <TextEquiv>
+                <Unicode>der Ordnunng und des Anſtandes wegen ganz ſtill ſein ſollte.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1156,323 1156,2187 1233,2187 1233,323"/>
+            <TextEquiv>
+                <Unicode>„O, bei unſrer lieben Frau, Vater,“ erwiederte der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1241,218 1241,2189 1318,2189 1318,218"/>
+            <TextEquiv>
+                <Unicode>Schmied, „ich liebe den armen kleinen Prahlhans, und mag</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1329,217 1329,2189 1404,2189 1404,217"/>
+            <TextEquiv>
+                <Unicode>nicht daran denken, ihn reuig und ſchweigend beim Ober-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1417,216 1417,2190 1491,2190 1491,216"/>
+            <TextEquiv>
+                <Unicode>richter zu ſehen, während alle Uebrigen und beſonders der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1502,233 1502,1533 1579,1533 1579,233"/>
+            <TextEquiv>
+                <Unicode>giftige Apotheker ihre Meinung ſagten.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1591,323 1591,2190 1668,2190 1668,323"/>
+            <TextEquiv>
+                <Unicode>„Du biſt ein allzuguter Burſche, Harry,“ antwortete Si-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1677,218 1677,2197 1753,2197 1753,218"/>
+            <TextEquiv>
+                <Unicode>mon. „Merk&#39; aber den Unterſchied zwiſchen dieſen beiden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1764,216 1764,2194 1854,2194 1854,216"/>
+            <TextEquiv>
+                <Unicode>Männern. Der harmloſe kleine Strumpfwirker nimmt die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1848,217 1848,2191 1930,2191 1930,217"/>
+            <TextEquiv>
+                <Unicode>Miene eines Drachen an, um ſeine natürliche Feigheit zu ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1940,217 1940,2193 2016,2193 2016,217"/>
+            <TextEquiv>
+                <Unicode>ſtecken, während der argliſtige Apotheker ſich bemüht, ſchüch-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2025,216 2025,2192 2113,2192 2113,216"/>
+            <TextEquiv>
+                <Unicode>tern, muthlos und beſcheiden zu ſcheinen, um ſeine gefährliche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2106,219 2106,2188 2198,2188 2198,219"/>
+            <TextEquiv>
+                <Unicode>Gemüthsart zu bergen. Die Natter iſt nicht minder tödtlich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2202,219 2202,2188 2279,2188 2279,219"/>
+            <TextEquiv>
+                <Unicode>weil ſie unter einen Stein kriecht. Ich ſage Dir, Sohn Harry,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2287,216 2287,2188 2364,2188 2364,216"/>
+            <TextEquiv>
+                <Unicode>daß, bei all ſeinen kriechenden Blicken und ſchüchternen Worten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2375,217 2375,2185 2451,2185 2451,217"/>
+            <TextEquiv>
+                <Unicode>dies elende Gerippe Unheil mehr liebt, als es Gefahr fürchtet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2463,219 2463,2188 2551,2188 2551,219"/>
+            <TextEquiv>
+                <Unicode>- Aber hier ſtehen wir vor des Oberrichters Schloß. Und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2545,214 2545,2192 2625,2192 2625,214"/>
+            <TextEquiv>
+                <Unicode>Kinfauns iſt ein ſtattlicher Ort, und es gereicht der Stadt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2638,216 2638,2192 2715,2192 2715,216"/>
+            <TextEquiv>
+                <Unicode>zum Vortheil, den Eigner eines ſo tüchtigen Schloſſes zur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2725,238 2725,1436 2801,1436 2801,238"/>
+            <TextEquiv>
+                <Unicode>oberſten Magiſtratsperſon zu haben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2787,326 2787,2206 2892,2206 2892,326"/>
+            <TextEquiv>
+                <Unicode>„In der That eine hübſche Burg,“ ſagte der Schmied,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2898,224 2898,2189 2977,2189 2977,224"/>
+            <TextEquiv>
+                <Unicode>auf den breitfluthenden Tay blickend, der unter der Höhe hin-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2986,218 2986,2288 3065,2288 3065,218"/>
+            <TextEquiv>
+                <Unicode>floß, worauf das Schloß ſtand, gleich ſeinem modernen Nach-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>140
+Sage, welche Harry Gow zu verbreiten beliebte; denn obwohl
+ihm wenig an der Sache lag, hatte er doch immer an der
+Wahrheit der romantiſchen Thaten des Strumpfwirkers ge-
+zweifelt, die er nun doch in gewiſſem Grade für richtig halten
+mußte. Der ſchlaue alte Glover durchſchaute die Sache beſſer.
+„Ihr werdet den armen Strumpfwirker toll machen,“
+ſlüſterte er Harry zu; „er wird mit ſeiner Klapper lärmen,
+als wär&#39;s eine Stadtglocke an einem Freudenfeſte, während er
+der Ordnunng und des Anſtandes wegen ganz ſtill ſein ſollte.“
+„O, bei unſrer lieben Frau, Vater,“ erwiederte der
+Schmied, „ich liebe den armen kleinen Prahlhans, und mag
+nicht daran denken, ihn reuig und ſchweigend beim Ober-
+richter zu ſehen, während alle Uebrigen und beſonders der
+giftige Apotheker ihre Meinung ſagten.“
+„Du biſt ein allzuguter Burſche, Harry,“ antwortete Si-
+mon. „Merk&#39; aber den Unterſchied zwiſchen dieſen beiden
+Männern. Der harmloſe kleine Strumpfwirker nimmt die
+Miene eines Drachen an, um ſeine natürliche Feigheit zu ver-
+ſtecken, während der argliſtige Apotheker ſich bemüht, ſchüch-
+tern, muthlos und beſcheiden zu ſcheinen, um ſeine gefährliche
+Gemüthsart zu bergen. Die Natter iſt nicht minder tödtlich,
+weil ſie unter einen Stein kriecht. Ich ſage Dir, Sohn Harry,
+daß, bei all ſeinen kriechenden Blicken und ſchüchternen Worten,
+dies elende Gerippe Unheil mehr liebt, als es Gefahr fürchtet.
+- Aber hier ſtehen wir vor des Oberrichters Schloß. Und
+Kinfauns iſt ein ſtattlicher Ort, und es gereicht der Stadt
+zum Vortheil, den Eigner eines ſo tüchtigen Schloſſes zur
+oberſten Magiſtratsperſon zu haben.“
+„In der That eine hübſche Burg,“ ſagte der Schmied,
+auf den breitfluthenden Tay blickend, der unter der Höhe hin-
+floß, worauf das Schloß ſtand, gleich ſeinem modernen Nach-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

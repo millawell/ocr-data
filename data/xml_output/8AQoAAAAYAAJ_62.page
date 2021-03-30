@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3018" imageWidth="2030">
+    <PrintSpace>
+        <Coords points="0,0 0,2030 3018,2030 3018,2030"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2030 3018,2030 3018,2030"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="175,767 175,1130 240,1130 240,767"/>
+            <TextEquiv>
+                <Unicode>- 53 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="309,157 309,1734 388,1734 388,157"/>
+            <TextEquiv>
+                <Unicode>dame, denn ich ſelbſt habe ihrer zu viele geſe-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="401,192 401,370 468,370 468,192"/>
+            <TextEquiv>
+                <Unicode>hen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="484,308 484,1732 562,1732 562,308"/>
+            <TextEquiv>
+                <Unicode>Ich will zwei hierher gehörende Beiſpiele mit-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="573,156 573,1740 651,1740 651,156"/>
+            <TextEquiv>
+                <Unicode>theilen, an deren Zuverlaſſigkeit nicht der mindeſte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="661,183 661,809 735,809 735,183"/>
+            <TextEquiv>
+                <Unicode>weifel haften kann.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="749,316 749,1842 827,1842 827,316"/>
+            <TextEquiv>
+                <Unicode>Das erſte wird die Erſcheinung des Hrn. Mau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="835,163 835,1739 913,1739 913,163"/>
+            <TextEquiv>
+                <Unicode>pertuis berühren, die ſich einem Collegen des ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="924,163 924,1741 1005,1741 1005,163"/>
+            <TextEquiv>
+                <Unicode>nannten Gelehrten in der königlichen Societät zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1015,192 1015,614 1086,614 1086,192"/>
+            <TextEquiv>
+                <Unicode>Berlin zeigte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1102,311 1102,1828 1178,1828 1178,311"/>
+            <TextEquiv>
+                <Unicode>Dieſes gußerordentliche Ereigniß erſchien in den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1191,168 1191,1741 1264,1741 1264,168"/>
+            <TextEquiv>
+                <Unicode>Verhandlungen der Societät, und wird von Hrn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1278,169 1278,1742 1353,1742 1353,169"/>
+            <TextEquiv>
+                <Unicode>Thibault in deſſen Erinnerungen an Friedrich den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1364,170 1364,1843 1440,1843 1440,170"/>
+            <TextEquiv>
+                <Unicode>Großen und den Berliner Hof beſtatigt. Es iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1453,169 1453,1741 1530,1741 1530,169"/>
+            <TextEquiv>
+                <Unicode>nöthig, die Bemerkung vorauszuſchicken, daß Hr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1542,172 1542,1739 1622,1739 1622,172"/>
+            <TextEquiv>
+                <Unicode>Gleditſch, dem der Vorfall begegnete, ein Botani-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1630,169 1630,1738 1706,1738 1706,169"/>
+            <TextEquiv>
+                <Unicode>ker von Bedeutung, dabei Profeſſor der Naturphi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1713,169 1713,1846 1805,1846 1805,169"/>
+            <TextEquiv>
+                <Unicode>loſophie in Berlin und allgemein als ein ernſter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1799,165 1799,1848 1883,1848 1883,165"/>
+            <TextEquiv>
+                <Unicode>und ſchlichter Mann von beſonnenem Charakter be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1896,197 1896,530 1964,530 1964,197"/>
+            <TextEquiv>
+                <Unicode>kannt war.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1980,314 1980,1738 2055,1738 2055,314"/>
+            <TextEquiv>
+                <Unicode>Kurze Zeit nach dem Tode des Hrn. Mauper-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2068,171 2068,1853 2152,1853 2152,171"/>
+            <TextEquiv>
+                <Unicode>tuis *), als Hr. Gleditſch genöthigt war, durch den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2147,175 2147,1852 2235,1852 2235,175"/>
+            <TextEquiv>
+                <Unicode>Saal zu gehen, in welchem die Academie ihre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2244,176 2244,1880 2319,1880 2319,176"/>
+            <TextEquiv>
+                <Unicode>Sitzungen hielt, indem er in dem Naturalienkabi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2378,224 2378,1739 2439,1739 2439,224"/>
+            <TextEquiv>
+                <Unicode>*) Dieſer Mann war lange Zeit Präſident der Berliner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2447,287 2447,1738 2510,1738 2510,287"/>
+            <TextEquiv>
+                <Unicode>Academie , und wurde ſehr von Friedrich II. begün-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2515,278 2515,1738 2580,1738 2580,278"/>
+            <TextEquiv>
+                <Unicode>ſtigt, bis der Spott Voltaires ihn ſtürzte. Mauper-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2581,284 2581,1740 2642,1740 2642,284"/>
+            <TextEquiv>
+                <Unicode>tuis zog in einer Art von Ungnade in ſein Geburts</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2645,284 2645,1742 2708,1742 2708,284"/>
+            <TextEquiv>
+                <Unicode>land, die Schweiz, zurück, wo er bald nachber ſtarb.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2711,1065 2711,1621 2768,1621 2768,1065"/>
+            <TextEquiv>
+                <Unicode>Aum. d. Autors.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 53 -
+dame, denn ich ſelbſt habe ihrer zu viele geſe-
+hen.“
+Ich will zwei hierher gehörende Beiſpiele mit-
+theilen, an deren Zuverlaſſigkeit nicht der mindeſte
+weifel haften kann.
+Das erſte wird die Erſcheinung des Hrn. Mau-
+pertuis berühren, die ſich einem Collegen des ge-
+nannten Gelehrten in der königlichen Societät zu
+Berlin zeigte.
+Dieſes gußerordentliche Ereigniß erſchien in den
+Verhandlungen der Societät, und wird von Hrn.
+Thibault in deſſen Erinnerungen an Friedrich den
+Großen und den Berliner Hof beſtatigt. Es iſt
+nöthig, die Bemerkung vorauszuſchicken, daß Hr.
+Gleditſch, dem der Vorfall begegnete, ein Botani-
+ker von Bedeutung, dabei Profeſſor der Naturphi-
+loſophie in Berlin und allgemein als ein ernſter
+und ſchlichter Mann von beſonnenem Charakter be-
+kannt war.
+Kurze Zeit nach dem Tode des Hrn. Mauper-
+tuis *), als Hr. Gleditſch genöthigt war, durch den
+Saal zu gehen, in welchem die Academie ihre
+Sitzungen hielt, indem er in dem Naturalienkabi-
+*) Dieſer Mann war lange Zeit Präſident der Berliner
+Academie , und wurde ſehr von Friedrich II. begün-
+ſtigt, bis der Spott Voltaires ihn ſtürzte. Mauper-
+tuis zog in einer Art von Ungnade in ſein Geburts
+land, die Schweiz, zurück, wo er bald nachber ſtarb.
+Aum. d. Autors.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

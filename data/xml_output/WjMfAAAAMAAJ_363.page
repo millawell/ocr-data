@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="2471" imageWidth="1866">
+    <PrintSpace>
+        <Coords points="0,0 0,1866 2471,1866 2471,1866"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,1866 2471,1866 2471,1866"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="141,361 141,426 188,426 188,361"/>
+            <TextEquiv>
+                <Unicode>64</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="656,495 656,1612 744,1612 744,495"/>
+            <TextEquiv>
+                <Unicode>Drei und zwanzigstes Kapitel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="840,376 840,1781 906,1781 906,376"/>
+            <TextEquiv>
+                <Unicode>Rückzug der Armee des Prinzen Karl von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="899,433 899,1783 962,1783 962,433"/>
+            <TextEquiv>
+                <Unicode>Stirling in die Hochlande. - Verwirrung bei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="955,429 955,1779 1022,1779 1022,429"/>
+            <TextEquiv>
+                <Unicode>Schloſs Moy. - Ankunft hessischer Truppen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1014,429 1014,1779 1076,1779 1076,429"/>
+            <TextEquiv>
+                <Unicode>Zum Beistande der Regierung. - Berathung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1072,429 1072,1777 1131,1777 1131,429"/>
+            <TextEquiv>
+                <Unicode>des Herzogs von Cumberland und des Prin-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1127,428 1127,1864 1189,1864 1189,428"/>
+            <TextEquiv>
+                <Unicode>zen von Hessen-Cassel zu Edinburgh.-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1179,427 1179,1864 1253,1864 1253,427"/>
+            <TextEquiv>
+                <Unicode>Karl&#39;s getäuschte Hoffnungen in Bezug auf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1242,430 1242,1858 1308,1858 1308,430"/>
+            <TextEquiv>
+                <Unicode>den Beistand Frankreichs. - Lord George</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1300,429 1300,1853 1365,1853 1365,429"/>
+            <TextEquiv>
+                <Unicode>Murray nimmt die Militärposten in Athole.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1352,429 1352,1853 1422,1853 1422,429"/>
+            <TextEquiv>
+                <Unicode>- Er bedrängt Schloſs Blair, muſs jedoch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1412,429 1412,1855 1481,1855 1481,429"/>
+            <TextEquiv>
+                <Unicode>aus Mangel an hinlänglicher Mannschaft die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1469,425 1469,1857 1539,1857 1539,425"/>
+            <TextEquiv>
+                <Unicode>Belagerung aufgeben. - Des Prinzen Arg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1525,422 1525,1860 1700,1860 1700,422"/>
+            <TextEquiv>
+                <Unicode>wohn gegen die Treue des Lords George Murr-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1606,453 1606,569 1651,569 1651,453"/>
+            <TextEquiv>
+                <Unicode>ray.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1759,306 1759,1872 1849,1872 1849,306"/>
+            <TextEquiv>
+                <Unicode>Die Insurgenten ärnteten aus der Schlacht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1989,309 1989,1757 2054,1757 2054,309"/>
+            <TextEquiv>
+                <Unicode>deutliche Verwirrung ihrer eigenen Leute</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2058,306 2058,1759 2129,1759 2129,306"/>
+            <TextEquiv>
+                <Unicode>und ihre daraus erfolgende Unwissenheit über</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2126,304 2126,1759 2194,1759 2194,304"/>
+            <TextEquiv>
+                <Unicode>die eigentliche Lage des Feindes, hinderte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2194,303 2194,1757 2264,1757 2264,303"/>
+            <TextEquiv>
+                <Unicode>sie, den Truppen Hawley&#39;s nachzusetzen, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2348,1742 2348,1823 2385,1823 2385,1742"/>
+            <TextEquiv>
+                <Unicode>.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>64
+Drei und zwanzigstes Kapitel.
+Rückzug der Armee des Prinzen Karl von
+Stirling in die Hochlande. - Verwirrung bei
+Schloſs Moy. - Ankunft hessischer Truppen
+Zum Beistande der Regierung. - Berathung
+des Herzogs von Cumberland und des Prin-
+zen von Hessen-Cassel zu Edinburgh.-
+Karl&#39;s getäuschte Hoffnungen in Bezug auf
+den Beistand Frankreichs. - Lord George
+Murray nimmt die Militärposten in Athole.
+- Er bedrängt Schloſs Blair, muſs jedoch
+aus Mangel an hinlänglicher Mannschaft die
+Belagerung aufgeben. - Des Prinzen Arg-
+wohn gegen die Treue des Lords George Murr-
+ray.
+Die Insurgenten ärnteten aus der Schlacht
+deutliche Verwirrung ihrer eigenen Leute
+und ihre daraus erfolgende Unwissenheit über
+die eigentliche Lage des Feindes, hinderte
+sie, den Truppen Hawley&#39;s nachzusetzen, die
+.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

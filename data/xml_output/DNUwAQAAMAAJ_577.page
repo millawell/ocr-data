@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3650" imageWidth="2594">
+    <PrintSpace>
+        <Coords points="0,0 0,2594 3650,2594 3650,2594"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2594 3650,2594 3650,2594"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="319,1270 319,1402 381,1402 381,1270"/>
+            <TextEquiv>
+                <Unicode>194</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="493,336 493,2315 571,2315 571,336"/>
+            <TextEquiv>
+                <Unicode>Wamba trug an dieſem Tage eine neue Kappe und einen un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="579,349 579,2323 667,2323 667,349"/>
+            <TextEquiv>
+                <Unicode>geheuren Schmuck von ſilbernen Glöckchen. So wie ſie Wil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="668,348 668,2324 751,2324 751,348"/>
+            <TextEquiv>
+                <Unicode>freds Unglück und Gefahren redlich getheilt hatten, blieben ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="745,356 745,1923 838,1923 838,356"/>
+            <TextEquiv>
+                <Unicode>auch im Gllück ſeine Theilnehmer und Gefährten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="843,422 843,2324 919,2324 919,422"/>
+            <TextEquiv>
+                <Unicode>Außer dieſem Dienergefolge wurde dieſe Hochzeit auch ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="929,348 929,2322 1010,2322 1010,348"/>
+            <TextEquiv>
+                <Unicode>herrlicht durch den Beſuch vornehmer Normänner und Sachſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1017,348 1017,2322 1096,2322 1096,348"/>
+            <TextEquiv>
+                <Unicode>die den allgemeinen Iubel der niedern Stände theilten, welche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1101,347 1101,2324 1182,2324 1182,347"/>
+            <TextEquiv>
+                <Unicode>in dieſer Verbindung ein Pfand künftigen Friedens zwiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1192,342 1192,2514 1273,2514 1273,342"/>
+            <TextEquiv>
+                <Unicode>zwei Geſchlechtern erblickten, die ſich ſeit der Zeit ſo vollkom-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1274,341 1274,2514 1370,2514 1370,341"/>
+            <TextEquiv>
+                <Unicode>men vermiſcht haben, daß ſich kein Unterſchied mehr erkennen läßt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1363,341 1363,2514 1464,2514 1464,341"/>
+            <TextEquiv>
+                <Unicode>Cedric lebte noch ſo lange, die Anyäherung dieſer Vereinigung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1451,340 1451,2514 1540,2514 1540,340"/>
+            <TextEquiv>
+                <Unicode>zu bemerken; allein erſt unter der Regierung Eduards des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1533,342 1533,2514 1627,2514 1627,342"/>
+            <TextEquiv>
+                <Unicode>Dritten wurde die vermiſchte Sprache, die ietzt Engliſch heißt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1620,341 1620,2514 1718,2514 1718,341"/>
+            <TextEquiv>
+                <Unicode>am Hofe zu London geſprochen, ſo wie auch erſt von der Zeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1711,340 1711,2514 1829,2514 1829,340"/>
+            <TextEquiv>
+                <Unicode>an der feindliche Unterſchied zwiſchen Normannen und Sachſen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1803,364 1803,1547 1881,1547 1881,364"/>
+            <TextEquiv>
+                <Unicode>gänzlich verſchwunden zu ſein ſcheint.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1862,454 1862,2512 1982,2512 1982,454"/>
+            <TextEquiv>
+                <Unicode>Am zweiten Morgen nach ihrem Hochzeitstage wurde der Lady</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1973,337 1973,2514 2052,2514 2052,337"/>
+            <TextEquiv>
+                <Unicode>Rowena von ihrer Zofe Elgitha gemeldet, daßein junges Mädchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2063,345 2063,2317 2139,2317 2139,345"/>
+            <TextEquiv>
+                <Unicode>da ſei, welches mit ihr ohne Zeugen zu ſprechen wüuſche. Rowena</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2149,346 2149,2320 2226,2320 2226,346"/>
+            <TextEquiv>
+                <Unicode>wunderte ſich darüber, wurde aber neugierig, ließt das Mäd-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2236,345 2236,2323 2316,2323 2316,345"/>
+            <TextEquiv>
+                <Unicode>chen hereinkommen und befahl ihren Leuten, ſich zu entfernen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2324,396 2324,2328 2397,2328 2397,396"/>
+            <TextEquiv>
+                <Unicode>Die Fremde trat ein - eine edle, impoſante Geſtalt. Der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2412,344 2412,2329 2489,2329 2489,344"/>
+            <TextEquiv>
+                <Unicode>lange weiße Schleier, der ſie umſloß, beſchattete mehr die An-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2498,343 2498,2330 2576,2330 2576,343"/>
+            <TextEquiv>
+                <Unicode>muth und Majeſtät ihres Weſens, als daß er ſie verhüllte. Ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2583,343 2583,2325 2661,2325 2661,343"/>
+            <TextEquiv>
+                <Unicode>Benehmen war höchſt achtungsvoll, doch ohne den mindeſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2671,283 2671,2327 2750,2327 2750,283"/>
+            <TextEquiv>
+                <Unicode>Schatten von Furcht, oder das Beſtreben, ſich Rowena&#39;s Gunſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2756,344 2756,2327 2839,2327 2839,344"/>
+            <TextEquiv>
+                <Unicode>zu erwerben. Rowena war ſtets bereit, fremde Anſprüche an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2844,344 2844,2327 2925,2327 2925,344"/>
+            <TextEquiv>
+                <Unicode>zuerkennen und fremde Gefühle zu theilen. Sie ſtand auf, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2932,347 2932,2330 3013,2330 3013,347"/>
+            <TextEquiv>
+                <Unicode>würde ſogleich die liebenswürdige Fremde zu einem Sitze ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3017,347 3017,2328 3093,2328 3093,347"/>
+            <TextEquiv>
+                <Unicode>ſührt haben, allein ſie ſah Elgitha an, nnd änßerte abermals</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3100,347 3100,2505 3190,2505 3190,347"/>
+            <TextEquiv>
+                <Unicode>den Wunſch, mit Lady Rowena allein zn reden. Elgitha war</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>194
+Wamba trug an dieſem Tage eine neue Kappe und einen un-
+geheuren Schmuck von ſilbernen Glöckchen. So wie ſie Wil-
+freds Unglück und Gefahren redlich getheilt hatten, blieben ſie
+auch im Gllück ſeine Theilnehmer und Gefährten.
+Außer dieſem Dienergefolge wurde dieſe Hochzeit auch ver-
+herrlicht durch den Beſuch vornehmer Normänner und Sachſen,
+die den allgemeinen Iubel der niedern Stände theilten, welche
+in dieſer Verbindung ein Pfand künftigen Friedens zwiſchen
+zwei Geſchlechtern erblickten, die ſich ſeit der Zeit ſo vollkom-
+men vermiſcht haben, daß ſich kein Unterſchied mehr erkennen läßt.
+Cedric lebte noch ſo lange, die Anyäherung dieſer Vereinigung
+zu bemerken; allein erſt unter der Regierung Eduards des
+Dritten wurde die vermiſchte Sprache, die ietzt Engliſch heißt,
+am Hofe zu London geſprochen, ſo wie auch erſt von der Zeit
+an der feindliche Unterſchied zwiſchen Normannen und Sachſen
+gänzlich verſchwunden zu ſein ſcheint.
+Am zweiten Morgen nach ihrem Hochzeitstage wurde der Lady
+Rowena von ihrer Zofe Elgitha gemeldet, daßein junges Mädchen
+da ſei, welches mit ihr ohne Zeugen zu ſprechen wüuſche. Rowena
+wunderte ſich darüber, wurde aber neugierig, ließt das Mäd-
+chen hereinkommen und befahl ihren Leuten, ſich zu entfernen.
+Die Fremde trat ein - eine edle, impoſante Geſtalt. Der
+lange weiße Schleier, der ſie umſloß, beſchattete mehr die An-
+muth und Majeſtät ihres Weſens, als daß er ſie verhüllte. Ihr
+Benehmen war höchſt achtungsvoll, doch ohne den mindeſten
+Schatten von Furcht, oder das Beſtreben, ſich Rowena&#39;s Gunſt
+zu erwerben. Rowena war ſtets bereit, fremde Anſprüche an-
+zuerkennen und fremde Gefühle zu theilen. Sie ſtand auf, und
+würde ſogleich die liebenswürdige Fremde zu einem Sitze ge-
+ſührt haben, allein ſie ſah Elgitha an, nnd änßerte abermals
+den Wunſch, mit Lady Rowena allein zn reden. Elgitha war</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

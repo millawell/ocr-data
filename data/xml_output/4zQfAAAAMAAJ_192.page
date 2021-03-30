@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3089" imageWidth="2119">
+    <PrintSpace>
+        <Coords points="0,0 0,2119 3089,2119 3089,2119"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2119 3089,2119 3089,2119"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="219,751 219,1190 278,1190 278,751"/>
+            <TextEquiv>
+                <Unicode>- 187 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="805,185 805,1801 932,1801 932,185"/>
+            <TextEquiv>
+                <Unicode>Drei und zwanzigſtes Kapitel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="1092,323 1092,1945 1231,1945 1231,323"/>
+            <TextEquiv>
+                <Unicode>Der Varangier verließ den Grafen von Paris</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="1238,188 1238,1764 1315,1764 1315,188"/>
+            <TextEquiv>
+                <Unicode>nicht eher, als bis dieſer ſeinen Siegelring, semee</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1327,189 1327,1766 1407,1766 1407,189"/>
+            <TextEquiv>
+                <Unicode>(wie die Wappenkundigen es benennen) mit zerſplit-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1416,189 1416,1766 1493,1766 1493,189"/>
+            <TextEquiv>
+                <Unicode>terten Lanzen und der ſtolzen Umſchrift „die mei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1505,187 1505,1765 1581,1765 1581,187"/>
+            <TextEquiv>
+                <Unicode>nige unverletzt,“ ihm in die Hände legte. Verſehen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1593,184 1593,1844 1669,1844 1669,184"/>
+            <TextEquiv>
+                <Unicode>mit dieſem Symbol des Vertrauens war es jetzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1680,186 1680,1766 1760,1766 1760,186"/>
+            <TextEquiv>
+                <Unicode>ſein Geſchäft, dem Führer des Kreuzheers Kunde</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1770,188 1770,1770 1846,1770 1846,188"/>
+            <TextEquiv>
+                <Unicode>von der herannahenden Feierlichkeit des Zweikampfes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1850,187 1850,1769 1934,1769 1934,187"/>
+            <TextEquiv>
+                <Unicode>im Namen Roberts von Paris und deſſen Gemahlin</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1945,186 1945,1770 2031,1770 2031,186"/>
+            <TextEquiv>
+                <Unicode>Brunhilde zu geben und von demſelben eine Schaar</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2030,187 2030,1770 2111,1770 2111,187"/>
+            <TextEquiv>
+                <Unicode>abendländiſcher Krieger zu begehren, die darauf zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2122,186 2122,1768 2202,1768 2202,186"/>
+            <TextEquiv>
+                <Unicode>ſehen hätte, daß Ehre und Redlichkeit in Anord-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2209,186 2209,1768 2289,1768 2289,186"/>
+            <TextEquiv>
+                <Unicode>nung der Schranken und Fortführung des Zwei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2296,187 2296,1769 2377,1769 2377,187"/>
+            <TextEquiv>
+                <Unicode>kampfes ſtreng beobachtet würden. Die Pflichten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2384,187 2384,1772 2466,1772 2466,187"/>
+            <TextEquiv>
+                <Unicode>welche unſerm Varangier auferlegt waren, machten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2477,184 2477,1930 2558,1930 2558,184"/>
+            <TextEquiv>
+                <Unicode>es ihm unmöglich, perſönlich ſich in Gottfrieds Lager</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2567,178 2567,1948 2643,1948 2643,178"/>
+            <TextEquiv>
+                <Unicode>zu begeben; und obgleich es noch manchen Varangier</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2652,182 2652,1773 2736,1773 2736,182"/>
+            <TextEquiv>
+                <Unicode>gab, auf deſſen Treue er ſich verlaſſen konnte, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2742,183 2742,1808 2833,1808 2833,183"/>
+            <TextEquiv>
+                <Unicode>ihm unter denſelben Keiner bekannt, der unter ſei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 187 -
+Drei und zwanzigſtes Kapitel.
+Der Varangier verließ den Grafen von Paris
+nicht eher, als bis dieſer ſeinen Siegelring, semee
+(wie die Wappenkundigen es benennen) mit zerſplit-
+terten Lanzen und der ſtolzen Umſchrift „die mei-
+nige unverletzt,“ ihm in die Hände legte. Verſehen
+mit dieſem Symbol des Vertrauens war es jetzt
+ſein Geſchäft, dem Führer des Kreuzheers Kunde
+von der herannahenden Feierlichkeit des Zweikampfes
+im Namen Roberts von Paris und deſſen Gemahlin
+Brunhilde zu geben und von demſelben eine Schaar
+abendländiſcher Krieger zu begehren, die darauf zu
+ſehen hätte, daß Ehre und Redlichkeit in Anord-
+nung der Schranken und Fortführung des Zwei-
+kampfes ſtreng beobachtet würden. Die Pflichten,
+welche unſerm Varangier auferlegt waren, machten
+es ihm unmöglich, perſönlich ſich in Gottfrieds Lager
+zu begeben; und obgleich es noch manchen Varangier
+gab, auf deſſen Treue er ſich verlaſſen konnte, war
+ihm unter denſelben Keiner bekannt, der unter ſei-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

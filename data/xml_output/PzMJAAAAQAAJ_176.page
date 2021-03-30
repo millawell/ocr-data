@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4088" imageWidth="2296">
+    <PrintSpace>
+        <Coords points="0,0 0,2296 4088,2296 4088,2296"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2296 4088,2296 4088,2296"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="384,303 384,462 494,462 494,303"/>
+            <TextEquiv>
+                <Unicode>324</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="382,823 382,1625 537,1625 537,823"/>
+            <TextEquiv>
+                <Unicode>THE ANTIQUARY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="578,263 578,2150 714,2150 714,263"/>
+            <TextEquiv>
+                <Unicode>religion holds most holy, tell me, reve-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="726,267 726,2152 853,2152 853,267"/>
+            <TextEquiv>
+                <Unicode>rend father, what I am to expect from a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="845,272 845,2162 967,2162 967,272"/>
+            <TextEquiv>
+                <Unicode>communication, opened by a token con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="982,270 982,2160 1084,2160 1084,270"/>
+            <TextEquiv>
+                <Unicode>nected with such horrible recollections?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1107,353 1107,2151 1225,2151 1225,353"/>
+            <TextEquiv>
+                <Unicode>The old man, appalled by a manner so</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1236,264 1236,2158 1351,2158 1351,264"/>
+            <TextEquiv>
+                <Unicode>different from what he had expected from</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1364,275 1364,2161 1481,2161 1481,275"/>
+            <TextEquiv>
+                <Unicode>the proud and powerful nobleman, was at</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1498,277 1498,2163 1602,2163 1602,277"/>
+            <TextEquiv>
+                <Unicode>a loss how to answer, and in what manner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1624,281 1624,2161 1749,2161 1749,281"/>
+            <TextEquiv>
+                <Unicode>to undeceive him - &#34;Tell me&#34;, continued</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1740,279 1740,2162 1876,2162 1876,279"/>
+            <TextEquiv>
+                <Unicode>the Earl, in a tone of increasing trepida-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1873,283 1873,2163 2004,2163 2004,283"/>
+            <TextEquiv>
+                <Unicode>tion and agony - &#34;tell me, do you come</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1995,283 1995,2167 2120,2167 2120,283"/>
+            <TextEquiv>
+                <Unicode>to say, that all that has been done to ex-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2129,285 2129,2167 2260,2167 2260,285"/>
+            <TextEquiv>
+                <Unicode>piate guilt so horrible, has been too little</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2266,284 2266,2187 2387,2187 2387,284"/>
+            <TextEquiv>
+                <Unicode>and too trivial for the offence, and to point</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2395,289 2395,2171 2481,2171 2481,289"/>
+            <TextEquiv>
+                <Unicode>out new and more efficacious modes of se-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2512,266 2512,2168 2635,2168 2635,266"/>
+            <TextEquiv>
+                <Unicode>vere penance? - I will not blench from it,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2652,291 2652,2171 2764,2171 2764,291"/>
+            <TextEquiv>
+                <Unicode>father - let me suffer the pains of my</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2771,293 2771,2173 2916,2173 2916,293"/>
+            <TextEquiv>
+                <Unicode>crime here in the body, rather than here-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2909,240 2909,1339 3020,1339 3020,240"/>
+            <TextEquiv>
+                <Unicode>after in the spirit!&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3034,303 3034,2171 3149,2171 3149,303"/>
+            <TextEquiv>
+                <Unicode>Edie had now recollection enough to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3164,298 3164,2169 3275,2169 3275,298"/>
+            <TextEquiv>
+                <Unicode>perceive, that if he did not interrupt the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3293,297 3293,2162 3417,2162 3417,297"/>
+            <TextEquiv>
+                <Unicode>frankness of Lord Glenallan&#39;s admissions,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3409,299 3409,2179 3529,2179 3529,299"/>
+            <TextEquiv>
+                <Unicode>he was likely to become the confidant of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3546,301 3546,2173 3659,2173 3659,301"/>
+            <TextEquiv>
+                <Unicode>more than might be safe for him to know.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>324
+THE ANTIQUARY.
+religion holds most holy, tell me, reve-
+rend father, what I am to expect from a
+communication, opened by a token con-
+nected with such horrible recollections?&#34;
+The old man, appalled by a manner so
+different from what he had expected from
+the proud and powerful nobleman, was at
+a loss how to answer, and in what manner
+to undeceive him - &#34;Tell me&#34;, continued
+the Earl, in a tone of increasing trepida-
+tion and agony - &#34;tell me, do you come
+to say, that all that has been done to ex-
+piate guilt so horrible, has been too little
+and too trivial for the offence, and to point
+out new and more efficacious modes of se-
+vere penance? - I will not blench from it,
+father - let me suffer the pains of my
+crime here in the body, rather than here-
+after in the spirit!&#34;
+Edie had now recollection enough to
+perceive, that if he did not interrupt the
+frankness of Lord Glenallan&#39;s admissions,
+he was likely to become the confidant of
+more than might be safe for him to know.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

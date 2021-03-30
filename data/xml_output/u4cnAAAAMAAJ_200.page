@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3464" imageWidth="2506">
+    <PrintSpace>
+        <Coords points="0,0 0,2506 3464,2506 3464,2506"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2506 3464,2506 3464,2506"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="269,1184 269,1265 332,1265 332,1184"/>
+            <TextEquiv>
+                <Unicode>15</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="462,381 462,2199 541,2199 541,381"/>
+            <TextEquiv>
+                <Unicode>„Dazu wird nicht viel Zeit bleiben,“  entgegnete Scharfen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="547,245 547,2202 628,2202 628,245"/>
+            <TextEquiv>
+                <Unicode>klau, ,,dem wird wohl der Strick zuvorkommen. So geſchwind</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="632,270 632,1106 711,1106 711,270"/>
+            <TextEquiv>
+                <Unicode>bricht ein Weiberherz nicht.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="734,380 734,2200 812,2200 812,380"/>
+            <TextEquiv>
+                <Unicode>„Kommt drauf an von was für Stoff es iſt, Herr. - Doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="820,244 820,2203 898,2203 898,244"/>
+            <TextEquiv>
+                <Unicode>kurz von der Sache, ich kann es nicht thun. Es iſt gegen mein Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="905,285 905,524 982,524 982,285"/>
+            <TextEquiv>
+                <Unicode>wiſſen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="989,380 989,2203 1086,2203 1086,380"/>
+            <TextEquiv>
+                <Unicode>,,Euer Gewiſſen, Burſche!“ ſagte Scharfenklau mit Hohn-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1091,286 1091,476 1166,476 1166,286"/>
+            <TextEquiv>
+                <Unicode>lachen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1176,378 1176,2204 1254,2204 1254,378"/>
+            <TextEquiv>
+                <Unicode>„Nun ja, Herr,“  erwiederte Ratcliffe ſehr ruhig,,,mein Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1261,244 1261,2205 1339,2205 1339,244"/>
+            <TextEquiv>
+                <Unicode>wiſſen. Jedermann hat eins, wenn es auch ſchwer iſt, ihm beizu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1346,238 1346,2206 1422,2206 1422,238"/>
+            <TextEquiv>
+                <Unicode>kommen. Meins iſt ſo gut außerm Schuß als der meiſten Leute</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1431,242 1431,2204 1509,2204 1509,242"/>
+            <TextEquiv>
+                <Unicode>ihrs; doch gehts damit wie mit der Ellbogenſpitze, manchmal kriegt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1516,251 1516,1837 1593,1837 1593,251"/>
+            <TextEquiv>
+                <Unicode>man einen Stoß weg, und da ſchmerzt es eine Weile.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1616,379 1616,2203 1697,2203 1697,379"/>
+            <TextEquiv>
+                <Unicode>„Wohl, Rat, da Ihr ſo zartſinnig ſeid, will ich ſelbſt mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1704,276 1704,683 1781,683 1781,276"/>
+            <TextEquiv>
+                <Unicode>ihr fprechen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1805,377 1805,2205 1883,2205 1883,377"/>
+            <TextEquiv>
+                <Unicode>Wirklich ließ Scharfenklau ſich zu dem kleinen dunkeln Zimmer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1891,238 1891,2203 1968,2203 1968,238"/>
+            <TextEquiv>
+                <Unicode>führen, das die unglückliche Effie jetzt bewohnte. Sie ſaß matt an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1978,194 1978,2202 2059,2202 2059,194"/>
+            <TextEquiv>
+                <Unicode>gelehnt auf ihrem Strohbettchen, in ein tiefes Träumen verloren.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2054,195 2054,2203 2140,2203 2140,195"/>
+            <TextEquiv>
+                <Unicode>Einige Speiſe ſtand auf dem Tiſch, von beſſerer Art, als Gefan-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2147,239 2147,2201 2224,2201 2224,239"/>
+            <TextEquiv>
+                <Unicode>gene ſie wohl ſonſt erhalten, allein ſie war unberührt. Der Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2231,237 2231,2208 2308,2208 2308,237"/>
+            <TextEquiv>
+                <Unicode>fängnißwärter, unter deſſen Aufſicht ſie ſtand, ſagte, daß ſie oft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2315,233 2315,2204 2411,2204 2411,233"/>
+            <TextEquiv>
+                <Unicode>in vier und zwanzig Stunden nichts als einen Trunk Waſſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2402,274 2402,491 2477,491 2477,274"/>
+            <TextEquiv>
+                <Unicode>genöſſe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2466,379 2466,2198 2566,2198 2566,379"/>
+            <TextEquiv>
+                <Unicode>Scharfenklau nahm einen Stuhl, gebot dem Schließer ſich zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2571,238 2571,2202 2648,2202 2648,238"/>
+            <TextEquiv>
+                <Unicode>entfernen, und begann das Geſpräch, indem er ſich bemühte ſeinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2657,234 2657,2198 2734,2198 2734,234"/>
+            <TextEquiv>
+                <Unicode>Ton und ſeiner Miene ſo viel Mitleidiges zu geben, als ſie füglich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2740,236 2740,2229 2819,2229 2819,236"/>
+            <TextEquiv>
+                <Unicode>ausdrücken konnten; denn jener war hart und rauh, dieſe liſtig,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2823,266 2823,941 2901,941 2901,266"/>
+            <TextEquiv>
+                <Unicode>ſtreng und ſelbſtſüchtig.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2923,376 2923,2194 3009,2194 3009,376"/>
+            <TextEquiv>
+                <Unicode>„„Nun Effie, wie iſts! Wie gehts, Kind!“ “ Ein tiefer Seuf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3012,271 3012,879 3086,879 3086,271"/>
+            <TextEquiv>
+                <Unicode>zer war die Antwort.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>15
+„Dazu wird nicht viel Zeit bleiben,“  entgegnete Scharfen-
+klau, ,,dem wird wohl der Strick zuvorkommen. So geſchwind
+bricht ein Weiberherz nicht.“
+„Kommt drauf an von was für Stoff es iſt, Herr. - Doch
+kurz von der Sache, ich kann es nicht thun. Es iſt gegen mein Ge-
+wiſſen.“
+,,Euer Gewiſſen, Burſche!“ ſagte Scharfenklau mit Hohn-
+lachen.
+„Nun ja, Herr,“  erwiederte Ratcliffe ſehr ruhig,,,mein Ge-
+wiſſen. Jedermann hat eins, wenn es auch ſchwer iſt, ihm beizu-
+kommen. Meins iſt ſo gut außerm Schuß als der meiſten Leute
+ihrs; doch gehts damit wie mit der Ellbogenſpitze, manchmal kriegt
+man einen Stoß weg, und da ſchmerzt es eine Weile.“
+„Wohl, Rat, da Ihr ſo zartſinnig ſeid, will ich ſelbſt mit
+ihr fprechen.“
+Wirklich ließ Scharfenklau ſich zu dem kleinen dunkeln Zimmer
+führen, das die unglückliche Effie jetzt bewohnte. Sie ſaß matt an-
+gelehnt auf ihrem Strohbettchen, in ein tiefes Träumen verloren.
+Einige Speiſe ſtand auf dem Tiſch, von beſſerer Art, als Gefan-
+gene ſie wohl ſonſt erhalten, allein ſie war unberührt. Der Ge-
+fängnißwärter, unter deſſen Aufſicht ſie ſtand, ſagte, daß ſie oft
+in vier und zwanzig Stunden nichts als einen Trunk Waſſer
+genöſſe.
+Scharfenklau nahm einen Stuhl, gebot dem Schließer ſich zu
+entfernen, und begann das Geſpräch, indem er ſich bemühte ſeinem
+Ton und ſeiner Miene ſo viel Mitleidiges zu geben, als ſie füglich
+ausdrücken konnten; denn jener war hart und rauh, dieſe liſtig,
+ſtreng und ſelbſtſüchtig.
+„„Nun Effie, wie iſts! Wie gehts, Kind!“ “ Ein tiefer Seuf-
+zer war die Antwort.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

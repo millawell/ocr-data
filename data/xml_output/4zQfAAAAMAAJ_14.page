@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3084" imageWidth="2132">
+    <PrintSpace>
+        <Coords points="0,0 0,2132 3084,2132 3084,2132"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2132 3084,2132 3084,2132"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="215,781 215,1168 314,1168 314,781"/>
+            <TextEquiv>
+                <Unicode>- 9 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="381,174 381,1745 457,1745 457,174"/>
+            <TextEquiv>
+                <Unicode>mit Bitten um Mitleiden, oder mit Geſchrei des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="467,174 467,1745 549,1745 549,174"/>
+            <TextEquiv>
+                <Unicode>Entſetzens oder der Angſt empſing.“ Er wendete</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="559,169 559,1824 637,1824 637,169"/>
+            <TextEquiv>
+                <Unicode>das Angeſicht gegen die Wand, und erwartete mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="648,170 648,1747 726,1747 726,170"/>
+            <TextEquiv>
+                <Unicode>der höchſten Geiſtesanſtrengung den Tod, dem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="735,191 735,872 816,872 816,191"/>
+            <TextEquiv>
+                <Unicode>ſich ganz nahe wähnte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="791,318 791,1741 905,1741 905,318"/>
+            <TextEquiv>
+                <Unicode>Seine erſten Empſindungen waren zu überwäl-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="913,170 913,1746 992,1746 992,170"/>
+            <TextEquiv>
+                <Unicode>tigend geweſen. Die Gefahr war zu dringend und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1001,127 1001,1877 1078,1877 1078,127"/>
+            <TextEquiv>
+                <Unicode>von zu ſcheuslicher Art, als daß er hätte ſogleich zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1092,150 1092,1841 1169,1841 1169,150"/>
+            <TextEquiv>
+                <Unicode>einer ruhigen Betrachtung ſeiner mißlichen Lage ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1177,169 1177,1746 1256,1746 1256,169"/>
+            <TextEquiv>
+                <Unicode>langen können; ſo daß alle deutlicheren Erwägungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1264,168 1264,1745 1343,1745 1343,168"/>
+            <TextEquiv>
+                <Unicode>von dem einen umfaſſenden Gedanken an augen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1355,164 1355,1746 1432,1746 1432,164"/>
+            <TextEquiv>
+                <Unicode>blicklichen Tod verſchlungen wurden. Allein als ſeine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1444,167 1444,1746 1521,1746 1521,167"/>
+            <TextEquiv>
+                <Unicode>Begriffe ſich ſonderten, fuhr ihm der Gedanke an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1534,166 1534,1746 1611,1746 1611,166"/>
+            <TextEquiv>
+                <Unicode>ſeine Gattin durch die Seele. Was mogte ſie Ietzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1622,165 1622,1820 1698,1820 1698,165"/>
+            <TextEquiv>
+                <Unicode>leiden! und was mogte, während er einer ſo außer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1708,167 1708,1744 1787,1744 1787,167"/>
+            <TextEquiv>
+                <Unicode>ordentlichen Prüfung unterworfen ward, ihrem ſchwä-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1800,103 1800,1748 1875,1748 1875,103"/>
+            <TextEquiv>
+                <Unicode>cheren und weiblichen Muthe vorbehalten worden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1889,165 1889,1748 1967,1748 1967,165"/>
+            <TextEquiv>
+                <Unicode>ſeyn? Befand ſie ſich noch wenige Schritte weit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1975,166 1975,1746 2054,1746 2054,166"/>
+            <TextEquiv>
+                <Unicode>von ihm, wie es der Fall war, als ſie ſich Abends</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2064,168 2064,1744 2144,1744 2144,168"/>
+            <TextEquiv>
+                <Unicode>vorher ſchlafen legten? Oder hatten die Barbaren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2154,166 2154,1744 2232,1744 2232,166"/>
+            <TextEquiv>
+                <Unicode>die ihm ein ſo grauſames Loos bereiteten, ſich und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2245,166 2245,1745 2321,1745 2321,166"/>
+            <TextEquiv>
+                <Unicode>ſeiner Gattin unvorſichtiges Vertrauen zu Nutzen ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2333,166 2333,1745 2410,1745 2410,166"/>
+            <TextEquiv>
+                <Unicode>macht, um ihr eine ähnliche oder gar noch abſcheu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2421,168 2421,1745 2498,1745 2498,168"/>
+            <TextEquiv>
+                <Unicode>lichere Schmach aufzuerlegen? Schlief ſie oder wachte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2510,167 2510,1745 2587,1745 2587,167"/>
+            <TextEquiv>
+                <Unicode>ſie, oder konnte ſie in der Nähe eines ſo ſchreck-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2598,166 2598,1743 2677,1743 2677,166"/>
+            <TextEquiv>
+                <Unicode>lichen Gebrülles ſchlafen, das alles ringsum erſchüt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2688,163 2688,1743 2763,1743 2763,163"/>
+            <TextEquiv>
+                <Unicode>terte? Er beſchloß, ſie zu rufen, ſie wo möglich zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2773,163 2773,1762 2881,1762 2881,163"/>
+            <TextEquiv>
+                <Unicode>warnen, auf ihrer Huth zu ſeyn und ſich in Acht zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 9 -
+mit Bitten um Mitleiden, oder mit Geſchrei des
+Entſetzens oder der Angſt empſing.“ Er wendete
+das Angeſicht gegen die Wand, und erwartete mit
+der höchſten Geiſtesanſtrengung den Tod, dem er
+ſich ganz nahe wähnte.
+Seine erſten Empſindungen waren zu überwäl-
+tigend geweſen. Die Gefahr war zu dringend und
+von zu ſcheuslicher Art, als daß er hätte ſogleich zu
+einer ruhigen Betrachtung ſeiner mißlichen Lage ge-
+langen können; ſo daß alle deutlicheren Erwägungen
+von dem einen umfaſſenden Gedanken an augen-
+blicklichen Tod verſchlungen wurden. Allein als ſeine
+Begriffe ſich ſonderten, fuhr ihm der Gedanke an
+ſeine Gattin durch die Seele. Was mogte ſie Ietzt
+leiden! und was mogte, während er einer ſo außer-
+ordentlichen Prüfung unterworfen ward, ihrem ſchwä-
+cheren und weiblichen Muthe vorbehalten worden
+ſeyn? Befand ſie ſich noch wenige Schritte weit
+von ihm, wie es der Fall war, als ſie ſich Abends
+vorher ſchlafen legten? Oder hatten die Barbaren,
+die ihm ein ſo grauſames Loos bereiteten, ſich und
+ſeiner Gattin unvorſichtiges Vertrauen zu Nutzen ge-
+macht, um ihr eine ähnliche oder gar noch abſcheu-
+lichere Schmach aufzuerlegen? Schlief ſie oder wachte
+ſie, oder konnte ſie in der Nähe eines ſo ſchreck-
+lichen Gebrülles ſchlafen, das alles ringsum erſchüt-
+terte? Er beſchloß, ſie zu rufen, ſie wo möglich zu
+warnen, auf ihrer Huth zu ſeyn und ſich in Acht zu</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3033" imageWidth="2127">
+    <PrintSpace>
+        <Coords points="0,0 0,2127 3033,2127 3033,2127"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2127 3033,2127 3033,2127"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="269,181 269,1893 352,1893 352,181"/>
+            <TextEquiv>
+                <Unicode>für die faulen Kreppmänner, die prahlhänſigen Pfaffen zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="341,182 341,1892 420,1892 420,182"/>
+            <TextEquiv>
+                <Unicode>Oxford, zu machen, deren Augen dermaßen von Fette über-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="414,180 414,1891 492,1891 492,180"/>
+            <TextEquiv>
+                <Unicode>ſchwollen waren, daß ſie das Verderben nicht eher ſehen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="485,178 485,1893 562,1893 562,178"/>
+            <TextEquiv>
+                <Unicode>konnten, als bis dieſes ſie bei der Kehle faßte. Ich aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="556,178 556,1893 635,1893 635,178"/>
+            <TextEquiv>
+                <Unicode>kann&#39;s Euch ſagen, allwo das Schwert geſchmiedet, geſotten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="629,179 629,1891 708,1891 708,179"/>
+            <TextEquiv>
+                <Unicode>und geſchweißt, gewetzt und polirt ward. Während Ihr,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="699,180 699,1896 779,1896 779,180"/>
+            <TextEquiv>
+                <Unicode>wie ich vorhin ſchon ſagte, Taſchenmeſſer für falſche Prie-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="770,179 770,1895 844,1895 844,179"/>
+            <TextEquiv>
+                <Unicode>ſter, und Dolche für liederliche G-tt verd-m- mich -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="840,180 840,1895 919,1895 919,180"/>
+            <TextEquiv>
+                <Unicode>Ritter machtet, dem Volke Englands die Gurgel damit ab-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="914,179 914,1892 991,1892 991,179"/>
+            <TextEquiv>
+                <Unicode>zuſchneiden,  da ward es geſchmiedet zu Long Marſton</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="981,178 981,1894 1065,1894 1065,178"/>
+            <TextEquiv>
+                <Unicode>Moor, wo die Schläge hageldichter fielen, als jemals der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1055,177 1055,1891 1133,1891 1133,177"/>
+            <TextEquiv>
+                <Unicode>Schmiedehammer auf einen Ambos, und es ward geſotten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1127,176 1127,1892 1205,1892 1205,176"/>
+            <TextEquiv>
+                <Unicode>zu Naſeby, im beſten Blute der Ritter - und geſchweißt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1199,178 1199,1891 1277,1891 1277,178"/>
+            <TextEquiv>
+                <Unicode>ward es in Ireland an den Mauern von Drogheda - und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1271,180 1271,1891 1348,1891 1348,180"/>
+            <TextEquiv>
+                <Unicode>gewetzt ward es an dem Leben der Schotten zu Dunbar -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1342,175 1342,1892 1422,1892 1422,175"/>
+            <TextEquiv>
+                <Unicode>und polirt ward es neuerdings zu Worceſter, dergeſtalt, daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1413,176 1413,1890 1491,1890 1491,176"/>
+            <TextEquiv>
+                <Unicode>es ſo hell blitzt, wie die Sonne am Mittagshimmel, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1484,175 1484,1892 1565,1892 1565,175"/>
+            <TextEquiv>
+                <Unicode>es kein Licht in England gibt, das ihm gleich kommen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1558,173 1558,458 1652,458 1652,173"/>
+            <TextEquiv>
+                <Unicode>möchte.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1626,287 1626,1892 1706,1892 1706,287"/>
+            <TextEquiv>
+                <Unicode>Hier erhob der militäriſche Theil der Zuhörerſchaft ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1698,169 1698,1894 1778,1894 1778,169"/>
+            <TextEquiv>
+                <Unicode>Beifallsgemurmel, das im Klange dem „Hört! hört!“ des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1768,168 1768,1894 1849,1894 1849,168"/>
+            <TextEquiv>
+                <Unicode>brittiſchen Unterhauſes gleich kam, und darauf berechnet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1839,171 1839,1890 1919,1890 1919,171"/>
+            <TextEquiv>
+                <Unicode>war, die Begeiſterung des Redners zu erhöhen, indem es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1911,178 1911,1512 1990,1512 1990,178"/>
+            <TextEquiv>
+                <Unicode>die Theilnahme der Zuhörer ausdrücken ſollte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1983,178 1983,1892 2064,1892 2064,178"/>
+            <TextEquiv>
+                <Unicode>„Und weiter!“  nahm der Prieſter wieder das Wort,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2054,167 2054,1893 2136,1893 2136,167"/>
+            <TextEquiv>
+                <Unicode>indem er ſich zur Energie erhob, da er fand, daß ſein Audi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2127,166 2127,1892 2209,1892 2209,166"/>
+            <TextEquiv>
+                <Unicode>torium in ſeine Gefühle einging: „Was ſagt der Tert?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2198,146 2198,1893 2278,1893 2278,146"/>
+            <TextEquiv>
+                <Unicode>&#39;Zeuch einher, es müſſe Dir gelingen&#39; - halte nicht inne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2270,166 2270,1893 2347,1893 2347,166"/>
+            <TextEquiv>
+                <Unicode>- denk&#39; an keinen Stillſtand - verlaſſe den Sattel nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2341,167 2341,1894 2420,1894 2420,167"/>
+            <TextEquiv>
+                <Unicode>- verfolge die zerſtreuten Flüchtlinge - ſtoß&#39; in die Trom-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2412,167 2412,1892 2489,1892 2489,167"/>
+            <TextEquiv>
+                <Unicode>pete - keinen Iubeltuſch laß erſchallen - ſondern einen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2484,166 2484,1893 2560,1893 2560,166"/>
+            <TextEquiv>
+                <Unicode>Kriegston - Trompetenſtoß, Stiefel und Sattel - zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2554,170 2554,1892 2635,1892 2635,170"/>
+            <TextEquiv>
+                <Unicode>Roß und vorwärts - Feuer! - Setze dem jungen Manne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2624,167 2624,1893 2706,1893 2706,167"/>
+            <TextEquiv>
+                <Unicode>nach! - welchen Theil haben wir an ihm - Schlag</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2695,165 2695,1893 2771,1893 2771,165"/>
+            <TextEquiv>
+                <Unicode>nimm, verwüſte, theile die Beute! Geſegnet ſeyſt Du, Oli-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2765,166 2765,1895 2846,1895 2846,166"/>
+            <TextEquiv>
+                <Unicode>ver, von wegen Deines Ruhmes  Deine Sache iſt lau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2836,164 2836,1893 2920,1893 2920,164"/>
+            <TextEquiv>
+                <Unicode>ter, Dein Beruf iſt unbezweifelt - nimmer hat Dein Feld-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>für die faulen Kreppmänner, die prahlhänſigen Pfaffen zu
+Oxford, zu machen, deren Augen dermaßen von Fette über-
+ſchwollen waren, daß ſie das Verderben nicht eher ſehen
+konnten, als bis dieſes ſie bei der Kehle faßte. Ich aber
+kann&#39;s Euch ſagen, allwo das Schwert geſchmiedet, geſotten
+und geſchweißt, gewetzt und polirt ward. Während Ihr,
+wie ich vorhin ſchon ſagte, Taſchenmeſſer für falſche Prie-
+ſter, und Dolche für liederliche G-tt verd-m- mich -
+Ritter machtet, dem Volke Englands die Gurgel damit ab-
+zuſchneiden,  da ward es geſchmiedet zu Long Marſton
+Moor, wo die Schläge hageldichter fielen, als jemals der
+Schmiedehammer auf einen Ambos, und es ward geſotten
+zu Naſeby, im beſten Blute der Ritter - und geſchweißt
+ward es in Ireland an den Mauern von Drogheda - und
+gewetzt ward es an dem Leben der Schotten zu Dunbar -
+und polirt ward es neuerdings zu Worceſter, dergeſtalt, daß
+es ſo hell blitzt, wie die Sonne am Mittagshimmel, und
+es kein Licht in England gibt, das ihm gleich kommen
+möchte.“
+Hier erhob der militäriſche Theil der Zuhörerſchaft ein
+Beifallsgemurmel, das im Klange dem „Hört! hört!“ des
+brittiſchen Unterhauſes gleich kam, und darauf berechnet
+war, die Begeiſterung des Redners zu erhöhen, indem es
+die Theilnahme der Zuhörer ausdrücken ſollte.
+„Und weiter!“  nahm der Prieſter wieder das Wort,
+indem er ſich zur Energie erhob, da er fand, daß ſein Audi-
+torium in ſeine Gefühle einging: „Was ſagt der Tert?
+&#39;Zeuch einher, es müſſe Dir gelingen&#39; - halte nicht inne
+- denk&#39; an keinen Stillſtand - verlaſſe den Sattel nicht
+- verfolge die zerſtreuten Flüchtlinge - ſtoß&#39; in die Trom-
+pete - keinen Iubeltuſch laß erſchallen - ſondern einen
+Kriegston - Trompetenſtoß, Stiefel und Sattel - zu
+Roß und vorwärts - Feuer! - Setze dem jungen Manne
+nach! - welchen Theil haben wir an ihm - Schlag
+nimm, verwüſte, theile die Beute! Geſegnet ſeyſt Du, Oli-
+ver, von wegen Deines Ruhmes  Deine Sache iſt lau-
+ter, Dein Beruf iſt unbezweifelt - nimmer hat Dein Feld-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

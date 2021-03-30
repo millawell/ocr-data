@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3497" imageWidth="2533">
+    <PrintSpace>
+        <Coords points="0,0 0,2533 3497,2533 3497,2533"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2533 3497,2533 3497,2533"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="208,1224 208,1383 286,1383 286,1224"/>
+            <TextEquiv>
+                <Unicode>119</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="372,321 372,2298 474,2298 474,321"/>
+            <TextEquiv>
+                <Unicode>Die Bürger der Stadt, oder, wie ſie lieber ſagten, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="484,323 484,2299 560,2299 560,323"/>
+            <TextEquiv>
+                <Unicode>guten Stadt Perth, hatten ſeit mehreren Generationen einen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="568,322 568,2299 647,2299 647,322"/>
+            <TextEquiv>
+                <Unicode>Beſchützer und Oberrichter ſolcher Art in dem edlen Hauſe der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="658,317 658,2298 733,2298 733,317"/>
+            <TextEquiv>
+                <Unicode>Charteris, Herren von Kinfauns, in der Nähe der Stadt ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="745,318 745,2299 821,2299 821,318"/>
+            <TextEquiv>
+                <Unicode>funden. Kaum ein Jahrhundert (zur Zeit Roberts III.) war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="833,318 833,2298 911,2298 911,318"/>
+            <TextEquiv>
+                <Unicode>verſchwunden, ſeit der Erſte dieſer ausgezeichneten Familie ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="919,319 919,2297 997,2297 997,319"/>
+            <TextEquiv>
+                <Unicode>auf dem feſten Schloſſe niedergelaſſen hatte, das ihm damals</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1003,323 1003,2294 1083,2294 1083,323"/>
+            <TextEquiv>
+                <Unicode>gehörte, ſo wie das maleriſche und fruchtbare Gebiet ringsum.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1092,323 1092,2345 1172,2345 1172,323"/>
+            <TextEquiv>
+                <Unicode>Aber die Geſchichte deſſen, der ſich ſo angeſiedelt hatte, an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1182,318 1182,2295 1264,2295 1264,318"/>
+            <TextEquiv>
+                <Unicode>ſich ſchon ritterlich und romantiſch, war geeignet, die Nieder-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1267,322 1267,2293 1350,2293 1350,322"/>
+            <TextEquiv>
+                <Unicode>laſſung eines Fremden in dem Lande zu erleichtern, wohin</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1353,320 1353,2297 1432,2297 1432,320"/>
+            <TextEquiv>
+                <Unicode>das Schickſal ihn geführt hatte. Wir erzählen ſie, wie ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1443,316 1443,2293 1520,2293 1520,316"/>
+            <TextEquiv>
+                <Unicode>eine alte Sage gibt, welche große Wahrſcheinlichkeit hat und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1525,319 1525,2293 1608,2293 1608,319"/>
+            <TextEquiv>
+                <Unicode>vielleicht begründet genug iſt, um in ernſteren Geſchichtsbü-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1619,327 1619,1910 1694,1910 1694,327"/>
+            <TextEquiv>
+                <Unicode>chern, als das vorliegende, eine Stelle zu ſinden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1703,429 1703,2292 1780,2292 1780,429"/>
+            <TextEquiv>
+                <Unicode>Während der kurzen Laufbahn des berühmten Patrioten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1789,321 1789,2290 1867,2290 1867,321"/>
+            <TextEquiv>
+                <Unicode>Sir William Wallace, und als ſeine Waffen für eine Zeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1878,318 1878,2294 1956,2294 1956,318"/>
+            <TextEquiv>
+                <Unicode>lang die engliſchen Eindringlinge aus ſeinem Vaterlande ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1962,322 1962,2293 2052,2293 2052,322"/>
+            <TextEquiv>
+                <Unicode>trieben hatten, ſoll er mit einigen vertrauten Freunden eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2046,318 2046,2290 2128,2290 2128,318"/>
+            <TextEquiv>
+                <Unicode>Fahrt nach Frankreich unternommen haben, um zu verſuchen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2136,317 2136,2293 2214,2293 2214,317"/>
+            <TextEquiv>
+                <Unicode>ob ſeine perſönliche Gegenwart (denn er war in allen Län-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2221,316 2221,2294 2304,2294 2304,316"/>
+            <TextEquiv>
+                <Unicode>dern ſeiner Tapferkeit wegen geachtet) den König von Frank-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2310,307 2310,2293 2390,2293 2390,307"/>
+            <TextEquiv>
+                <Unicode>reich beſtimmen könnte, ein Corps Hülfstruppen nach Schott-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2396,317 2396,2289 2477,2289 2477,317"/>
+            <TextEquiv>
+                <Unicode>land zu ſchicken, oder einen andern Beiſtand, um den Schot-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2484,315 2484,2286 2564,2286 2564,315"/>
+            <TextEquiv>
+                <Unicode>ten zu Wiedergewinnung ihrer Unabhängigkeit zu verhelfen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2570,427 2570,2285 2652,2285 2652,427"/>
+            <TextEquiv>
+                <Unicode>Der ſchottiſche Held befand ſich an Bord eines kleinen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2658,306 2658,2289 2739,2289 2739,306"/>
+            <TextEquiv>
+                <Unicode>Fahrzeugs und ſteuerte nach dem Hafen von Dieppe, als in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2747,316 2747,2287 2824,2287 2824,316"/>
+            <TextEquiv>
+                <Unicode>der Ferne ein Segel erſchien, welches die Seefahrer anfangs</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2836,344 2836,1065 2912,1065 2912,344"/>
+            <TextEquiv>
+                <Unicode>mit Furcht und Beſorg</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2922,347 2922,1054 2995,1054 2995,347"/>
+            <TextEquiv>
+                <Unicode>Schrecken betrachteten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3007,346 3007,1067 3084,1067 3084,346"/>
+            <TextEquiv>
+                <Unicode>stürzung rühre, unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>119
+Die Bürger der Stadt, oder, wie ſie lieber ſagten, der
+guten Stadt Perth, hatten ſeit mehreren Generationen einen
+Beſchützer und Oberrichter ſolcher Art in dem edlen Hauſe der
+Charteris, Herren von Kinfauns, in der Nähe der Stadt ge-
+funden. Kaum ein Jahrhundert (zur Zeit Roberts III.) war
+verſchwunden, ſeit der Erſte dieſer ausgezeichneten Familie ſich
+auf dem feſten Schloſſe niedergelaſſen hatte, das ihm damals
+gehörte, ſo wie das maleriſche und fruchtbare Gebiet ringsum.
+Aber die Geſchichte deſſen, der ſich ſo angeſiedelt hatte, an
+ſich ſchon ritterlich und romantiſch, war geeignet, die Nieder-
+laſſung eines Fremden in dem Lande zu erleichtern, wohin
+das Schickſal ihn geführt hatte. Wir erzählen ſie, wie ſie
+eine alte Sage gibt, welche große Wahrſcheinlichkeit hat und
+vielleicht begründet genug iſt, um in ernſteren Geſchichtsbü-
+chern, als das vorliegende, eine Stelle zu ſinden.
+Während der kurzen Laufbahn des berühmten Patrioten
+Sir William Wallace, und als ſeine Waffen für eine Zeit
+lang die engliſchen Eindringlinge aus ſeinem Vaterlande ver-
+trieben hatten, ſoll er mit einigen vertrauten Freunden eine
+Fahrt nach Frankreich unternommen haben, um zu verſuchen,
+ob ſeine perſönliche Gegenwart (denn er war in allen Län-
+dern ſeiner Tapferkeit wegen geachtet) den König von Frank-
+reich beſtimmen könnte, ein Corps Hülfstruppen nach Schott-
+land zu ſchicken, oder einen andern Beiſtand, um den Schot-
+ten zu Wiedergewinnung ihrer Unabhängigkeit zu verhelfen.
+Der ſchottiſche Held befand ſich an Bord eines kleinen
+Fahrzeugs und ſteuerte nach dem Hafen von Dieppe, als in
+der Ferne ein Segel erſchien, welches die Seefahrer anfangs
+mit Furcht und Beſorg
+Schrecken betrachteten.
+stürzung rühre, unter</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

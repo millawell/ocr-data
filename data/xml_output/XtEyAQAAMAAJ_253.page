@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3507" imageWidth="2544">
+    <PrintSpace>
+        <Coords points="0,0 0,2544 3507,2544 3507,2544"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2544 3507,2544 3507,2544"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="191,1214 191,1562 294,1562 294,1214"/>
+            <TextEquiv>
+                <Unicode>238</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="371,366 371,1945 471,1945 471,366"/>
+            <TextEquiv>
+                <Unicode>Iſt einer drum verliebt, war&#39;s, will&#39;s noch ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="461,368 461,1813 540,1813 540,368"/>
+            <TextEquiv>
+                <Unicode>Der ſicht mit Hektor, ſonſt - ſtell ich mich ein.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="546,424 546,2293 644,2293 644,424"/>
+            <TextEquiv>
+                <Unicode>Neſtor. Sag&#39; ihm vor Neſtor, der ein Mann war, als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="614,367 614,1841 692,1841 692,367"/>
+            <TextEquiv>
+                <Unicode>Sein Aeltervater Säugling - (er iſt alt nun) -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="679,369 679,1657 768,1657 768,369"/>
+            <TextEquiv>
+                <Unicode>Doch findet ſich in unſerm griech&#39;ſchen Heer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="754,369 754,1650 832,1650 832,369"/>
+            <TextEquiv>
+                <Unicode>Kein edler Mann, der in ſich Feuer fühlt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="823,364 823,1812 899,1812 899,364"/>
+            <TextEquiv>
+                <Unicode>Zu kämpfen für ſein Lieb, ſag&#39; ihm von mir: -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="892,367 892,1663 967,1663 967,367"/>
+            <TextEquiv>
+                <Unicode>Den Silberbart berg&#39; ich in goldnem Helm,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="959,368 959,1518 1033,1518 1033,368"/>
+            <TextEquiv>
+                <Unicode>In Eiſenſchienen dieſen welken Arm,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1024,358 1024,1914 1104,1914 1104,358"/>
+            <TextEquiv>
+                <Unicode>und treff ich ihn, ſag&#39; ich: mein Weib war ſchöner,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1094,365 1094,1560 1173,1560 1173,365"/>
+            <TextEquiv>
+                <Unicode>Als ſeine Aeltermutter, keuſcher als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1165,369 1165,1417 1240,1417 1240,369"/>
+            <TextEquiv>
+                <Unicode>Je eine: gegen ſeinen Jugendmuth</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1407,449 1407,939 1482,939 1482,449"/>
+            <TextEquiv>
+                <Unicode>Ulyſſ. Amen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1492,420 1492,1971 1582,1971 1582,420"/>
+            <TextEquiv>
+                <Unicode>Agamem. Edler Aeneas, reich&#39; mir deine Hand;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1561,213 1561,1623 1636,1623 1636,213"/>
+            <TextEquiv>
+                <Unicode>Ich führ&#39; dich, Herr, in meinen Pavillon.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1615,213 1615,1511 1710,1511 1710,213"/>
+            <TextEquiv>
+                <Unicode>Achill ſoll hören, was ihr habt beſtellt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1699,356 1699,1627 1775,1627 1775,356"/>
+            <TextEquiv>
+                <Unicode>Wie jeder griech&#39;ſche Herr von Zelt zu Zelt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1768,351 1768,1720 1842,1720 1842,351"/>
+            <TextEquiv>
+                <Unicode>Du ſelbſt ſollſt, eh&#39; du geheſt, mit uns ſpeiſen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1833,351 1833,1661 1912,1661 1912,351"/>
+            <TextEquiv>
+                <Unicode>Und uns als edler Feind willkommen heißen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1993,436 1993,1049 2066,1049 2066,436"/>
+            <TextEquiv>
+                <Unicode>Ulyſſ. Neſtor, -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2079,426 2079,1334 2153,1334 2153,426"/>
+            <TextEquiv>
+                <Unicode>Neſtor. Was ſagt Ulyſſes?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1921,1293 1921,2250 1990,2250 1990,1293"/>
+            <TextEquiv>
+                <Unicode>(Alle außer Ulyſſes und Neſtor gehen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2163,417 2163,1799 2240,1799 2240,417"/>
+            <TextEquiv>
+                <Unicode>Ulyſſ. Ich hab&#39; eine Idee in meinem Hirn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2233,351 2233,1562 2309,1562 2309,351"/>
+            <TextEquiv>
+                <Unicode>Sei du die Zeit, die ſie zur Reife bringt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2316,432 2316,1090 2399,1090 2399,432"/>
+            <TextEquiv>
+                <Unicode>Neſtor. Was iſt&#39;s?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2393,432 2393,905 2481,905 2481,432"/>
+            <TextEquiv>
+                <Unicode>Ulyſſ. Dies:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2474,339 2474,1884 2551,1884 2551,339"/>
+            <TextEquiv>
+                <Unicode>Ein ſtumpfer Keil ſprengt harten Klotz: den Stolz,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2544,339 2544,1755 2619,1755 2619,339"/>
+            <TextEquiv>
+                <Unicode>Den Stolz, der ſchnell emporgereift im üppigen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2611,344 2611,1503 2685,1503 2685,344"/>
+            <TextEquiv>
+                <Unicode>Achill, muß man abpflücken jetzo, oder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2681,340 2681,1669 2756,1669 2756,340"/>
+            <TextEquiv>
+                <Unicode>Er wird, beſamt, viel gleiches Uebel zeugen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2920,344 2920,2031 2995,2031 2995,344"/>
+            <TextEquiv>
+                <Unicode>Ulyſſ. Der Vorſchlag, den der wackre Hektor ſchickt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>238
+Iſt einer drum verliebt, war&#39;s, will&#39;s noch ſein,
+Der ſicht mit Hektor, ſonſt - ſtell ich mich ein.
+Neſtor. Sag&#39; ihm vor Neſtor, der ein Mann war, als
+Sein Aeltervater Säugling - (er iſt alt nun) -
+Doch findet ſich in unſerm griech&#39;ſchen Heer
+Kein edler Mann, der in ſich Feuer fühlt
+Zu kämpfen für ſein Lieb, ſag&#39; ihm von mir: -
+Den Silberbart berg&#39; ich in goldnem Helm,
+In Eiſenſchienen dieſen welken Arm,
+und treff ich ihn, ſag&#39; ich: mein Weib war ſchöner,
+Als ſeine Aeltermutter, keuſcher als
+Je eine: gegen ſeinen Jugendmuth
+Ulyſſ. Amen.
+Agamem. Edler Aeneas, reich&#39; mir deine Hand;
+Ich führ&#39; dich, Herr, in meinen Pavillon.
+Achill ſoll hören, was ihr habt beſtellt,
+Wie jeder griech&#39;ſche Herr von Zelt zu Zelt.
+Du ſelbſt ſollſt, eh&#39; du geheſt, mit uns ſpeiſen
+Und uns als edler Feind willkommen heißen.
+Ulyſſ. Neſtor, -
+Neſtor. Was ſagt Ulyſſes?
+(Alle außer Ulyſſes und Neſtor gehen.
+Ulyſſ. Ich hab&#39; eine Idee in meinem Hirn,
+Sei du die Zeit, die ſie zur Reife bringt.
+Neſtor. Was iſt&#39;s?
+Ulyſſ. Dies:
+Ein ſtumpfer Keil ſprengt harten Klotz: den Stolz,
+Den Stolz, der ſchnell emporgereift im üppigen
+Achill, muß man abpflücken jetzo, oder
+Er wird, beſamt, viel gleiches Uebel zeugen,
+Ulyſſ. Der Vorſchlag, den der wackre Hektor ſchickt,</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

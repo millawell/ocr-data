@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3103" imageWidth="2160">
+    <PrintSpace>
+        <Coords points="0,0 0,2160 3103,2160 3103,2160"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2160 3103,2160 3103,2160"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="209,814 209,1220 318,1220 318,814"/>
+            <TextEquiv>
+                <Unicode>- 75 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="338,234 338,1804 452,1804 452,234"/>
+            <TextEquiv>
+                <Unicode>werde, thätig zu ſeyn, ſobald es mit Ehren geſche-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="462,262 462,601 538,601 538,262"/>
+            <TextEquiv>
+                <Unicode>hen kann.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="550,233 550,1804 634,1804 634,233"/>
+            <TextEquiv>
+                <Unicode>„Daran zweifle ich nicht; doch bedünkt mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="648,228 648,1805 726,1805 726,228"/>
+            <TextEquiv>
+                <Unicode>ſolche Unterſcheidung etwas ſonderbar,“ entgegnete</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="729,172 729,1806 812,1806 812,172"/>
+            <TextEquiv>
+                <Unicode>der Varangier, „indem ſie einem Manne nur dann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="825,230 825,1806 934,1806 934,230"/>
+            <TextEquiv>
+                <Unicode>geſtattet, ſich ſeiner Haut zu wehren, ſobald er erſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="908,243 908,1269 992,1269 992,243"/>
+            <TextEquiv>
+                <Unicode>ſeinen Stammbaum befragt hat.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1012,368 1012,1800 1094,1800 1094,368"/>
+            <TextEquiv>
+                <Unicode>„Seyd ohne Furcht, Herr,“ ſagte Graf Ro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1104,218 1104,1982 1181,1982 1181,218"/>
+            <TextEquiv>
+                <Unicode>bert. „Die ſtrenge Regel der Ritterſchaft ſchreibt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1194,228 1194,1804 1269,1804 1269,228"/>
+            <TextEquiv>
+                <Unicode>allerdings das vor, was ich Dir ſagte; doch wenn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1279,226 1279,1802 1357,1802 1357,226"/>
+            <TextEquiv>
+                <Unicode>es darauf ankommt, ſich durchzuſchlagen, ſo lei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1367,227 1367,1801 1447,1801 1447,227"/>
+            <TextEquiv>
+                <Unicode>det dieſe Regel weſentliche Abänderung und Aus-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1450,242 1450,606 1534,606 1534,242"/>
+            <TextEquiv>
+                <Unicode>nahme.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1556,370 1556,1793 1635,1793 1635,370"/>
+            <TextEquiv>
+                <Unicode>„So laß mich denn das Zeichen der Beſchwö-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1647,163 1647,1803 1728,1803 1728,163"/>
+            <TextEquiv>
+                <Unicode>rung geben,“ verſetzte Heribert, „und dann wollen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1730,228 1730,1646 1840,1646 1840,228"/>
+            <TextEquiv>
+                <Unicode>wir ſehen, was für ein böſer Geiſt erſcheint.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1832,368 1832,1796 1933,1796 1933,368"/>
+            <TextEquiv>
+                <Unicode>Indem er dies ſprach, klopfte er auf eine be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1944,232 1944,1288 2021,1288 2021,232"/>
+            <TextEquiv>
+                <Unicode>ſondere Weiſe und die Thür öffn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2034,237 2034,1213 2110,1213 2110,237"/>
+            <TextEquiv>
+                <Unicode>Eine zwerghafte Negerin ſtand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2122,233 2122,1249 2195,1249 2195,233"/>
+            <TextEquiv>
+                <Unicode>Das weiße Haar der Schwarze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2212,229 2212,1248 2285,1248 2285,229"/>
+            <TextEquiv>
+                <Unicode>Widerſpruche mit ihrer Hautfa</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2300,237 2300,1247 2374,1247 2374,237"/>
+            <TextEquiv>
+                <Unicode>ſchrillenden Lachen, das dieſen S</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2388,233 2388,1234 2468,1234 2468,233"/>
+            <TextEquiv>
+                <Unicode>pflegt. Sie hatte in ihren Zügen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2473,233 2473,1246 2553,1246 2553,233"/>
+            <TextEquiv>
+                <Unicode>es unterſucht ward, wie Boshe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2564,236 2564,1061 2641,1061 2641,236"/>
+            <TextEquiv>
+                <Unicode>über Menſchenelend ausſah.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2666,375 2666,1238 2755,1238 2755,375"/>
+            <TextEquiv>
+                <Unicode>„Iſt Agelaſtes -“ ſprachd</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2748,228 2748,1243 2852,1243 2852,228"/>
+            <TextEquiv>
+                <Unicode>hatte er die arte nach im Mu</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 75 -
+werde, thätig zu ſeyn, ſobald es mit Ehren geſche-
+hen kann.“
+„Daran zweifle ich nicht; doch bedünkt mich
+ſolche Unterſcheidung etwas ſonderbar,“ entgegnete
+der Varangier, „indem ſie einem Manne nur dann
+geſtattet, ſich ſeiner Haut zu wehren, ſobald er erſt
+ſeinen Stammbaum befragt hat.“
+„Seyd ohne Furcht, Herr,“ ſagte Graf Ro-
+bert. „Die ſtrenge Regel der Ritterſchaft ſchreibt
+allerdings das vor, was ich Dir ſagte; doch wenn
+es darauf ankommt, ſich durchzuſchlagen, ſo lei-
+det dieſe Regel weſentliche Abänderung und Aus-
+nahme.“
+„So laß mich denn das Zeichen der Beſchwö-
+rung geben,“ verſetzte Heribert, „und dann wollen
+wir ſehen, was für ein böſer Geiſt erſcheint.“
+Indem er dies ſprach, klopfte er auf eine be-
+ſondere Weiſe und die Thür öffn
+Eine zwerghafte Negerin ſtand
+Das weiße Haar der Schwarze
+Widerſpruche mit ihrer Hautfa
+ſchrillenden Lachen, das dieſen S
+pflegt. Sie hatte in ihren Zügen
+es unterſucht ward, wie Boshe
+über Menſchenelend ausſah.
+„Iſt Agelaſtes -“ ſprachd
+hatte er die arte nach im Mu</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

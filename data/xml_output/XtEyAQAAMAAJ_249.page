@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3518" imageWidth="2565">
+    <PrintSpace>
+        <Coords points="0,0 0,2565 3518,2565 3518,2565"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2565 3518,2565 3518,2565"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="211,1313 211,1448 311,1448 311,1313"/>
+            <TextEquiv>
+                <Unicode>234</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="405,374 405,1782 488,1782 488,374"/>
+            <TextEquiv>
+                <Unicode>Gibt er dein Herrſcheranſehn ſich, und wie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="480,377 480,1643 558,1643 558,377"/>
+            <TextEquiv>
+                <Unicode>Ein eitler Spieler - deſſen ganzer Witz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="546,372 546,1787 626,1787 626,372"/>
+            <TextEquiv>
+                <Unicode>Im Kniebug liegt, und der ein Gott ſich dünkt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="614,373 614,1687 694,1687 694,373"/>
+            <TextEquiv>
+                <Unicode>Hört er das hölzerne Geſpräch, den Klang</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="686,372 686,1716 762,1716 762,372"/>
+            <TextEquiv>
+                <Unicode>Des ſteifen Fußes auf der Breterbühne: -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="754,328 754,1723 830,1723 830,328"/>
+            <TextEquiv>
+                <Unicode>Mit ſolch erbärmlichem, geſchraubtem Weſen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="824,376 824,1578 899,1578 899,376"/>
+            <TextEquiv>
+                <Unicode>Agirt er deine Größe: wann er ſpricht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="887,368 887,1817 968,1817 968,368"/>
+            <TextEquiv>
+                <Unicode>Klingt&#39;s wie geſprungne Glocken, ſo unſchicklich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="959,364 959,1965 1041,1965 1041,364"/>
+            <TextEquiv>
+                <Unicode>Daß, käm&#39;s von Tvphon&#39;s Mund&#39;, des brüllenden,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1028,373 1028,1751 1105,1751 1105,373"/>
+            <TextEquiv>
+                <Unicode>Es doch Hyperbel ſchien. Bei ſolchem Zeug,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1096,370 1096,1737 1170,1737 1170,370"/>
+            <TextEquiv>
+                <Unicode>Streckt breit auf&#39;s Polſterbett ſich dann Achill</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1165,368 1165,1836 1239,1836 1239,368"/>
+            <TextEquiv>
+                <Unicode>Und lacht aus tiefer Bruſt ihm lauten Beifall,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1235,360 1235,2194 1310,2194 1310,360"/>
+            <TextEquiv>
+                <Unicode>Ruft : Trefflich! &#39;s iſt der ganze Agamemnon. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1298,357 1298,2366 1378,2366 1378,357"/>
+            <TextEquiv>
+                <Unicode>Nun ſpiel&#39; mir Neſtor; - ſtreich den Bart dir räus-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1375,1649 1375,1883 1446,1883 1446,1649"/>
+            <TextEquiv>
+                <Unicode>pernd,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1421,367 1421,2005 1517,2005 1517,367"/>
+            <TextEquiv>
+                <Unicode>Wie einer, der ſich anſchickt zu &#39;ner Rede.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1509,373 1509,1705 1587,1705 1587,373"/>
+            <TextEquiv>
+                <Unicode>Er thut es - ſo genau, wie Nord und Süd</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1580,369 1580,1791 1662,1791 1662,369"/>
+            <TextEquiv>
+                <Unicode>Sich gleicht und wie Vulkanus ſeiner Frau; -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1618,363 1618,2023 1724,2023 1724,363"/>
+            <TextEquiv>
+                <Unicode>Doch ſchreit Achill, der gute, immer: Herrlich!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1715,354 1715,2477 1793,2477 1793,354"/>
+            <TextEquiv>
+                <Unicode>&#39;s iſt Neſtor ganz! Nun ſpiel&#39; ihn mir, Patroklus,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1783,359 1783,2330 1860,2330 1860,359"/>
+            <TextEquiv>
+                <Unicode>Wie er bei nächt&#39;gem Lärm zur Wehr ſich rüſtet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1854,362 1854,1920 1930,1920 1930,362"/>
+            <TextEquiv>
+                <Unicode>Dann dient, o Schimpf! des Alters ſchwache Kraft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1921,372 1921,1661 1997,1661 1997,372"/>
+            <TextEquiv>
+                <Unicode>Zum Lachen gar. Er huſtet, räuspert ſich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1991,370 1991,1630 2066,1630 2066,370"/>
+            <TextEquiv>
+                <Unicode>und linkiſch tappend an des Panzers Hals</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2059,363 2059,2022 2139,2022 2139,363"/>
+            <TextEquiv>
+                <Unicode>Schiebt auf und zu die Schnall er: - Bei dem Spaß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2128,366 2128,1900 2205,1900 2205,366"/>
+            <TextEquiv>
+                <Unicode>Erſtickt Sir Muth vor Lachen, ruft: Genug!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2170,359 2170,2093 2273,2093 2273,359"/>
+            <TextEquiv>
+                <Unicode>Gib Rippen mir von Stahl, ich berſte ſonst</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2268,361 2268,1885 2341,1885 2341,361"/>
+            <TextEquiv>
+                <Unicode>Vor großer Luſt! - Auf dieſe Art muß nun</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2333,371 2333,1519 2410,1519 2410,371"/>
+            <TextEquiv>
+                <Unicode>All unſre Fähigkeit, Gab&#39; und Natur,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2402,373 2402,1486 2476,1486 2476,373"/>
+            <TextEquiv>
+                <Unicode>Geſtalt, verſchiedenartiges Verdienſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2472,367 2472,1659 2547,1659 2547,367"/>
+            <TextEquiv>
+                <Unicode>Vorzug, Anſchlag, Maßregel, Vorbedacht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2538,366 2538,1754 2614,1754 2614,366"/>
+            <TextEquiv>
+                <Unicode>Aufruf in&#39;s Feld und Rede für den Stillſtand,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2608,367 2608,1756 2683,1756 2683,367"/>
+            <TextEquiv>
+                <Unicode>Gewinn, Verluſt, was nicht iſt und was iſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2674,370 2674,1598 2753,1598 2753,370"/>
+            <TextEquiv>
+                <Unicode>Für ſie den Stoff zu Albernheiten geben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2743,428 2743,2030 2821,2030 2821,428"/>
+            <TextEquiv>
+                <Unicode>Neſtor. Und von der Nachahmung der Beiden ſind</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2811,372 2811,1632 2890,1632 2890,372"/>
+            <TextEquiv>
+                <Unicode>(Die, wie Ulyſſes ſagt, die Meinung krönt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2879,368 2879,1687 2958,1687 2958,368"/>
+            <TextEquiv>
+                <Unicode>Mit Herrſcherton,) ſo Manche noch befleckt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2949,369 2949,1620 3027,1620 3027,369"/>
+            <TextEquiv>
+                <Unicode>Ajax ward eigenwillig, bäumt ſein Haupt</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>234
+Gibt er dein Herrſcheranſehn ſich, und wie
+Ein eitler Spieler - deſſen ganzer Witz
+Im Kniebug liegt, und der ein Gott ſich dünkt,
+Hört er das hölzerne Geſpräch, den Klang
+Des ſteifen Fußes auf der Breterbühne: -
+Mit ſolch erbärmlichem, geſchraubtem Weſen
+Agirt er deine Größe: wann er ſpricht,
+Klingt&#39;s wie geſprungne Glocken, ſo unſchicklich,
+Daß, käm&#39;s von Tvphon&#39;s Mund&#39;, des brüllenden,
+Es doch Hyperbel ſchien. Bei ſolchem Zeug,
+Streckt breit auf&#39;s Polſterbett ſich dann Achill
+Und lacht aus tiefer Bruſt ihm lauten Beifall,
+Ruft : Trefflich! &#39;s iſt der ganze Agamemnon. -
+Nun ſpiel&#39; mir Neſtor; - ſtreich den Bart dir räus-
+pernd,
+Wie einer, der ſich anſchickt zu &#39;ner Rede.
+Er thut es - ſo genau, wie Nord und Süd
+Sich gleicht und wie Vulkanus ſeiner Frau; -
+Doch ſchreit Achill, der gute, immer: Herrlich!
+&#39;s iſt Neſtor ganz! Nun ſpiel&#39; ihn mir, Patroklus,
+Wie er bei nächt&#39;gem Lärm zur Wehr ſich rüſtet.
+Dann dient, o Schimpf! des Alters ſchwache Kraft
+Zum Lachen gar. Er huſtet, räuspert ſich,
+und linkiſch tappend an des Panzers Hals
+Schiebt auf und zu die Schnall er: - Bei dem Spaß
+Erſtickt Sir Muth vor Lachen, ruft: Genug!
+Gib Rippen mir von Stahl, ich berſte ſonst
+Vor großer Luſt! - Auf dieſe Art muß nun
+All unſre Fähigkeit, Gab&#39; und Natur,
+Geſtalt, verſchiedenartiges Verdienſt,
+Vorzug, Anſchlag, Maßregel, Vorbedacht,
+Aufruf in&#39;s Feld und Rede für den Stillſtand,
+Gewinn, Verluſt, was nicht iſt und was iſt,
+Für ſie den Stoff zu Albernheiten geben.
+Neſtor. Und von der Nachahmung der Beiden ſind
+(Die, wie Ulyſſes ſagt, die Meinung krönt
+Mit Herrſcherton,) ſo Manche noch befleckt.
+Ajax ward eigenwillig, bäumt ſein Haupt</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

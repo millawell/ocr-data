@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4094" imageWidth="2308">
+    <PrintSpace>
+        <Coords points="0,0 0,2308 4094,2308 4094,2308"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2308 4094,2308 4094,2308"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="348,347 348,687 466,687 466,347"/>
+            <TextEquiv>
+                <Unicode>62</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="323,769 323,1658 443,1658 443,769"/>
+            <TextEquiv>
+                <Unicode>THE ANTIQUARY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="527,298 527,2303 675,2303 675,298"/>
+            <TextEquiv>
+                <Unicode>added to their national inrerest in his be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="666,302 666,2302 789,2302 789,302"/>
+            <TextEquiv>
+                <Unicode>half. A travelling friar, they said, that is</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="795,251 795,2206 933,2206 933,251"/>
+            <TextEquiv>
+                <Unicode>here to-day and away to-morrow, may say</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="921,302 921,2302 1043,2302 1043,302"/>
+            <TextEquiv>
+                <Unicode>what he pleases, but it is we, the ancient</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1053,305 1053,2260 1175,2260 1175,305"/>
+            <TextEquiv>
+                <Unicode>and constant inhabitants of the country,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1178,221 1178,2305 1311,2305 1311,221"/>
+            <TextEquiv>
+                <Unicode>that are left at the mercy of the insulted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1295,301 1295,2331 1437,2331 1437,301"/>
+            <TextEquiv>
+                <Unicode>daemon, and must, of course, pay for al</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1433,302 1433,2292 1567,2292 1567,302"/>
+            <TextEquiv>
+                <Unicode>Under the irritation occasioned by these</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1557,302 1557,2300 1692,2300 1692,302"/>
+            <TextEquiv>
+                <Unicode>reflections, the peasants from injurious</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1693,302 1693,2214 1827,2214 1827,302"/>
+            <TextEquiv>
+                <Unicode>language betook themselves to stones, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1817,298 1817,2298 1954,2298 1954,298"/>
+            <TextEquiv>
+                <Unicode>having pebbled the priest pretty hand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1943,221 1943,2179 2079,2179 2079,221"/>
+            <TextEquiv>
+                <Unicode>somely, they dreve him owut of tle parish</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2069,300 2069,2204 2202,2204 2202,300"/>
+            <TextEquiv>
+                <Unicode>to preach against dmons elsewhere.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2187,396 2187,2204 2321,2204 2321,396"/>
+            <TextEquiv>
+                <Unicode>Three young men, who had been pre-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2334,222 2334,2292 2463,2292 2463,222"/>
+            <TextEquiv>
+                <Unicode>sent and assisting upon this occasion,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2452,226 2452,2306 2588,2306 2588,226"/>
+            <TextEquiv>
+                <Unicode>were upon their return to the hut, where</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2588,296 2588,2218 2717,2218 2717,296"/>
+            <TextEquiv>
+                <Unicode>they carried on the laborious and mean</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2713,292 2713,2302 2846,2302 2846,292"/>
+            <TextEquiv>
+                <Unicode>occupation of preparing charcoal  for the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2835,292 2835,2303 2974,2303 2974,292"/>
+            <TextEquiv>
+                <Unicode>smelting furnaces. On the way, their con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2970,289 2970,2307 3099,2307 3099,289"/>
+            <TextEquiv>
+                <Unicode>versation naturally turned upon the, de</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3089,290 3089,2165 3228,2165 3228,290"/>
+            <TextEquiv>
+                <Unicode>mon of the Harz and the doctrine of the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3217,225 3217,2334 3355,2334 3355,225"/>
+            <TextEquiv>
+                <Unicode>capuchin. Max and George Waldeck, the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3345,286 3345,2311 3484,2311 3484,286"/>
+            <TextEquiv>
+                <Unicode>two elder brohers, although they allowed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3471,287 3471,2309 3629,2309 3629,287"/>
+            <TextEquiv>
+                <Unicode>the language of the capichin to have</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>62
+THE ANTIQUARY.
+added to their national inrerest in his be-
+half. A travelling friar, they said, that is
+here to-day and away to-morrow, may say
+what he pleases, but it is we, the ancient
+and constant inhabitants of the country,
+that are left at the mercy of the insulted
+daemon, and must, of course, pay for al
+Under the irritation occasioned by these
+reflections, the peasants from injurious
+language betook themselves to stones, and
+having pebbled the priest pretty hand
+somely, they dreve him owut of tle parish
+to preach against dmons elsewhere.
+Three young men, who had been pre-
+sent and assisting upon this occasion,
+were upon their return to the hut, where
+they carried on the laborious and mean
+occupation of preparing charcoal  for the
+smelting furnaces. On the way, their con-
+versation naturally turned upon the, de
+mon of the Harz and the doctrine of the
+capuchin. Max and George Waldeck, the
+two elder brohers, although they allowed
+the language of the capichin to have</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

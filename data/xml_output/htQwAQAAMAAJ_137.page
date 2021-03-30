@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3606" imageWidth="2569">
+    <PrintSpace>
+        <Coords points="0,0 0,2569 3606,2569 3606,2569"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2569 3606,2569 3606,2569"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="251,1226 251,1316 314,1316 314,1226"/>
+            <TextEquiv>
+                <Unicode>27</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="423,284 423,2260 502,2260 502,284"/>
+            <TextEquiv>
+                <Unicode>regte? Treſſilian entſchloß ſich daher, ſein Emma gegebenes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="509,286 509,2260 598,2260 598,286"/>
+            <TextEquiv>
+                <Unicode>Wort unbedingt zu halten, ſowohl, weil er es einmal gege-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="598,285 598,2262 672,2262 672,285"/>
+            <TextEquiv>
+                <Unicode>ben, als auch, weil er immer zu dem Echluſſe kam, wenn er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="686,288 686,2260 760,2260 760,288"/>
+            <TextEquiv>
+                <Unicode>dieſe ſeltſame Unterredung überdachte, daß er es nicht mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="771,310 771,1298 846,1298 846,310"/>
+            <TextEquiv>
+                <Unicode>Recht habe verweigern können.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="859,431 859,2255 935,2255 935,431"/>
+            <TextEquiv>
+                <Unicode>Wenigſtens war es ihm gelungen, dieſem unglücklichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="946,287 946,2256 1022,2256 1022,287"/>
+            <TextEquiv>
+                <Unicode>und noch immer geliebten Gegenſtande ſeiner frühern Neigung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1034,288 1034,2258 1110,2258 1110,288"/>
+            <TextEquiv>
+                <Unicode>Schutz zu verſchaffen. Emma war nicht mehr in einem fernen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1120,286 1120,2260 1196,2260 1196,286"/>
+            <TextEquiv>
+                <Unicode>und einſamen Hauſe unter der Obhut von Perſonen zweifel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1207,286 1207,2260 1281,2260 1281,286"/>
+            <TextEquiv>
+                <Unicode>haften Rufes. Sie war in dem Schloſſe Kenilworth, in dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1292,288 1292,2260 1367,2260 1367,288"/>
+            <TextEquiv>
+                <Unicode>Bereiche des königlichen Hofes, frei von ieder Geſahr der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1379,287 1379,2261 1459,2261 1459,287"/>
+            <TextEquiv>
+                <Unicode>Gewaltthätigkeit, und verbunden, bei der erſten Aufforderung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1468,315 1468,1197 1549,1197 1549,315"/>
+            <TextEquiv>
+                <Unicode>vor Eliſabeth zu erſcheinen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1550,430 1550,2256 1629,2256 1629,430"/>
+            <TextEquiv>
+                <Unicode>Während er ſo die Vortheile und Gefahren gegen einan-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1639,286 1639,2257 1716,2257 1716,286"/>
+            <TextEquiv>
+                <Unicode>der abwog, welche ihr unerwartetes Erſcheinen in Kenilwoth</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1725,286 1725,2260 1802,2260 1802,286"/>
+            <TextEquiv>
+                <Unicode>begleiteten, wurde Treſſilian haſtig und ängſtlich von Way-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1810,287 1810,2259 1887,2259 1887,287"/>
+            <TextEquiv>
+                <Unicode>land angeredet, der nach dem Ausrufe: „Gott ſei Dank, daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1899,286 1899,2258 1975,2258 1975,286"/>
+            <TextEquiv>
+                <Unicode>ich Euer Gnaden endlich gefunden!“ ihm mit großer Vorſicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1986,288 1986,2262 2069,2262 2069,288"/>
+            <TextEquiv>
+                <Unicode>die Nachricht zuflüſterte, daß die Dame aus Cumnor Plaee</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2076,326 2076,731 2148,731 2148,326"/>
+            <TextEquiv>
+                <Unicode>entſlohen ſei.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2158,331 2158,2263 2238,2263 2238,331"/>
+            <TextEquiv>
+                <Unicode>„Und ſie iſt gegenwärtig in dieſem Schloſſe,“ ſagte Treſ-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2246,231 2246,2263 2322,2263 2322,231"/>
+            <TextEquiv>
+                <Unicode>ſilian; „ich weiß es und habe ſie geſehen. - Hat ſie aus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2331,293 2331,1984 2410,1984 2410,293"/>
+            <TextEquiv>
+                <Unicode>eigener Wahl in meinem Zimmer Zuflucht geſucht?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2420,314 2420,2260 2495,2260 2495,314"/>
+            <TextEquiv>
+                <Unicode>„Nein,&#39; antwortete Wayland; „doch ich konnte kein an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2509,289 2509,2261 2583,2261 2583,289"/>
+            <TextEquiv>
+                <Unicode>deres Mittel ſinden, ſie ſicher unterzubringen, und war nur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2595,291 2595,2260 2674,2260 2674,291"/>
+            <TextEquiv>
+                <Unicode>zu glücklich, einen Diener aufzufinden, welcher wußte, wo Ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2681,287 2681,2337 2767,2337 2767,287"/>
+            <TextEquiv>
+                <Unicode>einquartiert waret. Gewiß ſeid Ihr in angenehmer Geſell-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2760,1494 2760,2312 2850,2312 2850,1494"/>
+            <TextEquiv>
+                <Unicode>und die Küche auf der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2769,309 2769,1491 2843,1491 2843,309"/>
+            <TextEquiv>
+                <Unicode>ſchaft, die Halle iſt auf der einen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2856,326 2856,821 2918,821 2918,326"/>
+            <TextEquiv>
+                <Unicode>andern Seite!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2937,435 2937,2260 3014,2260 3014,435"/>
+            <TextEquiv>
+                <Unicode>„Still, dies iſt keine Zeit zum Scherzen,“ antwortete</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="3026,326 3026,855 3101,855 3101,326"/>
+            <TextEquiv>
+                <Unicode>Treſſilian finſer.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>27
+regte? Treſſilian entſchloß ſich daher, ſein Emma gegebenes
+Wort unbedingt zu halten, ſowohl, weil er es einmal gege-
+ben, als auch, weil er immer zu dem Echluſſe kam, wenn er
+dieſe ſeltſame Unterredung überdachte, daß er es nicht mit
+Recht habe verweigern können.
+Wenigſtens war es ihm gelungen, dieſem unglücklichen
+und noch immer geliebten Gegenſtande ſeiner frühern Neigung
+Schutz zu verſchaffen. Emma war nicht mehr in einem fernen
+und einſamen Hauſe unter der Obhut von Perſonen zweifel-
+haften Rufes. Sie war in dem Schloſſe Kenilworth, in dem
+Bereiche des königlichen Hofes, frei von ieder Geſahr der
+Gewaltthätigkeit, und verbunden, bei der erſten Aufforderung
+vor Eliſabeth zu erſcheinen.
+Während er ſo die Vortheile und Gefahren gegen einan-
+der abwog, welche ihr unerwartetes Erſcheinen in Kenilwoth
+begleiteten, wurde Treſſilian haſtig und ängſtlich von Way-
+land angeredet, der nach dem Ausrufe: „Gott ſei Dank, daß
+ich Euer Gnaden endlich gefunden!“ ihm mit großer Vorſicht
+die Nachricht zuflüſterte, daß die Dame aus Cumnor Plaee
+entſlohen ſei.
+„Und ſie iſt gegenwärtig in dieſem Schloſſe,“ ſagte Treſ-
+ſilian; „ich weiß es und habe ſie geſehen. - Hat ſie aus
+eigener Wahl in meinem Zimmer Zuflucht geſucht?“
+„Nein,&#39; antwortete Wayland; „doch ich konnte kein an-
+deres Mittel ſinden, ſie ſicher unterzubringen, und war nur
+zu glücklich, einen Diener aufzufinden, welcher wußte, wo Ihr
+einquartiert waret. Gewiß ſeid Ihr in angenehmer Geſell-
+und die Küche auf der
+ſchaft, die Halle iſt auf der einen,
+andern Seite!“
+„Still, dies iſt keine Zeit zum Scherzen,“ antwortete
+Treſſilian finſer.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

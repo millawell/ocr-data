@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3551" imageWidth="2589">
+    <PrintSpace>
+        <Coords points="0,0 0,2589 3551,2589 3551,2589"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2589 3551,2589 3551,2589"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="271,1295 271,1456 344,1456 344,1295"/>
+            <TextEquiv>
+                <Unicode>282</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="439,358 439,2372 520,2372 520,358"/>
+            <TextEquiv>
+                <Unicode>an deine Freunde: ſchaff&#39; dir einen guten Mann, und, verhalt&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="509,360 509,2189 600,2189 600,360"/>
+            <TextEquiv>
+                <Unicode>dich gegen ihn, wie er ſich gegen dich. So leb&#39; wohl.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="567,1837 567,2156 682,2156 682,1837"/>
+            <TextEquiv>
+                <Unicode>(Geht ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1807,1025 1807,1693 1861,1693 1861,1025"/>
+            <TextEquiv>
+                <Unicode>-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1622,1885 1622,2242 1747,2242 1747,1885"/>
+            <TextEquiv>
+                <Unicode>geht ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="2009,891 2009,1846 2133,1846 2133,891"/>
+            <TextEquiv>
+                <Unicode>Zweite Scene.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="536,2161 536,2309 597,2309 597,2161"/>
+            <TextEquiv>
+                <Unicode>,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="2148,762 2148,1951 2274,1951 2274,762"/>
+            <TextEquiv>
+                <Unicode>Der franzöſiſche Hof.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="2276,390 2276,2401 2414,2401 2414,390"/>
+            <TextEquiv>
+                <Unicode>Der König von Frankreich und Gefolge tritt auf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2426,429 2426,2405 2531,2405 2531,429"/>
+            <TextEquiv>
+                <Unicode>König. (mit Briefen.) Siena und Florenz ſind handgemein;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2506,366 2506,2029 2617,2029 2617,366"/>
+            <TextEquiv>
+                <Unicode>Man focht mit gleichem Glück und führt noch fort</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2577,386 2577,1094 2679,1094 2679,386"/>
+            <TextEquiv>
+                <Unicode>Im tafern Krieg.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2850,369 2850,1827 2931,1827 2931,369"/>
+            <TextEquiv>
+                <Unicode>Von unſerm Vetter hier aus Oeſtreich auch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2919,372 2919,1796 2998,1796 2998,372"/>
+            <TextEquiv>
+                <Unicode>Er meldet, daß Florenz uns werde angehn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2966,366 2966,2028 3070,2028 3070,366"/>
+            <TextEquiv>
+                <Unicode>Um schnelle Hilfe; darum warnt der Freund uns</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>282
+an deine Freunde: ſchaff&#39; dir einen guten Mann, und, verhalt&#39;
+dich gegen ihn, wie er ſich gegen dich. So leb&#39; wohl.
+(Geht ab.)
+-
+geht ab.)
+Zweite Scene.
+,
+Der franzöſiſche Hof.
+Der König von Frankreich und Gefolge tritt auf.
+König. (mit Briefen.) Siena und Florenz ſind handgemein;
+Man focht mit gleichem Glück und führt noch fort
+Im tafern Krieg.
+Von unſerm Vetter hier aus Oeſtreich auch.
+Er meldet, daß Florenz uns werde angehn
+Um schnelle Hilfe; darum warnt der Freund uns</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

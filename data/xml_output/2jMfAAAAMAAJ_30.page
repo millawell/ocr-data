@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3152" imageWidth="2217">
+    <PrintSpace>
+        <Coords points="0,0 0,2217 3152,2217 3152,2217"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2217 3152,2217 3152,2217"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="218,815 218,1208 300,1208 300,815"/>
+            <TextEquiv>
+                <Unicode>- 23 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="331,228 331,1786 436,1786 436,228"/>
+            <TextEquiv>
+                <Unicode>war, in verſchiedene Wogen eines und deſſelben her-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="445,229 445,1787 527,1787 527,229"/>
+            <TextEquiv>
+                <Unicode>anſchwemmenden Oceans, Deutſchland durchzogen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="532,227 532,1788 610,1788 610,227"/>
+            <TextEquiv>
+                <Unicode>und auf ſeinem Wege unerhörte Unordnungen an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="620,227 620,1788 696,1788 696,227"/>
+            <TextEquiv>
+                <Unicode>gerichtet hatte, gelangte es nach Hungarn, wo da-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="707,164 707,1868 789,1868 789,164"/>
+            <TextEquiv>
+                <Unicode>mals die Ueberreſte der Hunnen und Bulgarier an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="783,165 783,1790 878,1790 878,165"/>
+            <TextEquiv>
+                <Unicode>ſäſſig waren. Dieſes kecke Volk fand, obwohl es dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="884,228 884,1789 964,1789 964,228"/>
+            <TextEquiv>
+                <Unicode>chriſtlichen Glauben zugethan war, daß die kriege-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="970,225 970,1963 1059,1963 1059,225"/>
+            <TextEquiv>
+                <Unicode>riſchen Pilgrimme des Landes Dörfer plünderten und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1061,228 1061,1791 1137,1791 1137,228"/>
+            <TextEquiv>
+                <Unicode>die Lebensmittel wegnahmen, und griff daher ohne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1141,224 1141,1976 1225,1976 1225,224"/>
+            <TextEquiv>
+                <Unicode>Säumen zu den Waffen gegen die Durchzügler, be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1235,225 1235,1791 1313,1791 1313,225"/>
+            <TextEquiv>
+                <Unicode>nutzt die Moräſte und ſchwierigen Päſſe des Landes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1326,225 1326,1794 1410,1794 1410,225"/>
+            <TextEquiv>
+                <Unicode>und vernichtete ſo viele von den Kreuzfahrern, daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1405,225 1405,1792 1485,1792 1485,225"/>
+            <TextEquiv>
+                <Unicode>nur ein Drittheil des Schwarmes, der mit dem Ein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1497,227 1497,1796 1576,1796 1576,227"/>
+            <TextEquiv>
+                <Unicode>ſiedler Peter gezogen war, auf griechiſches Gebiet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1585,232 1585,1794 1665,1794 1665,232"/>
+            <TextEquiv>
+                <Unicode>entrann. Hier half der Kaiſer Alexius, wiewohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1670,232 1670,1794 1749,1794 1749,232"/>
+            <TextEquiv>
+                <Unicode>etwas erſtaunt (zweifelsohne über das erbärmliche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1759,230 1759,1791 1841,1791 1841,230"/>
+            <TextEquiv>
+                <Unicode>Ausſehen der Vorhuth ſeiner abendländiſchen Hülfs-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1848,230 1848,1794 1934,1794 1934,230"/>
+            <TextEquiv>
+                <Unicode>völker), ihren Bedürfniſſen ab und war bemühet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1927,230 1927,1794 2019,1794 2019,230"/>
+            <TextEquiv>
+                <Unicode>ſie dahin zu bringen, Verſtärkungen von Europa</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2026,231 2026,1792 2103,1792 2103,231"/>
+            <TextEquiv>
+                <Unicode>her abzuwarten. Allein nachdem ſie einmal der Oſt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2113,233 2113,1795 2189,1795 2189,233"/>
+            <TextEquiv>
+                <Unicode>ſeite des Boſphorus, wohin die Staatsklugheit des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2201,234 2201,1795 2287,1795 2287,234"/>
+            <TextEquiv>
+                <Unicode>Kaiſers ſie hatte bringen laſſen, nahe waren, ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2281,237 2281,1796 2365,1796 2365,237"/>
+            <TextEquiv>
+                <Unicode>lockte der Schwärmereifer dies ſtürmiſche Heer von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2379,250 2379,1400 2453,1400 2453,250"/>
+            <TextEquiv>
+                <Unicode>neuem, in ſein Verderben zu rennen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2466,379 2466,1791 2543,1791 2543,379"/>
+            <TextEquiv>
+                <Unicode>Sie drangen vor nach Kleinaſien, und Soliman,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2552,241 2552,1799 2630,1799 2630,241"/>
+            <TextEquiv>
+                <Unicode>der Sultan von Antiochien, lockte dieſe unwiſſenden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2640,245 2640,1799 2717,1799 2717,245"/>
+            <TextEquiv>
+                <Unicode>Krieger in die Ebenen von Nicäa, wo ſie unter den</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 23 -
+war, in verſchiedene Wogen eines und deſſelben her-
+anſchwemmenden Oceans, Deutſchland durchzogen
+und auf ſeinem Wege unerhörte Unordnungen an-
+gerichtet hatte, gelangte es nach Hungarn, wo da-
+mals die Ueberreſte der Hunnen und Bulgarier an-
+ſäſſig waren. Dieſes kecke Volk fand, obwohl es dem
+chriſtlichen Glauben zugethan war, daß die kriege-
+riſchen Pilgrimme des Landes Dörfer plünderten und
+die Lebensmittel wegnahmen, und griff daher ohne
+Säumen zu den Waffen gegen die Durchzügler, be-
+nutzt die Moräſte und ſchwierigen Päſſe des Landes
+und vernichtete ſo viele von den Kreuzfahrern, daß
+nur ein Drittheil des Schwarmes, der mit dem Ein-
+ſiedler Peter gezogen war, auf griechiſches Gebiet
+entrann. Hier half der Kaiſer Alexius, wiewohl
+etwas erſtaunt (zweifelsohne über das erbärmliche
+Ausſehen der Vorhuth ſeiner abendländiſchen Hülfs-
+völker), ihren Bedürfniſſen ab und war bemühet,
+ſie dahin zu bringen, Verſtärkungen von Europa
+her abzuwarten. Allein nachdem ſie einmal der Oſt-
+ſeite des Boſphorus, wohin die Staatsklugheit des
+Kaiſers ſie hatte bringen laſſen, nahe waren, ver-
+lockte der Schwärmereifer dies ſtürmiſche Heer von
+neuem, in ſein Verderben zu rennen.
+Sie drangen vor nach Kleinaſien, und Soliman,
+der Sultan von Antiochien, lockte dieſe unwiſſenden
+Krieger in die Ebenen von Nicäa, wo ſie unter den</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

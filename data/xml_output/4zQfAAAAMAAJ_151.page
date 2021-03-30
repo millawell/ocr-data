@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3088" imageWidth="2118">
+    <PrintSpace>
+        <Coords points="0,0 0,2118 3088,2118 3088,2118"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2118 3088,2118 3088,2118"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="364,388 364,1968 447,1968 447,388"/>
+            <TextEquiv>
+                <Unicode>Mädchen, und ſetzte wie begeiſtert hinzu: „Das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="455,388 455,1968 535,1968 535,388"/>
+            <TextEquiv>
+                <Unicode>hieß geſprochen gleich dem Sohne Waldhof&#39;s, gleich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="545,390 545,1970 622,1970 622,390"/>
+            <TextEquiv>
+                <Unicode>einem Sprößling vom ächten Stame! Ich will</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="631,391 631,1969 712,1969 712,391"/>
+            <TextEquiv>
+                <Unicode>heimgehen und meine Gebieterin tröſten; denn wahr-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="725,392 725,1970 802,1970 802,392"/>
+            <TextEquiv>
+                <Unicode>ich! wenn jemals Gottes Gericht den Ausgang eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="811,390 811,2009 893,2009 893,390"/>
+            <TextEquiv>
+                <Unicode>Zweikampfes beſtimmte, ſo wird es in dieſem Falle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="901,392 901,1977 977,1977 977,392"/>
+            <TextEquiv>
+                <Unicode>gewiß geſchehen. Aber Du deuteſt an, der Graf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="979,392 979,1972 1084,1972 1084,392"/>
+            <TextEquiv>
+                <Unicode>ſey hier, ſey in Freiheit - meine Gebieterin wird</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1073,400 1073,1640 1157,1640 1157,400"/>
+            <TextEquiv>
+                <Unicode>darüber Näheres wiſſen wollen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1164,542 1164,1970 1246,1970 1246,542"/>
+            <TextEquiv>
+                <Unicode>„Sie mag ſich damit begnügen, zu wiſſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1256,398 1256,1971 1337,1971 1337,398"/>
+            <TextEquiv>
+                <Unicode>ſagte Heribert, „daß ihr Gemahl unter der Obhuth</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1345,398 1345,1974 1423,1974 1423,398"/>
+            <TextEquiv>
+                <Unicode>eines Freundes ſteht, der bemüht ſeyn wird, ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1433,398 1433,1974 1512,1974 1512,398"/>
+            <TextEquiv>
+                <Unicode>gegen ſeine eigenen Thorheiten und Übertrieben-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1519,396 1519,1977 1607,1977 1607,396"/>
+            <TextEquiv>
+                <Unicode>heiten zu ſchätzen, oder daß er auf alle Fälle unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1600,396 1600,1982 1690,1982 1690,396"/>
+            <TextEquiv>
+                <Unicode>der Obhuth eines Mannes ſteht, der, wenn er auch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1698,400 1698,1975 1778,1975 1778,400"/>
+            <TextEquiv>
+                <Unicode>nicht ſo eigentlich ſein Freund genannt werden kann,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1783,400 1783,1979 1869,1979 1869,400"/>
+            <TextEquiv>
+                <Unicode>doch zuverläſſig nicht als Feind gegen ihn verfuhr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1872,400 1872,1978 1962,1978 1962,400"/>
+            <TextEquiv>
+                <Unicode>und nimmer derfahren wird. Und nun lebe wohl,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1955,347 1955,1983 2084,1983 2084,347"/>
+            <TextEquiv>
+                <Unicode>Du lange Zeit verloren Geweſene, Du Stetsge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2119,385 2119,1985 2224,1985 2224,385"/>
+            <TextEquiv>
+                <Unicode>Ehe er noch mehr ſagen konnte, warf ſich die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2216,405 2216,1984 2312,1984 2312,405"/>
+            <TextEquiv>
+                <Unicode>Angelſächſin nach etlichen vergeblichen Verſuchen, ihre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2317,404 2317,1987 2399,1987 2399,404"/>
+            <TextEquiv>
+                <Unicode>Gefühle in Worten auszudrücken und ungeachtet der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2406,407 2406,1986 2495,1986 2495,407"/>
+            <TextEquiv>
+                <Unicode>Sprödigkeit, die ſie vorhin hatte blicken laſſen, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Mädchen, und ſetzte wie begeiſtert hinzu: „Das
+hieß geſprochen gleich dem Sohne Waldhof&#39;s, gleich
+einem Sprößling vom ächten Stame! Ich will
+heimgehen und meine Gebieterin tröſten; denn wahr-
+ich! wenn jemals Gottes Gericht den Ausgang eines
+Zweikampfes beſtimmte, ſo wird es in dieſem Falle
+gewiß geſchehen. Aber Du deuteſt an, der Graf
+ſey hier, ſey in Freiheit - meine Gebieterin wird
+darüber Näheres wiſſen wollen.“
+„Sie mag ſich damit begnügen, zu wiſſen,
+ſagte Heribert, „daß ihr Gemahl unter der Obhuth
+eines Freundes ſteht, der bemüht ſeyn wird, ihn
+gegen ſeine eigenen Thorheiten und Übertrieben-
+heiten zu ſchätzen, oder daß er auf alle Fälle unter
+der Obhuth eines Mannes ſteht, der, wenn er auch
+nicht ſo eigentlich ſein Freund genannt werden kann,
+doch zuverläſſig nicht als Feind gegen ihn verfuhr
+und nimmer derfahren wird. Und nun lebe wohl,
+Du lange Zeit verloren Geweſene, Du Stetsge-
+Ehe er noch mehr ſagen konnte, warf ſich die
+Angelſächſin nach etlichen vergeblichen Verſuchen, ihre
+Gefühle in Worten auszudrücken und ungeachtet der
+Sprödigkeit, die ſie vorhin hatte blicken laſſen, in</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3518" imageWidth="2599">
+    <PrintSpace>
+        <Coords points="0,0 0,2599 3518,2599 3518,2599"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2599 3518,2599 3518,2599"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="233,1279 233,1417 311,1417 311,1279"/>
+            <TextEquiv>
+                <Unicode>280</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="403,372 403,2362 512,2362 512,372"/>
+            <TextEquiv>
+                <Unicode>Hel. Wie macht man es denn, Herr, ſie zs verlieren ſobald es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="483,392 483,787 545,787 545,392"/>
+            <TextEquiv>
+                <Unicode>betiebt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="558,384 558,2370 660,2370 660,384"/>
+            <TextEquiv>
+                <Unicode>Par. Laßt ſehen. In Wahrheit, ſchlimm, an dem Behagen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="646,354 646,2367 729,2367 729,354"/>
+            <TextEquiv>
+                <Unicode>zu finden, der kein Behagen dran hat. &#39;s iſt eime Waare, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="715,341 715,2368 795,2368 795,341"/>
+            <TextEquiv>
+                <Unicode>den Glanz durchs Liegen verliert; je länger behalten, deſto ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="786,306 786,2354 868,2354 868,306"/>
+            <TextEquiv>
+                <Unicode>rnger ihr Werth: fort mit ihr, fo lange ſie verkckuflich iſt:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="854,331 854,2382 935,2382 935,331"/>
+            <TextEquiv>
+                <Unicode>man beobachte die Zeit, da ſis geſucht wird. Die Junfernſchaft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="925,360 925,2383 1003,2383 1003,360"/>
+            <TextEquiv>
+                <Unicode>trägt, gleich einer alten Hofdame, einen altmodiſchen Kopfputz;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="993,362 993,2354 1082,2354 1082,362"/>
+            <TextEquiv>
+                <Unicode>koſtbar beſett, doch unpaſſend aufgeſetzt, beinahe, wie ein Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1063,362 1063,2364 1147,2364 1147,362"/>
+            <TextEquiv>
+                <Unicode>ſchmeide and ein Zahnſtocher, den man nicht mehr trägt eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1131,364 1131,2357 1210,2357 1210,364"/>
+            <TextEquiv>
+                <Unicode>Schminke paßt beſſer zu eurer Torte und zu eurer Suppe, als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1199,367 1199,2363 1278,2363 1278,367"/>
+            <TextEquiv>
+                <Unicode>auf eurer Wange; und eure Jungfernſchaft, eure alte Jungfern-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1266,363 1266,2365 1360,2365 1360,363"/>
+            <TextEquiv>
+                <Unicode>chat, iſt gleich einer ven unſern franzöſiſchen gedörrten Birnen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1335,365 1335,2366 1425,2366 1425,365"/>
+            <TextEquiv>
+                <Unicode>Sie sieht übel aus, ſie nährt ſchlecht wahrhaftig, &#39;s iſt ee welke</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1403,367 1403,2366 1496,2366 1496,367"/>
+            <TextEquiv>
+                <Unicode>Birne: Sie war vormals beſſer, wirklich; doch, sie ist eine welke</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1469,380 1469,1867 1570,1867 1570,380"/>
+            <TextEquiv>
+                <Unicode>Birne. Was wolltet ihr damit anfangen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1546,376 1546,2368 1686,2368 1686,376"/>
+            <TextEquiv>
+                <Unicode>Hel. Noch kam&#39;s nicht so weit mit meiner Junfräulichkeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1648,379 1648,1901 1757,1901 1757,379"/>
+            <TextEquiv>
+                <Unicode>Eu&#39;r Herr word taufend dort zu lieben haben,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1719,383 1719,1716 1792,1716 1792,383"/>
+            <TextEquiv>
+                <Unicode>&#39;ne Mutter und Geliebte, einen Freund,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1758,377 1758,1834 1866,1834 1866,377"/>
+            <TextEquiv>
+                <Unicode>Und Phönix, einen Feldherrn, einen Feind:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1855,383 1855,1640 1937,1640 1937,383"/>
+            <TextEquiv>
+                <Unicode>Und Führerin, Göttin, Beherrſcherin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1919,383 1919,1691 1998,1691 1998,383"/>
+            <TextEquiv>
+                <Unicode>Rathgeberin, Verrätherin, was Liebes;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1964,380 1964,1848 2069,1848 2069,380"/>
+            <TextEquiv>
+                <Unicode>Demüth&#39;gen Stolz und seine stolze Demuth;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2059,376 2059,1999 2161,1999 2161,376"/>
+            <TextEquiv>
+                <Unicode>Mißtön&#39;gen Wohllaut und den ſüßen Mißklang;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2131,378 2131,1898 2239,1898 2239,378"/>
+            <TextEquiv>
+                <Unicode>Treu&#39; und erwünſchten Unstern; eine Menge</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2200,380 2200,1750 2273,1750 2273,380"/>
+            <TextEquiv>
+                <Unicode>Art&#39;ger, verliebter Ramen, wo Gevatter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2253,378 2253,1843 2346,1843 2346,378"/>
+            <TextEquiv>
+                <Unicode>Der blinzelnde Eupid. Alsdann wird er -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2308,367 2308,2310 2428,2310 2428,367"/>
+            <TextEquiv>
+                <Unicode>Ich weiß nicht, was er wird: - Gott ſchenk&#39; ihm Heil! -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2406,380 2406,1831 2509,1831 2509,380"/>
+            <TextEquiv>
+                <Unicode>Der Hof iſt em lehreicher Ort; - und er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2483,391 2483,1235 2577,1235 2577,391"/>
+            <TextEquiv>
+                <Unicode>Par. Was ist er?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2574,424 2574,652 2657,652 2657,424"/>
+            <TextEquiv>
+                <Unicode>Hel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2654,650 2654,1360 2751,1360 2751,650"/>
+            <TextEquiv>
+                <Unicode>Was iſt Schade?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2657,423 2657,663 2751,663 2751,423"/>
+            <TextEquiv>
+                <Unicode>Par.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2718,390 2718,2081 2850,2081 2850,390"/>
+            <TextEquiv>
+                <Unicode>Hel. Daß körperlich nicht Segenswünsche find,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2811,377 2811,1901 2895,1901 2895,377"/>
+            <TextEquiv>
+                <Unicode>Nicht fühlbar: und daß mir, (zu arm geboren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2858,373 2858,2025 2962,2025 2962,373"/>
+            <TextEquiv>
+                <Unicode>Auf Wünſche nur beſchränkt von unſerm Unstern,)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2923,370 2923,2376 3055,2376 3055,370"/>
+            <TextEquiv>
+                <Unicode>Nicht folgen können mit des Menſch&#39;s Erfolg</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>280
+Hel. Wie macht man es denn, Herr, ſie zs verlieren ſobald es
+betiebt?
+Par. Laßt ſehen. In Wahrheit, ſchlimm, an dem Behagen
+zu finden, der kein Behagen dran hat. &#39;s iſt eime Waare, die
+den Glanz durchs Liegen verliert; je länger behalten, deſto ge-
+rnger ihr Werth: fort mit ihr, fo lange ſie verkckuflich iſt:
+man beobachte die Zeit, da ſis geſucht wird. Die Junfernſchaft
+trägt, gleich einer alten Hofdame, einen altmodiſchen Kopfputz;
+koſtbar beſett, doch unpaſſend aufgeſetzt, beinahe, wie ein Ge-
+ſchmeide and ein Zahnſtocher, den man nicht mehr trägt eine
+Schminke paßt beſſer zu eurer Torte und zu eurer Suppe, als
+auf eurer Wange; und eure Jungfernſchaft, eure alte Jungfern-
+chat, iſt gleich einer ven unſern franzöſiſchen gedörrten Birnen;
+Sie sieht übel aus, ſie nährt ſchlecht wahrhaftig, &#39;s iſt ee welke
+Birne: Sie war vormals beſſer, wirklich; doch, sie ist eine welke
+Birne. Was wolltet ihr damit anfangen?
+Hel. Noch kam&#39;s nicht so weit mit meiner Junfräulichkeit
+Eu&#39;r Herr word taufend dort zu lieben haben,
+&#39;ne Mutter und Geliebte, einen Freund,
+Und Phönix, einen Feldherrn, einen Feind:
+Und Führerin, Göttin, Beherrſcherin,
+Rathgeberin, Verrätherin, was Liebes;
+Demüth&#39;gen Stolz und seine stolze Demuth;
+Mißtön&#39;gen Wohllaut und den ſüßen Mißklang;
+Treu&#39; und erwünſchten Unstern; eine Menge
+Art&#39;ger, verliebter Ramen, wo Gevatter
+Der blinzelnde Eupid. Alsdann wird er -
+Ich weiß nicht, was er wird: - Gott ſchenk&#39; ihm Heil! -
+Der Hof iſt em lehreicher Ort; - und er-
+Par. Was ist er?
+Hel.
+Was iſt Schade?
+Par.
+Hel. Daß körperlich nicht Segenswünsche find,
+Nicht fühlbar: und daß mir, (zu arm geboren,
+Auf Wünſche nur beſchränkt von unſerm Unstern,)
+Nicht folgen können mit des Menſch&#39;s Erfolg</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4690" imageWidth="2760">
+    <PrintSpace>
+        <Coords points="0,0 0,2760 4690,2760 4690,2760"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2760 4690,2760 4690,2760"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="397,453 397,2093 477,2093 477,453"/>
+            <TextEquiv>
+                <Unicode>320 CHAP. XIII. TE FLIGHT.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="619,549 619,2552 731,2552 731,549"/>
+            <TextEquiv>
+                <Unicode>&#34;Ay - my cousin - the Countess Hameline of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="762,440 762,2544 875,2544 875,440"/>
+            <TextEquiv>
+                <Unicode>Croye - know you aught of her ?&#34; said the Count-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="904,437 904,2545 1018,2545 1018,437"/>
+            <TextEquiv>
+                <Unicode>ess Isabelle; &#34;I trust she is now under the pro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1050,439 1050,2547 1156,2547 1156,439"/>
+            <TextEquiv>
+                <Unicode>tection of the Burgundian banner. You are si-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1192,455 1192,1902 1302,1902 1302,455"/>
+            <TextEquiv>
+                <Unicode>lent. Know you aught of her?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1334,549 1334,2549 1443,2549 1443,549"/>
+            <TextEquiv>
+                <Unicode>The last question, urged in a tone of the most</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1476,437 1476,2550 1590,2550 1590,437"/>
+            <TextEquiv>
+                <Unicode>anxious inquiry, obliged Quentin to give some</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1619,439 1619,2548 1703,2548 1703,439"/>
+            <TextEquiv>
+                <Unicode>account of what he knew of the Countess&#39;s fate.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1762,440 1762,2548 1864,2548 1864,440"/>
+            <TextEquiv>
+                <Unicode>He mentioned, that he had been summoned to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1905,435 1905,2554 2016,2554 2016,435"/>
+            <TextEquiv>
+                <Unicode>attend her in a flight from Liege, which he had</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2049,435 2049,2552 2161,2552 2161,435"/>
+            <TextEquiv>
+                <Unicode>no doubt the Lady Isabelle would be partaker in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2193,435 2193,2552 2305,2552 2305,435"/>
+            <TextEquiv>
+                <Unicode>- he mentioned the discovery that had been made</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2335,437 2335,2552 2447,2552 2447,437"/>
+            <TextEquiv>
+                <Unicode>after they had gained the forest - and finally, he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2477,435 2477,2554 2577,2554 2577,435"/>
+            <TextEquiv>
+                <Unicode>told his own return to the castle, and the circum-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2622,435 2622,2557 2706,2557 2706,435"/>
+            <TextEquiv>
+                <Unicode>stances in which he found it. But he said no-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2759,433 2759,2554 2873,2554 2873,433"/>
+            <TextEquiv>
+                <Unicode>thing of the views with which it was plain the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2901,437 2901,2556 3015,2556 3015,437"/>
+            <TextEquiv>
+                <Unicode>Lady Hameline had left the Castle of Schon-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3039,437 3039,2566 3155,2566 3155,437"/>
+            <TextEquiv>
+                <Unicode>waldt, and as little about the floating report of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3187,437 3187,2554 3302,2554 3302,437"/>
+            <TextEquiv>
+                <Unicode>her having fallen into the hands of William de la</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3330,439 3330,2556 3446,2556 3446,439"/>
+            <TextEquiv>
+                <Unicode>Marck. Delicacy prevented hiseven hinting at the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3474,437 3474,2547 3588,2547 3588,437"/>
+            <TextEquiv>
+                <Unicode>one, and regard for the feelings of his companion,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3618,439 3618,2554 3728,2554 3728,439"/>
+            <TextEquiv>
+                <Unicode>at a moment when strength and exertion were</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3756,437 3756,2556 3870,2556 3870,437"/>
+            <TextEquiv>
+                <Unicode>most demanded of her, prevented him from allu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>320 CHAP. XIII. TE FLIGHT.
+&#34;Ay - my cousin - the Countess Hameline of
+Croye - know you aught of her ?&#34; said the Count-
+ess Isabelle; &#34;I trust she is now under the pro-
+tection of the Burgundian banner. You are si-
+lent. Know you aught of her?&#34;
+The last question, urged in a tone of the most
+anxious inquiry, obliged Quentin to give some
+account of what he knew of the Countess&#39;s fate.
+He mentioned, that he had been summoned to
+attend her in a flight from Liege, which he had
+no doubt the Lady Isabelle would be partaker in
+- he mentioned the discovery that had been made
+after they had gained the forest - and finally, he
+told his own return to the castle, and the circum-
+stances in which he found it. But he said no-
+thing of the views with which it was plain the
+Lady Hameline had left the Castle of Schon-
+waldt, and as little about the floating report of
+her having fallen into the hands of William de la
+Marck. Delicacy prevented hiseven hinting at the
+one, and regard for the feelings of his companion,
+at a moment when strength and exertion were
+most demanded of her, prevented him from allu-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

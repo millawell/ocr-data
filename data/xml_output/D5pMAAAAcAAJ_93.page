@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3011" imageWidth="2066">
+    <PrintSpace>
+        <Coords points="0,0 0,2066 3011,2066 3011,2066"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2066 3011,2066 3011,2066"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="94,983 94,1188 151,1188 151,983"/>
+            <TextEquiv>
+                <Unicode>92</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="298,628 298,1363 377,1363 377,628"/>
+            <TextEquiv>
+                <Unicode>Sechstes Kapitel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="403,553 403,1685 464,1685 464,553"/>
+            <TextEquiv>
+                <Unicode>Wir treffen uns wie zwei gewalt&#39;ge Ströme,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="456,550 456,1747 519,1747 519,550"/>
+            <TextEquiv>
+                <Unicode>Wie Gegenſtürm&#39; und zweigeſpaltne Flammen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="509,547 509,1730 589,1730 589,547"/>
+            <TextEquiv>
+                <Unicode>Die gegenseit&#39;ge Wuth zu prüfen. Selbst</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="563,548 563,1726 625,1726 625,548"/>
+            <TextEquiv>
+                <Unicode>Der Elemente Streit, wär&#39; er zu lenken,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="617,555 617,1632 679,1632 679,555"/>
+            <TextEquiv>
+                <Unicode>Nicht bändigt&#39; er des Menſchen Zorn --</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="670,1508 670,1787 726,1787 726,1508"/>
+            <TextEquiv>
+                <Unicode>Frenaud.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="748,275 748,1884 838,1884 838,275"/>
+            <TextEquiv>
+                <Unicode>Der ältere von unſeren beiden Reiſenden ſchlief, wiewohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="830,165 830,1881 907,1881 907,165"/>
+            <TextEquiv>
+                <Unicode>er ein ſtarker und mit Anſtrengungen vertrauter Mann war,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="903,155 903,1885 980,1885 980,155"/>
+            <TextEquiv>
+                <Unicode>feſter und länger als gewöhnlich an dem Morgen, der jetzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="973,162 973,1880 1052,1880 1052,162"/>
+            <TextEquiv>
+                <Unicode>zu dämmern begann, allein ſeinem Sohne Arthur lag etwas</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1045,165 1045,1879 1124,1879 1124,165"/>
+            <TextEquiv>
+                <Unicode>am Herzen, wodurch deſſen Schlummer frühzeitig unterbro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1121,198 1121,488 1193,488 1193,198"/>
+            <TextEquiv>
+                <Unicode>chen ward.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1187,271 1187,1876 1264,1876 1264,271"/>
+            <TextEquiv>
+                <Unicode>Das Zuſammentreffen mit dem kecken Schweizer, einem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1260,161 1260,1877 1335,1877 1335,161"/>
+            <TextEquiv>
+                <Unicode>tüchtigen Abkömmlinge aus einem berühmten Kriegerſtamme,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1331,162 1331,1877 1406,1877 1406,162"/>
+            <TextEquiv>
+                <Unicode>war eine Obliegenheit, die nach der Meinung der Zeit, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1401,161 1401,1871 1475,1871 1475,161"/>
+            <TextEquiv>
+                <Unicode>welcher Arthur lebte, weder verzögert noch vermieden werden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1471,160 1471,1877 1546,1877 1546,160"/>
+            <TextEquiv>
+                <Unicode>durfte. Er entwich von der Seite ſeines Vaters, indem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1542,163 1542,1875 1621,1875 1621,163"/>
+            <TextEquiv>
+                <Unicode>ſo viel wie möglich es vermied, denſelben zu ſtören, obgleich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1613,162 1613,1872 1686,1872 1686,162"/>
+            <TextEquiv>
+                <Unicode>auch in ſolchem Falle ſein Frühaufftehen weiter kein Beden-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1685,162 1685,1871 1762,1871 1762,162"/>
+            <TextEquiv>
+                <Unicode>ken erregt haben würde, indem Philipſon es gewohnt war,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1755,163 1755,1873 1834,1873 1834,163"/>
+            <TextEquiv>
+                <Unicode>daß ſein Sohn zeitig bei der Hand war, um Zurüſtungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1826,161 1826,1872 1905,1872 1905,161"/>
+            <TextEquiv>
+                <Unicode>zur Weiterreiſe zu treffen, um nachzuſehen, daß der Maul-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1898,163 1898,1873 1975,1873 1975,163"/>
+            <TextEquiv>
+                <Unicode>thiertreiber ſeine Pflicht thäte, daß das Thier ſein Recht be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1970,161 1970,1873 2046,1873 2046,161"/>
+            <TextEquiv>
+                <Unicode>käme und was dergleichen Beſorgungen mehr waren, die ſonſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2040,158 2040,1943 2130,1943 2130,158"/>
+            <TextEquiv>
+                <Unicode>ſeinem Bater zur Laſt gefallen waren. Jedoch der alte Mann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2111,157 2111,1870 2190,1870 2190,157"/>
+            <TextEquiv>
+                <Unicode>den die Anſtrengungen des geſtrigen Tages ermüdet hatten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2184,157 2184,1871 2262,1871 2262,157"/>
+            <TextEquiv>
+                <Unicode>ſchlief, wie wir erwähnt haben, feſter als er ſonſt zu thun</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2254,157 2254,1871 2333,1871 2333,157"/>
+            <TextEquiv>
+                <Unicode>pſlegte, und Arthur, der ſein gutes Schwert anlegte, ſchritt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2326,156 2326,1867 2405,1867 2405,156"/>
+            <TextEquiv>
+                <Unicode>über den Raſen, der vor des Landammanns Wohnung ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2398,155 2398,1868 2474,1868 2474,155"/>
+            <TextEquiv>
+                <Unicode>dehnte, durch den zauberiſchen Schimmer eines ſchönen Herbſt-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2469,168 2469,1391 2546,1391 2546,168"/>
+            <TextEquiv>
+                <Unicode>morgens auf den Schweizergebirgen dahin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2537,261 2537,2034 2628,2034 2628,261"/>
+            <TextEquiv>
+                <Unicode>Die Sonne küßte eben die Spitze des riefigſten jener Ti-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2610,157 2610,1997 2688,1997 2688,157"/>
+            <TextEquiv>
+                <Unicode>tanenberge, ſo daß die langen Schatten noch auf dem Ried-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2680,160 2680,1998 2758,1998 2758,160"/>
+            <TextEquiv>
+                <Unicode>graſe lagerten, das unter des Jünglings Füßen mit ſtarker</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2749,162 2749,1989 2854,1989 2854,162"/>
+            <TextEquiv>
+                <Unicode>Andeutung von Froſt ſich krümmte. Allein Arthur blickte</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>92
+Sechstes Kapitel.
+Wir treffen uns wie zwei gewalt&#39;ge Ströme,
+Wie Gegenſtürm&#39; und zweigeſpaltne Flammen,
+Die gegenseit&#39;ge Wuth zu prüfen. Selbst
+Der Elemente Streit, wär&#39; er zu lenken,
+Nicht bändigt&#39; er des Menſchen Zorn --
+Frenaud.
+Der ältere von unſeren beiden Reiſenden ſchlief, wiewohl
+er ein ſtarker und mit Anſtrengungen vertrauter Mann war,
+feſter und länger als gewöhnlich an dem Morgen, der jetzt
+zu dämmern begann, allein ſeinem Sohne Arthur lag etwas
+am Herzen, wodurch deſſen Schlummer frühzeitig unterbro-
+chen ward.
+Das Zuſammentreffen mit dem kecken Schweizer, einem
+tüchtigen Abkömmlinge aus einem berühmten Kriegerſtamme,
+war eine Obliegenheit, die nach der Meinung der Zeit, in
+welcher Arthur lebte, weder verzögert noch vermieden werden
+durfte. Er entwich von der Seite ſeines Vaters, indem er
+ſo viel wie möglich es vermied, denſelben zu ſtören, obgleich
+auch in ſolchem Falle ſein Frühaufftehen weiter kein Beden-
+ken erregt haben würde, indem Philipſon es gewohnt war,
+daß ſein Sohn zeitig bei der Hand war, um Zurüſtungen
+zur Weiterreiſe zu treffen, um nachzuſehen, daß der Maul-
+thiertreiber ſeine Pflicht thäte, daß das Thier ſein Recht be-
+käme und was dergleichen Beſorgungen mehr waren, die ſonſt
+ſeinem Bater zur Laſt gefallen waren. Jedoch der alte Mann
+den die Anſtrengungen des geſtrigen Tages ermüdet hatten,
+ſchlief, wie wir erwähnt haben, feſter als er ſonſt zu thun
+pſlegte, und Arthur, der ſein gutes Schwert anlegte, ſchritt
+über den Raſen, der vor des Landammanns Wohnung ſich
+dehnte, durch den zauberiſchen Schimmer eines ſchönen Herbſt-
+morgens auf den Schweizergebirgen dahin.
+Die Sonne küßte eben die Spitze des riefigſten jener Ti-
+tanenberge, ſo daß die langen Schatten noch auf dem Ried-
+graſe lagerten, das unter des Jünglings Füßen mit ſtarker
+Andeutung von Froſt ſich krümmte. Allein Arthur blickte</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

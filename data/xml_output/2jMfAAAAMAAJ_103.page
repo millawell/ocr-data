@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3092" imageWidth="2138">
+    <PrintSpace>
+        <Coords points="0,0 0,2138 3092,2138 3092,2138"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2138 3092,2138 3092,2138"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="212,923 212,1318 293,1318 293,923"/>
+            <TextEquiv>
+                <Unicode>- 96 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="347,349 347,2151 448,2151 448,349"/>
+            <TextEquiv>
+                <Unicode>Conſtantia, Prinzeſſin von Caſtilien, die er nach der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="453,350 453,1919 536,1919 536,350"/>
+            <TextEquiv>
+                <Unicode>Erklärung des Conciliums von Baugence, daß ſeine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="540,349 540,1921 626,1921 626,349"/>
+            <TextEquiv>
+                <Unicode>Ehe mit Eleonoren von Aquitanien ungültig wäre,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="635,374 635,1035 715,1035 715,374"/>
+            <TextEquiv>
+                <Unicode>geheirathet hatte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="721,489 721,1913 796,1913 796,489"/>
+            <TextEquiv>
+                <Unicode>Prinz und Prinzeſſin waren Beide noch Kinder,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="806,353 806,1917 894,1917 894,353"/>
+            <TextEquiv>
+                <Unicode>allein es war in jenen Tagen herkömmlich, Vermäh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="897,354 897,1919 975,1919 975,354"/>
+            <TextEquiv>
+                <Unicode>lungsbündniſſe zwiſchen Perſonen hohen Standes viele</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="984,348 984,2076 1062,2076 1062,348"/>
+            <TextEquiv>
+                <Unicode>Jahre vor deren Vollährigkeit zu ſchließen. Hein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1071,349 1071,1922 1151,1922 1151,349"/>
+            <TextEquiv>
+                <Unicode>rich, der ſich die Miene gab, als wäre er durch dieſe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1162,355 1162,1915 1235,1915 1235,355"/>
+            <TextEquiv>
+                <Unicode>Vermählung der geehrtere Theil, verſchwendete werth-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1247,355 1247,1919 1339,1919 1339,355"/>
+            <TextEquiv>
+                <Unicode>volle Geſchenke an Alle am franzöſiſchen Hofe, deren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1337,354 1337,1918 1414,1918 1414,354"/>
+            <TextEquiv>
+                <Unicode>gute Meinung oder beifällige Geſinnung ſeiner Un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1422,348 1422,2150 1504,2150 1504,348"/>
+            <TextEquiv>
+                <Unicode>terhandlung förderlich werden konnte. Seine Frei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1499,350 1499,2151 1596,2151 1596,350"/>
+            <TextEquiv>
+                <Unicode>gebigkeit erſtreckte ſich ſogar auf die Doctoren der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1589,331 1589,2152 1687,2152 1687,331"/>
+            <TextEquiv>
+                <Unicode>Univerſität, ja auf die Studenten derſelben, ſo wie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1678,350 1678,2150 1766,2150 1766,350"/>
+            <TextEquiv>
+                <Unicode>auf die vorzüglichſten Bürger. In jedem Punkte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1777,353 1777,1919 1850,1919 1850,353"/>
+            <TextEquiv>
+                <Unicode>der das Ceremoniel oder die Etikette betraf, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1863,349 1863,2132 1941,2132 1941,349"/>
+            <TextEquiv>
+                <Unicode>es Heinrichs Politik, dem Könige Ludwig die ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1953,354 1953,1917 2028,1917 2028,354"/>
+            <TextEquiv>
+                <Unicode>bindlichſte Aufmerkſamkeit zu bezeugen und unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2041,353 2041,1915 2117,1915 2117,353"/>
+            <TextEquiv>
+                <Unicode>den Pflichtbeobachtungen eines getreuen Vaſallen je-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2126,351 2126,1916 2203,1916 2203,351"/>
+            <TextEquiv>
+                <Unicode>nes furchtbare Anſehen zu verbergen, welches ohne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2215,352 2215,1915 2291,1915 2291,352"/>
+            <TextEquiv>
+                <Unicode>das ihn zum Gegenſtande des Neides und des Arg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2299,351 2299,1917 2379,1917 2379,351"/>
+            <TextEquiv>
+                <Unicode>wohns ſeines Lehensherrn hätte machen müſſen. Er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2389,353 2389,1914 2470,1914 2470,353"/>
+            <TextEquiv>
+                <Unicode>ſtimmte ſogar der Abſicht Ludwigs hinſichtlich eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2480,353 2480,1912 2557,1912 2557,353"/>
+            <TextEquiv>
+                <Unicode>heiligen Krieges bei; indem er ſich verpflichtete, die-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2568,354 2568,1908 2644,1908 2644,354"/>
+            <TextEquiv>
+                <Unicode>ſem Monarchen mit ſeiner ganzen Streitmacht in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2655,354 2655,1911 2735,1911 2735,354"/>
+            <TextEquiv>
+                <Unicode>einem Kreuzzuge beizuſtehen, der nicht gegen die</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 96 -
+Conſtantia, Prinzeſſin von Caſtilien, die er nach der
+Erklärung des Conciliums von Baugence, daß ſeine
+Ehe mit Eleonoren von Aquitanien ungültig wäre,
+geheirathet hatte.
+Prinz und Prinzeſſin waren Beide noch Kinder,
+allein es war in jenen Tagen herkömmlich, Vermäh-
+lungsbündniſſe zwiſchen Perſonen hohen Standes viele
+Jahre vor deren Vollährigkeit zu ſchließen. Hein-
+rich, der ſich die Miene gab, als wäre er durch dieſe
+Vermählung der geehrtere Theil, verſchwendete werth-
+volle Geſchenke an Alle am franzöſiſchen Hofe, deren
+gute Meinung oder beifällige Geſinnung ſeiner Un-
+terhandlung förderlich werden konnte. Seine Frei-
+gebigkeit erſtreckte ſich ſogar auf die Doctoren der
+Univerſität, ja auf die Studenten derſelben, ſo wie
+auf die vorzüglichſten Bürger. In jedem Punkte,
+der das Ceremoniel oder die Etikette betraf, war
+es Heinrichs Politik, dem Könige Ludwig die ver-
+bindlichſte Aufmerkſamkeit zu bezeugen und unter
+den Pflichtbeobachtungen eines getreuen Vaſallen je-
+nes furchtbare Anſehen zu verbergen, welches ohne
+das ihn zum Gegenſtande des Neides und des Arg-
+wohns ſeines Lehensherrn hätte machen müſſen. Er
+ſtimmte ſogar der Abſicht Ludwigs hinſichtlich eines
+heiligen Krieges bei; indem er ſich verpflichtete, die-
+ſem Monarchen mit ſeiner ganzen Streitmacht in
+einem Kreuzzuge beizuſtehen, der nicht gegen die</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

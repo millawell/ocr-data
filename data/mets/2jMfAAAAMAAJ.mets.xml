@@ -43,25 +43,25 @@
 		<mets:fileGrp USE="GT">
 		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
             <mets:file ID="gt_2jMfAAAAMAAJ_28" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ_28.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_28.page"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_103" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ_3103xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_3103xml"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_226" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ_3226xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_3226xml"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_132" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ_3132xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_3132xml"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_84" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ_84.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_84.page"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_51" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ_51.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_51.page"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_30" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/2jMfAAAAMAAJ_30.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_30.page"/>
             </mets:file>
  
         </mets:fileGrp>

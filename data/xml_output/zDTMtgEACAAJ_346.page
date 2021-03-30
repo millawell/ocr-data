@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3638" imageWidth="2602">
+    <PrintSpace>
+        <Coords points="0,0 0,2602 3638,2602 3638,2602"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2602 3638,2602 3638,2602"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="316,1176 316,1339 392,1339 392,1176"/>
+            <TextEquiv>
+                <Unicode>101</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="507,304 507,2258 596,2258 596,304"/>
+            <TextEquiv>
+                <Unicode>ohne weiter zu gehen. Ihr ſagt, die beiben Diener wären Mem-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="596,302 596,2259 677,2259 677,302"/>
+            <TextEquiv>
+                <Unicode>men, - ihr und euer Kamerad könnt ſie gewältigen, und der Teu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="671,299 671,2281 770,2281 770,299"/>
+            <TextEquiv>
+                <Unicode>fel ſoll mich holen, wenn ich&#39;s nicht mit eurer ſchottiſchen wilden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="767,338 767,852 838,852 838,338"/>
+            <TextEquiv>
+                <Unicode>Katze aufnehme.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="839,309 839,2260 928,2260 928,309"/>
+            <TextEquiv>
+                <Unicode>„Ihr werdet finden, daß das tollkühn ſein heißt,“ ſagte Hay-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="935,305 935,2261 1012,2261 1012,305"/>
+            <TextEquiv>
+                <Unicode>raddin; „denn abgeſehn davon, daß wir ſelber nicht beſondre Fech-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1021,306 1021,2262 1095,2262 1095,306"/>
+            <TextEquiv>
+                <Unicode>ter ſind, ſo hat ſich dieſer Burſch mit dem beſten Ritter in Frank-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1101,299 1101,2436 1189,2436 1189,299"/>
+            <TextEquiv>
+                <Unicode>reich gemeſſen, und iſt mit Ehren davon gekommen - ich habe die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1191,271 1191,1939 1292,1939 1292,271"/>
+            <TextEquiv>
+                <Unicode>geſehen, die ihn dem Dunois hart genug zuſetzen ſahen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1294,347 1294,2262 1369,2262 1369,347"/>
+            <TextEquiv>
+                <Unicode>„Hagel und Sturmwetter! &#39;s iſt nur eure Feigheit, die aus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1376,323 1376,1583 1475,1583 1475,323"/>
+            <TextEquiv>
+                <Unicode>euch ſpricht,“ ſagte der deutſche Soldat.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1476,445 1476,2260 1555,2260 1555,445"/>
+            <TextEquiv>
+                <Unicode>„Ich bin ſo wenig feig als ihr ſelber,“ ſagte Hayraddin; „aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1565,306 1565,2270 1647,2270 1647,306"/>
+            <TextEquiv>
+                <Unicode>ſechten iſt nicht meine Sache. Wenn ihr es laßt, wie es verabredet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1640,302 1640,2393 1729,2393 1729,302"/>
+            <TextEquiv>
+                <Unicode>ward, ſo iſt&#39;s gut - wo nicht, ſo führe ich ſie ſicher zu des Biſchofs</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1737,305 1737,2265 1809,2265 1809,305"/>
+            <TextEquiv>
+                <Unicode>Palaſt, und Wilhelm von der Mark kann ſich ihrer dort leicht be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1815,304 1815,2266 1919,2266 1919,304"/>
+            <TextEquiv>
+                <Unicode>mächtigen, vorausgeſetzt, daß er nur halb ſo ſtark iſt, als er vor</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1908,331 1908,1068 1981,1068 1981,331"/>
+            <TextEquiv>
+                <Unicode>einer Woche behauptete.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1991,446 1991,2262 2084,2262 2084,446"/>
+            <TextEquiv>
+                <Unicode>„Potztauſend!“ ſagte der Soldat, „wir ſind ſo ſtark und noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2093,302 2093,2307 2168,2307 2168,302"/>
+            <TextEquiv>
+                <Unicode>ſtärker; aber wir hören eben von den hundert Lanzen von Bur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2175,269 2175,2269 2254,2269 2254,269"/>
+            <TextEquiv>
+                <Unicode>gund  das iſts, ſiehſt du; fünf Mann auf die Lanze machen Fünf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2257,310 2257,2272 2340,2272 2340,310"/>
+            <TextEquiv>
+                <Unicode>hundert, und dann hol mich der Teufel, wenn ſie nicht eher uns ſu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2347,310 2347,2268 2424,2268 2424,310"/>
+            <TextEquiv>
+                <Unicode>chen werden, als wir ſie; denn der Biſchoff hat eine gute Macht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2435,324 2435,1355 2514,1355 2514,324"/>
+            <TextEquiv>
+                <Unicode>auf den Beinen, das bleibt wahr!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2516,359 2516,2265 2614,2265 2614,359"/>
+            <TextEquiv>
+                <Unicode>„Es bleibt alſo bei dem Hinterhalt am Kreuze der drei Könige,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2614,209 2614,2154 2706,2154 2706,209"/>
+            <TextEquiv>
+                <Unicode>ober ihr müßt das Unternehmen aufgeben,“   ſagte der Zigeuner.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2713,445 2713,2268 2804,2268 2804,445"/>
+            <TextEquiv>
+                <Unicode>„Aufgeben, aufgeben das Unternehmen mit der reichen Braut</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2807,273 2807,2272 2884,2272 2884,273"/>
+            <TextEquiv>
+                <Unicode>für unſern edlen Hauptmann - Teufel! Erſt wollt ich&#39;s mit der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2892,307 2892,2269 2970,2269 2970,307"/>
+            <TextEquiv>
+                <Unicode>Hölle aufnehmen. - Mein Seel, wir alle werden Fürſten und Her-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2975,308 2975,2289 3056,2289 3056,308"/>
+            <TextEquiv>
+                <Unicode>zöge ſein, die ſie hier Ducs nennen, und wir werden Schnaps im</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3061,303 3061,2270 3144,2270 3144,303"/>
+            <TextEquiv>
+                <Unicode>Weinkeller haben und franzöſiſche Kronen die ſchwere Menge, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>101
+ohne weiter zu gehen. Ihr ſagt, die beiben Diener wären Mem-
+men, - ihr und euer Kamerad könnt ſie gewältigen, und der Teu-
+fel ſoll mich holen, wenn ich&#39;s nicht mit eurer ſchottiſchen wilden
+Katze aufnehme.“
+„Ihr werdet finden, daß das tollkühn ſein heißt,“ ſagte Hay-
+raddin; „denn abgeſehn davon, daß wir ſelber nicht beſondre Fech-
+ter ſind, ſo hat ſich dieſer Burſch mit dem beſten Ritter in Frank-
+reich gemeſſen, und iſt mit Ehren davon gekommen - ich habe die
+geſehen, die ihn dem Dunois hart genug zuſetzen ſahen.“
+„Hagel und Sturmwetter! &#39;s iſt nur eure Feigheit, die aus
+euch ſpricht,“ ſagte der deutſche Soldat.
+„Ich bin ſo wenig feig als ihr ſelber,“ ſagte Hayraddin; „aber
+ſechten iſt nicht meine Sache. Wenn ihr es laßt, wie es verabredet
+ward, ſo iſt&#39;s gut - wo nicht, ſo führe ich ſie ſicher zu des Biſchofs
+Palaſt, und Wilhelm von der Mark kann ſich ihrer dort leicht be-
+mächtigen, vorausgeſetzt, daß er nur halb ſo ſtark iſt, als er vor
+einer Woche behauptete.“
+„Potztauſend!“ ſagte der Soldat, „wir ſind ſo ſtark und noch
+ſtärker; aber wir hören eben von den hundert Lanzen von Bur-
+gund  das iſts, ſiehſt du; fünf Mann auf die Lanze machen Fünf-
+hundert, und dann hol mich der Teufel, wenn ſie nicht eher uns ſu-
+chen werden, als wir ſie; denn der Biſchoff hat eine gute Macht
+auf den Beinen, das bleibt wahr!“
+„Es bleibt alſo bei dem Hinterhalt am Kreuze der drei Könige,
+ober ihr müßt das Unternehmen aufgeben,“   ſagte der Zigeuner.
+„Aufgeben, aufgeben das Unternehmen mit der reichen Braut
+für unſern edlen Hauptmann - Teufel! Erſt wollt ich&#39;s mit der
+Hölle aufnehmen. - Mein Seel, wir alle werden Fürſten und Her-
+zöge ſein, die ſie hier Ducs nennen, und wir werden Schnaps im
+Weinkeller haben und franzöſiſche Kronen die ſchwere Menge, und</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

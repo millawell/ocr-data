@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3103" imageWidth="2146">
+    <PrintSpace>
+        <Coords points="0,0 0,2146 3103,2146 3103,2146"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2146 3103,2146 3103,2146"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="222,812 222,1209 288,1209 288,812"/>
+            <TextEquiv>
+                <Unicode>- 77 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="351,249 351,1321 441,1321 441,249"/>
+            <TextEquiv>
+                <Unicode>wagten den Ankömmlingen weder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="358,1339 358,1949 432,1949 432,1339"/>
+            <TextEquiv>
+                <Unicode>Beiſtand noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="443,232 443,1841 521,1841 521,232"/>
+            <TextEquiv>
+                <Unicode>Widerſtand zu leiſten. Um ſich der Kreuzfahrer zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="535,232 535,1796 609,1796 609,232"/>
+            <TextEquiv>
+                <Unicode>entledigen, erboten ſie ſich, dieſelben nach Antiochien</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="621,230 621,1799 699,1799 699,230"/>
+            <TextEquiv>
+                <Unicode>überzuſetzen. So gingen der König und deſſen Edle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="711,229 711,1796 785,1796 785,229"/>
+            <TextEquiv>
+                <Unicode>und Ritter zu Attalia an Bord, um dem Fürſten-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="799,230 799,1797 874,1797 874,230"/>
+            <TextEquiv>
+                <Unicode>thume Antiochien zuzuſegeln, welches Bohemund wäh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="884,230 884,1811 961,1811 961,230"/>
+            <TextEquiv>
+                <Unicode>rend des erſten Kreuzzuges begründet hatte, das je-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="975,231 975,1795 1048,1795 1048,231"/>
+            <TextEquiv>
+                <Unicode>doch nunmehr von Raimund de Poitiers, einem latei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1059,231 1059,1795 1137,1795 1137,231"/>
+            <TextEquiv>
+                <Unicode>niſchen Fürſten beherrſcht ward, der den König mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1147,230 1147,1793 1237,1793 1237,230"/>
+            <TextEquiv>
+                <Unicode>den äußeren Zeichen der Hochachtung und Güte auf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1231,225 1231,1792 1314,1792 1314,225"/>
+            <TextEquiv>
+                <Unicode>nahm. Indeſſen Ludwig betrachtete dieſe Aufmerk-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1322,225 1322,1793 1402,1793 1402,225"/>
+            <TextEquiv>
+                <Unicode>ſamkeit und Höflichkeit mit Mißtrauen, indem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1412,226 1412,1791 1485,1791 1485,226"/>
+            <TextEquiv>
+                <Unicode>es durchſchauete, wie Raimund die Abſicht hatte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1499,223 1499,1917 1582,1917 1582,223"/>
+            <TextEquiv>
+                <Unicode>von den franzöſiſchen Streitern Beiſtand zum Schutze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1576,222 1576,1965 1669,1965 1669,222"/>
+            <TextEquiv>
+                <Unicode>und zur Erweiterung ſeines eigenen Beſitzthums von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1669,225 1669,1793 1751,1793 1751,225"/>
+            <TextEquiv>
+                <Unicode>Antiochien zu erlangen, und zu dem Ende deren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1764,236 1764,1389 1839,1389 1839,236"/>
+            <TextEquiv>
+                <Unicode>Reiſe nach Jeruſalem zu unterbrechen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1851,365 1851,1789 1927,1789 1927,365"/>
+            <TextEquiv>
+                <Unicode>Während nun der ausgeſuchteſte Theil des fran-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1939,223 1939,1792 2016,1792 2016,223"/>
+            <TextEquiv>
+                <Unicode>zöſiſchen Heeres in Ludwigs Geleite Antiochien er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2026,222 2026,1791 2104,1791 2104,222"/>
+            <TextEquiv>
+                <Unicode>reichte, machten diejenigen Schaaren, welche in Atta-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2114,226 2114,1790 2195,1790 2195,226"/>
+            <TextEquiv>
+                <Unicode>lia geblieben waren, ſowohl zu Waſſer wie zu Lande,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2203,224 2203,1790 2282,1790 2282,224"/>
+            <TextEquiv>
+                <Unicode>wiederholte Verſuche, zu ihrem Monarchen zu ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2290,223 2290,1785 2369,1785 2369,223"/>
+            <TextEquiv>
+                <Unicode>langen; allein kein Verſuch wollte gelingen, und die-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2380,224 2380,1790 2456,1790 2456,224"/>
+            <TextEquiv>
+                <Unicode>ſer ihr letzter Marſch war ſo unglücklich, der Stolz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2466,221 2466,1832 2549,1832 2549,221"/>
+            <TextEquiv>
+                <Unicode>wie die Entſchloſſenheit der chriſtlichen Krieger ſo ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2556,220 2556,1869 2632,1869 2632,220"/>
+            <TextEquiv>
+                <Unicode>ſunken, daß drei oder viertauſend von ihnen ſich nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2639,222 2639,1791 2720,1791 2720,222"/>
+            <TextEquiv>
+                <Unicode>nur den Ungläubigen ergaben, ſondern ſogar zum</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 77 -
+wagten den Ankömmlingen weder
+Beiſtand noch
+Widerſtand zu leiſten. Um ſich der Kreuzfahrer zu
+entledigen, erboten ſie ſich, dieſelben nach Antiochien
+überzuſetzen. So gingen der König und deſſen Edle
+und Ritter zu Attalia an Bord, um dem Fürſten-
+thume Antiochien zuzuſegeln, welches Bohemund wäh-
+rend des erſten Kreuzzuges begründet hatte, das je-
+doch nunmehr von Raimund de Poitiers, einem latei-
+niſchen Fürſten beherrſcht ward, der den König mit
+den äußeren Zeichen der Hochachtung und Güte auf-
+nahm. Indeſſen Ludwig betrachtete dieſe Aufmerk-
+ſamkeit und Höflichkeit mit Mißtrauen, indem er
+es durchſchauete, wie Raimund die Abſicht hatte,
+von den franzöſiſchen Streitern Beiſtand zum Schutze
+und zur Erweiterung ſeines eigenen Beſitzthums von
+Antiochien zu erlangen, und zu dem Ende deren
+Reiſe nach Jeruſalem zu unterbrechen.
+Während nun der ausgeſuchteſte Theil des fran-
+zöſiſchen Heeres in Ludwigs Geleite Antiochien er-
+reichte, machten diejenigen Schaaren, welche in Atta-
+lia geblieben waren, ſowohl zu Waſſer wie zu Lande,
+wiederholte Verſuche, zu ihrem Monarchen zu ge-
+langen; allein kein Verſuch wollte gelingen, und die-
+ſer ihr letzter Marſch war ſo unglücklich, der Stolz
+wie die Entſchloſſenheit der chriſtlichen Krieger ſo ge-
+ſunken, daß drei oder viertauſend von ihnen ſich nicht
+nur den Ungläubigen ergaben, ſondern ſogar zum</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4086" imageWidth="2272">
+    <PrintSpace>
+        <Coords points="0,0 0,2272 4086,2272 4086,2272"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2272 4086,2272 4086,2272"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="331,244 331,1566 472,1566 472,244"/>
+            <TextEquiv>
+                <Unicode>164 THE ANTIQUARY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="540,231 540,2113 666,2113 666,231"/>
+            <TextEquiv>
+                <Unicode>the faith of a desperate and ruined man,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="657,230 657,2131 801,2131 801,230"/>
+            <TextEquiv>
+                <Unicode>I&#39;ll send you where you shall see spirits</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="774,200 774,776 908,776 908,200"/>
+            <TextEquiv>
+                <Unicode>enough.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="923,335 923,2123 1037,2123 1037,335"/>
+            <TextEquiv>
+                <Unicode>The treasure-fnder, trembling between</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1050,235 1050,2111 1175,2111 1175,235"/>
+            <TextEquiv>
+                <Unicode>his terror for the supernatural beings by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1167,237 1167,2113 1290,2113 1290,237"/>
+            <TextEquiv>
+                <Unicode>whom he supposed himself to be surround-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1304,231 1304,2126 1406,2126 1406,231"/>
+            <TextEquiv>
+                <Unicode>ed, and for his life, which seemed to be at</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1434,240 1434,2113 1556,2113 1556,240"/>
+            <TextEquiv>
+                <Unicode>the mercy of a desperate man, could only</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1564,222 1564,2177 1686,2177 1686,222"/>
+            <TextEquiv>
+                <Unicode>bring out, &#34;Mine patron, this is not the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1687,243 1687,2129 1832,2129 1832,243"/>
+            <TextEquiv>
+                <Unicode>allerbestmost usage. Consider, mine ho-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1820,245 1820,1871 1934,1871 1934,245"/>
+            <TextEquiv>
+                <Unicode>oured sir, that de spirits&#34; --</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1931,266 1931,2139 2073,2139 2073,266"/>
+            <TextEquiv>
+                <Unicode>Here Edie, who began to enter into the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2068,245 2068,2121 2202,2121 2202,245"/>
+            <TextEquiv>
+                <Unicode>humour of the scene, uttered an extraor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2190,226 2190,2288 2328,2288 2328,226"/>
+            <TextEquiv>
+                <Unicode>inary howl, being an exaltation and a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2318,247 2318,2296 2456,2296 2456,247"/>
+            <TextEquiv>
+                <Unicode>prolongation of the most deplorable whine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2446,251 2446,2131 2584,2131 2584,251"/>
+            <TextEquiv>
+                <Unicode>in which he was accustomed to solicit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2575,225 2575,2132 2713,2132 2713,225"/>
+            <TextEquiv>
+                <Unicode>charity- Dousterswivel flung himself on</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2699,255 2699,2139 2857,2139 2857,255"/>
+            <TextEquiv>
+                <Unicode>his knees, &#34;Dear Sir Arthurs, let us go, or</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2821,287 2821,819 2953,819 2953,287"/>
+            <TextEquiv>
+                <Unicode>let me go!&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2947,278 2947,2136 3096,2136 3096,278"/>
+            <TextEquiv>
+                <Unicode>&#34;No, you cheating sondrel,&#34; said the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3085,257 3085,2296 3226,2296 3226,257"/>
+            <TextEquiv>
+                <Unicode>knight, unsheatbing the sword which he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3218,262 3218,2129 3340,2129 3340,262"/>
+            <TextEquiv>
+                <Unicode>had brought for the purposes of the exor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3345,234 3345,2152 3480,2152 3480,234"/>
+            <TextEquiv>
+                <Unicode>cism, &#34;that shift will not serve  you -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3470,267 3470,2129 3629,2129 3629,267"/>
+            <TextEquiv>
+                <Unicode>Monkbarns warhned me long since of your</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>164 THE ANTIQUARY.
+the faith of a desperate and ruined man,
+I&#39;ll send you where you shall see spirits
+enough.&#34;
+The treasure-fnder, trembling between
+his terror for the supernatural beings by
+whom he supposed himself to be surround-
+ed, and for his life, which seemed to be at
+the mercy of a desperate man, could only
+bring out, &#34;Mine patron, this is not the
+allerbestmost usage. Consider, mine ho-
+oured sir, that de spirits&#34; --
+Here Edie, who began to enter into the
+humour of the scene, uttered an extraor-
+inary howl, being an exaltation and a
+prolongation of the most deplorable whine
+in which he was accustomed to solicit
+charity- Dousterswivel flung himself on
+his knees, &#34;Dear Sir Arthurs, let us go, or
+let me go!&#34;
+&#34;No, you cheating sondrel,&#34; said the
+knight, unsheatbing the sword which he
+had brought for the purposes of the exor-
+cism, &#34;that shift will not serve  you -
+Monkbarns warhned me long since of your</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

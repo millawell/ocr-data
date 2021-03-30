@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3662" imageWidth="2598">
+    <PrintSpace>
+        <Coords points="0,0 0,2598 3662,2598 3662,2598"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2598 3662,2598 3662,2598"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="303,1300 303,1429 369,1429 369,1300"/>
+            <TextEquiv>
+                <Unicode>174</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="474,381 474,2347 578,2347 578,381"/>
+            <TextEquiv>
+                <Unicode>ſuchte erſt mittelſt der Marthon mit Ludwig in Verbindung zu tre-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="585,384 585,2347 661,2347 661,384"/>
+            <TextEquiv>
+                <Unicode>ten; aber wie es ſcheint konnte ſie nicht zu ihm gelangen, ſondern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="671,383 671,2344 754,2344 754,383"/>
+            <TextEquiv>
+                <Unicode>nur zum Aſtrologen, dem ſie alle Vorgänge auf der Reiſe und zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="749,381 749,2351 830,2351 830,381"/>
+            <TextEquiv>
+                <Unicode>Schönwald mittheilte; ſchwerlich aber werden ihre Nachrichten je</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="840,383 840,2348 918,2348 918,383"/>
+            <TextEquiv>
+                <Unicode>zu Ludwig gelangen, außer in der Form einer Prophezeiung. Aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="924,381 924,2346 1002,2346 1002,381"/>
+            <TextEquiv>
+                <Unicode>hört mein Geheimniß, welches wichtiger iſt, als irgend ein Umſtand,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1012,382 1012,2346 1095,2346 1095,382"/>
+            <TextEquiv>
+                <Unicode>den Marthon mitzutheilen hatte. Wilhelm von der Mark hat eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1090,381 1090,2344 1173,2344 1173,381"/>
+            <TextEquiv>
+                <Unicode>zahlreiche und ſturke Heeresmacht in der Stadt Lüttich verſammelt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1182,383 1182,2343 1264,2343 1264,383"/>
+            <TextEquiv>
+                <Unicode>und vermehrt ſie täglich mit Hilfe der Schätze des alten Prieſters.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1266,382 1266,2344 1340,2344 1340,382"/>
+            <TextEquiv>
+                <Unicode>Aber er gedenkt keineswegs eine Schlacht mit der burgundiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1351,382 1351,2347 1427,2347 1427,382"/>
+            <TextEquiv>
+                <Unicode>Ritterſchaft zu wagen, und noch weniger eine Belagerung in der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1436,382 1436,2341 1510,2341 1510,382"/>
+            <TextEquiv>
+                <Unicode>ſchlechtbefeſtigten Stadt auszuhalten. Er denkt folgendermaßen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1521,382 1521,2345 1596,2345 1596,382"/>
+            <TextEquiv>
+                <Unicode>zu verfahren: - er will den hitzköpſigen Karl die Stadt ohne Wi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1606,380 1606,2466 1681,2466 1681,380"/>
+            <TextEquiv>
+                <Unicode>derſtand berennen laſſen, in der Nacht aber mit ſeiner ganzen Macht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1692,384 1692,2362 1767,2362 1767,384"/>
+            <TextEquiv>
+                <Unicode>einen Ausfall gegen die Belagerer thun. Viele will er als franzöſi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1777,383 1777,2345 1850,2345 1850,383"/>
+            <TextEquiv>
+                <Unicode>ſche Krteger verkleiden, die ſich des Feldgeſchrei&#39;s „Frankreich!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1861,385 1861,2361 1934,2361 1934,385"/>
+            <TextEquiv>
+                <Unicode>Saint Louis! und Denis Montjoie!“ bedienen ſollen, als ob eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1944,383 1944,2347 2022,2347 2022,383"/>
+            <TextEquiv>
+                <Unicode>ſtarke Abtheilung franzöſiſcher Hilfstruppen in der Stadt läge.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2032,383 2032,2348 2106,2348 2106,383"/>
+            <TextEquiv>
+                <Unicode>Dies muß nothwendig Verwirrung unter den Burgundern hervor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2115,383 2115,2350 2191,2350 2191,383"/>
+            <TextEquiv>
+                <Unicode>bringen; und wofern König Ludwig mit ſeinen Leibwachen, ſeinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2203,387 2203,2348 2276,2348 2276,387"/>
+            <TextEquiv>
+                <Unicode>Gefolge und den Kriegern, die er etwa mit ſich führt, die Anſtren-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2288,386 2288,2352 2363,2352 2363,386"/>
+            <TextEquiv>
+                <Unicode>gungen des Ebers der Ardennen unterſtützt, ſo zweifelt dieſer nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2373,385 2373,2351 2448,2351 2448,385"/>
+            <TextEquiv>
+                <Unicode>an einer gänzlichen Niederlage des burgundiſchen Heeres. - Dies</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2457,385 2457,2356 2533,2356 2533,385"/>
+            <TextEquiv>
+                <Unicode>iſt mein Geheimniß und ich vermache es euch. Fördert oder hindert</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2535,384 2535,2351 2618,2351 2618,384"/>
+            <TextEquiv>
+                <Unicode>das Unternehmen - verkauft die Kunde an König Ludwig oder an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2626,390 2626,2355 2703,2355 2703,390"/>
+            <TextEquiv>
+                <Unicode>Herzog Karl, mir iſt das einerlei - rettet oder verderbt wen ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2710,387 2710,2355 2786,2355 2786,387"/>
+            <TextEquiv>
+                <Unicode>wollt; ich für mein Theil bedauere nur, daß ich die Sache nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2797,387 2797,2355 2873,2355 2873,387"/>
+            <TextEquiv>
+                <Unicode>gleich einer Mine in die Luft ſprengen kann, um Alle miteinander</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2882,422 2882,868 2959,868 2959,422"/>
+            <TextEquiv>
+                <Unicode>zu verderben!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2967,524 2967,2349 3042,2349 3042,524"/>
+            <TextEquiv>
+                <Unicode>„Es iſt in der That ein wichtiges Geheimniß, ſagte Quentin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3052,387 3052,2355 3130,2355 3130,387"/>
+            <TextEquiv>
+                <Unicode>der alsbald begriff, wie leicht die Nationaloiferſucht in einem Lager</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>174
+ſuchte erſt mittelſt der Marthon mit Ludwig in Verbindung zu tre-
+ten; aber wie es ſcheint konnte ſie nicht zu ihm gelangen, ſondern
+nur zum Aſtrologen, dem ſie alle Vorgänge auf der Reiſe und zu
+Schönwald mittheilte; ſchwerlich aber werden ihre Nachrichten je
+zu Ludwig gelangen, außer in der Form einer Prophezeiung. Aber
+hört mein Geheimniß, welches wichtiger iſt, als irgend ein Umſtand,
+den Marthon mitzutheilen hatte. Wilhelm von der Mark hat eine
+zahlreiche und ſturke Heeresmacht in der Stadt Lüttich verſammelt,
+und vermehrt ſie täglich mit Hilfe der Schätze des alten Prieſters.
+Aber er gedenkt keineswegs eine Schlacht mit der burgundiſchen
+Ritterſchaft zu wagen, und noch weniger eine Belagerung in der
+ſchlechtbefeſtigten Stadt auszuhalten. Er denkt folgendermaßen
+zu verfahren: - er will den hitzköpſigen Karl die Stadt ohne Wi-
+derſtand berennen laſſen, in der Nacht aber mit ſeiner ganzen Macht
+einen Ausfall gegen die Belagerer thun. Viele will er als franzöſi-
+ſche Krteger verkleiden, die ſich des Feldgeſchrei&#39;s „Frankreich!
+Saint Louis! und Denis Montjoie!“ bedienen ſollen, als ob eine
+ſtarke Abtheilung franzöſiſcher Hilfstruppen in der Stadt läge.
+Dies muß nothwendig Verwirrung unter den Burgundern hervor-
+bringen; und wofern König Ludwig mit ſeinen Leibwachen, ſeinem
+Gefolge und den Kriegern, die er etwa mit ſich führt, die Anſtren-
+gungen des Ebers der Ardennen unterſtützt, ſo zweifelt dieſer nicht
+an einer gänzlichen Niederlage des burgundiſchen Heeres. - Dies
+iſt mein Geheimniß und ich vermache es euch. Fördert oder hindert
+das Unternehmen - verkauft die Kunde an König Ludwig oder an
+Herzog Karl, mir iſt das einerlei - rettet oder verderbt wen ihr
+wollt; ich für mein Theil bedauere nur, daß ich die Sache nicht
+gleich einer Mine in die Luft ſprengen kann, um Alle miteinander
+zu verderben!“
+„Es iſt in der That ein wichtiges Geheimniß, ſagte Quentin,
+der alsbald begriff, wie leicht die Nationaloiferſucht in einem Lager</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

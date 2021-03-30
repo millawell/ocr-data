@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3101" imageWidth="2143">
+    <PrintSpace>
+        <Coords points="0,0 0,2143 3101,2143 3101,2143"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2143 3101,2143 3101,2143"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="189,959 189,1360 248,1360 248,959"/>
+            <TextEquiv>
+                <Unicode>- 44 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="298,377 298,1927 402,1927 402,377"/>
+            <TextEquiv>
+                <Unicode>mehr als Robert, der Herzog von der Normandie.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="413,373 413,2056 490,2056 490,373"/>
+            <TextEquiv>
+                <Unicode>Um ſich ſelbſt dem Kreuzzuge zu widmen, hatte die-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="502,378 502,1928 577,1928 577,378"/>
+            <TextEquiv>
+                <Unicode>ſer älteſte Sohn Wilhelms des Eroberers die Nor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="592,376 592,1936 666,1936 666,376"/>
+            <TextEquiv>
+                <Unicode>mandie, die von ſeines Vaters Beſitzungen der ein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="681,373 681,2034 759,2034 759,373"/>
+            <TextEquiv>
+                <Unicode>zige Theil war, der ihm zuſiel, an ſeinen Bruder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="767,376 767,1930 843,1930 843,376"/>
+            <TextEquiv>
+                <Unicode>Wilhelm den Rothen, König von England für eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="855,376 855,1928 932,1928 932,376"/>
+            <TextEquiv>
+                <Unicode>große Summe Geldes verpfändet. Allein während</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="943,375 943,1933 1020,1933 1020,375"/>
+            <TextEquiv>
+                <Unicode>Robert beſchäftigt war, mahomedaniſche Kämpen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1032,376 1032,1933 1115,1933 1115,376"/>
+            <TextEquiv>
+                <Unicode>vom Wirbel bis zum Gürtel zu ſpalten und Thaten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1119,378 1119,1934 1198,1934 1198,378"/>
+            <TextEquiv>
+                <Unicode>höchſt romantiſcher Tapferkeit zu verrichten, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1203,375 1203,1934 1285,1934 1285,375"/>
+            <TextEquiv>
+                <Unicode>Wilhelm in Geheim bemüht, den Antheil zu ſichern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1296,374 1296,2031 1377,2031 1377,374"/>
+            <TextEquiv>
+                <Unicode>und bleibend zu machen, den er an dem Pfande</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1386,377 1386,1934 1462,1934 1462,377"/>
+            <TextEquiv>
+                <Unicode>hatte, das ihm durch das Lehen des Herzogthums</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1469,375 1469,1932 1561,1932 1561,375"/>
+            <TextEquiv>
+                <Unicode>übergeben worden war, und bald ließ es ſich erken-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1554,376 1554,1934 1648,1934 1648,376"/>
+            <TextEquiv>
+                <Unicode>nen, daß ſelbſt wenn Robert im Stande ſeyn und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1648,377 1648,1935 1722,1935 1722,377"/>
+            <TextEquiv>
+                <Unicode>Verlangen tragen ſollte, ſein Land zurückzufordern,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1732,375 1732,1937 1825,1937 1825,375"/>
+            <TextEquiv>
+                <Unicode>deſſen mächtigerer Bruder, aller Wahrſcheinlichkeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1819,373 1819,2062 1901,2062 1901,373"/>
+            <TextEquiv>
+                <Unicode>nach, nicht auf ſein daran erlangtes Recht verzich-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1911,373 1911,2017 1988,2017 1988,373"/>
+            <TextEquiv>
+                <Unicode>ten würde. Allein der Tod des Wilhelm Rufus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1998,374 1998,1936 2073,1936 2073,374"/>
+            <TextEquiv>
+                <Unicode>brachte einen dritten Sohn des Eroberers mit in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2084,375 2084,1935 2160,1935 2160,375"/>
+            <TextEquiv>
+                <Unicode>das Spiel. Dieſer war Heinrich, der Jüngſte, den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2172,374 2172,1934 2248,1934 2248,374"/>
+            <TextEquiv>
+                <Unicode>ſeine Brüder, ſowohl Robert wie Wilhelm, nach</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2250,374 2250,1933 2338,1933 2338,374"/>
+            <TextEquiv>
+                <Unicode>des Vaters Tode mit vieler Strenge behandelt und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2340,374 2340,2007 2437,2007 2437,374"/>
+            <TextEquiv>
+                <Unicode>ihm den kleinſten, ſeinem Range geziemenden Jahr-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2431,375 2431,1935 2514,1935 2514,375"/>
+            <TextEquiv>
+                <Unicode>gehalt verweigert hatten. Bürgerkrieg brach zwi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2524,376 2524,1936 2599,1936 2599,376"/>
+            <TextEquiv>
+                <Unicode>ſchen den Brüdern aus, und bei einer denkwürdigen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2612,375 2612,2032 2692,2032 2692,375"/>
+            <TextEquiv>
+                <Unicode>Gelegenheit ward Heinrich von ſeinen Brüdern in</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 44 -
+mehr als Robert, der Herzog von der Normandie.
+Um ſich ſelbſt dem Kreuzzuge zu widmen, hatte die-
+ſer älteſte Sohn Wilhelms des Eroberers die Nor-
+mandie, die von ſeines Vaters Beſitzungen der ein-
+zige Theil war, der ihm zuſiel, an ſeinen Bruder
+Wilhelm den Rothen, König von England für eine
+große Summe Geldes verpfändet. Allein während
+Robert beſchäftigt war, mahomedaniſche Kämpen
+vom Wirbel bis zum Gürtel zu ſpalten und Thaten
+höchſt romantiſcher Tapferkeit zu verrichten, war
+Wilhelm in Geheim bemüht, den Antheil zu ſichern
+und bleibend zu machen, den er an dem Pfande
+hatte, das ihm durch das Lehen des Herzogthums
+übergeben worden war, und bald ließ es ſich erken-
+nen, daß ſelbſt wenn Robert im Stande ſeyn und
+Verlangen tragen ſollte, ſein Land zurückzufordern,
+deſſen mächtigerer Bruder, aller Wahrſcheinlichkeit
+nach, nicht auf ſein daran erlangtes Recht verzich-
+ten würde. Allein der Tod des Wilhelm Rufus
+brachte einen dritten Sohn des Eroberers mit in
+das Spiel. Dieſer war Heinrich, der Jüngſte, den
+ſeine Brüder, ſowohl Robert wie Wilhelm, nach
+des Vaters Tode mit vieler Strenge behandelt und
+ihm den kleinſten, ſeinem Range geziemenden Jahr-
+gehalt verweigert hatten. Bürgerkrieg brach zwi-
+ſchen den Brüdern aus, und bei einer denkwürdigen
+Gelegenheit ward Heinrich von ſeinen Brüdern in</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

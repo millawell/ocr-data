@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3460" imageWidth="2623">
+    <PrintSpace>
+        <Coords points="0,0 0,2623 3460,2623 3460,2623"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2623 3460,2623 3460,2623"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="520,965 520,1599 596,1599 596,965"/>
+            <TextEquiv>
+                <Unicode>P e r ſo n e n.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="654,354 654,1284 744,1284 744,354"/>
+            <TextEquiv>
+                <Unicode>Ferdinand, König von Navarra.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="729,371 729,591 785,591 785,371"/>
+            <TextEquiv>
+                <Unicode>Biron,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="797,363 797,761 855,761 855,363"/>
+            <TextEquiv>
+                <Unicode>Longaville,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="869,361 869,732 953,732 953,361"/>
+            <TextEquiv>
+                <Unicode>Dumain,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="942,363 942,696 1008,696 1008,363"/>
+            <TextEquiv>
+                <Unicode>Boyet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="775,789 775,1655 867,1655 867,789"/>
+            <TextEquiv>
+                <Unicode>Herren im Gefolge des Königs.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="947,657 947,2116 1056,2116 1056,657"/>
+            <TextEquiv>
+                <Unicode>Herren im Gefolge der Prinzeſſin von Frankreich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1003,364 1003,740 1082,740 1082,364"/>
+            <TextEquiv>
+                <Unicode>Mercade,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1077,334 1077,1896 1158,1896 1158,334"/>
+            <TextEquiv>
+                <Unicode>Don Adriano de Armado, ein phantaſtiſcher Spanier.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1152,349 1152,1293 1214,1293 1214,349"/>
+            <TextEquiv>
+                <Unicode>Sir Nathanael, ein Landpfarrer.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1215,347 1215,1332 1293,1332 1293,347"/>
+            <TextEquiv>
+                <Unicode>Holofernes, ein Schulmeiſter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1294,353 1294,963 1350,963 1350,353"/>
+            <TextEquiv>
+                <Unicode>Dumm, ein Conſtabel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1361,358 1361,936 1426,936 1426,358"/>
+            <TextEquiv>
+                <Unicode>Schädel, ein Rüpel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1435,352 1435,1072 1494,1072 1494,352"/>
+            <TextEquiv>
+                <Unicode>Mott e, Page des Armado.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1504,360 1504,725 1565,725 1565,360"/>
+            <TextEquiv>
+                <Unicode>Ein Förſter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1576,345 1576,1230 1660,1230 1660,345"/>
+            <TextEquiv>
+                <Unicode>Die Prinzeſſin von Frankreich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1649,355 1649,832 1711,832 1711,355"/>
+            <TextEquiv>
+                <Unicode>Roſaline,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1690,771 1690,1747 1792,1747 1792,771"/>
+            <TextEquiv>
+                <Unicode>Damen im Gefolge der Prinzefſin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1721,361 1721,634 1780,634 1780,361"/>
+            <TextEquiv>
+                <Unicode>Maria,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1779,355 1779,906 1859,906 1859,355"/>
+            <TextEquiv>
+                <Unicode>Catharina,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1854,346 1854,1245 1921,1245 1921,346"/>
+            <TextEquiv>
+                <Unicode>Jacquenette, ein Landmädchen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1928,333 1928,1850 2010,1850 2010,333"/>
+            <TextEquiv>
+                <Unicode>Officiere und Gefolge des Königs und der Prinzeſſin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2036,1072 2036,1585 2118,1585 2118,1072"/>
+            <TextEquiv>
+                <Unicode>Scene: Navarra.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>P e r ſo n e n.
+Ferdinand, König von Navarra.
+Biron,
+Longaville,
+Dumain,
+Boyet,
+Herren im Gefolge des Königs.
+Herren im Gefolge der Prinzeſſin von Frankreich.
+Mercade,
+Don Adriano de Armado, ein phantaſtiſcher Spanier.
+Sir Nathanael, ein Landpfarrer.
+Holofernes, ein Schulmeiſter.
+Dumm, ein Conſtabel.
+Schädel, ein Rüpel.
+Mott e, Page des Armado.
+Ein Förſter.
+Die Prinzeſſin von Frankreich.
+Roſaline,
+Damen im Gefolge der Prinzefſin.
+Maria,
+Catharina,
+Jacquenette, ein Landmädchen.
+Officiere und Gefolge des Königs und der Prinzeſſin.
+Scene: Navarra.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

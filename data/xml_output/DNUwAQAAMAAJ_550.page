@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3612" imageWidth="2597">
+    <PrintSpace>
+        <Coords points="0,0 0,2597 3612,2597 3612,2597"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2597 3612,2597 3612,2597"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="280,1254 280,1389 345,1389 345,1254"/>
+            <TextEquiv>
+                <Unicode>167</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="454,440 454,2299 533,2299 533,440"/>
+            <TextEquiv>
+                <Unicode>„Und Ihr habt mich gefunden,“ ſagte Cedric, „bereit un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="541,336 541,2304 618,2304 618,336"/>
+            <TextEquiv>
+                <Unicode>ſere edlen Pläne für Ehre und Freiheit wieder aufzunehmen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="628,332 628,2304 706,2304 706,332"/>
+            <TextEquiv>
+                <Unicode>Ich ſage Dir, es tagt kein Morgen wieder ſo günſtig, als der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="716,337 716,2303 791,2303 791,337"/>
+            <TextEquiv>
+                <Unicode>uächſte ſür die Befreiung des edlen Stammes der Sachſen!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="801,445 801,2300 880,2300 880,445"/>
+            <TextEquiv>
+                <Unicode>„Rede mir nicht von Iemandes Befreiung,“ ſagte Athel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="886,333 886,2303 966,2303 966,333"/>
+            <TextEquiv>
+                <Unicode>ſtane; „ich bin eher geſonnen den ſchändlichen Abt zu züchti-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="975,332 975,2301 1056,2301 1056,332"/>
+            <TextEquiv>
+                <Unicode>gen. Er ſoll hängen auf der oberſten Spitze dieſes Schloſſes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1061,338 1061,2305 1137,2305 1137,338"/>
+            <TextEquiv>
+                <Unicode>von Coningsburgh in ſeiner Kutte und Stola; und ſind die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1147,338 1147,2302 1225,2302 1225,338"/>
+            <TextEquiv>
+                <Unicode>Treppen zu enge für ſeinen fetten Leichnam, ſo laſſe ich ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1236,356 1236,1174 1308,1174 1308,356"/>
+            <TextEquiv>
+                <Unicode>vou außen hinaufziehen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1321,438 1321,2298 1401,2298 1401,438"/>
+            <TextEquiv>
+                <Unicode>„Aber, mein Sohn,“ ſagte Editha, „bedenke doch ſein hei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1407,370 1407,739 1488,739 1488,370"/>
+            <TextEquiv>
+                <Unicode>liges Amt.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1493,437 1493,2298 1577,2298 1577,437"/>
+            <TextEquiv>
+                <Unicode>„Bedenkt doch mein dreitägiges Faſten,“ verſetzte Athelſtane;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1581,328 1581,2304 1659,2304 1659,328"/>
+            <TextEquiv>
+                <Unicode>„ſie ſollen mir Alle bluten, Front-de-Boeuf wurde wegen weit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1666,331 1666,2299 1747,2299 1747,331"/>
+            <TextEquiv>
+                <Unicode>weniger lebendig verbrannt, denn er hielt für ſeine Gefangenen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1753,335 1753,2301 1830,2301 1830,335"/>
+            <TextEquiv>
+                <Unicode>einen guten Tiſch, nur zu viel Knoblauch war zuletzt in der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1839,329 1839,2298 1916,2298 1916,329"/>
+            <TextEquiv>
+                <Unicode>Suppe. Aber dieſe undankbaren, heuchleriſchen Schurken, ſo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1926,241 1926,2303 2002,2303 2002,241"/>
+            <TextEquiv>
+                <Unicode>oſt ſelbſt eingeladene Schmeichler an meinem Tiſche, die mir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2012,329 2012,2298 2091,2298 2091,329"/>
+            <TextEquiv>
+                <Unicode>nicht einmal eine Suppe, wenn auch mit Knoblauch geben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2097,325 2097,2299 2174,2299 2174,325"/>
+            <TextEquiv>
+                <Unicode>wollten. - Nein, dieſe müſſen hängen, bei Hengiſts Seele!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2186,440 2186,2126 2264,2126 2264,440"/>
+            <TextEquiv>
+                <Unicode>„Aber der Papſt, mein edler Freund,“ ſagte Cedric.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2273,434 2273,2296 2349,2296 2349,434"/>
+            <TextEquiv>
+                <Unicode>„Aber der Teufel, mein edler Freund,“ verſetzte Athelſtane,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2358,328 2358,2295 2436,2295 2436,328"/>
+            <TextEquiv>
+                <Unicode>„ſie müſſen ſterben, und nun nichts mehr von ihnen. Wären</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2444,331 2444,2294 2521,2294 2521,331"/>
+            <TextEquiv>
+                <Unicode>ſie auch die beſten Mönche auf Erden, die Welt würde doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2534,344 2534,1103 2606,1103 2606,344"/>
+            <TextEquiv>
+                <Unicode>auch ohne ſie beſtehen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2616,434 2616,2293 2694,2293 2694,434"/>
+            <TextEquiv>
+                <Unicode>„Schämt Euch, edler Athelſtane,“ ſagte Cedrie, „vergeſſet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2704,327 2704,2292 2782,2292 2782,327"/>
+            <TextEquiv>
+                <Unicode>ſolche Elende bei der ehrenvollen Laufdahn, die ſich Euch auf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2789,320 2789,2292 2867,2292 2867,320"/>
+            <TextEquiv>
+                <Unicode>ſchließt. Sage dieſem normänniſchen Fürſten, Richard von Anjou,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2876,326 2876,2292 2953,2292 2953,326"/>
+            <TextEquiv>
+                <Unicode>daß, ſo löwenherzig er auch iſt, er den Thron Alfreds nicht ohne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2960,322 2960,2291 3041,2291 3041,322"/>
+            <TextEquiv>
+                <Unicode>Widerſpruch behaupten wird, ſo lange noch ein Abkömmling</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3046,329 3046,2290 3127,2290 3127,329"/>
+            <TextEquiv>
+                <Unicode>des heiligen Bekenners lebe, der ihn ihm ſtreitig machen könne.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>167
+„Und Ihr habt mich gefunden,“ ſagte Cedric, „bereit un-
+ſere edlen Pläne für Ehre und Freiheit wieder aufzunehmen.
+Ich ſage Dir, es tagt kein Morgen wieder ſo günſtig, als der
+uächſte ſür die Befreiung des edlen Stammes der Sachſen!“
+„Rede mir nicht von Iemandes Befreiung,“ ſagte Athel-
+ſtane; „ich bin eher geſonnen den ſchändlichen Abt zu züchti-
+gen. Er ſoll hängen auf der oberſten Spitze dieſes Schloſſes
+von Coningsburgh in ſeiner Kutte und Stola; und ſind die
+Treppen zu enge für ſeinen fetten Leichnam, ſo laſſe ich ihn
+vou außen hinaufziehen.“
+„Aber, mein Sohn,“ ſagte Editha, „bedenke doch ſein hei-
+liges Amt.“
+„Bedenkt doch mein dreitägiges Faſten,“ verſetzte Athelſtane;
+„ſie ſollen mir Alle bluten, Front-de-Boeuf wurde wegen weit
+weniger lebendig verbrannt, denn er hielt für ſeine Gefangenen
+einen guten Tiſch, nur zu viel Knoblauch war zuletzt in der
+Suppe. Aber dieſe undankbaren, heuchleriſchen Schurken, ſo
+oſt ſelbſt eingeladene Schmeichler an meinem Tiſche, die mir
+nicht einmal eine Suppe, wenn auch mit Knoblauch geben
+wollten. - Nein, dieſe müſſen hängen, bei Hengiſts Seele!“
+„Aber der Papſt, mein edler Freund,“ ſagte Cedric.
+„Aber der Teufel, mein edler Freund,“ verſetzte Athelſtane,
+„ſie müſſen ſterben, und nun nichts mehr von ihnen. Wären
+ſie auch die beſten Mönche auf Erden, die Welt würde doch
+auch ohne ſie beſtehen.“
+„Schämt Euch, edler Athelſtane,“ ſagte Cedrie, „vergeſſet
+ſolche Elende bei der ehrenvollen Laufdahn, die ſich Euch auf-
+ſchließt. Sage dieſem normänniſchen Fürſten, Richard von Anjou,
+daß, ſo löwenherzig er auch iſt, er den Thron Alfreds nicht ohne
+Widerſpruch behaupten wird, ſo lange noch ein Abkömmling
+des heiligen Bekenners lebe, der ihn ihm ſtreitig machen könne.“</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

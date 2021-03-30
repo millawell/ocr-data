@@ -18,14 +18,14 @@
 	<!-- File Section: Ab hier wird es erst richtig relevant, an dieser Stelle werden alle zum Objekt (in unserem Fall würde ich sagen 1 Objekt - 1 Titel - 1 METS Datei) gehörigen Daten referenziert -->
     <mets:fileSec>
         <mets:fileGrp USE="IMG">
-            <mets:file ID="pdf_Fy4JAAAAQAAJ_200" MIMETYPE="application/pdf">
+            <mets:file ID="pdf_Fy4JAAAAQAAJ_312" MIMETYPE="application/pdf">
                 <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=Fy4JAAAAQAAJ#page=312"/>
             </mets:file>
         </mets:fileGrp>
 		<mets:fileGrp USE="GT">
 		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
             <mets:file ID="gt_Fy4JAAAAQAAJ_312" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/Fy4JAAAAQAAJ_312.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/Fy4JAAAAQAAJ_312.page"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

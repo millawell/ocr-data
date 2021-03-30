@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3499" imageWidth="2593">
+    <PrintSpace>
+        <Coords points="0,0 0,2593 3499,2593 3499,2593"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2593 3499,2593 3499,2593"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="199,1302 199,1432 270,1432 270,1302"/>
+            <TextEquiv>
+                <Unicode>126</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="370,441 370,2000 449,2000 449,441"/>
+            <TextEquiv>
+                <Unicode>Conſt. So mag geſetzlich und erlaubt es ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="442,384 442,1595 514,1595 514,384"/>
+            <TextEquiv>
+                <Unicode>Daß ich mit Rom nun eine Weile fluche!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="510,386 510,1418 590,1418 590,386"/>
+            <TextEquiv>
+                <Unicode>Ruf Amen, guter Vater Kardinal,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="580,377 580,1687 653,1687 653,377"/>
+            <TextEquiv>
+                <Unicode>Zu meinem harten Fluch denn, außer mir,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="649,379 649,1709 726,1709 726,379"/>
+            <TextEquiv>
+                <Unicode>Hat keine Zunge Macht ihm recht zu fluchen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="907,377 907,1779 980,1779 980,377"/>
+            <TextEquiv>
+                <Unicode>So ſei es recht, daß Recht nicht Unrecht wehrt:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="974,375 974,1782 1050,1782 1050,375"/>
+            <TextEquiv>
+                <Unicode>Recht gibt nicht meinem Sohn das Königreich;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1045,372 1045,1780 1116,1780 1116,372"/>
+            <TextEquiv>
+                <Unicode>Denn wer das Recht beſitzt, der übt das Recht:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1114,371 1114,1728 1184,1728 1184,371"/>
+            <TextEquiv>
+                <Unicode>Drum, da das Recht vollkommen Unrecht iſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1182,368 1182,1909 1257,1909 1257,368"/>
+            <TextEquiv>
+                <Unicode>Wie kann das Recht der Zung&#39; den Fluch verbieten?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1284,433 1284,2173 1362,2173 1362,433"/>
+            <TextEquiv>
+                <Unicode>Pand. Philipp von Frankreich, auf Gefahr des Fluchs,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1355,374 1355,1692 1428,1692 1428,374"/>
+            <TextEquiv>
+                <Unicode>Laß des Erzketzers Hand ſogleich Ietzt fahren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1424,370 1424,1721 1499,1721 1499,370"/>
+            <TextEquiv>
+                <Unicode>Und richte gegen ihn nun Frankreichs Macht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1492,375 1492,1635 1565,1635 1565,375"/>
+            <TextEquiv>
+                <Unicode>Wenn er nicht Rom ſich ſelber unterwirft.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1591,432 1591,2241 1671,2241 1671,432"/>
+            <TextEquiv>
+                <Unicode>Eleon. Blaß, Frankreich? O zieh nicht die Hand zurück.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1679,435 1679,2139 1756,2139 1756,435"/>
+            <TextEquiv>
+                <Unicode>Conſt. Sieh, Teufel, zu, daß Frankreich nicht bereue,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1748,372 1748,1680 1831,1680 1831,372"/>
+            <TextEquiv>
+                <Unicode>Denn ihre Trennung nimmt dir eine Seele.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1826,434 1826,1978 1908,1978 1908,434"/>
+            <TextEquiv>
+                <Unicode>Oeſter. Hör&#39;, König Philipp, auf den Kardinal.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1916,432 1916,2059 1993,2059 1993,432"/>
+            <TextEquiv>
+                <Unicode>Baſt. und häng&#39; ein Kalbfell um die feigen Glieder.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2018,429 2018,2136 2096,2136 2096,429"/>
+            <TextEquiv>
+                <Unicode>Oeſter. Gut, Schurk&#39;, ich ſtecke deinen Spott jetzt ein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2090,397 2090,639 2152,639 2152,397"/>
+            <TextEquiv>
+                <Unicode>Weil -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2176,443 2176,1586 2250,1586 2250,443"/>
+            <TextEquiv>
+                <Unicode>Baſt. Eure Hoſen dazu weit genug.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2261,430 2261,2080 2339,2080 2339,430"/>
+            <TextEquiv>
+                <Unicode>K. Ioh. Philipp, was ſagſt du zu dem Kardinal?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2345,433 2345,1930 2419,1930 2419,433"/>
+            <TextEquiv>
+                <Unicode>Conſt. Wie ſpräch&#39; er anders als der Kardinal?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2445,426 2445,2214 2525,2214 2525,426"/>
+            <TextEquiv>
+                <Unicode>Louis. Bedenkt euch, Vater; &#39;s iſt der Unterſchied:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2520,347 2520,1789 2592,1789 2592,347"/>
+            <TextEquiv>
+                <Unicode>Hier der Erwerb des ſchweren Fluchs von Rom,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2588,363 2588,1906 2688,1906 2688,363"/>
+            <TextEquiv>
+                <Unicode>Dort leichteuer Verluſt von Englands Freundſchaſt:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2655,384 2655,983 2729,983 2729,384"/>
+            <TextEquiv>
+                <Unicode>Das Klein&#39;re wählt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2911,371 2911,1575 2987,1575 2987,371"/>
+            <TextEquiv>
+                <Unicode>Dich in Geſtalt der unentweihten Braut.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>126
+Conſt. So mag geſetzlich und erlaubt es ſein,
+Daß ich mit Rom nun eine Weile fluche!
+Ruf Amen, guter Vater Kardinal,
+Zu meinem harten Fluch denn, außer mir,
+Hat keine Zunge Macht ihm recht zu fluchen.
+So ſei es recht, daß Recht nicht Unrecht wehrt:
+Recht gibt nicht meinem Sohn das Königreich;
+Denn wer das Recht beſitzt, der übt das Recht:
+Drum, da das Recht vollkommen Unrecht iſt,
+Wie kann das Recht der Zung&#39; den Fluch verbieten?
+Pand. Philipp von Frankreich, auf Gefahr des Fluchs,
+Laß des Erzketzers Hand ſogleich Ietzt fahren,
+Und richte gegen ihn nun Frankreichs Macht,
+Wenn er nicht Rom ſich ſelber unterwirft.
+Eleon. Blaß, Frankreich? O zieh nicht die Hand zurück.
+Conſt. Sieh, Teufel, zu, daß Frankreich nicht bereue,
+Denn ihre Trennung nimmt dir eine Seele.
+Oeſter. Hör&#39;, König Philipp, auf den Kardinal.
+Baſt. und häng&#39; ein Kalbfell um die feigen Glieder.
+Oeſter. Gut, Schurk&#39;, ich ſtecke deinen Spott jetzt ein,
+Weil -
+Baſt. Eure Hoſen dazu weit genug.
+K. Ioh. Philipp, was ſagſt du zu dem Kardinal?
+Conſt. Wie ſpräch&#39; er anders als der Kardinal?
+Louis. Bedenkt euch, Vater; &#39;s iſt der Unterſchied:
+Hier der Erwerb des ſchweren Fluchs von Rom,
+Dort leichteuer Verluſt von Englands Freundſchaſt:
+Das Klein&#39;re wählt.
+Dich in Geſtalt der unentweihten Braut.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

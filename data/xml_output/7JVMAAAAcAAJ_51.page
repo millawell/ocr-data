@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3050" imageWidth="2098">
+    <PrintSpace>
+        <Coords points="0,0 0,2098 3050,2098 3050,2098"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2098 3050,2098 3050,2098"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="244,214 244,1940 325,1940 325,214"/>
+            <TextEquiv>
+                <Unicode>ich hätte Euch ſonſt einen Veſpergeſang auf Eurem Schädel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="318,252 318,531 394,531 394,252"/>
+            <TextEquiv>
+                <Unicode>geläutet.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="388,324 388,1930 464,1930 464,324"/>
+            <TextEquiv>
+                <Unicode>Der Independent lächelte grimmig und erwiederte:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="459,225 459,1933 536,1933 536,225"/>
+            <TextEquiv>
+                <Unicode>„Nicht doch, Freund, es iſt gut ſür Dich; denn nimmer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="531,217 531,1935 611,1935 611,217"/>
+            <TextEquiv>
+                <Unicode>würde ein Kirchenknecht für ſein Geläut ſo derb bezahlt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="602,215 602,1937 681,1937 681,215"/>
+            <TextEquiv>
+                <Unicode>worden ſeyn. Bei alledem, warum ſollte der Hader zwi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="673,222 673,1936 751,1936 751,222"/>
+            <TextEquiv>
+                <Unicode>ſchen uns oder meine Hand gegen die Deinige erhoben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="743,216 743,1935 817,1935 817,216"/>
+            <TextEquiv>
+                <Unicode>ſeyn? Du biſt nur ein armer Geſell, der ſeines Gebieters</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="815,212 815,1938 890,1938 890,212"/>
+            <TextEquiv>
+                <Unicode>Befehle ausrichtet; auch habe ich kein Verlangen danach,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="886,217 886,1936 964,1936 964,217"/>
+            <TextEquiv>
+                <Unicode>baß mein Blut, oder das Deine, um dieſer Sache willen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="957,219 957,1938 1033,1938 1033,219"/>
+            <TextEquiv>
+                <Unicode>vergoſſen würde. Du wirſt, ſo verftand ich&#39;s, mir fried-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1028,217 1028,1941 1105,1941 1105,217"/>
+            <TextEquiv>
+                <Unicode>lich die Beſitznahme vom Palaſte zu Woodſtock einräumen -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1100,220 1100,1939 1178,1939 1178,220"/>
+            <TextEquiv>
+                <Unicode>ſo genannt, wiewohl gegenwärtig kein Palaſt in England</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1170,214 1170,1941 1243,1941 1243,214"/>
+            <TextEquiv>
+                <Unicode>iſt, auch keiner fortan ſeyn ſoll, bis wir eintreten in den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1240,221 1240,1939 1341,1939 1341,221"/>
+            <TextEquiv>
+                <Unicode>Palaſt des neuen Jeruſalems, und das Reich der Heiligen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1312,240 1312,1019 1388,1019 1388,240"/>
+            <TextEquiv>
+                <Unicode>auf Erden beginnen wird.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1368,336 1368,1938 1462,1938 1462,336"/>
+            <TextEquiv>
+                <Unicode>„Vollkommen wohl begonnen, Freund Tomkins,“  ſagte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1456,222 1456,1939 1534,1939 1534,222"/>
+            <TextEquiv>
+                <Unicode>der Hüter, „Ihr ſeyd raſch bei der Hand, Könige zu wer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1526,226 1526,1937 1603,1937 1603,226"/>
+            <TextEquiv>
+                <Unicode>den, ſo wie die Sache jetzt ſteht; und was Jeruſalem an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1598,217 1598,1934 1676,1934 1676,217"/>
+            <TextEquiv>
+                <Unicode>langt, da weiß ich nicht, ob nicht Woodſtock ein herrliches</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1666,218 1666,1937 1746,1937 1746,218"/>
+            <TextEquiv>
+                <Unicode>Neſtei iſt, um damit anzufangen. Wohlan, wollt Ihr an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1740,214 1740,1938 1818,1938 1818,214"/>
+            <TextEquiv>
+                <Unicode>greifen - wollt Ihr - wollt Ihr Befitznahme und Ueber-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1811,232 1811,1332 1892,1332 1892,232"/>
+            <TextEquiv>
+                <Unicode>gabe - Ihr hörtet meine Befehle.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1882,332 1882,1936 1960,1936 1960,332"/>
+            <TextEquiv>
+                <Unicode>„Hm - ich weiß nicht,“ ſagte Tomkins. „Ich muß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1954,217 1954,1934 2028,1934 2028,217"/>
+            <TextEquiv>
+                <Unicode>mich vor einem Hinterhalte wahren, und bin allein hier.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2024,219 2024,1938 2101,1938 2101,219"/>
+            <TextEquiv>
+                <Unicode>Ueberdies iſt heute das vom Parlament angeordnete und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2096,220 2096,1940 2174,1940 2174,220"/>
+            <TextEquiv>
+                <Unicode>von der Armee zugeſtandene große Dankfeſt - auch möchten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2166,160 2166,1941 2244,1941 2244,160"/>
+            <TextEquiv>
+                <Unicode>der alte Mann und das junge Frauenzimmer es für nöthig</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2237,217 2237,1943 2316,1943 2316,217"/>
+            <TextEquiv>
+                <Unicode>ſinden, etliche ihrer Kleider und ſonſtiges perſönliches Ei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2308,222 2308,1941 2387,1941 2387,222"/>
+            <TextEquiv>
+                <Unicode>genthum zu verlangen, und ich möchte nicht, daß ſie mei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2381,218 2381,1945 2457,1945 2457,218"/>
+            <TextEquiv>
+                <Unicode>netwegen geſchadet würden. Wenn Du mir deshalb morgen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2451,217 2451,1945 2529,1945 2529,217"/>
+            <TextEquiv>
+                <Unicode>früh das Beſitzthum überliefern willſt, ſo ſoll es in perſön-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2522,219 2522,1947 2599,1947 2599,219"/>
+            <TextEquiv>
+                <Unicode>licher Gegenwart meines Gefolges und des presbyteriani-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2594,218 2594,1943 2672,1943 2672,218"/>
+            <TextEquiv>
+                <Unicode>ſchen Ehrenmannes, des Maſors, geſchehen, ſo daß die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2664,217 2664,1946 2742,1946 2742,217"/>
+            <TextEquiv>
+                <Unicode>Uebergabe vor Zeugen geſchiebt; da ferner, wenn Keiner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2722,215 2722,1943 2812,1943 2812,215"/>
+            <TextEquiv>
+                <Unicode>babei iſt, als Du, der überliefert, und ich, der ich Beſitz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2807,217 2807,1946 2886,1946 2886,217"/>
+            <TextEquiv>
+                <Unicode>nehme, die Belialskinder ſagen könnten:Ei, ei! Traugott</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>ich hätte Euch ſonſt einen Veſpergeſang auf Eurem Schädel
+geläutet.“
+Der Independent lächelte grimmig und erwiederte:
+„Nicht doch, Freund, es iſt gut ſür Dich; denn nimmer
+würde ein Kirchenknecht für ſein Geläut ſo derb bezahlt
+worden ſeyn. Bei alledem, warum ſollte der Hader zwi-
+ſchen uns oder meine Hand gegen die Deinige erhoben
+ſeyn? Du biſt nur ein armer Geſell, der ſeines Gebieters
+Befehle ausrichtet; auch habe ich kein Verlangen danach,
+baß mein Blut, oder das Deine, um dieſer Sache willen
+vergoſſen würde. Du wirſt, ſo verftand ich&#39;s, mir fried-
+lich die Beſitznahme vom Palaſte zu Woodſtock einräumen -
+ſo genannt, wiewohl gegenwärtig kein Palaſt in England
+iſt, auch keiner fortan ſeyn ſoll, bis wir eintreten in den
+Palaſt des neuen Jeruſalems, und das Reich der Heiligen
+auf Erden beginnen wird.“
+„Vollkommen wohl begonnen, Freund Tomkins,“  ſagte
+der Hüter, „Ihr ſeyd raſch bei der Hand, Könige zu wer-
+den, ſo wie die Sache jetzt ſteht; und was Jeruſalem an-
+langt, da weiß ich nicht, ob nicht Woodſtock ein herrliches
+Neſtei iſt, um damit anzufangen. Wohlan, wollt Ihr an-
+greifen - wollt Ihr - wollt Ihr Befitznahme und Ueber-
+gabe - Ihr hörtet meine Befehle.
+„Hm - ich weiß nicht,“ ſagte Tomkins. „Ich muß
+mich vor einem Hinterhalte wahren, und bin allein hier.
+Ueberdies iſt heute das vom Parlament angeordnete und
+von der Armee zugeſtandene große Dankfeſt - auch möchten
+der alte Mann und das junge Frauenzimmer es für nöthig
+ſinden, etliche ihrer Kleider und ſonſtiges perſönliches Ei-
+genthum zu verlangen, und ich möchte nicht, daß ſie mei-
+netwegen geſchadet würden. Wenn Du mir deshalb morgen
+früh das Beſitzthum überliefern willſt, ſo ſoll es in perſön-
+licher Gegenwart meines Gefolges und des presbyteriani-
+ſchen Ehrenmannes, des Maſors, geſchehen, ſo daß die
+Uebergabe vor Zeugen geſchiebt; da ferner, wenn Keiner
+babei iſt, als Du, der überliefert, und ich, der ich Beſitz
+nehme, die Belialskinder ſagen könnten:Ei, ei! Traugott</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

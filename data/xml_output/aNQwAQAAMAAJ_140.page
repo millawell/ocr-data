@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3526" imageWidth="2522">
+    <PrintSpace>
+        <Coords points="0,0 0,2522 3526,2522 3526,2522"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2522 3526,2522 3526,2522"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="231,1227 231,1361 294,1361 294,1227"/>
+            <TextEquiv>
+                <Unicode>129</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="404,316 404,2280 482,2280 482,316"/>
+            <TextEquiv>
+                <Unicode>lich die Beredtſamkeit nach, welche allwöchentlich über ſeinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="494,333 494,1575 569,1575 569,333"/>
+            <TextEquiv>
+                <Unicode>Haupte von der Kanzel herabdonnerte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="578,457 578,2278 658,2278 658,457"/>
+            <TextEquiv>
+                <Unicode>„Was wir jetzo bedenken wollen, meine Brüder, - hm,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="668,312 668,2282 745,2282 745,312"/>
+            <TextEquiv>
+                <Unicode>hm - ich will ſagen, meine lieben Freunde, - geſchah nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="754,314 754,2283 831,2283 831,314"/>
+            <TextEquiv>
+                <Unicode>in einem Winkel, und mag allen Herenadvokaten, Atheiſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="841,313 841,2284 917,2284 917,313"/>
+            <TextEquiv>
+                <Unicode>und Irrgläubigen aller Art als eine Lehre dienen. - Ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="926,313 926,2281 1007,2281 1007,313"/>
+            <TextEquiv>
+                <Unicode>müßt wiſſen, daß der edle Laird von Ellangowan nicht ſo eifrig,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1015,313 1015,2281 1092,2281 1092,313"/>
+            <TextEquiv>
+                <Unicode>wie es ſich geziemt hätte, damit war, ſein Land von Heren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1100,313 1100,2281 1181,2281 1181,313"/>
+            <TextEquiv>
+                <Unicode>zu ſäubern (in Betracht des Wortes, das da geſagt iſt: „du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1190,312 1190,2280 1268,2280 1268,312"/>
+            <TextEquiv>
+                <Unicode>ſollſt keine Zaubrerin leben laſſen“); auch nahm er es nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1276,313 1276,2282 1354,2282 1354,313"/>
+            <TextEquiv>
+                <Unicode>gebührend ſtreng mit denen, welche Kobolde hatten, welche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1362,311 1362,2281 1442,2281 1442,311"/>
+            <TextEquiv>
+                <Unicode>Wahrſagerei und dergleichen trieben, wie es bei den Aegyp-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1452,314 1452,2280 1528,2280 1528,314"/>
+            <TextEquiv>
+                <Unicode>tiern (ſo pflegen ſich dieſe Leute zu nennen) und andern heil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1538,312 1538,2277 1616,2277 1616,312"/>
+            <TextEquiv>
+                <Unicode>loſen Banden in unſerm Lande üblich iſt. Nun war der Laird</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1628,313 1628,2279 1705,2279 1705,313"/>
+            <TextEquiv>
+                <Unicode>drei Iahre verheirathet, ohne einen Erben zu haben - man</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1714,312 1714,2280 1795,2280 1795,312"/>
+            <TextEquiv>
+                <Unicode>hielt dies für ein Strafgericht, weil er, wie es hieß, verbote-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1801,310 1801,2277 1880,2277 1880,310"/>
+            <TextEquiv>
+                <Unicode>nen Umgang mit der Meg Merrilies pflog, die in den beiden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1886,310 1886,2277 1982,2277 1982,310"/>
+            <TextEquiv>
+                <Unicode>Grafſchaften Galloway und Dumfries als die berüchtigtſte Hexe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1976,343 1976,795 2041,795 2041,343"/>
+            <TextEquiv>
+                <Unicode>bekannt war.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2060,453 2060,2274 2140,2274 2140,453"/>
+            <TextEquiv>
+                <Unicode>„Daran mag wohl etwas Wahres ſein, ſagte Mrs. Mac-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2149,309 2149,2274 2227,2274 2227,309"/>
+            <TextEquiv>
+                <Unicode>Candliſh; „ich weiß ſelber, daß er ihr zwei Gläſer Schnaps</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2240,330 2240,1413 2314,1413 2314,330"/>
+            <TextEquiv>
+                <Unicode>in dieſem Hauſe einſchenken ließ.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2322,456 2322,2270 2403,2270 2403,456"/>
+            <TextEquiv>
+                <Unicode>„Freilich wohl, Wertheſte, und das bekräftigt nur noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2413,310 2413,2273 2487,2273 2487,310"/>
+            <TextEquiv>
+                <Unicode>meine Rede. - Endlich war denn die Lady guter Hoffnung,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2500,310 2500,2272 2577,2272 2577,310"/>
+            <TextEquiv>
+                <Unicode>und in der Nacht, wo ſie niederkommen ſollte, da kommt an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2588,309 2588,2269 2667,2269 2667,309"/>
+            <TextEquiv>
+                <Unicode>die Thür des Hauſes, (an den Hof von Ellangowan, wie man</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2670,311 2670,2271 2756,2271 2756,311"/>
+            <TextEquiv>
+                <Unicode>es nennt,) ein ſteinalter, ſeltſam gekleideter Mann, und bittet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2758,311 2758,2272 2842,2272 2842,311"/>
+            <TextEquiv>
+                <Unicode>um Quartier. Kopf, Beine und Arme waren nackt, obwohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2846,311 2846,2270 2929,2270 2929,311"/>
+            <TextEquiv>
+                <Unicode>es gerade im Winter war, und ſein eisgrauer Bart hing ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2939,306 2939,2268 3018,2268 3018,306"/>
+            <TextEquiv>
+                <Unicode>dreiviertel Ellen lang über die Bruſt herab. Gut, er ward</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>129
+lich die Beredtſamkeit nach, welche allwöchentlich über ſeinem
+Haupte von der Kanzel herabdonnerte.
+„Was wir jetzo bedenken wollen, meine Brüder, - hm,
+hm - ich will ſagen, meine lieben Freunde, - geſchah nicht
+in einem Winkel, und mag allen Herenadvokaten, Atheiſten
+und Irrgläubigen aller Art als eine Lehre dienen. - Ihr
+müßt wiſſen, daß der edle Laird von Ellangowan nicht ſo eifrig,
+wie es ſich geziemt hätte, damit war, ſein Land von Heren
+zu ſäubern (in Betracht des Wortes, das da geſagt iſt: „du
+ſollſt keine Zaubrerin leben laſſen“); auch nahm er es nicht
+gebührend ſtreng mit denen, welche Kobolde hatten, welche
+Wahrſagerei und dergleichen trieben, wie es bei den Aegyp-
+tiern (ſo pflegen ſich dieſe Leute zu nennen) und andern heil-
+loſen Banden in unſerm Lande üblich iſt. Nun war der Laird
+drei Iahre verheirathet, ohne einen Erben zu haben - man
+hielt dies für ein Strafgericht, weil er, wie es hieß, verbote-
+nen Umgang mit der Meg Merrilies pflog, die in den beiden
+Grafſchaften Galloway und Dumfries als die berüchtigtſte Hexe
+bekannt war.“
+„Daran mag wohl etwas Wahres ſein, ſagte Mrs. Mac-
+Candliſh; „ich weiß ſelber, daß er ihr zwei Gläſer Schnaps
+in dieſem Hauſe einſchenken ließ.“
+„Freilich wohl, Wertheſte, und das bekräftigt nur noch
+meine Rede. - Endlich war denn die Lady guter Hoffnung,
+und in der Nacht, wo ſie niederkommen ſollte, da kommt an
+die Thür des Hauſes, (an den Hof von Ellangowan, wie man
+es nennt,) ein ſteinalter, ſeltſam gekleideter Mann, und bittet
+um Quartier. Kopf, Beine und Arme waren nackt, obwohl
+es gerade im Winter war, und ſein eisgrauer Bart hing ihn
+dreiviertel Ellen lang über die Bruſt herab. Gut, er ward</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

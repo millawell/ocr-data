@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3092" imageWidth="2106">
+    <PrintSpace>
+        <Coords points="0,0 0,2106 3092,2106 3092,2106"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2106 3092,2106 3092,2106"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="187,774 187,1211 289,1211 289,774"/>
+            <TextEquiv>
+                <Unicode>- 219  -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="327,211 327,1762 447,1762 447,211"/>
+            <TextEquiv>
+                <Unicode>häuſer, die man be der Erſtürmnug erobert hatte;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="456,212 456,1764 532,1764 532,212"/>
+            <TextEquiv>
+                <Unicode>allein die untergeordneten Führer des Kreuzheeres</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="543,207 543,1764 619,1764 619,207"/>
+            <TextEquiv>
+                <Unicode>waren darüber unzufrieden, indem ſie vorbrachten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="632,205 632,1816 712,1816 712,205"/>
+            <TextEquiv>
+                <Unicode>daß bei ſolchen Gelegenheiten dem Oberfeldherrn nur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="721,207 721,1764 796,1764 796,207"/>
+            <TextEquiv>
+                <Unicode>ein Drittheil der Beute gebührte, der Reſt aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="809,205 809,1764 885,1764 885,205"/>
+            <TextEquiv>
+                <Unicode>ſeinen Kampfgenoſſen gehörte. Dies erregte unwil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="897,208 897,1762 1016,1762 1016,208"/>
+            <TextEquiv>
+                <Unicode>len und Ungehorſam bei den Lebensherren und unter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="979,176 979,1413 1063,1413 1063,176"/>
+            <TextEquiv>
+                <Unicode>grub nicht wenig Ludwigs Anſehen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1027,345 1027,1915 1151,1915 1151,345"/>
+            <TextEquiv>
+                <Unicode>Als Mangel an Kriegszucht ſich auf ſolche Weiſe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1163,207 1163,1761 1239,1761 1239,207"/>
+            <TextEquiv>
+                <Unicode>eingeſchlichen hatte, gewahrte man nur allzubald,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1251,205 1251,1759 1327,1759 1327,205"/>
+            <TextEquiv>
+                <Unicode>daß das Heer Ludwigs des Heiligen um nichts bef-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1336,203 1336,1762 1415,1762 1415,203"/>
+            <TextEquiv>
+                <Unicode>ſer war, als die früheren Kreuzfahrer; denn eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1427,207 1427,1759 1500,1759 1500,207"/>
+            <TextEquiv>
+                <Unicode>Steinwurfs weit von dem Zelte des Königs wur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1511,202 1511,1759 1592,1759 1592,202"/>
+            <TextEquiv>
+                <Unicode>den unter Begünſtigung mehrerer Höflinge die ärg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1601,201 1601,1760 1677,1760 1677,201"/>
+            <TextEquiv>
+                <Unicode>ſten Frechheiten getrieben. Mittlerwelle blieben die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1683,158 1683,1759 1774,1759 1774,158"/>
+            <TextEquiv>
+                <Unicode>Kreuzfahrer in Damiette, wo ſie zunächſt auf das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1767,202 1767,1758 1856,1758 1856,202"/>
+            <TextEquiv>
+                <Unicode>Zurückweichen der Nilüberſchwemmnng und ſodann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1867,202 1867,1779 1942,1779 1942,202"/>
+            <TextEquiv>
+                <Unicode>auf die Ankunft des Grafen Alfons von Poitiers war-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1954,201 1954,1757 2028,1757 2028,201"/>
+            <TextEquiv>
+                <Unicode>teten, der durch das Ungeſtüm des Wetters, oder,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2039,198 2039,1759 2116,1759 2116,198"/>
+            <TextEquiv>
+                <Unicode>wie Andere ſagen, durch ſpätere Ahfahrt von ſeinumn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2121,198 2121,1857 2212,1857 2212,198"/>
+            <TextEquiv>
+                <Unicode>Bruder getrennt blieb. Endlich kam bieſer Prinz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2217,201 2217,1757 2295,1757 2295,201"/>
+            <TextEquiv>
+                <Unicode>an; und Ludwig beſchloß einen Ausfall gegen Groß-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2303,200 2303,1757 2383,1757 2383,200"/>
+            <TextEquiv>
+                <Unicode>Cairo, welches die Einzügler Babylon nannten, zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2394,205 2394,1756 2470,1756 2470,205"/>
+            <TextEquiv>
+                <Unicode>machen. Allein der Nilſtrom, von dem die Chri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2482,198 2482,1759 2557,1759 2557,198"/>
+            <TextEquiv>
+                <Unicode>ſten glaubten, er entſpränge im Erdenparadieſe, war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2571,197 2571,1757 2647,1757 2647,197"/>
+            <TextEquiv>
+                <Unicode>zur Zeit noch in der Fluth und hemmte alle Augen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2658,198 2658,1754 2780,1754 2780,198"/>
+            <TextEquiv>
+                <Unicode>blicke ihr Vorſchreiten. Beſanders ward ihnen. ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 219  -
+häuſer, die man be der Erſtürmnug erobert hatte;
+allein die untergeordneten Führer des Kreuzheeres
+waren darüber unzufrieden, indem ſie vorbrachten,
+daß bei ſolchen Gelegenheiten dem Oberfeldherrn nur
+ein Drittheil der Beute gebührte, der Reſt aber
+ſeinen Kampfgenoſſen gehörte. Dies erregte unwil-
+len und Ungehorſam bei den Lebensherren und unter-
+grub nicht wenig Ludwigs Anſehen.
+Als Mangel an Kriegszucht ſich auf ſolche Weiſe
+eingeſchlichen hatte, gewahrte man nur allzubald,
+daß das Heer Ludwigs des Heiligen um nichts bef-
+ſer war, als die früheren Kreuzfahrer; denn eines
+Steinwurfs weit von dem Zelte des Königs wur-
+den unter Begünſtigung mehrerer Höflinge die ärg-
+ſten Frechheiten getrieben. Mittlerwelle blieben die
+Kreuzfahrer in Damiette, wo ſie zunächſt auf das
+Zurückweichen der Nilüberſchwemmnng und ſodann
+auf die Ankunft des Grafen Alfons von Poitiers war-
+teten, der durch das Ungeſtüm des Wetters, oder,
+wie Andere ſagen, durch ſpätere Ahfahrt von ſeinumn
+Bruder getrennt blieb. Endlich kam bieſer Prinz
+an; und Ludwig beſchloß einen Ausfall gegen Groß-
+Cairo, welches die Einzügler Babylon nannten, zu
+machen. Allein der Nilſtrom, von dem die Chri-
+ſten glaubten, er entſpränge im Erdenparadieſe, war
+zur Zeit noch in der Fluth und hemmte alle Augen-
+blicke ihr Vorſchreiten. Beſanders ward ihnen. ein</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

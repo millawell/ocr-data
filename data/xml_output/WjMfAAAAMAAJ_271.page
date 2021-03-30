@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="2432" imageWidth="1888">
+    <PrintSpace>
+        <Coords points="0,0 0,1888 2432,1888 2432,1888"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,1888 2432,1888 2432,1888"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="163,314 163,426 218,426 218,314"/>
+            <TextEquiv>
+                <Unicode>256</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="273,283 273,1742 339,1742 339,283"/>
+            <TextEquiv>
+                <Unicode>und der tapfere Maire derselben diese Zurü-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="344,283 344,1741 412,1741 412,283"/>
+            <TextEquiv>
+                <Unicode>stung sahen, wünschten sie zu capitulieren.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="414,285 414,1740 479,1740 479,285"/>
+            <TextEquiv>
+                <Unicode>Der Herzog von Perth weigerte sich, ihre Un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="483,283 483,1740 551,1740 551,283"/>
+            <TextEquiv>
+                <Unicode>terwerfung eher anzunehmen, als bis das Ca-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="553,285 553,1737 620,1737 620,285"/>
+            <TextEquiv>
+                <Unicode>stell sich ergehen hätte, gestattete ihnen je-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="623,283 623,1739 689,1739 689,283"/>
+            <TextEquiv>
+                <Unicode>doch genügende Frist zum Entschlusse zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="693,283 693,1740 759,1740 759,283"/>
+            <TextEquiv>
+                <Unicode>kommen. Die Folge war, daſs so Stadt wie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="761,285 761,1740 826,1740 826,285"/>
+            <TextEquiv>
+                <Unicode>Citadelle übergingen, wiewohl unter der Be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="829,284 829,1740 901,1740 901,284"/>
+            <TextEquiv>
+                <Unicode>dingungn, daſs die Privilegien der Gemeinden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="896,283 896,1740 971,1740 971,283"/>
+            <TextEquiv>
+                <Unicode>respectirt und der Besatzung, die gröſsten-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="966,284 966,1740 1034,1740 1034,284"/>
+            <TextEquiv>
+                <Unicode>theils aus Miliz bestand, gestattet werden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1036,284 1036,1737 1106,1737 1106,284"/>
+            <TextEquiv>
+                <Unicode>sollte, abzumarschiren, nachdem sie Waffen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1107,281 1107,1736 1172,1736 1172,281"/>
+            <TextEquiv>
+                <Unicode>und Pferde abgegeben und sich verpflichtet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1176,281 1176,1738 1242,1738 1242,281"/>
+            <TextEquiv>
+                <Unicode>haben würde, binnen einem Zeitraume von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1244,280 1244,1741 1311,1741 1311,280"/>
+            <TextEquiv>
+                <Unicode>zwölf Monden nicht gegen den Chevalier zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1316,281 1316,1742 1378,1742 1378,281"/>
+            <TextEquiv>
+                <Unicode>dienen. Diese Capitulation warad von dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1385,281 1385,1743 1464,1743 1464,281"/>
+            <TextEquiv>
+                <Unicode>Herzoge von Perth und dem Obersten Du-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1454,280 1454,1744 1520,1744 1520,280"/>
+            <TextEquiv>
+                <Unicode>rand unterzeichnet, dessen Vertheidigung doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1524,284 1524,1745 1591,1745 1591,284"/>
+            <TextEquiv>
+                <Unicode>wohl nur kümmerlich gewesen seyn muſs, in-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1593,283 1593,1742 1658,1742 1658,283"/>
+            <TextEquiv>
+                <Unicode>dem während der kurzen Belagerung von den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1661,282 1661,1742 1729,1742 1729,282"/>
+            <TextEquiv>
+                <Unicode>Angreifern nur Ein Mann getödtet und Ei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1729,302 1729,958 1781,958 1781,302"/>
+            <TextEquiv>
+                <Unicode>ner verwundet ward.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1799,355 1799,1744 1853,1744 1853,355"/>
+            <TextEquiv>
+                <Unicode>Am 17. November hielt der Prinz selbst</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1863,284 1863,1742 1935,1742 1935,284"/>
+            <TextEquiv>
+                <Unicode>einen triumphirenden Einzug in Carlisle. Die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1934,283 1934,1748 2002,1748 2002,283"/>
+            <TextEquiv>
+                <Unicode>Einwohner, welche keine Liebe zu seiner Sa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2004,283 2004,1749 2075,1749 2075,283"/>
+            <TextEquiv>
+                <Unicode>che hegten, empfingen ihn kalt, doch konn-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2072,282 2072,1747 2146,1747 2146,282"/>
+            <TextEquiv>
+                <Unicode>ten sie nicht umhin, ein Gefühl von Artig-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2139,283 2139,1750 2213,1750 2213,283"/>
+            <TextEquiv>
+                <Unicode>keit auszudrücken, daſs sie so gut von dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2209,280 2209,1752 2287,1752 2287,280"/>
+            <TextEquiv>
+                <Unicode>Herzoge von Perth behandelt worden waren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2273,276 2273,1870 2393,1870 2393,276"/>
+            <TextEquiv>
+                <Unicode>der sich groſsmüthig und herablassend gegen</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>256
+und der tapfere Maire derselben diese Zurü-
+stung sahen, wünschten sie zu capitulieren.
+Der Herzog von Perth weigerte sich, ihre Un-
+terwerfung eher anzunehmen, als bis das Ca-
+stell sich ergehen hätte, gestattete ihnen je-
+doch genügende Frist zum Entschlusse zu
+kommen. Die Folge war, daſs so Stadt wie
+Citadelle übergingen, wiewohl unter der Be-
+dingungn, daſs die Privilegien der Gemeinden
+respectirt und der Besatzung, die gröſsten-
+theils aus Miliz bestand, gestattet werden
+sollte, abzumarschiren, nachdem sie Waffen
+und Pferde abgegeben und sich verpflichtet
+haben würde, binnen einem Zeitraume von
+zwölf Monden nicht gegen den Chevalier zu
+dienen. Diese Capitulation warad von dem
+Herzoge von Perth und dem Obersten Du-
+rand unterzeichnet, dessen Vertheidigung doch
+wohl nur kümmerlich gewesen seyn muſs, in-
+dem während der kurzen Belagerung von den
+Angreifern nur Ein Mann getödtet und Ei-
+ner verwundet ward.
+Am 17. November hielt der Prinz selbst
+einen triumphirenden Einzug in Carlisle. Die
+Einwohner, welche keine Liebe zu seiner Sa-
+che hegten, empfingen ihn kalt, doch konn-
+ten sie nicht umhin, ein Gefühl von Artig-
+keit auszudrücken, daſs sie so gut von dem
+Herzoge von Perth behandelt worden waren,
+der sich groſsmüthig und herablassend gegen</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

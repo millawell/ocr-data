@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3460" imageWidth="2594">
+    <PrintSpace>
+        <Coords points="0,0 0,2594 3460,2594 3460,2594"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2594 3460,2594 3460,2594"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="173,1252 173,1387 242,1387 242,1252"/>
+            <TextEquiv>
+                <Unicode>290</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="322,303 322,1916 420,1916 420,303"/>
+            <TextEquiv>
+                <Unicode>König. Ruf ſie ſchnell, wir wollen ihn hören.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="410,322 410,1293 488,1293 488,322"/>
+            <TextEquiv>
+                <Unicode>Arm. Heda! kommt heran.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="494,310 494,2331 580,2331 580,310"/>
+            <TextEquiv>
+                <Unicode>Holofernes, Nathanael, Motte, Schädel und Andere treten auf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="588,382 588,2332 665,2332 665,382"/>
+            <TextEquiv>
+                <Unicode>Der auf dieſer Seite iſt Hiems, der Winter; der dort er, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="657,313 657,2292 741,2292 741,313"/>
+            <TextEquiv>
+                <Unicode>Frühling; ihnen folgt die Eule und der Kuckuck. Ver, beginne.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="844,1117 844,1497 925,1497 925,1117"/>
+            <TextEquiv>
+                <Unicode>L i e d.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="984,1135 984,1352 1042,1352 1042,1135"/>
+            <TextEquiv>
+                <Unicode>1.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1098,1056 1098,1591 1195,1591 1195,1056"/>
+            <TextEquiv>
+                <Unicode>F r ü h l i n g.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1212,668 1212,1943 1302,1943 1302,668"/>
+            <TextEquiv>
+                <Unicode>„Wenn Primeln bunt und Veilchen blau,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1293,678 1293,1566 1365,1566 1365,678"/>
+            <TextEquiv>
+                <Unicode>Und Tulpen herrlich prahlen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1344,675 1344,1792 1436,1792 1436,675"/>
+            <TextEquiv>
+                <Unicode>Wenn Kuckucksblumen rings die Au&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1431,682 1431,1555 1502,1555 1502,682"/>
+            <TextEquiv>
+                <Unicode>Mit bunter Pracht bemalen:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1501,680 1501,1783 1574,1783 1574,680"/>
+            <TextEquiv>
+                <Unicode>Da ſtimmt ſein Lied der Kuckuck an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1572,653 1572,1819 1644,1819 1644,653"/>
+            <TextEquiv>
+                <Unicode>Im Baum und foppt den Ehemann:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1641,1110 1641,1350 1715,1350 1715,1110"/>
+            <TextEquiv>
+                <Unicode>Kuckuck,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1709,678 1709,1740 1785,1740 1785,678"/>
+            <TextEquiv>
+                <Unicode>Kuckuck, Kuckuck: es packt ſich fort</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1778,679 1778,1797 1854,1797 1854,679"/>
+            <TextEquiv>
+                <Unicode>Der Mann, hört er das böſe Wort!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1913,1210 1913,1359 1978,1359 1978,1210"/>
+            <TextEquiv>
+                <Unicode>2.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2018,683 2018,1654 2095,1654 2095,683"/>
+            <TextEquiv>
+                <Unicode>Der Hirte bläſt auf Haferſtroh,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2090,676 2090,1759 2165,1759 2165,676"/>
+            <TextEquiv>
+                <Unicode>Des Pflügers Glocken Lerchen ſind,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2158,676 2158,1859 2232,1859 2232,676"/>
+            <TextEquiv>
+                <Unicode>Die Tauben hüpfen leicht und froh,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2223,612 2223,1911 2302,1911 2302,612"/>
+            <TextEquiv>
+                <Unicode>Ihr Sommerhemd bleicht&#39;s ſchöne Kind:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2296,680 2296,1786 2371,1786 2371,680"/>
+            <TextEquiv>
+                <Unicode>Da ſtimmt ſein Lied der Kuckuck an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2366,677 2366,1815 2439,1815 2439,677"/>
+            <TextEquiv>
+                <Unicode>Im Baum und foppt den Ehemann:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2434,1121 2434,1359 2504,1359 2504,1121"/>
+            <TextEquiv>
+                <Unicode>Kuckuck,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2502,683 2502,1753 2580,1753 2580,683"/>
+            <TextEquiv>
+                <Unicode>Kuckuck, Kuckuck: es packt ſich fort</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2573,627 2573,1792 2650,1792 2650,627"/>
+            <TextEquiv>
+                <Unicode>Der Mann, hört er das böſe Wort!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2832,1132 2832,1628 2894,1628 2894,1132"/>
+            <TextEquiv>
+                <Unicode>W i n t e r.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2934,682 2934,1853 3011,1853 3011,682"/>
+            <TextEquiv>
+                <Unicode>Wenn weg den Schnee die Grete fegt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3001,685 3001,1806 3076,1806 3076,685"/>
+            <TextEquiv>
+                <Unicode>Und Hans der Hirt die Hände bläſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3071,686 3071,1857 3147,1857 3147,686"/>
+            <TextEquiv>
+                <Unicode>und Toms in&#39;s Haus die Klötze trägt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>290
+König. Ruf ſie ſchnell, wir wollen ihn hören.
+Arm. Heda! kommt heran.
+Holofernes, Nathanael, Motte, Schädel und Andere treten auf.
+Der auf dieſer Seite iſt Hiems, der Winter; der dort er, der
+Frühling; ihnen folgt die Eule und der Kuckuck. Ver, beginne.
+L i e d.
+1.
+F r ü h l i n g.
+„Wenn Primeln bunt und Veilchen blau,
+Und Tulpen herrlich prahlen,
+Wenn Kuckucksblumen rings die Au&#39;
+Mit bunter Pracht bemalen:
+Da ſtimmt ſein Lied der Kuckuck an
+Im Baum und foppt den Ehemann:
+Kuckuck,
+Kuckuck, Kuckuck: es packt ſich fort
+Der Mann, hört er das böſe Wort!
+2.
+Der Hirte bläſt auf Haferſtroh,
+Des Pflügers Glocken Lerchen ſind,
+Die Tauben hüpfen leicht und froh,
+Ihr Sommerhemd bleicht&#39;s ſchöne Kind:
+Da ſtimmt ſein Lied der Kuckuck an
+Im Baum und foppt den Ehemann:
+Kuckuck,
+Kuckuck, Kuckuck: es packt ſich fort
+Der Mann, hört er das böſe Wort!
+W i n t e r.
+Wenn weg den Schnee die Grete fegt,
+Und Hans der Hirt die Hände bläſt,
+und Toms in&#39;s Haus die Klötze trägt,</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

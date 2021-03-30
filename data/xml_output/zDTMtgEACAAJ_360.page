@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3670" imageWidth="2604">
+    <PrintSpace>
+        <Coords points="0,0 0,2604 3670,2604 3670,2604"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2604 3670,2604 3670,2604"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="399,1209 399,1333 459,1333 459,1209"/>
+            <TextEquiv>
+                <Unicode>115</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="592,290 592,2250 673,2250 673,290"/>
+            <TextEquiv>
+                <Unicode>den Sagen und Liedern ſeiner Heimat ergötzt, von denen er die letz-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="675,295 675,2250 757,2250 757,295"/>
+            <TextEquiv>
+                <Unicode>tern in ſeiner Mutterſprache ſang, während ſeine Bemühung, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="764,293 764,2250 842,2250 842,293"/>
+            <TextEquiv>
+                <Unicode>letztere in ſeinem fremdartigen und unvollkommenen Franzöſiſch wie-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="849,292 849,2254 926,2254 926,292"/>
+            <TextEquiv>
+                <Unicode>derzugeben, hundert kleine Mißverſtändniſſe und Irrthümer der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="935,295 935,2252 1012,2252 1012,295"/>
+            <TextEquiv>
+                <Unicode>Sprache veranlaßten, ſo unterhaltend wie die Erzählungen ſelbſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1011,295 1011,2251 1094,2251 1094,295"/>
+            <TextEquiv>
+                <Unicode>Aber an dieſen ſorgenreichen Morgen ritt er zur Seite der Damen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1105,295 1105,2254 1182,2254 1182,295"/>
+            <TextEquiv>
+                <Unicode>von Croye ohne die gewöhnlichen Verſuche, ſie zu unterhalten, zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1190,296 1190,2252 1266,2252 1266,296"/>
+            <TextEquiv>
+                <Unicode>machen, und es mußte ihnen natürlich ſein Schweigen als etwas</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1268,318 1268,1261 1349,1261 1349,318"/>
+            <TextEquiv>
+                <Unicode>außerordentliches auffallen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1361,432 1361,2250 1437,2250 1437,432"/>
+            <TextEquiv>
+                <Unicode>„Unſer junger Begleiter hat einen Wolf geſehn,“ ſagte Dame</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1446,294 1446,2255 1522,2255 1522,294"/>
+            <TextEquiv>
+                <Unicode>Hameline, auf einen alten Aberglauben anſpielend, „und er hat</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1531,321 1531,1230 1604,1230 1604,321"/>
+            <TextEquiv>
+                <Unicode>die Sprache darüber verloren.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1616,432 1616,2252 1691,2252 1691,432"/>
+            <TextEquiv>
+                <Unicode>„Zu ſagen, ich hätte einen Fuchs aufgeſpürt, wäre paſſen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1702,300 1702,2070 1776,2070 1776,300"/>
+            <TextEquiv>
+                <Unicode>der,“ dachte Quentin, ohne dies laut zur Antwort zu geben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1782,432 1782,2252 1870,2252 1870,432"/>
+            <TextEquiv>
+                <Unicode>„Befindet ihr euch wohl, Herr Quentin?“ ſagte Gräfin Iſa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1863,291 1863,2254 1952,2254 1952,291"/>
+            <TextEquiv>
+                <Unicode>belle in ſo theilnehmendem Tone, daß ſie ſelbſt darüber erröthete,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1955,297 1955,2256 2031,2256 2031,297"/>
+            <TextEquiv>
+                <Unicode>während ſie fühlte, daß ſie etwas weiter gegangen, als der Abſtand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2042,329 2042,1053 2118,1053 2118,329"/>
+            <TextEquiv>
+                <Unicode>zwiſchen ihnen geſtattete.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2124,434 2124,2255 2202,2255 2202,434"/>
+            <TextEquiv>
+                <Unicode>„Er hat zu lange bei den luſtigen Mönchen geſeſſen,“ ſagte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2207,300 2207,2260 2284,2260 2284,300"/>
+            <TextEquiv>
+                <Unicode>Dame Hameline; „die Schotten gleichen den Deutſchen, die all</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2296,302 2296,2260 2378,2260 2378,302"/>
+            <TextEquiv>
+                <Unicode>ihre Luſt beim Rheinwein dran geben, und dann nur wankende</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2372,300 2372,2261 2472,2261 2472,300"/>
+            <TextEquiv>
+                <Unicode>Schritte zum Abendtanz und ſchmerzende Häupter am Morgen ins</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2467,325 2467,1140 2542,1140 2542,325"/>
+            <TextEquiv>
+                <Unicode>Frauengemach mitbringen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2552,434 2552,2391 2628,2391 2628,434"/>
+            <TextEquiv>
+                <Unicode>„Nein, ſchöne Damen,“ ſagte Quentin; „ich verdiene euren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2638,301 2638,2261 2714,2261 2714,301"/>
+            <TextEquiv>
+                <Unicode>Tadel nicht. Die guten Mönche waren faſt die ganze Nacht bei ih-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2723,303 2723,2264 2797,2264 2797,303"/>
+            <TextEquiv>
+                <Unicode>rer Andacht beſchäftigt; und was mich betrifft, mein Trank war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2806,307 2806,2017 2894,2017 2894,307"/>
+            <TextEquiv>
+                <Unicode>blos ein Becher ihres dünnſten und gemeinſten Weines.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2886,437 2886,2259 2979,2259 2979,437"/>
+            <TextEquiv>
+                <Unicode>„Die Schlechtigkit ſeines Mahles iſts, was ihm die gute</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2978,306 2978,2265 3052,2265 3052,306"/>
+            <TextEquiv>
+                <Unicode>Laune geraubt hat,“ ſagte die Gräfin Iſabelle. „Munter, Herr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3059,304 3059,2267 3137,2267 3137,304"/>
+            <TextEquiv>
+                <Unicode>Quentin; und ſollten wir je mein altes Schloß von Bracguemont</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3144,306 3144,2262 3224,2262 3224,306"/>
+            <TextEquiv>
+                <Unicode>mit einander beſuchen, ſo will ich ſelber euer Mundſchenk ſein und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="3230,1664 3230,1756 3300,1756 3300,1664"/>
+            <TextEquiv>
+                <Unicode>8*</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>115
+den Sagen und Liedern ſeiner Heimat ergötzt, von denen er die letz-
+tern in ſeiner Mutterſprache ſang, während ſeine Bemühung, die
+letztere in ſeinem fremdartigen und unvollkommenen Franzöſiſch wie-
+derzugeben, hundert kleine Mißverſtändniſſe und Irrthümer der
+Sprache veranlaßten, ſo unterhaltend wie die Erzählungen ſelbſt.
+Aber an dieſen ſorgenreichen Morgen ritt er zur Seite der Damen
+von Croye ohne die gewöhnlichen Verſuche, ſie zu unterhalten, zu
+machen, und es mußte ihnen natürlich ſein Schweigen als etwas
+außerordentliches auffallen.
+„Unſer junger Begleiter hat einen Wolf geſehn,“ ſagte Dame
+Hameline, auf einen alten Aberglauben anſpielend, „und er hat
+die Sprache darüber verloren.“
+„Zu ſagen, ich hätte einen Fuchs aufgeſpürt, wäre paſſen-
+der,“ dachte Quentin, ohne dies laut zur Antwort zu geben.
+„Befindet ihr euch wohl, Herr Quentin?“ ſagte Gräfin Iſa-
+belle in ſo theilnehmendem Tone, daß ſie ſelbſt darüber erröthete,
+während ſie fühlte, daß ſie etwas weiter gegangen, als der Abſtand
+zwiſchen ihnen geſtattete.
+„Er hat zu lange bei den luſtigen Mönchen geſeſſen,“ ſagte
+Dame Hameline; „die Schotten gleichen den Deutſchen, die all
+ihre Luſt beim Rheinwein dran geben, und dann nur wankende
+Schritte zum Abendtanz und ſchmerzende Häupter am Morgen ins
+Frauengemach mitbringen.“
+„Nein, ſchöne Damen,“ ſagte Quentin; „ich verdiene euren
+Tadel nicht. Die guten Mönche waren faſt die ganze Nacht bei ih-
+rer Andacht beſchäftigt; und was mich betrifft, mein Trank war
+blos ein Becher ihres dünnſten und gemeinſten Weines.“
+„Die Schlechtigkit ſeines Mahles iſts, was ihm die gute
+Laune geraubt hat,“ ſagte die Gräfin Iſabelle. „Munter, Herr
+Quentin; und ſollten wir je mein altes Schloß von Bracguemont
+mit einander beſuchen, ſo will ich ſelber euer Mundſchenk ſein und
+8*</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

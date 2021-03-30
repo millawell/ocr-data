@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3080" imageWidth="2128">
+    <PrintSpace>
+        <Coords points="0,0 0,2128 3080,2128 3080,2128"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2128 3080,2128 3080,2128"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="215,553 215,1396 314,1396 314,553"/>
+            <TextEquiv>
+                <Unicode>- 87 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="369,158 369,1746 462,1746 462,158"/>
+            <TextEquiv>
+                <Unicode>„Ihr ſeht, daß die Noth des Alterthums eben ſo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="593,303 593,1742 726,1742 726,303"/>
+            <TextEquiv>
+                <Unicode>„Ja,“ antwortete Brunhilde, „und ich habe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="731,160 731,1749 814,1749 814,160"/>
+            <TextEquiv>
+                <Unicode>vor der berühmten Belagerung von Troja gehört,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="822,152 822,1984 902,1984 902,152"/>
+            <TextEquiv>
+                <Unicode>bei welcher Gelegenheit ein prunkender Feigling das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="913,68 913,1760 996,1760 996,68"/>
+            <TextEquiv>
+                <Unicode>Weib  eines Tapſern entſührte und jegliches ritter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1000,158 1000,1756 1077,1756 1077,158"/>
+            <TextEquiv>
+                <Unicode>liche Zuſammentreffen mit dem Ehemanne, dem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1089,155 1089,1754 1165,1754 1165,155"/>
+            <TextEquiv>
+                <Unicode>Schmach angethan hatte, ſchonete, ſo daß daraus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1175,156 1175,1766 1259,1766 1259,156"/>
+            <TextEquiv>
+                <Unicode>der Tod vieler ſeiner Brüder, die Verwüſtung ſei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1254,125 1254,1773 1340,1773 1340,125"/>
+            <TextEquiv>
+                <Unicode>nes Vaterlandes, der Verluſt aller Reichthümer des-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1350,85 1350,1745 1439,1745 1439,85"/>
+            <TextEquiv>
+                <Unicode>ſelben hervorging und er ſelbſt dem Tod eines er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1432,157 1432,1758 1522,1758 1522,157"/>
+            <TextEquiv>
+                <Unicode>bärmlichen Prahters ſtarb, der nur von ſeinen. Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1529,158 1529,1739 1606,1739 1606,158"/>
+            <TextEquiv>
+                <Unicode>noſſen beklagt  ward; und aus dem Alben ergiebt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1618,157 1618,1756 1696,1756 1696,157"/>
+            <TextEquiv>
+                <Unicode>ſich denn deutlch genug, wie Eure Vorſahren ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1706,167 1706,1509 1785,1509 1785,167"/>
+            <TextEquiv>
+                <Unicode>auf die Gesetze der Ritterſchaft verſtanden.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1792,292 1792,1736 1872,1736 1872,292"/>
+            <TextEquiv>
+                <Unicode>„Ihr ſeyd im Irrthum,, Gräſin,“ ſagte der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1881,159 1881,1762 1957,1762 1957,159"/>
+            <TextEquiv>
+                <Unicode>Cäſar; „die Unthaten des Paris waren die eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1970,159 1970,1743 2048,1743 2048,159"/>
+            <TextEquiv>
+                <Unicode>frechen Morgenländers; der Muth, der ſie rächte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2060,163 2060,1661 2136,1661 2136,163"/>
+            <TextEquiv>
+                <Unicode>war der Muth der Söhne Griechenlands.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2097,308 2097,1762 2228,1762 2228,308"/>
+            <TextEquiv>
+                <Unicode>„Ihr ſprecht gelehrt, Herr,“ entgegnete die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2236,160 2236,1819 2313,1819 2313,160"/>
+            <TextEquiv>
+                <Unicode>Dame, „doch glaubt nicht, daß ich Euren Worten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2326,162 2326,1760 2402,1760 2402,162"/>
+            <TextEquiv>
+                <Unicode>eher glaube,  als  bis Ihr mir einen  griechiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2411,162 2411,1766 2493,1766 2493,162"/>
+            <TextEquiv>
+                <Unicode>Ritter vorstelltet, der tapfer genug iſt, auſ den be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 87 -
+„Ihr ſeht, daß die Noth des Alterthums eben ſo
+„Ja,“ antwortete Brunhilde, „und ich habe
+vor der berühmten Belagerung von Troja gehört,
+bei welcher Gelegenheit ein prunkender Feigling das
+Weib  eines Tapſern entſührte und jegliches ritter-
+liche Zuſammentreffen mit dem Ehemanne, dem er
+Schmach angethan hatte, ſchonete, ſo daß daraus
+der Tod vieler ſeiner Brüder, die Verwüſtung ſei-
+nes Vaterlandes, der Verluſt aller Reichthümer des-
+ſelben hervorging und er ſelbſt dem Tod eines er-
+bärmlichen Prahters ſtarb, der nur von ſeinen. Ge-
+noſſen beklagt  ward; und aus dem Alben ergiebt
+ſich denn deutlch genug, wie Eure Vorſahren ſich
+auf die Gesetze der Ritterſchaft verſtanden.“
+„Ihr ſeyd im Irrthum,, Gräſin,“ ſagte der
+Cäſar; „die Unthaten des Paris waren die eines
+frechen Morgenländers; der Muth, der ſie rächte,
+war der Muth der Söhne Griechenlands.“
+„Ihr ſprecht gelehrt, Herr,“ entgegnete die
+Dame, „doch glaubt nicht, daß ich Euren Worten
+eher glaube,  als  bis Ihr mir einen  griechiſchen
+Ritter vorstelltet, der tapfer genug iſt, auſ den be-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

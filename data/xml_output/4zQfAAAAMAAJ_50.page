@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3093" imageWidth="2130">
+    <PrintSpace>
+        <Coords points="0,0 0,2130 3093,2130 3093,2130"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2130 3093,2130 3093,2130"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="239,720 239,1112 297,1112 297,720"/>
+            <TextEquiv>
+                <Unicode>- 43 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="345,127 345,1711 448,1711 448,127"/>
+            <TextEquiv>
+                <Unicode>des Meſſers, und weiß wohl, welche Wirkung es hat,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="457,124 457,1712 534,1712 534,124"/>
+            <TextEquiv>
+                <Unicode>wenn von ſtarker Fauſt ein Stoß über das Schlüſ-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="545,119 545,1899 624,1899 624,119"/>
+            <TextEquiv>
+                <Unicode>ſelbein vollführt ward - ich fühl&#39; es kommen. Der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="633,121 633,1720 714,1720 714,121"/>
+            <TextEquiv>
+                <Unicode>ſogenannte Unſterbliche wird jetzt, wenn die Prie-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="719,121 719,1830 807,1830 807,121"/>
+            <TextEquiv>
+                <Unicode>ſter wahrſprechen, wirklich ein Urſterblicher, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="800,119 800,1719 891,1719 891,119"/>
+            <TextEquiv>
+                <Unicode>der Bogen des Sebaſtes von Mytilene zerbricht, ehe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="895,127 895,1471 1012,1471 1012,127"/>
+            <TextEquiv>
+                <Unicode>noch ſein Köcher zur Hälfte geleert ward.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1003,58 1003,1897 1123,1897 1123,58"/>
+            <TextEquiv>
+                <Unicode>Der räuberiſche Grieche ſank hierauf in Heri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1109,118 1109,1897 1203,1897 1203,118"/>
+            <TextEquiv>
+                <Unicode>berts Arm zurück und endete ſein Leben mit einem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1209,119 1209,1880 1292,1880 1292,119"/>
+            <TextEquiv>
+                <Unicode>Aechzen, welches der letzte Laut war, den er her-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1295,126 1295,1714 1411,1714 1411,126"/>
+            <TextEquiv>
+                <Unicode>vorbrachte. Der Varangier ſtreckte den Leichnam</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1392,152 1392,677 1494,677 1494,152"/>
+            <TextEquiv>
+                <Unicode>auf die Flur hin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1472,275 1472,1714 1591,1714 1591,275"/>
+            <TextEquiv>
+                <Unicode>„Das iſt eine verwickelte Sache,“ ſprach er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1600,127 1600,1838 1682,1838 1682,127"/>
+            <TextEquiv>
+                <Unicode>dann. „Ich bin zuverläſſig nicht dazn berufen, ei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1691,130 1691,1710 1768,1710 1768,130"/>
+            <TextEquiv>
+                <Unicode>nen braven Mann, obſchon er rein Tedfeind iſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1777,131 1777,1712 1860,1712 1860,131"/>
+            <TextEquiv>
+                <Unicode>deshalb zu tödten, weil er einen Böſewicht nieder-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1863,129 1863,1714 1943,1714 1943,129"/>
+            <TextEquiv>
+                <Unicode>ſtieß, der in Geheim darauf ſann, mich ſelbſt um-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1952,59 1952,1735 2043,1735 2043,59"/>
+            <TextEquiv>
+                <Unicode>zubringen. Auch iſt dieſer Ort ſo wenig wie dieſes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2040,131 2040,1718 2121,1718 2121,131"/>
+            <TextEquiv>
+                <Unicode>Licht dazu geeignet, ſo zu fechten, wie es Kämpen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2129,130 2129,1831 2221,1831 2221,130"/>
+            <TextEquiv>
+                <Unicode>zweier Nationen geziemt. Laſſen wir den Zviſt für</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2208,131 2208,1830 2299,1830 2299,131"/>
+            <TextEquiv>
+                <Unicode>diesmal ruhen. Was ſagt Ihr dazu, edler Herr,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2307,128 2307,1936 2396,1936 2396,128"/>
+            <TextEquiv>
+                <Unicode>wenn wir unſern Streit ſo lange verſchieben, bis</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2389,134 2389,1715 2477,1715 2477,134"/>
+            <TextEquiv>
+                <Unicode>Ihr aus dieſen Kerkern des kaiſerlichen Palaſtes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2485,134 2485,1717 2564,1717 2564,134"/>
+            <TextEquiv>
+                <Unicode>befreit, und Euern Freunden und Geleitsmännern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2568,129 2568,1896 2654,1896 2654,129"/>
+            <TextEquiv>
+                <Unicode>zurückgegeben wurdet? Wenn ein armer Varan-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2660,134 2660,1717 2743,1717 2743,134"/>
+            <TextEquiv>
+                <Unicode>gier Euch zu ſolchem Zwecke helfen könnte, würdet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2749,132 2749,1715 2830,1715 2830,132"/>
+            <TextEquiv>
+                <Unicode>Ihr ihm, nach vollführter Befreiung, es weigern,</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 43 -
+des Meſſers, und weiß wohl, welche Wirkung es hat,
+wenn von ſtarker Fauſt ein Stoß über das Schlüſ-
+ſelbein vollführt ward - ich fühl&#39; es kommen. Der
+ſogenannte Unſterbliche wird jetzt, wenn die Prie-
+ſter wahrſprechen, wirklich ein Urſterblicher, und
+der Bogen des Sebaſtes von Mytilene zerbricht, ehe
+noch ſein Köcher zur Hälfte geleert ward.“
+Der räuberiſche Grieche ſank hierauf in Heri-
+berts Arm zurück und endete ſein Leben mit einem
+Aechzen, welches der letzte Laut war, den er her-
+vorbrachte. Der Varangier ſtreckte den Leichnam
+auf die Flur hin.
+„Das iſt eine verwickelte Sache,“ ſprach er
+dann. „Ich bin zuverläſſig nicht dazn berufen, ei-
+nen braven Mann, obſchon er rein Tedfeind iſt,
+deshalb zu tödten, weil er einen Böſewicht nieder-
+ſtieß, der in Geheim darauf ſann, mich ſelbſt um-
+zubringen. Auch iſt dieſer Ort ſo wenig wie dieſes
+Licht dazu geeignet, ſo zu fechten, wie es Kämpen
+zweier Nationen geziemt. Laſſen wir den Zviſt für
+diesmal ruhen. Was ſagt Ihr dazu, edler Herr,
+wenn wir unſern Streit ſo lange verſchieben, bis
+Ihr aus dieſen Kerkern des kaiſerlichen Palaſtes
+befreit, und Euern Freunden und Geleitsmännern
+zurückgegeben wurdet? Wenn ein armer Varan-
+gier Euch zu ſolchem Zwecke helfen könnte, würdet
+Ihr ihm, nach vollführter Befreiung, es weigern,</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

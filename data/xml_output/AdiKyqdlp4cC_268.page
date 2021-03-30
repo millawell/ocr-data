@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3456" imageWidth="2595">
+    <PrintSpace>
+        <Coords points="0,0 0,2595 3456,2595 3456,2595"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2595 3456,2595 3456,2595"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="139,1163 139,1309 211,1309 211,1163"/>
+            <TextEquiv>
+                <Unicode>263</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="308,209 308,2241 392,2241 392,209"/>
+            <TextEquiv>
+                <Unicode>Renumeration, welche ich von deinem Herrn erhalten habe, du Hel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="378,210 378,2237 458,2237 458,210"/>
+            <TextEquiv>
+                <Unicode>lersbüchſe des Witzes, du Taubenei von Artigkeit. O, hätte es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="448,205 448,2238 534,2238 534,205"/>
+            <TextEquiv>
+                <Unicode>doch dem Himel gefallen, daß du auch nur mein Baſtard wärſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="518,205 518,2238 602,2238 602,205"/>
+            <TextEquiv>
+                <Unicode>welchen frohen Vater würdeſt du aus mir machen! Geh, du haſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="588,209 588,2234 666,2234 666,209"/>
+            <TextEquiv>
+                <Unicode>getroffen den Dung, den Nagel auf den Kopf, wie man es nennt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="659,275 659,2231 738,2231 738,275"/>
+            <TextEquiv>
+                <Unicode>Holof. Oho, ich wittre falſches Latein; den Dung für ad unguem.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="725,273 725,2233 808,2233 808,273"/>
+            <TextEquiv>
+                <Unicode>Arm. Kunſtmann, praeambula; wir wollen uns ſepariren</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="797,199 797,2430 876,2430 876,199"/>
+            <TextEquiv>
+                <Unicode>von den Barbaren. Belehrt ihr nicht die Jugend in dem Päda-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="866,225 866,1376 944,1376 944,225"/>
+            <TextEquiv>
+                <Unicode>gogio auf dem Haupte des Gebirges?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="936,286 936,1716 1012,1716 1012,286"/>
+            <TextEquiv>
+                <Unicode>Holof. Oder auf dem mons, dem Hügel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1004,282 1004,1856 1082,1856 1082,282"/>
+            <TextEquiv>
+                <Unicode>Arm. Nach eurem gütigen Ermeſſen für Gebirge.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1076,293 1076,1444 1149,1444 1149,293"/>
+            <TextEquiv>
+                <Unicode>Holof. Ich thue es sans question.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1143,274 1143,2231 1222,2231 1222,274"/>
+            <TextEquiv>
+                <Unicode>Arm. Herr, es iſt des Königs lieblichſte Willensmeinung und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1212,208 1212,2235 1291,2235 1291,208"/>
+            <TextEquiv>
+                <Unicode>Affectation, zu beglückwünſchen die Prinzeſſin in ihrem Pavillon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1285,197 1285,2233 1362,2233 1362,197"/>
+            <TextEquiv>
+                <Unicode>in den Poſterioribus des Tages, welche die rauhe Menge benamſet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1351,243 1351,608 1430,608 1430,243"/>
+            <TextEquiv>
+                <Unicode>Nachmittag.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1423,276 1423,2234 1503,2234 1503,276"/>
+            <TextEquiv>
+                <Unicode>Holof. Die Poſteriora des Tages, ſehr edler Herr, ſind anfüg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1492,200 1492,2235 1571,2235 1571,200"/>
+            <TextEquiv>
+                <Unicode>ſam, congruent und paſſend für Nachmittag: das Wort iſt erleſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1561,200 1561,2236 1639,2236 1639,200"/>
+            <TextEquiv>
+                <Unicode>ſelect, ſüß und anmuthiglich, ich verſichere es euch, Herr, ich ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1634,244 1634,602 1708,602 1708,244"/>
+            <TextEquiv>
+                <Unicode>ſichere euch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1699,272 1699,2230 1775,2230 1775,272"/>
+            <TextEquiv>
+                <Unicode>Arm. Herr, der König iſt ein erhabener Edelmann und mein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1768,195 1768,2236 1848,2236 1848,195"/>
+            <TextEquiv>
+                <Unicode>intimer, ich kann euch verſichern, ſehr guter Freund: - denn was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1837,197 1837,2224 1917,2224 1917,197"/>
+            <TextEquiv>
+                <Unicode>innerlich zwiſchen uns vorgeht, deſſen will ich nicht erwähnen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1907,196 1907,2235 1982,2235 1982,196"/>
+            <TextEquiv>
+                <Unicode>Ich bitte dich, laß die Ceremonien; - ich bitte dich, bedecke dein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1977,199 1977,2234 2056,2234 2056,199"/>
+            <TextEquiv>
+                <Unicode>Haupt; - und unter andern ſehr wichtigen und höchſt ernſthaf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2049,201 2049,2235 2128,2235 2128,201"/>
+            <TextEquiv>
+                <Unicode>ten Plänen, - und gewiß auch von ſehr großer Gewichtigkeit; -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2118,200 2118,2234 2196,2234 2196,200"/>
+            <TextEquiv>
+                <Unicode>doch deſſen will ich nichts erwähnen. Beim Himmel, ich erzähle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2189,198 2189,2235 2264,2235 2264,198"/>
+            <TextEquiv>
+                <Unicode>dir keine Mährchen; gewiſſe ganz abſonderliche Ehrenbezeigungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2259,198 2259,2233 2333,2233 2333,198"/>
+            <TextEquiv>
+                <Unicode>geſiel es ſeiner Erhabenheit zu Theil werden zu laſſen dem Ar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2327,196 2327,2235 2403,2235 2403,196"/>
+            <TextEquiv>
+                <Unicode>mado, einem Krieger, einem vielgereiſten Manne, der die Welt ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2395,198 2395,2235 2471,2235 2471,198"/>
+            <TextEquiv>
+                <Unicode>ſehen; doch deſſen will ich nichts erwähnen. Der eigentliche In-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2464,199 2464,2239 2540,2239 2540,199"/>
+            <TextEquiv>
+                <Unicode>halt von dieſem Allem iſt, - doch, ſüßes Herz, ich bitte um Ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2532,207 2532,2232 2611,2232 2611,207"/>
+            <TextEquiv>
+                <Unicode>ſchwiegenheit, - daß der König wünſcht, ich ſolle die Prinzeſſin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2602,201 2602,2231 2679,2231 2679,201"/>
+            <TextEquiv>
+                <Unicode>ſein ſüßes Täubchen, erfreuen durch irgend eine ergötzliche Oſten-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2671,204 2671,2230 2748,2230 2748,204"/>
+            <TextEquiv>
+                <Unicode>tation, Schauſtellung, Aufzug, Mummenſchanz oder Feuerwerk.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2743,202 2743,2233 2818,2233 2818,202"/>
+            <TextEquiv>
+                <Unicode>Nu, wohl erwägend, daß der Paſtor und eure werthe Perſon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2811,200 2811,2235 2887,2235 2887,200"/>
+            <TextEquiv>
+                <Unicode>ſtark ſeid in ſolchen Ausbrüchen und plötzlichen Eruptionen der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2882,203 2882,2231 2962,2231 2962,203"/>
+            <TextEquiv>
+                <Unicode>Ergötzlichkeit, ſo habe ich euch denn hievon vergewiſſert zu dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2948,205 2948,2086 3028,2086 3028,205"/>
+            <TextEquiv>
+                <Unicode>Endzweck, um eure Beiſtändlichkeit in Acquiſition zu nehmen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3020,276 3020,2228 3129,2228 3129,276"/>
+            <TextEquiv>
+                <Unicode>Holof. Herr Ritter, ihr müßt vor ihr das Spiel der neun</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>263
+Renumeration, welche ich von deinem Herrn erhalten habe, du Hel-
+lersbüchſe des Witzes, du Taubenei von Artigkeit. O, hätte es
+doch dem Himel gefallen, daß du auch nur mein Baſtard wärſt,
+welchen frohen Vater würdeſt du aus mir machen! Geh, du haſt
+getroffen den Dung, den Nagel auf den Kopf, wie man es nennt.
+Holof. Oho, ich wittre falſches Latein; den Dung für ad unguem.
+Arm. Kunſtmann, praeambula; wir wollen uns ſepariren
+von den Barbaren. Belehrt ihr nicht die Jugend in dem Päda-
+gogio auf dem Haupte des Gebirges?
+Holof. Oder auf dem mons, dem Hügel.
+Arm. Nach eurem gütigen Ermeſſen für Gebirge.
+Holof. Ich thue es sans question.
+Arm. Herr, es iſt des Königs lieblichſte Willensmeinung und
+Affectation, zu beglückwünſchen die Prinzeſſin in ihrem Pavillon
+in den Poſterioribus des Tages, welche die rauhe Menge benamſet
+Nachmittag.
+Holof. Die Poſteriora des Tages, ſehr edler Herr, ſind anfüg-
+ſam, congruent und paſſend für Nachmittag: das Wort iſt erleſen,
+ſelect, ſüß und anmuthiglich, ich verſichere es euch, Herr, ich ver-
+ſichere euch.
+Arm. Herr, der König iſt ein erhabener Edelmann und mein
+intimer, ich kann euch verſichern, ſehr guter Freund: - denn was
+innerlich zwiſchen uns vorgeht, deſſen will ich nicht erwähnen.
+Ich bitte dich, laß die Ceremonien; - ich bitte dich, bedecke dein
+Haupt; - und unter andern ſehr wichtigen und höchſt ernſthaf-
+ten Plänen, - und gewiß auch von ſehr großer Gewichtigkeit; -
+doch deſſen will ich nichts erwähnen. Beim Himmel, ich erzähle
+dir keine Mährchen; gewiſſe ganz abſonderliche Ehrenbezeigungen
+geſiel es ſeiner Erhabenheit zu Theil werden zu laſſen dem Ar-
+mado, einem Krieger, einem vielgereiſten Manne, der die Welt ge-
+ſehen; doch deſſen will ich nichts erwähnen. Der eigentliche In-
+halt von dieſem Allem iſt, - doch, ſüßes Herz, ich bitte um Ver-
+ſchwiegenheit, - daß der König wünſcht, ich ſolle die Prinzeſſin,
+ſein ſüßes Täubchen, erfreuen durch irgend eine ergötzliche Oſten-
+tation, Schauſtellung, Aufzug, Mummenſchanz oder Feuerwerk.
+Nu, wohl erwägend, daß der Paſtor und eure werthe Perſon
+ſtark ſeid in ſolchen Ausbrüchen und plötzlichen Eruptionen der
+Ergötzlichkeit, ſo habe ich euch denn hievon vergewiſſert zu dem
+Endzweck, um eure Beiſtändlichkeit in Acquiſition zu nehmen.
+Holof. Herr Ritter, ihr müßt vor ihr das Spiel der neun</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

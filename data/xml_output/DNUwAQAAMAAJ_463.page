@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3678" imageWidth="2598">
+    <PrintSpace>
+        <Coords points="0,0 0,2598 3678,2598 3678,2598"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2598 3678,2598 3678,2598"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="388,1266 388,1357 453,1357 453,1266"/>
+            <TextEquiv>
+                <Unicode>80</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="558,319 558,2302 648,2302 648,319"/>
+            <TextEquiv>
+                <Unicode>ſüßer Geruch ſein, und mit ihrer Hülfe wollen wir dem Zau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="642,320 642,2303 728,2303 728,320"/>
+            <TextEquiv>
+                <Unicode>ber und der Verführung entgegenwirken, worein ſich unſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="737,319 737,2303 811,2303 811,319"/>
+            <TextEquiv>
+                <Unicode>Bruder verſtrickt hat. Er ſoll die Banden dieſer Delila zer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="824,270 824,2305 899,2305 899,270"/>
+            <TextEquiv>
+                <Unicode>reißen, wie Simſon die neuen Stricke zerriß, womit ihn die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="910,317 910,2450 987,2450 987,317"/>
+            <TextEquiv>
+                <Unicode>Philiſter gebunden hatten, aber die ſchändliche Zauberin, wel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1000,322 1000,2302 1075,2302 1075,322"/>
+            <TextEquiv>
+                <Unicode>che ihre Bezauberungen bei einem Mitgliede des heiligen Tem-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1087,323 1087,2104 1162,2104 1162,323"/>
+            <TextEquiv>
+                <Unicode>pels angewendet hat, ſoll ſicherlich des Todes ſterben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1173,430 1173,2299 1251,2299 1251,430"/>
+            <TextEquiv>
+                <Unicode>„Aber die engliſchen Geſetze“ - ſagte der Präceptor, der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1259,317 1259,2303 1336,2303 1336,317"/>
+            <TextEquiv>
+                <Unicode>ſich zwar freute, daß der Zorn des Großmeiſters ſich ſo glück-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1348,319 1348,2303 1422,2303 1422,319"/>
+            <TextEquiv>
+                <Unicode>lich von ihm und Bois-Guilbert abgewendet habe, doch aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1435,336 1435,1579 1512,1579 1512,336"/>
+            <TextEquiv>
+                <Unicode>fürchtete, er möge ihn zu weit führen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1521,431 1521,2301 1599,2301 1599,431"/>
+            <TextEquiv>
+                <Unicode>„Die engliſchen Geſetze,“ erwiderte Beaumanoir, „erlauben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1608,319 1608,2304 1685,2304 1685,319"/>
+            <TextEquiv>
+                <Unicode>und ermächtigen jeden Richter innerhalb ſeiner Iurisdiction</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1696,319 1696,2305 1774,2305 1774,319"/>
+            <TextEquiv>
+                <Unicode>Gerechtigkeit zu üben. Der geringſte Edelmann kann eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1781,319 1781,2304 1860,2304 1860,319"/>
+            <TextEquiv>
+                <Unicode>auf ſeinem Gebiete gefundene Hexe verhaften und nach der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1869,319 1869,2304 1947,2304 1947,319"/>
+            <TextEquiv>
+                <Unicode>Unterſuchung verurtheilen. Wie ſollte man dem Großmeiſter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1957,319 1957,2302 2035,2302 2035,319"/>
+            <TextEquiv>
+                <Unicode>des Tempels innerhalb des Präceptoriums ſeines Ordens</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2045,320 2045,2303 2134,2303 2134,320"/>
+            <TextEquiv>
+                <Unicode>dieſes Recht verweigern? Nein Wir wollen urtheilen und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2135,322 2135,2303 2210,2303 2210,322"/>
+            <TextEquiv>
+                <Unicode>verdammen. Bereite die Schloßhalle zu dem Prozeſſe der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2223,358 2223,838 2295,838 2295,358"/>
+            <TextEquiv>
+                <Unicode>Zauberin vor.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2307,433 2307,2299 2385,2299 2385,433"/>
+            <TextEquiv>
+                <Unicode>Albert Malvoiſin verbeugte ſich und ging - nicht um Be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2395,322 2395,2303 2472,2303 2472,322"/>
+            <TextEquiv>
+                <Unicode>fehle zu geben, die Halle in Bereitſchaft zu halten, ſondern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2483,322 2483,2305 2557,2305 2557,322"/>
+            <TextEquiv>
+                <Unicode>um Bois-Guilbert aufzuſuchen, und ihm mitzutheilen, wie die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2570,323 2570,2305 2644,2305 2644,323"/>
+            <TextEquiv>
+                <Unicode>Sachen wahrſcheinlich enden würden. Er fand ihn bald,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2656,322 2656,2306 2734,2306 2734,322"/>
+            <TextEquiv>
+                <Unicode>ſchäumend vor Unwillen wegen einer Zurückweiſung, die er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2744,324 2744,2306 2819,2306 2819,324"/>
+            <TextEquiv>
+                <Unicode>wieder von der ſchönen Iüdin erfahren hatte. „Die Undank-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2831,323 2831,2303 2908,2303 2908,323"/>
+            <TextEquiv>
+                <Unicode>bare,“ ſagte er, „den zurückzuweiſen, der unter Blut und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2920,322 2920,2305 2995,2305 2995,322"/>
+            <TextEquiv>
+                <Unicode>Flammen ihr Leben mit Gefahr ſeines eigenen würde gerettet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="3007,323 3007,2305 3083,2305 3083,323"/>
+            <TextEquiv>
+                <Unicode>haben! Beim Himmel, Malvoiſin! ich blieb da, bis Balken</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3094,326 3094,2306 3169,2306 3169,326"/>
+            <TextEquiv>
+                <Unicode>und Sparren um mich her krachten. Ich war das Ziel von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3176,328 3176,2306 3264,2306 3264,328"/>
+            <TextEquiv>
+                <Unicode>hundert Pfeilen; ſie raſſelten an meiner Rüſtung, gleich Schloßen</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>80
+ſüßer Geruch ſein, und mit ihrer Hülfe wollen wir dem Zau-
+ber und der Verführung entgegenwirken, worein ſich unſer
+Bruder verſtrickt hat. Er ſoll die Banden dieſer Delila zer-
+reißen, wie Simſon die neuen Stricke zerriß, womit ihn die
+Philiſter gebunden hatten, aber die ſchändliche Zauberin, wel-
+che ihre Bezauberungen bei einem Mitgliede des heiligen Tem-
+pels angewendet hat, ſoll ſicherlich des Todes ſterben.“
+„Aber die engliſchen Geſetze“ - ſagte der Präceptor, der
+ſich zwar freute, daß der Zorn des Großmeiſters ſich ſo glück-
+lich von ihm und Bois-Guilbert abgewendet habe, doch aber
+fürchtete, er möge ihn zu weit führen.
+„Die engliſchen Geſetze,“ erwiderte Beaumanoir, „erlauben
+und ermächtigen jeden Richter innerhalb ſeiner Iurisdiction
+Gerechtigkeit zu üben. Der geringſte Edelmann kann eine
+auf ſeinem Gebiete gefundene Hexe verhaften und nach der
+Unterſuchung verurtheilen. Wie ſollte man dem Großmeiſter
+des Tempels innerhalb des Präceptoriums ſeines Ordens
+dieſes Recht verweigern? Nein Wir wollen urtheilen und
+verdammen. Bereite die Schloßhalle zu dem Prozeſſe der
+Zauberin vor.“
+Albert Malvoiſin verbeugte ſich und ging - nicht um Be-
+fehle zu geben, die Halle in Bereitſchaft zu halten, ſondern
+um Bois-Guilbert aufzuſuchen, und ihm mitzutheilen, wie die
+Sachen wahrſcheinlich enden würden. Er fand ihn bald,
+ſchäumend vor Unwillen wegen einer Zurückweiſung, die er
+wieder von der ſchönen Iüdin erfahren hatte. „Die Undank-
+bare,“ ſagte er, „den zurückzuweiſen, der unter Blut und
+Flammen ihr Leben mit Gefahr ſeines eigenen würde gerettet
+haben! Beim Himmel, Malvoiſin! ich blieb da, bis Balken
+und Sparren um mich her krachten. Ich war das Ziel von
+hundert Pfeilen; ſie raſſelten an meiner Rüſtung, gleich Schloßen</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

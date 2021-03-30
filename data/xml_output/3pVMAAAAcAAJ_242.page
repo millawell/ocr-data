@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3028" imageWidth="2068">
+    <PrintSpace>
+        <Coords points="0,0 0,2068 3028,2068 3028,2068"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2068 3028,2068 3028,2068"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="110,971 110,1075 184,1075 184,971"/>
+            <TextEquiv>
+                <Unicode>241</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="207,168 207,1876 306,1876 306,168"/>
+            <TextEquiv>
+                <Unicode>dern, denen ſie begegneten, und die, wie es ſich aus den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="299,169 299,1876 376,1876 376,169"/>
+            <TextEquiv>
+                <Unicode>grünen Zweigen, welche ſie trugen, ergab, zur Kirche wall-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="371,166 371,1877 448,1877 448,166"/>
+            <TextEquiv>
+                <Unicode>fahrteten, um der Feier des Tages beizuwohnen. Jedem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="441,165 441,1874 518,1874 518,165"/>
+            <TextEquiv>
+                <Unicode>dieſer Wanderer legte der Bogenſchütz die Frage vor, wo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="512,165 512,1873 590,1873 590,165"/>
+            <TextEquiv>
+                <Unicode>der Ort zu finden wäre, der „die blutige Furth“ hieß;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="584,168 584,1877 659,1877 659,168"/>
+            <TextEquiv>
+                <Unicode>allein Alle ſchienen entweder nichts davon zu wiſſen, oder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="654,164 654,1875 735,1875 735,164"/>
+            <TextEquiv>
+                <Unicode>der Frage ausweichen zu wollen, wozu ſie Veranlaſſung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="727,165 727,1876 801,1876 801,165"/>
+            <TextEquiv>
+                <Unicode>von des muntern Schützen Frageweiſe hernahmen, die al-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="788,163 788,2002 876,2002 876,163"/>
+            <TextEquiv>
+                <Unicode>lerdings ziemlich nach dem geiſtollen Frühſtück ſchmeckte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="865,165 865,1876 943,1876 943,165"/>
+            <TextEquiv>
+                <Unicode>Im Allgemeinen ſielen die Antworten dahin aus, daß man</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="938,167 938,1878 1017,1878 1017,167"/>
+            <TextEquiv>
+                <Unicode>folchen Ort nicht kennte, oder daß man am heiligen Früh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1009,167 1009,1878 1087,1878 1087,167"/>
+            <TextEquiv>
+                <Unicode>morgen andere Dinge wahrzunehmen hätte, als ſo abge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1081,165 1081,1876 1159,1876 1159,165"/>
+            <TextEquiv>
+                <Unicode>ſchmackten Fragen Rede zu ſtehen. Als endlich zu etlichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1151,119 1151,1877 1229,1877 1229,119"/>
+            <TextEquiv>
+                <Unicode>Malen die Antwort der Schotten faſt der Tücke nahe kam,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1222,118 1222,1877 1295,1877 1295,118"/>
+            <TextEquiv>
+                <Unicode>bemerkte der Minſtrel es, und äußerte, daß immer ein Un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1294,164 1294,1873 1372,1873 1372,164"/>
+            <TextEquiv>
+                <Unicode>heil im Hinterhalt läge, wenn das Volk dieſes Landes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1366,138 1366,1877 1443,1877 1443,138"/>
+            <TextEquiv>
+                <Unicode>keine höfliche Antwort für ihre Obern oder Vorgeſetzten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1438,122 1438,1875 1513,1875 1513,122"/>
+            <TextEquiv>
+                <Unicode>ſinden könnte, welches eine ihnen eigenthümliche Art wäre,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1508,162 1508,1873 1587,1873 1587,162"/>
+            <TextEquiv>
+                <Unicode>und daß es ſchiene, als zögen ſie in allzu großer Maſſe zum</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1579,185 1579,1107 1654,1107 1654,185"/>
+            <TextEquiv>
+                <Unicode>Gottesdienſt am Palmſonntage.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1651,277 1651,1870 1727,1870 1727,277"/>
+            <TextEquiv>
+                <Unicode>„Sonder Zweifel, Herr Schütz,“  fuhr der Minneſänger</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1722,161 1722,1873 1799,1873 1799,161"/>
+            <TextEquiv>
+                <Unicode>fort, „werdet Ihr darüber Bericht an Euren Ritter abge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1793,163 1793,1872 1871,1872 1871,163"/>
+            <TextEquiv>
+                <Unicode>ben; denn ich verſichere Euch, daß wenn Ihr es nicht thut,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1863,162 1863,1873 1939,1873 1939,162"/>
+            <TextEquiv>
+                <Unicode>ich ſelbſt, da meiner Herrin Sicherheit darin verwickelt iſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1933,164 1933,1873 2009,1873 2009,164"/>
+            <TextEquiv>
+                <Unicode>es für meine Pflicht erachte, dem Sir John de Walton die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2005,163 2005,1872 2083,1872 2083,163"/>
+            <TextEquiv>
+                <Unicode>Umſtände kund zu machen, die mir Verdacht gegen dieſen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2077,163 2077,1874 2151,1874 2151,163"/>
+            <TextEquiv>
+                <Unicode>außerordentlichen Zuſammenfluß von ſchottiſchen Männern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2147,162 2147,1874 2227,1874 2227,162"/>
+            <TextEquiv>
+                <Unicode>und gegen die Störrigkeit, die ſie ſtatt ihres ſonſtigen höf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2220,172 2220,1500 2302,1500 2302,172"/>
+            <TextEquiv>
+                <Unicode>lichen Weſens angenomnen haben, erwecken.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2291,194 2291,1871 2369,1871 2369,194"/>
+            <TextEquiv>
+                <Unicode>„Still, Sir Minſtrel,“ verſetzte der Bogenſchütz, dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2363,161 2363,1874 2440,1874 2440,161"/>
+            <TextEquiv>
+                <Unicode>die Einmiſchung Bertrams mißfiel, „glaubt mir, daß ſchon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2434,161 2434,1871 2513,1871 2513,161"/>
+            <TextEquiv>
+                <Unicode>Kriegsheere von meinem Bericht an den Feldherrn abhän-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2504,165 2504,1870 2583,1870 2583,165"/>
+            <TextEquiv>
+                <Unicode>gig waren; denn dieſer Bericht gab ſich klar und durch-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2575,162 2575,1866 2654,1866 2654,162"/>
+            <TextEquiv>
+                <Unicode>ſchaulich, wie es die Pflicht des Dienſtes mit ſich bringt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2647,163 2647,1900 2726,1900 2726,163"/>
+            <TextEquiv>
+                <Unicode>Euer Erdenwallen, mein würdiger Freund, geſchah in ei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2718,159 2718,1872 2796,1872 2796,159"/>
+            <TextEquiv>
+                <Unicode>nem ganz andern Gebiete, in welchem Friedensangelegen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2790,160 2790,1869 2873,1869 2873,160"/>
+            <TextEquiv>
+                <Unicode>heiten, alte Lieder, Prophezeihungen und dergleichen zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>241
+dern, denen ſie begegneten, und die, wie es ſich aus den
+grünen Zweigen, welche ſie trugen, ergab, zur Kirche wall-
+fahrteten, um der Feier des Tages beizuwohnen. Jedem
+dieſer Wanderer legte der Bogenſchütz die Frage vor, wo
+der Ort zu finden wäre, der „die blutige Furth“ hieß;
+allein Alle ſchienen entweder nichts davon zu wiſſen, oder
+der Frage ausweichen zu wollen, wozu ſie Veranlaſſung
+von des muntern Schützen Frageweiſe hernahmen, die al-
+lerdings ziemlich nach dem geiſtollen Frühſtück ſchmeckte.
+Im Allgemeinen ſielen die Antworten dahin aus, daß man
+folchen Ort nicht kennte, oder daß man am heiligen Früh-
+morgen andere Dinge wahrzunehmen hätte, als ſo abge-
+ſchmackten Fragen Rede zu ſtehen. Als endlich zu etlichen
+Malen die Antwort der Schotten faſt der Tücke nahe kam,
+bemerkte der Minſtrel es, und äußerte, daß immer ein Un-
+heil im Hinterhalt läge, wenn das Volk dieſes Landes
+keine höfliche Antwort für ihre Obern oder Vorgeſetzten
+ſinden könnte, welches eine ihnen eigenthümliche Art wäre,
+und daß es ſchiene, als zögen ſie in allzu großer Maſſe zum
+Gottesdienſt am Palmſonntage.
+„Sonder Zweifel, Herr Schütz,“  fuhr der Minneſänger
+fort, „werdet Ihr darüber Bericht an Euren Ritter abge-
+ben; denn ich verſichere Euch, daß wenn Ihr es nicht thut,
+ich ſelbſt, da meiner Herrin Sicherheit darin verwickelt iſt,
+es für meine Pflicht erachte, dem Sir John de Walton die
+Umſtände kund zu machen, die mir Verdacht gegen dieſen
+außerordentlichen Zuſammenfluß von ſchottiſchen Männern
+und gegen die Störrigkeit, die ſie ſtatt ihres ſonſtigen höf-
+lichen Weſens angenomnen haben, erwecken.“
+„Still, Sir Minſtrel,“ verſetzte der Bogenſchütz, dem
+die Einmiſchung Bertrams mißfiel, „glaubt mir, daß ſchon
+Kriegsheere von meinem Bericht an den Feldherrn abhän-
+gig waren; denn dieſer Bericht gab ſich klar und durch-
+ſchaulich, wie es die Pflicht des Dienſtes mit ſich bringt.
+Euer Erdenwallen, mein würdiger Freund, geſchah in ei-
+nem ganz andern Gebiete, in welchem Friedensangelegen-
+heiten, alte Lieder, Prophezeihungen und dergleichen zu</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

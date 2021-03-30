@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3011" imageWidth="2033">
+    <PrintSpace>
+        <Coords points="0,0 0,2033 3011,2033 3011,2033"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2033 3011,2033 3011,2033"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="149,802 149,1159 210,1159 210,802"/>
+            <TextEquiv>
+                <Unicode>- 45  -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="282,185 282,1778 362,1778 362,185"/>
+            <TextEquiv>
+                <Unicode>Sie mir offen ihren Zuſtand mittheilen, iſt es je-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="371,183 371,1781 449,1781 449,183"/>
+            <TextEquiv>
+                <Unicode>dem Arzte unmöglich zu ſagen, was in meiner oder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="462,181 462,1779 538,1779 538,181"/>
+            <TextEquiv>
+                <Unicode>der Heilkunde Macht ſtehe oder nicht.“ - „Ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="547,176 547,1898 627,1898 627,176"/>
+            <TextEquiv>
+                <Unicode>kann Jhnen hierauf erwidern,“ ſagte der Patient,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="638,180 638,1784 714,1784 714,180"/>
+            <TextEquiv>
+                <Unicode>„daß mein Uebel nicht einzig in ſeiner Art iſt, denn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="728,179 728,1782 802,1782 802,179"/>
+            <TextEquiv>
+                <Unicode>wir leſen von demſelben in dem beruhmten Roman</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="815,182 815,1782 891,1782 891,182"/>
+            <TextEquiv>
+                <Unicode>des Le Sage. Sie erinnern ſich ohne Zweifel der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="904,180 904,1778 980,1778 980,180"/>
+            <TextEquiv>
+                <Unicode>Krankheit, an welcher der Herzog von Olivarez ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="990,183 990,1779 1063,1779 1063,183"/>
+            <TextEquiv>
+                <Unicode>ſtorben ſeyn ſoll?“ - „Er ſtarb“ - war des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1080,183 1080,1776 1153,1776 1153,183"/>
+            <TextEquiv>
+                <Unicode>Arztes Antwort - „ an der Idee, daß ihn eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1167,181 1167,1775 1243,1775 1243,181"/>
+            <TextEquiv>
+                <Unicode>Erſcheinung ängſtigte, deren wirklichem Daſeyn er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1256,180 1256,1773 1332,1773 1332,180"/>
+            <TextEquiv>
+                <Unicode>keinen Glauben beimaß; dennoch gab er darüber den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1345,181 1345,1772 1419,1772 1419,181"/>
+            <TextEquiv>
+                <Unicode>Geiſt auf, weil jenes eingebildete Geſpenſt ihn bis</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1431,180 1431,1770 1508,1770 1508,180"/>
+            <TextEquiv>
+                <Unicode>zum Tode quälte.“ - „Ich, mein werther Doc-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1522,179 1522,1770 1597,1770 1597,179"/>
+            <TextEquiv>
+                <Unicode>tor,&#34; entgegnete der Kranke,„bin in demſelben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1611,179 1611,1764 1687,1764 1687,179"/>
+            <TextEquiv>
+                <Unicode>Falle, und die Gegenwart der mich verfolgenden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1695,182 1695,1767 1773,1767 1773,182"/>
+            <TextEquiv>
+                <Unicode>Viſion iſt ſo erſchreckend, daß ich mit aller meiner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1788,182 1788,1763 1864,1763 1864,182"/>
+            <TextEquiv>
+                <Unicode>Vernunft nicht vermögend bin, die Wirkungen mei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1875,182 1875,1765 1952,1765 1952,182"/>
+            <TextEquiv>
+                <Unicode>ner zerrütteten Einbildungskraft zu bekämpfen, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1965,183 1965,1763 2039,1763 2039,183"/>
+            <TextEquiv>
+                <Unicode>ich fühle, daß ich als ein Opfer eingebildeten Ue-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2050,176 2050,1760 2134,1760 2134,176"/>
+            <TextEquiv>
+                <Unicode>bels hinſterben muß.“ Der Arzt horte mit Beſorg-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2135,185 2135,1759 2217,1759 2217,185"/>
+            <TextEquiv>
+                <Unicode>niß die Ausſage des Kranken, vermied jedoch klüglich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2229,186 2229,1756 2304,1756 2304,186"/>
+            <TextEquiv>
+                <Unicode>jeden Widerſpruch gegen die eingenommene Phanta-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2318,184 2318,1758 2391,1758 2391,184"/>
+            <TextEquiv>
+                <Unicode>ſie des Mannes, und drang vermittelſt genauer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2405,185 2405,1755 2480,1755 2480,185"/>
+            <TextEquiv>
+                <Unicode>Rachfrage in die Beſchaffenheit der Erſcheinung, durch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2492,184 2492,1756 2568,1756 2568,184"/>
+            <TextEquiv>
+                <Unicode>welche der Kranke ſich geängſtigt fühlte und in die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2582,186 2582,1754 2658,1754 2658,186"/>
+            <TextEquiv>
+                <Unicode>Geſchichte der Art und Weiſe, auf welche eine ſo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2667,188 2667,1753 2746,1753 2746,188"/>
+            <TextEquiv>
+                <Unicode>ſonderbare Krankheit ſich zum Herrn einer Jmagi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 45  -
+Sie mir offen ihren Zuſtand mittheilen, iſt es je-
+dem Arzte unmöglich zu ſagen, was in meiner oder
+der Heilkunde Macht ſtehe oder nicht.“ - „Ich
+kann Jhnen hierauf erwidern,“ ſagte der Patient,
+„daß mein Uebel nicht einzig in ſeiner Art iſt, denn
+wir leſen von demſelben in dem beruhmten Roman
+des Le Sage. Sie erinnern ſich ohne Zweifel der
+Krankheit, an welcher der Herzog von Olivarez ge-
+ſtorben ſeyn ſoll?“ - „Er ſtarb“ - war des
+Arztes Antwort - „ an der Idee, daß ihn eine
+Erſcheinung ängſtigte, deren wirklichem Daſeyn er
+keinen Glauben beimaß; dennoch gab er darüber den
+Geiſt auf, weil jenes eingebildete Geſpenſt ihn bis
+zum Tode quälte.“ - „Ich, mein werther Doc-
+tor,&#34; entgegnete der Kranke,„bin in demſelben
+Falle, und die Gegenwart der mich verfolgenden
+Viſion iſt ſo erſchreckend, daß ich mit aller meiner
+Vernunft nicht vermögend bin, die Wirkungen mei-
+ner zerrütteten Einbildungskraft zu bekämpfen, und
+ich fühle, daß ich als ein Opfer eingebildeten Ue-
+bels hinſterben muß.“ Der Arzt horte mit Beſorg-
+niß die Ausſage des Kranken, vermied jedoch klüglich
+jeden Widerſpruch gegen die eingenommene Phanta-
+ſie des Mannes, und drang vermittelſt genauer
+Rachfrage in die Beſchaffenheit der Erſcheinung, durch
+welche der Kranke ſich geängſtigt fühlte und in die
+Geſchichte der Art und Weiſe, auf welche eine ſo
+ſonderbare Krankheit ſich zum Herrn einer Jmagi-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

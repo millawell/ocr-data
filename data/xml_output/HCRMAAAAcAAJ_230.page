@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="5055" imageWidth="3511">
+    <PrintSpace>
+        <Coords points="0,0 0,3511 5055,3511 5055,3511"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3511 5055,3511 5055,3511"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="269,1061 269,2330 372,2330 372,1061"/>
+            <TextEquiv>
+                <Unicode>Ende gut, Alles gut. Akt 1.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="272,3015 272,3149 344,3149 344,3015"/>
+            <TextEquiv>
+                <Unicode>913</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="425,166 425,2890 493,2890 493,166"/>
+            <TextEquiv>
+                <Unicode>wie ein Geſchmeide und ein Zahnſtocher, den man Zu zeigen ihr Verdienſt, die Lieb&#39; geflohn?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="482,159 482,3124 548,3124 548,159"/>
+            <TextEquiv>
+                <Unicode>nicht mehr trägt; eure Schminke paßt beſſer zu eurer Des Königs Krankheit — trügen auch Gedanken —</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="536,158 536,3126 602,3126 602,158"/>
+            <TextEquiv>
+                <Unicode>Torte und zu eurer Snppe, alls auf eure Wange, und Doch ſteht mein Vorſatz feſt, ich will nicht wanken.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="592,196 592,1732 657,1732 657,196"/>
+            <TextEquiv>
+                <Unicode>eure Jungfernſchaft, eure alte Jungfernſchaft, iſt gleich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="649,194 649,1733 712,1733 712,194"/>
+            <TextEquiv>
+                <Unicode>einer pon unſern franzöſiſchen gedörrten Birnen; ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="702,194 702,1733 768,1733 768,194"/>
+            <TextEquiv>
+                <Unicode>ſtieht übel aus, ſie nährt ſchlecht; wahhaftig, &#39;s i</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="757,193 757,1791 823,1791 823,193"/>
+            <TextEquiv>
+                <Unicode>eine welke Birne: ſie war vormals beſſer, wirklich;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="810,195 810,1733 898,1733 898,195"/>
+            <TextEquiv>
+                <Unicode>doch, ſie ist eine welke Birne. Was wolltet ihr damit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="866,225 866,503 927,503 927,225"/>
+            <TextEquiv>
+                <Unicode>anfangen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="906,278 906,1731 1016,1731 1016,278"/>
+            <TextEquiv>
+                <Unicode>Hel. Noch kam&#39;s nicht ſo weit mit meiner Jung-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="975,222 975,584 1034,584 1034,222"/>
+            <TextEquiv>
+                <Unicode>fräulichkeit.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1029,204 1029,1441 1094,1441 1094,204"/>
+            <TextEquiv>
+                <Unicode>Eu&#39;r Herr wird tauſend dort zu lieben haben,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1082,204 1082,1299 1148,1299 1148,204"/>
+            <TextEquiv>
+                <Unicode>&#39;ne Mutter und Geliebte, einen Freund,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1138,204 1138,1388 1203,1388 1203,204"/>
+            <TextEquiv>
+                <Unicode>Und Phönix, einen Feldherrn, einen Feind:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1192,208 1192,1237 1257,1237 1257,208"/>
+            <TextEquiv>
+                <Unicode>Und Führerin, Göttin, Beherrſcherin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1247,202 1247,1300 1312,1300 1312,202"/>
+            <TextEquiv>
+                <Unicode>Rathgeberin, Verrätherin; was Liebes;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1302,200 1302,1430 1367,1430 1367,200"/>
+            <TextEquiv>
+                <Unicode>Demüth&#39;gen Stolz und ſeine ſtolze Demuth;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1356,200 1356,1514 1424,1514 1424,200"/>
+            <TextEquiv>
+                <Unicode>Mißton&#39;gen Wohllaut und den ſüßen Mißklang;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1413,201 1413,1414 1480,1414 1480,201"/>
+            <TextEquiv>
+                <Unicode>Treu&#39; und erwünſchten Unſtern; eine Menge</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1466,205 1466,1316 1531,1316 1531,205"/>
+            <TextEquiv>
+                <Unicode>Art&#39;ger, verliebter Namen, wo Gevatter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1520,205 1520,1401 1585,1401 1585,205"/>
+            <TextEquiv>
+                <Unicode>Der blinzelnde Cupid. Alsdann wird er —</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1575,195 1575,1693 1643,1693 1643,195"/>
+            <TextEquiv>
+                <Unicode>Ich weiß nicht, was er wird; — Gott ſchenk&#39; ihm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1632,1173 1632,1401 1690,1401 1690,1173"/>
+            <TextEquiv>
+                <Unicode>Heil! —</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1683,202 1683,1355 1748,1355 1748,202"/>
+            <TextEquiv>
+                <Unicode>Der Hof iſt ein lehrreicher Ort, und er —</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1738,300 1738,820 1800,820 1800,300"/>
+            <TextEquiv>
+                <Unicode>Par. Was iſt ier?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="1794,282 1794,1572 1857,1572 1857,282"/>
+            <TextEquiv>
+                <Unicode>Hel. Dem ich wohl will. — Es iſt Schade —</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="1847,299 1847,957 1904,957 1904,299"/>
+            <TextEquiv>
+                <Unicode>Par. Was iſt Schade?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="1902,282 1902,1588 1965,1588 1965,282"/>
+            <TextEquiv>
+                <Unicode>Hell. Daß körperlich nicht Segenswünſche ſind,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="1954,202 1954,1451 2021,1451 2021,202"/>
+            <TextEquiv>
+                <Unicode>Micht ſühlbar, und daß wir (zu arm geboren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2011,200 2011,1564 2074,1564 2074,200"/>
+            <TextEquiv>
+                <Unicode>Auf Wünſche nur beſchraͤnkt von unſerm Unſtern),</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2066,144 2066,1443 2129,1443 2129,144"/>
+            <TextEquiv>
+                <Unicode>Nicht folgen können mit des Wunſch&#39;s Erfolg</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2120,199 2120,1485 2186,1485 2186,199"/>
+            <TextEquiv>
+                <Unicode>Dem Freund; zu zeigen, was wir nur gedacht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2177,212 2177,1069 2228,1069 2228,212"/>
+            <TextEquiv>
+                <Unicode>Und was man uns kaum dankt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2280,558 2280,1223 2341,1223 2341,558"/>
+            <TextEquiv>
+                <Unicode>Ein Page tritt ein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2365,280 2365,1690 2432,1690 2432,280"/>
+            <TextEquiv>
+                <Unicode>Page. Monſieur Parolles, mein Herr rief nach</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2422,234 2422,360 2483,360 2483,234"/>
+            <TextEquiv>
+                <Unicode>euch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2480,1360 2480,1616 2531,1616 2531,1360"/>
+            <TextEquiv>
+                <Unicode>(Geht ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2537,281 2537,1688 2605,1688 2605,281"/>
+            <TextEquiv>
+                <Unicode>Par. Niedliche Helena, leb&#39; wohl; kann ich mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2594,195 2594,1692 2661,1692 2661,195"/>
+            <TextEquiv>
+                <Unicode>auf dich beſinnen, ſo will ich bei Hof an dich denken.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2647,269 2647,1690 2714,1690 2714,269"/>
+            <TextEquiv>
+                <Unicode>Hel. Monſieur Parolles, ihr ſeid unter einem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2703,214 2703,902 2765,902 2765,214"/>
+            <TextEquiv>
+                <Unicode>günſtigen Stern geboren.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2757,292 2757,1120 2818,1120 2818,292"/>
+            <TextEquiv>
+                <Unicode>Par. Unter&#39;m Mars bin ich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2810,276 2810,1592 2877,1592 2877,276"/>
+            <TextEquiv>
+                <Unicode>Hel. Das dacht&#39; ich mir wohl, unter&#39;m Mars.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="2865,290 2865,1081 2923,1081 2923,290"/>
+            <TextEquiv>
+                <Unicode>Par. Warum unter Mars?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="2920,278 2920,1688 2985,1688 2985,278"/>
+            <TextEquiv>
+                <Unicode>Hel. Der Krieg hat euch immer ſo eingenommen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="2977,197 2977,1691 3038,1691 3038,197"/>
+            <TextEquiv>
+                <Unicode>daß ihr nothwendig unter Mars geboren ſein mußtet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3030,289 3030,1109 3092,1109 3092,289"/>
+            <TextEquiv>
+                <Unicode>Par. Als er herrſchend war.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3084,276 3084,1632 3152,1632 3152,276"/>
+            <TextEquiv>
+                <Unicode>Hel. Als er rückgängig war, denk&#39; ich vielmehr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3138,287 3138,1116 3200,1116 3200,287"/>
+            <TextEquiv>
+                <Unicode>Bar, Warum denkt ihr das?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3195,275 3195,1688 3260,1688 3260,275"/>
+            <TextEquiv>
+                <Unicode>Hel. Jhr geht ſo ſehr rückwärts, wenn ihr fechtet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3248,283 3248,1263 3311,1263 3311,283"/>
+            <TextEquiv>
+                <Unicode>Par. Das geſchieht zum Vortheil.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="3304,275 3304,1685 3362,1685 3362,275"/>
+            <TextEquiv>
+                <Unicode>Hel. Freilich; ſo auch läuft man fort, wenn Furcht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="3359,190 3359,1687 3422,1687 3422,190"/>
+            <TextEquiv>
+                <Unicode>die Rettung, anräth. Aber dieſe Miſchung von Furcht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="3413,190 3413,1686 3478,1686 3478,190"/>
+            <TextEquiv>
+                <Unicode>und Tapferkeit in euch, iſt eine Tugend mit guten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="3469,193 3469,1654 3531,1654 3531,193"/>
+            <TextEquiv>
+                <Unicode>Flügeln verſehn, und mir gefällt die Tracht wohl.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="3522,276 3522,1685 3584,1685 3584,276"/>
+            <TextEquiv>
+                <Unicode>Par. Ich bin ſo voller Geſchäfte — ich kann dir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="3577,190 3577,1687 3642,1687 3642,190"/>
+            <TextEquiv>
+                <Unicode>nicht gleich ſcharfſinnig antworten. Jch will als voll-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="3634,190 3634,1687 3694,1687 3694,190"/>
+            <TextEquiv>
+                <Unicode>kommner Hofmann zurückkehren; und dann ſoll mein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="3687,190 3687,1685 3748,1685 3748,190"/>
+            <TextEquiv>
+                <Unicode>Unterricht dazu dienen, dich zu naturaliſiren, wenn du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="3742,189 3742,1687 3805,1687 3805,189"/>
+            <TextEquiv>
+                <Unicode>anders eines Hofmannes Rath wirſt faſſen und verſte-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="3797,187 3797,1685 3859,1685 3859,187"/>
+            <TextEquiv>
+                <Unicode>hen können, was dir mein Unterricht anvertrauen wird;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="3851,192 3851,1687 3913,1687 3913,192"/>
+            <TextEquiv>
+                <Unicode>ſonſt ſtirbſt du in deiner Undankbarkeit, und deine Un—</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="3905,191 3905,1687 3968,1687 3968,191"/>
+            <TextEquiv>
+                <Unicode>wiſſenheit rafft dich hinweg; lebe wohl. Wenn du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="3960,186 3960,1685 4023,1685 4023,186"/>
+            <TextEquiv>
+                <Unicode>Zeit haſt, ſo ſprich deine Gebete; wenn du keine haſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4016,188 4016,1683 4081,1683 4081,188"/>
+            <TextEquiv>
+                <Unicode>denk&#39; an deine Freunde; ſchaff&#39; dir einen guten Mann,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4070,187 4070,1684 4136,1684 4136,187"/>
+            <TextEquiv>
+                <Unicode>und verhalt&#39; dich gegen ihn, wie er ſich gegen dich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="4124,216 4124,605 4187,605 4187,216"/>
+            <TextEquiv>
+                <Unicode>So leb&#39; wohl.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="4186,1349 4186,1607 4241,1607 4241,1349"/>
+            <TextEquiv>
+                <Unicode>(Geht ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="4247,277 4247,1464 4312,1464 4312,277"/>
+            <TextEquiv>
+                <Unicode>Hel. Es liegen in uns oft die Mittel, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="4303,191 4303,1375 4369,1375 4369,191"/>
+            <TextEquiv>
+                <Unicode>Vom Himmel wir erwartet. Schickſal lieh</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="4359,196 4359,1384 4421,1384 4421,196"/>
+            <TextEquiv>
+                <Unicode>Uns freie Hand, und hindert dann uns blos</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="4413,198 4413,1293 4475,1293 4475,198"/>
+            <TextEquiv>
+                <Unicode>Die träge Abſicht, wann wir urtheillos.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="4466,193 4466,1451 4533,1451 4533,193"/>
+            <TextEquiv>
+                <Unicode>Weſſ&#39; Macht ſpannt meine Liebe denn ſo hoch,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="4521,191 4521,1485 4587,1485 4587,191"/>
+            <TextEquiv>
+                <Unicode>Laßt ſchau&#39;n mein Aug&#39;, und unbefriedigt doch?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="4576,194 4576,1443 4643,1443 4643,194"/>
+            <TextEquiv>
+                <Unicode>Oft hat, was Schickſal ſchied, Natur gepaart,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="4632,189 4632,1565 4695,1565 4695,189"/>
+            <TextEquiv>
+                <Unicode>Macht ungleich gleich, und gleicht verſchiedne Art.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="4686,193 4686,1408 4751,1408 4751,193"/>
+            <TextEquiv>
+                <Unicode>Was ungewöhnlich, ſcheint unmögllich jenen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="4741,192 4741,1473 4802,1473 4802,192"/>
+            <TextEquiv>
+                <Unicode>Die nach Erfahrung richten nur, uund wähnen:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="4795,196 4795,1460 4862,1460 4862,196"/>
+            <TextEquiv>
+                <Unicode>Was nie geſchah, wird nie. Sucht&#39; eine ſchon</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Ende gut, Alles gut. Akt 1.
+913
+wie ein Geſchmeide und ein Zahnſtocher, den man Zu zeigen ihr Verdienſt, die Lieb&#39; geflohn?
+nicht mehr trägt; eure Schminke paßt beſſer zu eurer Des Königs Krankheit — trügen auch Gedanken —
+Torte und zu eurer Snppe, alls auf eure Wange, und Doch ſteht mein Vorſatz feſt, ich will nicht wanken.
+eure Jungfernſchaft, eure alte Jungfernſchaft, iſt gleich
+einer pon unſern franzöſiſchen gedörrten Birnen; ſie
+ſtieht übel aus, ſie nährt ſchlecht; wahhaftig, &#39;s i
+eine welke Birne: ſie war vormals beſſer, wirklich;
+doch, ſie ist eine welke Birne. Was wolltet ihr damit
+anfangen?
+Hel. Noch kam&#39;s nicht ſo weit mit meiner Jung-
+fräulichkeit.
+Eu&#39;r Herr wird tauſend dort zu lieben haben,
+&#39;ne Mutter und Geliebte, einen Freund,
+Und Phönix, einen Feldherrn, einen Feind:
+Und Führerin, Göttin, Beherrſcherin,
+Rathgeberin, Verrätherin; was Liebes;
+Demüth&#39;gen Stolz und ſeine ſtolze Demuth;
+Mißton&#39;gen Wohllaut und den ſüßen Mißklang;
+Treu&#39; und erwünſchten Unſtern; eine Menge
+Art&#39;ger, verliebter Namen, wo Gevatter
+Der blinzelnde Cupid. Alsdann wird er —
+Ich weiß nicht, was er wird; — Gott ſchenk&#39; ihm
+Heil! —
+Der Hof iſt ein lehrreicher Ort, und er —
+Par. Was iſt ier?
+Hel. Dem ich wohl will. — Es iſt Schade —
+Par. Was iſt Schade?
+Hell. Daß körperlich nicht Segenswünſche ſind,
+Micht ſühlbar, und daß wir (zu arm geboren,
+Auf Wünſche nur beſchraͤnkt von unſerm Unſtern),
+Nicht folgen können mit des Wunſch&#39;s Erfolg
+Dem Freund; zu zeigen, was wir nur gedacht,
+Und was man uns kaum dankt,
+Ein Page tritt ein,
+Page. Monſieur Parolles, mein Herr rief nach
+euch.
+(Geht ab.)
+Par. Niedliche Helena, leb&#39; wohl; kann ich mich
+auf dich beſinnen, ſo will ich bei Hof an dich denken.
+Hel. Monſieur Parolles, ihr ſeid unter einem
+günſtigen Stern geboren.
+Par. Unter&#39;m Mars bin ich.
+Hel. Das dacht&#39; ich mir wohl, unter&#39;m Mars.
+Par. Warum unter Mars?
+Hel. Der Krieg hat euch immer ſo eingenommen,
+daß ihr nothwendig unter Mars geboren ſein mußtet.
+Par. Als er herrſchend war.
+Hel. Als er rückgängig war, denk&#39; ich vielmehr.
+Bar, Warum denkt ihr das?
+Hel. Jhr geht ſo ſehr rückwärts, wenn ihr fechtet.
+Par. Das geſchieht zum Vortheil.
+Hel. Freilich; ſo auch läuft man fort, wenn Furcht
+die Rettung, anräth. Aber dieſe Miſchung von Furcht
+und Tapferkeit in euch, iſt eine Tugend mit guten
+Flügeln verſehn, und mir gefällt die Tracht wohl.
+Par. Ich bin ſo voller Geſchäfte — ich kann dir
+nicht gleich ſcharfſinnig antworten. Jch will als voll-
+kommner Hofmann zurückkehren; und dann ſoll mein
+Unterricht dazu dienen, dich zu naturaliſiren, wenn du
+anders eines Hofmannes Rath wirſt faſſen und verſte-
+hen können, was dir mein Unterricht anvertrauen wird;
+ſonſt ſtirbſt du in deiner Undankbarkeit, und deine Un—
+wiſſenheit rafft dich hinweg; lebe wohl. Wenn du
+Zeit haſt, ſo ſprich deine Gebete; wenn du keine haſt,
+denk&#39; an deine Freunde; ſchaff&#39; dir einen guten Mann,
+und verhalt&#39; dich gegen ihn, wie er ſich gegen dich.
+So leb&#39; wohl.
+(Geht ab.)
+Hel. Es liegen in uns oft die Mittel, die
+Vom Himmel wir erwartet. Schickſal lieh
+Uns freie Hand, und hindert dann uns blos
+Die träge Abſicht, wann wir urtheillos.
+Weſſ&#39; Macht ſpannt meine Liebe denn ſo hoch,
+Laßt ſchau&#39;n mein Aug&#39;, und unbefriedigt doch?
+Oft hat, was Schickſal ſchied, Natur gepaart,
+Macht ungleich gleich, und gleicht verſchiedne Art.
+Was ungewöhnlich, ſcheint unmögllich jenen,
+Die nach Erfahrung richten nur, uund wähnen:
+Was nie geſchah, wird nie. Sucht&#39; eine ſchon</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

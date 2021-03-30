@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="5130" imageWidth="2760">
+    <PrintSpace>
+        <Coords points="0,0 0,2760 5130,2760 5130,2760"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2760 5130,2760 5130,2760"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="444,1420 444,1600 535,1600 535,1420"/>
+            <TextEquiv>
+                <Unicode>246</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="707,455 707,2583 791,2583 791,455"/>
+            <TextEquiv>
+                <Unicode>who had loved and honoured him as much as he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="852,456 852,2584 961,2584 961,456"/>
+            <TextEquiv>
+                <Unicode>was capable of entertaining such sentiments for</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="996,452 996,2588 1105,2588 1105,452"/>
+            <TextEquiv>
+                <Unicode>any one; and above all, that there was much rea-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1143,456 1143,2588 1252,2588 1252,456"/>
+            <TextEquiv>
+                <Unicode>son to suspect that the deceased had fallen vic-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1287,466 1287,2275 1395,2275 1395,466"/>
+            <TextEquiv>
+                <Unicode>tim to a blow meant for Henry himself</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1430,569 1430,2590 1543,2590 1543,569"/>
+            <TextEquiv>
+                <Unicode>It was, therefore, with an alacrity which, the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1577,464 1577,2599 1676,2599 1676,464"/>
+            <TextEquiv>
+                <Unicode>minute before, he could scarce have command-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1721,466 1721,2598 1832,2598 1832,466"/>
+            <TextEquiv>
+                <Unicode>ed, and which seemed to express a stern plea-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1865,466 1865,2602 1975,2602 1975,466"/>
+            <TextEquiv>
+                <Unicode>sure, that, having pressed his lips to the cold</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2011,465 2011,2605 2123,2605 2123,465"/>
+            <TextEquiv>
+                <Unicode>brow of the unhappy Magdalen, the armourer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2157,506 2157,955 2267,955 2267,506"/>
+            <TextEquiv>
+                <Unicode>replied,-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2302,583 2302,2605 2416,2605 2416,583"/>
+            <TextEquiv>
+                <Unicode>&#34;I, Henry the Smith, dwelling in the Wynd</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2447,471 2447,2607 2561,2607 2561,471"/>
+            <TextEquiv>
+                <Unicode>of Perth, good man and true, and freely born,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2595,471 2595,2611 2705,2611 2705,471"/>
+            <TextEquiv>
+                <Unicode>accept the office of champion to this widow</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2739,475 2739,2614 2852,2614 2852,475"/>
+            <TextEquiv>
+                <Unicode>Magdalen, and these orphans, and will do bat-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2881,474 2881,2607 2998,2607 2998,474"/>
+            <TextEquiv>
+                <Unicode>tle in their quarrel to the death, with any man</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="3009,476 3009,2612 3146,2612 3146,476"/>
+            <TextEquiv>
+                <Unicode>whomsoever of my own degree, and that so long</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3172,475 3172,2619 3290,2619 3290,475"/>
+            <TextEquiv>
+                <Unicode>as I shall draw breath. So help me at my need</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3317,508 3317,1650 3425,1650 3425,508"/>
+            <TextEquiv>
+                <Unicode>God and good St John !&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3462,585 3462,2613 3579,2613 3579,585"/>
+            <TextEquiv>
+                <Unicode>There rose from the audience a half-suppress-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3607,481 3607,2617 3729,2617 3729,481"/>
+            <TextEquiv>
+                <Unicode>ed cry, expressing the interest which the per-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3755,481 3755,2617 3874,2617 3874,481"/>
+            <TextEquiv>
+                <Unicode>sons present took in the prosecution of the quar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3898,486 3898,2176 3998,2176 3998,486"/>
+            <TextEquiv>
+                <Unicode>rel, and their confidence in the issue.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="4044,592 4044,2610 4142,2610 4142,592"/>
+            <TextEquiv>
+                <Unicode>Sir Patrick Charteris then took measures for</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>246
+who had loved and honoured him as much as he
+was capable of entertaining such sentiments for
+any one; and above all, that there was much rea-
+son to suspect that the deceased had fallen vic-
+tim to a blow meant for Henry himself
+It was, therefore, with an alacrity which, the
+minute before, he could scarce have command-
+ed, and which seemed to express a stern plea-
+sure, that, having pressed his lips to the cold
+brow of the unhappy Magdalen, the armourer
+replied,-
+&#34;I, Henry the Smith, dwelling in the Wynd
+of Perth, good man and true, and freely born,
+accept the office of champion to this widow
+Magdalen, and these orphans, and will do bat-
+tle in their quarrel to the death, with any man
+whomsoever of my own degree, and that so long
+as I shall draw breath. So help me at my need
+God and good St John !&#34;
+There rose from the audience a half-suppress-
+ed cry, expressing the interest which the per-
+sons present took in the prosecution of the quar-
+rel, and their confidence in the issue.
+Sir Patrick Charteris then took measures for</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

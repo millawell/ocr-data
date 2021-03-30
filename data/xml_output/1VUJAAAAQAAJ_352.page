@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3401" imageWidth="2173">
+    <PrintSpace>
+        <Coords points="0,0 0,2173 3401,2173 3401,2173"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2173 3401,2173 3401,2173"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="210,264 210,590 272,590 272,264"/>
+            <TextEquiv>
+                <Unicode>330</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="225,871 225,1283 274,1283 274,871"/>
+            <TextEquiv>
+                <Unicode>LETTERS ON</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="341,230 341,1918 429,1918 429,230"/>
+            <TextEquiv>
+                <Unicode>charge. It appears that the Major, with a maid-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="420,228 420,1919 508,1919 508,228"/>
+            <TextEquiv>
+                <Unicode>en sister who had kept his house, was subject to</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="500,227 500,1917 589,1917 589,227"/>
+            <TextEquiv>
+                <Unicode>fits of melancholic lunacy, an infirmity easily re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="580,228 580,1918 666,1918 666,228"/>
+            <TextEquiv>
+                <Unicode>concilable with the formal pretences which he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="660,227 660,1918 746,1918 746,227"/>
+            <TextEquiv>
+                <Unicode>made to a high show of religious zeal. He was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="738,225 738,1916 826,1916 826,225"/>
+            <TextEquiv>
+                <Unicode>peculiar. in his gift of prayer, and as was the cus-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="819,226 819,1922 903,1922 903,226"/>
+            <TextEquiv>
+                <Unicode>tom of the period, was often  called to exercise</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="896,227 896,1920 985,1920 985,227"/>
+            <TextEquiv>
+                <Unicode>this talent by the bedside of sick persons, until it</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="978,226 978,1922 1064,1922 1064,226"/>
+            <TextEquiv>
+                <Unicode>came to be observed, that, by some association,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1058,224 1058,1916 1144,1916 1144,224"/>
+            <TextEquiv>
+                <Unicode>which it is more easy to conceive than to explain,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1135,226 1135,1919 1223,1919 1223,226"/>
+            <TextEquiv>
+                <Unicode>he could not pray with the same warmth and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1215,221 1215,1922 1304,1922 1304,221"/>
+            <TextEquiv>
+                <Unicode>fluency of expression, unless when he had in his</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1296,223 1296,1924 1382,1924 1382,223"/>
+            <TextEquiv>
+                <Unicode>hand a stick of peculiar shape and appearance,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1376,225 1376,1910 1460,1910 1460,225"/>
+            <TextEquiv>
+                <Unicode>which he generally walked with. It was noticed,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1455,226 1455,1916 1532,1916 1532,226"/>
+            <TextEquiv>
+                <Unicode>in short, that when this stick was taken from him,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1533,225 1533,1920 1622,1920 1622,225"/>
+            <TextEquiv>
+                <Unicode>his wit and talent appeared to forsake him. This</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1613,229 1613,1921 1701,1921 1701,229"/>
+            <TextEquiv>
+                <Unicode>Major Weir was seized by the magistrates on a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1692,229 1692,1921 1780,1921 1780,229"/>
+            <TextEquiv>
+                <Unicode>strange whisper that became current respecting</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1773,227 1773,1918 1859,1918 1859,227"/>
+            <TextEquiv>
+                <Unicode>vile practices, which he seems to have admitted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1852,230 1852,1919 1931,1919 1931,230"/>
+            <TextEquiv>
+                <Unicode>without, either shame or contrition. The dis-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1932,225 1932,2011 2018,2011 2018,225"/>
+            <TextEquiv>
+                <Unicode>gusting profligacies which he confessed, were of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2012,231 2012,1918 2098,1918 2098,231"/>
+            <TextEquiv>
+                <Unicode>such a character, that it maybe charitably hoped</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2092,229 2092,1917 2178,1917 2178,229"/>
+            <TextEquiv>
+                <Unicode>most of them were the fruits of a depraved</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2170,229 2170,1917 2259,1917 2259,229"/>
+            <TextEquiv>
+                <Unicode>imagination, though he appears to have been in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2250,227 2250,1919 2338,1919 2338,227"/>
+            <TextEquiv>
+                <Unicode>many respects a wicked and criminal hypocrite.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2330,231 2330,1919 2416,1919 2416,231"/>
+            <TextEquiv>
+                <Unicode>When he had completed his confession, he avow-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2409,229 2409,1918 2497,1918 2497,229"/>
+            <TextEquiv>
+                <Unicode>ed solemnly that he had not confessed the hun-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2489,230 2489,1921 2575,1921 2575,230"/>
+            <TextEquiv>
+                <Unicode>dredth part of the crimes which he had committed.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2567,230 2567,1920 2653,1920 2653,230"/>
+            <TextEquiv>
+                <Unicode>From this time he would answer no interroga-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2648,228 2648,1920 2734,1920 2734,228"/>
+            <TextEquiv>
+                <Unicode>tory, nor wonld he have recourse to prayer, ar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2728,228 2728,1920 2811,1920 2811,228"/>
+            <TextEquiv>
+                <Unicode>guing, that as he had no hope whatever of esca-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2806,227 2806,1920 2892,1920 2892,227"/>
+            <TextEquiv>
+                <Unicode>ping Satan, there was no need of incensing him by</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2887,227 2887,1920 2970,1920 2970,227"/>
+            <TextEquiv>
+                <Unicode>vain efforts at repentance. His witchcraft seems</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2964,227 2964,1918 3054,1918 3054,227"/>
+            <TextEquiv>
+                <Unicode>to have been taken for granted on his own confes-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>330
+LETTERS ON
+charge. It appears that the Major, with a maid-
+en sister who had kept his house, was subject to
+fits of melancholic lunacy, an infirmity easily re-
+concilable with the formal pretences which he
+made to a high show of religious zeal. He was
+peculiar. in his gift of prayer, and as was the cus-
+tom of the period, was often  called to exercise
+this talent by the bedside of sick persons, until it
+came to be observed, that, by some association,
+which it is more easy to conceive than to explain,
+he could not pray with the same warmth and
+fluency of expression, unless when he had in his
+hand a stick of peculiar shape and appearance,
+which he generally walked with. It was noticed,
+in short, that when this stick was taken from him,
+his wit and talent appeared to forsake him. This
+Major Weir was seized by the magistrates on a
+strange whisper that became current respecting
+vile practices, which he seems to have admitted
+without, either shame or contrition. The dis-
+gusting profligacies which he confessed, were of
+such a character, that it maybe charitably hoped
+most of them were the fruits of a depraved
+imagination, though he appears to have been in
+many respects a wicked and criminal hypocrite.
+When he had completed his confession, he avow-
+ed solemnly that he had not confessed the hun-
+dredth part of the crimes which he had committed.
+From this time he would answer no interroga-
+tory, nor wonld he have recourse to prayer, ar-
+guing, that as he had no hope whatever of esca-
+ping Satan, there was no need of incensing him by
+vain efforts at repentance. His witchcraft seems
+to have been taken for granted on his own confes-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4950" imageWidth="2940">
+    <PrintSpace>
+        <Coords points="0,0 0,2940 4950,2940 4950,2940"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2940 4950,2940 4950,2940"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="243,478 243,2085 345,2085 345,478"/>
+            <TextEquiv>
+                <Unicode>248  GUY MANNERING.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="404,456 404,2913 611,2913 611,456"/>
+            <TextEquiv>
+                <Unicode>tegrity unjustly suspected, that even Co-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="597,449 597,2912 776,2912 776,449"/>
+            <TextEquiv>
+                <Unicode>lonel Mannering was staggered in his bad</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="780,450 780,2911 937,2911 937,450"/>
+            <TextEquiv>
+                <Unicode>opinion. He followed him two or three</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1237,456 1237,2703 1369,2703 1369,456"/>
+            <TextEquiv>
+                <Unicode>he had paid during his visit. Glossin left</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1387,460 1387,2705 1528,2705 1528,460"/>
+            <TextEquiv>
+                <Unicode>the house, half pleased with the impression</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1536,449 1536,2909 1672,2909 1672,449"/>
+            <TextEquiv>
+                <Unicode>he had made, half mortified by the stern.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1692,456 1692,2911 1843,2911 1843,456"/>
+            <TextEquiv>
+                <Unicode>caution and proud reluctance with which</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1837,454 1837,2911 1949,2911 1949,454"/>
+            <TextEquiv>
+                <Unicode>he had been received. &#34;Colonel Manner-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1940,456 1940,2912 2135,2912 2135,456"/>
+            <TextEquiv>
+                <Unicode>ing might have had more politeness,&#34; he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2146,460 2146,2912 2279,2912 2279,460"/>
+            <TextEquiv>
+                <Unicode>said to himself - &#34;it is not every man that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2301,465 2301,2705 2436,2705 2436,465"/>
+            <TextEquiv>
+                <Unicode>can bring a good chance of 400l. a-year</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2452,468 2452,2705 2591,2705 2591,468"/>
+            <TextEquiv>
+                <Unicode>to a pennyless girl. Singleside must be up</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2604,461 2604,2911 2739,2911 2739,461"/>
+            <TextEquiv>
+                <Unicode>to 400l a-year now-there&#39;s Reilagegan-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2729,463 2729,2911 2894,2911 2894,463"/>
+            <TextEquiv>
+                <Unicode>beg, Gillifidget, Loverless, Liealone, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2911,463 2911,2911 3051,2911 3051,463"/>
+            <TextEquiv>
+                <Unicode>the Spinster&#39;s Knowe-good 400l. a-year.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="3037,466 3037,2912 3209,2912 3209,466"/>
+            <TextEquiv>
+                <Unicode>Some people might have made their own</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="3520,495 3520,1886 3654,1886 3654,495"/>
+            <TextEquiv>
+                <Unicode>see how that is possible.&#39;&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3645,593 3645,2909 3825,2909 3825,593"/>
+            <TextEquiv>
+                <Unicode>Glossin was no sooner mounted and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3813,470 3813,2912 3961,2912 3961,470"/>
+            <TextEquiv>
+                <Unicode>gone, than the Colonel dispatched a groom</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>248  GUY MANNERING.
+tegrity unjustly suspected, that even Co-
+lonel Mannering was staggered in his bad
+opinion. He followed him two or three
+he had paid during his visit. Glossin left
+the house, half pleased with the impression
+he had made, half mortified by the stern.
+caution and proud reluctance with which
+he had been received. &#34;Colonel Manner-
+ing might have had more politeness,&#34; he
+said to himself - &#34;it is not every man that
+can bring a good chance of 400l. a-year
+to a pennyless girl. Singleside must be up
+to 400l a-year now-there&#39;s Reilagegan-
+beg, Gillifidget, Loverless, Liealone, and
+the Spinster&#39;s Knowe-good 400l. a-year.
+Some people might have made their own
+see how that is possible.&#39;&#39;
+Glossin was no sooner mounted and
+gone, than the Colonel dispatched a groom</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

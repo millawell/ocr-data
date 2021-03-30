@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3406" imageWidth="2178">
+    <PrintSpace>
+        <Coords points="0,0 0,2178 3406,2178 3406,2178"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2178 3406,2178 3406,2178"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="228,282 228,408 289,408 289,282"/>
+            <TextEquiv>
+                <Unicode>212</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="243,880 243,1306 289,1306 289,880"/>
+            <TextEquiv>
+                <Unicode>LETTERS ON</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="353,245 353,1940 437,1940 437,245"/>
+            <TextEquiv>
+                <Unicode>chiefly current in France, but was known in other</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="435,243 435,1959 519,1959 519,243"/>
+            <TextEquiv>
+                <Unicode>Countries, and is the subject of great debate be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="513,239 513,1935 593,1935 593,239"/>
+            <TextEquiv>
+                <Unicode>tween Wier, Nande, Scot, on the one hand, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="592,236 592,1962 684,1962 684,236"/>
+            <TextEquiv>
+                <Unicode>their demonological adversaries on the other. The</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="671,237 671,1937 761,1937 761,237"/>
+            <TextEquiv>
+                <Unicode>idea, said the one party, was, that a human being</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="749,234 749,1960 841,1960 841,234"/>
+            <TextEquiv>
+                <Unicode>had the power, by sorcery, of transforming himself</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="830,232 830,1960 920,1960 920,232"/>
+            <TextEquiv>
+                <Unicode>into the shape of a wolf, and in that capacity, being</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="911,234 911,1962 1002,1962 1002,234"/>
+            <TextEquiv>
+                <Unicode>seized with a species of fury, he rushed out, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="990,231 990,1958 1080,1958 1080,231"/>
+            <TextEquiv>
+                <Unicode>made havoc among the flocks, slaying and was-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1068,230 1068,1958 1158,1958 1158,230"/>
+            <TextEquiv>
+                <Unicode>ting, like the animal whom he represented, far</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1148,228 1148,1960 1239,1960 1239,228"/>
+            <TextEquiv>
+                <Unicode>more than he could devour. The more incredu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1227,225 1227,1956 1316,1956 1316,225"/>
+            <TextEquiv>
+                <Unicode>lous reasoners would not allow of a real transfor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1310,225 1310,1962 1387,1962 1387,225"/>
+            <TextEquiv>
+                <Unicode>mation, whether with or without the enchanted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1389,225 1389,1957 1480,1957 1480,225"/>
+            <TextEquiv>
+                <Unicode>hide of a wolf, which in some cases was supposed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1470,226 1470,1925 1558,1925 1558,226"/>
+            <TextEquiv>
+                <Unicode>to aid the metamorphosis, and contended that ly-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1550,225 1550,1954 1640,1954 1640,225"/>
+            <TextEquiv>
+                <Unicode>canthropy only subsisted as a woful species of dis-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1630,223 1630,1955 1719,1955 1719,223"/>
+            <TextEquiv>
+                <Unicode>ease, a melancholy state of mind, broken with ooca</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1710,223 1710,1954 1800,1954 1800,223"/>
+            <TextEquiv>
+                <Unicode>sional fits of insanity, in which the patient ima-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1789,223 1789,1955 1878,1955 1878,223"/>
+            <TextEquiv>
+                <Unicode>gined that he committed the ravages of which he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1869,220 1869,1953 1958,1953 1958,220"/>
+            <TextEquiv>
+                <Unicode>was accused.  Such a person, a mere youth, was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1949,220 1949,1946 2038,1946 2038,220"/>
+            <TextEquiv>
+                <Unicode>tried at Besançon, who gave himself out for a ser-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2029,219 2029,1951 2118,1951 2118,219"/>
+            <TextEquiv>
+                <Unicode>vant, or yeoman pricker, of the Lord of the Forest,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2107,213 2107,1949 2197,1949 2197,213"/>
+            <TextEquiv>
+                <Unicode>so he called his superior, who was judged to be the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2188,208 2188,2058 2277,2058 2277,208"/>
+            <TextEquiv>
+                <Unicode>devil. He was, by his master&#39;s power, transform-.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2267,213 2267,1953 2356,1953 2356,213"/>
+            <TextEquiv>
+                <Unicode>ed into the likeness, and performed the usual func-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2347,215 2347,1949 2437,1949 2437,215"/>
+            <TextEquiv>
+                <Unicode>tions, of a wolf, and was attended in his course</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2427,215 2427,1951 2519,1951 2519,215"/>
+            <TextEquiv>
+                <Unicode>by one larger, which he supposed the Lord of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2506,215 2506,1949 2595,1949 2595,215"/>
+            <TextEquiv>
+                <Unicode>the Forest himself. These wolves, he said, rava-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2585,213 2585,1938 2695,1938 2695,213"/>
+            <TextEquiv>
+                <Unicode>ged the flocks, and throttled the dogs which stood</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2667,214 2667,1916 2745,1916 2745,214"/>
+            <TextEquiv>
+                <Unicode>in their defence. If either had not seen the other,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2745,213 2745,1941 2835,1941 2835,213"/>
+            <TextEquiv>
+                <Unicode>he howled, after the manner of the animal, to call</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2824,214 2824,1914 2916,1914 2916,214"/>
+            <TextEquiv>
+                <Unicode>his comrade to his share of the prey; if he did not</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2903,214 2903,1948 2996,1948 2996,214"/>
+            <TextEquiv>
+                <Unicode>come upon this signal, he proceeded to bury it the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2988,233 2988,1009 3079,1009 3079,233"/>
+            <TextEquiv>
+                <Unicode>best way he could.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>212
+LETTERS ON
+chiefly current in France, but was known in other
+Countries, and is the subject of great debate be-
+tween Wier, Nande, Scot, on the one hand, and
+their demonological adversaries on the other. The
+idea, said the one party, was, that a human being
+had the power, by sorcery, of transforming himself
+into the shape of a wolf, and in that capacity, being
+seized with a species of fury, he rushed out, and
+made havoc among the flocks, slaying and was-
+ting, like the animal whom he represented, far
+more than he could devour. The more incredu-
+lous reasoners would not allow of a real transfor-
+mation, whether with or without the enchanted
+hide of a wolf, which in some cases was supposed
+to aid the metamorphosis, and contended that ly-
+canthropy only subsisted as a woful species of dis-
+ease, a melancholy state of mind, broken with ooca
+sional fits of insanity, in which the patient ima-
+gined that he committed the ravages of which he
+was accused.  Such a person, a mere youth, was
+tried at Besançon, who gave himself out for a ser-
+vant, or yeoman pricker, of the Lord of the Forest,
+so he called his superior, who was judged to be the
+devil. He was, by his master&#39;s power, transform-.
+ed into the likeness, and performed the usual func-
+tions, of a wolf, and was attended in his course
+by one larger, which he supposed the Lord of
+the Forest himself. These wolves, he said, rava-
+ged the flocks, and throttled the dogs which stood
+in their defence. If either had not seen the other,
+he howled, after the manner of the animal, to call
+his comrade to his share of the prey; if he did not
+come upon this signal, he proceeded to bury it the
+best way he could.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

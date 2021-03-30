@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4950" imageWidth="2940">
+    <PrintSpace>
+        <Coords points="0,0 0,2940 4950,2940 4950,2940"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2940 4950,2940 4950,2940"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="308,563 308,1818 489,1818 489,563"/>
+            <TextEquiv>
+                <Unicode>GUY MANMERING.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="291,2281 291,2552 445,2552 445,2281"/>
+            <TextEquiv>
+                <Unicode>97</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="564,214 564,2470 703,2470 703,214"/>
+            <TextEquiv>
+                <Unicode>their spirits. &#34;Here&#39;s to his good voyage!&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="721,222 721,2479 856,2479 856,222"/>
+            <TextEquiv>
+                <Unicode>said one of the seamen, drinking; &#34;a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="866,222 866,2475 1010,2475 1010,222"/>
+            <TextEquiv>
+                <Unicode>squally night he&#39;s got, however, to drift</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1029,249 1029,1350 1164,1350 1164,249"/>
+            <TextEquiv>
+                <Unicode>through the sky in.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1181,348 1181,2485 1287,2485 1287,348"/>
+            <TextEquiv>
+                <Unicode>We omit here various execrations with</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1335,216 1335,2705 1466,2705 1466,216"/>
+            <TextEquiv>
+                <Unicode>which these honest gentlemen garnished</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1491,225 1491,2478 1618,2478 1618,225"/>
+            <TextEquiv>
+                <Unicode>their discourse, retaining only such of their</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1645,229 1645,1990 1777,1990 1777,229"/>
+            <TextEquiv>
+                <Unicode>expletives as are least offensive.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1796,362 1796,2473 1950,2473 1950,362"/>
+            <TextEquiv>
+                <Unicode>&#34;&#39;A does not mid wind and weather -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1939,226 1939,2511 2086,2511 2086,226"/>
+            <TextEquiv>
+                <Unicode>&#39;A has had many a north-easter in his day.&#39;&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2108,260 2108,2719 2242,2719 2242,260"/>
+            <TextEquiv>
+                <Unicode>&#34;He had his last yesterday,&#34; said an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2265,226 2265,2506 2394,2506 2394,226"/>
+            <TextEquiv>
+                <Unicode>other gruffly, &#34;and now old Meg may pray</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2416,229 2416,2476 2533,2476 2533,229"/>
+            <TextEquiv>
+                <Unicode>for his last fair wind as she&#39;s. often done</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2567,260 2567,890 2673,890 2673,260"/>
+            <TextEquiv>
+                <Unicode>before.&#39;&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2719,364 2719,2468 2856,2468 2856,364"/>
+            <TextEquiv>
+                <Unicode>&#34;I&#39;ll pray for nane o&#39; him,.&#34; said Meg,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2874,234 2874,2466 3010,2466 3010,234"/>
+            <TextEquiv>
+                <Unicode>&#34;nor for you neither, you randy dog.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3029,227 3029,2476 3130,2476 3130,227"/>
+            <TextEquiv>
+                <Unicode>The times are sair altered since I was a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3174,179 3174,2475 3312,2475 3312,179"/>
+            <TextEquiv>
+                <Unicode>kinchin-mort. Men were men then, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3334,225 3334,2597 3468,2597 3468,225"/>
+            <TextEquiv>
+                <Unicode>fought other in the open field, and there</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3491,208 3491,2528 3618,2528 3618,208"/>
+            <TextEquiv>
+                <Unicode>was nale milling in the darkmans.  And</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3628,229 3628,2468 3788,2468 3788,229"/>
+            <TextEquiv>
+                <Unicode>the gentry had kind hearts; and would</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3796,225 3796,2469 3931,2469 3931,225"/>
+            <TextEquiv>
+                <Unicode>have given both lap and pannel to ony</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3954,226 3954,2530 4085,2530 4085,226"/>
+            <TextEquiv>
+                <Unicode>poor gypsy; and there: was not one, from</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>GUY MANMERING.
+97
+their spirits. &#34;Here&#39;s to his good voyage!&#34;
+said one of the seamen, drinking; &#34;a
+squally night he&#39;s got, however, to drift
+through the sky in.&#34;
+We omit here various execrations with
+which these honest gentlemen garnished
+their discourse, retaining only such of their
+expletives as are least offensive.
+&#34;&#39;A does not mid wind and weather -
+&#39;A has had many a north-easter in his day.&#39;&#39;
+&#34;He had his last yesterday,&#34; said an-
+other gruffly, &#34;and now old Meg may pray
+for his last fair wind as she&#39;s. often done
+before.&#39;&#39;
+&#34;I&#39;ll pray for nane o&#39; him,.&#34; said Meg,
+&#34;nor for you neither, you randy dog.
+The times are sair altered since I was a
+kinchin-mort. Men were men then, and
+fought other in the open field, and there
+was nale milling in the darkmans.  And
+the gentry had kind hearts; and would
+have given both lap and pannel to ony
+poor gypsy; and there: was not one, from</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

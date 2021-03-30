@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="2441" imageWidth="1834">
+    <PrintSpace>
+        <Coords points="0,0 0,1834 2441,1834 2441,1834"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,1834 2441,1834 2441,1834"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="285,256 285,1724 356,1724 356,256"/>
+            <TextEquiv>
+                <Unicode>dem Kopfe, ein reich beschnürtes Reitkleid</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="357,205 357,1726 426,1726 426,205"/>
+            <TextEquiv>
+                <Unicode>angelegt und Pistolen an ihrem Sattel vor</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="424,255 424,1725 491,1725 491,255"/>
+            <TextEquiv>
+                <Unicode>denselben herritt. Ma c Gillivray von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="495,254 495,1722 567,1722 567,254"/>
+            <TextEquiv>
+                <Unicode>Drummaglaſs befehligte dieses Corps in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="562,249 562,1851 646,1851 646,249"/>
+            <TextEquiv>
+                <Unicode>Felde als Obrister. Der Geist, der durch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="635,254 635,1733 703,1733 703,254"/>
+            <TextEquiv>
+                <Unicode>diese tapfere Amazone rege gemacht ward,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="706,254 706,1728 772,1728 772,254"/>
+            <TextEquiv>
+                <Unicode>forderte jegliche Hoflichkeitsbezeugung von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="775,254 775,1724 843,1724 843,254"/>
+            <TextEquiv>
+                <Unicode>Seiten des Prinzen, und die eines Besuches</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="839,254 839,1729 899,1729 899,254"/>
+            <TextEquiv>
+                <Unicode>auf ihrem Schlosse ward für die schmeichel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="915,276 915,819 981,819 981,276"/>
+            <TextEquiv>
+                <Unicode>hafteste gehalten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="982,333 982,1726 1036,1726 1036,333"/>
+            <TextEquiv>
+                <Unicode>Charles Edward lebte dort in vollkommener</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1052,255 1052,1727 1107,1727 1107,255"/>
+            <TextEquiv>
+                <Unicode>Sicherheit und hatte nicht mehr als dreihun-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1122,258 1122,1726 1190,1726 1190,258"/>
+            <TextEquiv>
+                <Unicode>dert Mann um seine Person, als Lord Loudon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1192,258 1192,1724 1258,1724 1258,258"/>
+            <TextEquiv>
+                <Unicode>einen kühnen Versuch machte, den Bürger-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1261,258 1261,1731 1327,1731 1327,258"/>
+            <TextEquiv>
+                <Unicode>krieg dadurch zu Ende zu bringen, daſs er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1330,259 1330,1731 1397,1731 1397,259"/>
+            <TextEquiv>
+                <Unicode>den Abentheurer gefangen nähme. Zu diesem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1399,258 1399,1735 1464,1735 1464,258"/>
+            <TextEquiv>
+                <Unicode>Zwecke wollte er sich hauptsächlich der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1469,258 1469,1740 1537,1740 1537,258"/>
+            <TextEquiv>
+                <Unicode>Hochländer vom Clan Mac Leods bedienen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1472,256 1472,1848 1615,1848 1615,256"/>
+            <TextEquiv>
+                <Unicode>die wohl geeignet waren, eine hurtige und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1607,257 1607,1848 1680,1848 1680,257"/>
+            <TextEquiv>
+                <Unicode>geheime Unternehmung auszuführen. Mehrere</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1675,259 1675,1736 1744,1736 1744,259"/>
+            <TextEquiv>
+                <Unicode>Freiwillige folgten ihnen. Es ist erzählt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1744,258 1744,1737 1815,1737 1815,258"/>
+            <TextEquiv>
+                <Unicode>worden, Lady Mac Intosh habe geheime Kun-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1813,260 1813,1732 1883,1732 1883,260"/>
+            <TextEquiv>
+                <Unicode>de von diesem Vorhaben gehabt; auf jeden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1884,258 1884,1734 1953,1734 1953,258"/>
+            <TextEquiv>
+                <Unicode>Fall hatte sie den Grobschmied des Clans,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1952,263 1952,1736 2019,1736 2019,263"/>
+            <TextEquiv>
+                <Unicode>eine Person, die bei jedem hochschottischen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2022,262 2022,1738 2093,1738 2093,262"/>
+            <TextEquiv>
+                <Unicode>Stamme von einiger Wichtigkelt ist, mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2092,263 2092,1740 2164,1740 2164,263"/>
+            <TextEquiv>
+                <Unicode>etlichen Begleitern vermogt, zwischen Inver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2162,262 2162,1738 2229,1738 2229,262"/>
+            <TextEquiv>
+                <Unicode>nels und Schlofs Moy zu patrouilliren. In</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2229,263 2229,1741 2310,1741 2310,263"/>
+            <TextEquiv>
+                <Unicode>der Nacht vom 16. Februar stieſs dieser tück-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>dem Kopfe, ein reich beschnürtes Reitkleid
+angelegt und Pistolen an ihrem Sattel vor
+denselben herritt. Ma c Gillivray von
+Drummaglaſs befehligte dieses Corps in
+Felde als Obrister. Der Geist, der durch
+diese tapfere Amazone rege gemacht ward,
+forderte jegliche Hoflichkeitsbezeugung von
+Seiten des Prinzen, und die eines Besuches
+auf ihrem Schlosse ward für die schmeichel-
+hafteste gehalten.
+Charles Edward lebte dort in vollkommener
+Sicherheit und hatte nicht mehr als dreihun-
+dert Mann um seine Person, als Lord Loudon
+einen kühnen Versuch machte, den Bürger-
+krieg dadurch zu Ende zu bringen, daſs er
+den Abentheurer gefangen nähme. Zu diesem
+Zwecke wollte er sich hauptsächlich der
+Hochländer vom Clan Mac Leods bedienen,
+die wohl geeignet waren, eine hurtige und
+geheime Unternehmung auszuführen. Mehrere
+Freiwillige folgten ihnen. Es ist erzählt
+worden, Lady Mac Intosh habe geheime Kun-
+de von diesem Vorhaben gehabt; auf jeden
+Fall hatte sie den Grobschmied des Clans,
+eine Person, die bei jedem hochschottischen
+Stamme von einiger Wichtigkelt ist, mit
+etlichen Begleitern vermogt, zwischen Inver-
+nels und Schlofs Moy zu patrouilliren. In
+der Nacht vom 16. Februar stieſs dieser tück-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

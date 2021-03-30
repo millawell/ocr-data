@@ -17,7 +17,11 @@ def parse_mets(pdf_name):
     raw_file_contents = open(path_to_mets).read().encode('utf-8')
     tree = etree.fromstring(raw_file_contents)
 
-    namespaces = {"mets":"http://www.loc.gov/METS/"}
+    namespaces = {
+        "mets":"http://www.loc.gov/METS/",
+        "dc": "http://purl.org/dc/elements/1.1/"
+
+    }
     pdf_files = tree.xpath(
         "//mets:file[@MIMETYPE='application/pdf']",
         namespaces=namespaces
@@ -35,10 +39,19 @@ def parse_mets(pdf_name):
         namespaces=namespaces
     )
 
+    language = tree.xpath(
+        "//dc:language",
+        namespaces=namespaces
+    )
+    assert len(language) == 1, 'no unique language definition found.'
+    language = language[0].attrib['content']
+    
     record = {
         "xml_files":[],
+        "source_urls": [],
         "page_numbers":[],
-        "identifier":None
+        "identifier":None,
+        "language": language
     }
     for div in file_map:
         for fptr in div.xpath("./mets:fptr", namespaces=namespaces):
@@ -57,6 +70,7 @@ def parse_mets(pdf_name):
                 url = urlparse(flocat.attrib['{http://www.w3.org/1999/xlink}href'])
                 page_nr = url.fragment.split("page=")[1]
                 record['page_numbers'].append(page_nr)
+                record['source_url'] = url.geturl().split("#page=~")[0]
             else:
                 raise ValueError("query id type unknown.")
 

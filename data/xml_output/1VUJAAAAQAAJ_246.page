@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3406" imageWidth="2174">
+    <PrintSpace>
+        <Coords points="0,0 0,2174 3406,2174 3406,2174"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2174 3406,2174 3406,2174"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="238,299 238,423 303,423 303,299"/>
+            <TextEquiv>
+                <Unicode>224</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="249,902 249,1317 300,1317 300,902"/>
+            <TextEquiv>
+                <Unicode>LETTERS ON</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="355,310 355,1953 445,1953 445,310"/>
+            <TextEquiv>
+                <Unicode>frighful increase of the Prosecutions - Suddenly put a</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="437,329 437,1786 512,1786 512,329"/>
+            <TextEquiv>
+                <Unicode>top to - The Penitence of those concerned in them.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="611,291 611,1949 701,1949 701,291"/>
+            <TextEquiv>
+                <Unicode>OUR account of Demonology in England must</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="692,259 692,1951 780,1951 780,259"/>
+            <TextEquiv>
+                <Unicode>naturally, as in every other country, depend</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="770,211 770,1960 860,1960 860,211"/>
+            <TextEquiv>
+                <Unicode>chiefly on the instances which history contains of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="852,257 852,1952 938,1952 938,257"/>
+            <TextEquiv>
+                <Unicode>the laws and prosecutions against witchcraft.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="929,262 929,1950 1019,1950 1019,262"/>
+            <TextEquiv>
+                <Unicode>Other superstitions arose and decayed, were</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1009,249 1009,1952 1099,1952 1099,249"/>
+            <TextEquiv>
+                <Unicode>dreaded or despised, without greater embarrass-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1089,254 1089,1950 1179,1950 1179,254"/>
+            <TextEquiv>
+                <Unicode>ment, in the provinces in which they have a tem-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1169,252 1169,1950 1258,1950 1258,252"/>
+            <TextEquiv>
+                <Unicode>porary currency, than that cowards and children</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1249,256 1249,1959 1337,1959 1337,256"/>
+            <TextEquiv>
+                <Unicode>go out more seldom at night, while the reports of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1328,251 1328,2156 1418,2156 1418,251"/>
+            <TextEquiv>
+                <Unicode>ghosts and fairies are peculiarly current. But</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1407,253 1407,1952 1496,1952 1496,253"/>
+            <TextEquiv>
+                <Unicode>when the alarm of witchcraft arises, Superstition</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1487,256 1487,1952 1577,1952 1577,256"/>
+            <TextEquiv>
+                <Unicode>dips her hand in the blood of the persons accused,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1567,246 1567,1954 1656,1954 1656,246"/>
+            <TextEquiv>
+                <Unicode>and records in the annals of jurisprudenece their</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1646,254 1646,1960 1736,1960 1736,254"/>
+            <TextEquiv>
+                <Unicode>trials, and the canses alleged in vindication of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1726,256 1726,1951 1815,1951 1815,256"/>
+            <TextEquiv>
+                <Unicode>their execution. Respecting other fantastic alle-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1807,183 1807,1949 1896,1949 1896,183"/>
+            <TextEquiv>
+                <Unicode>gations, the proof is necessarily transient and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1884,255 1884,1949 1975,1949 1975,255"/>
+            <TextEquiv>
+                <Unicode>doubtful, depending upon the inaccurate testi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1964,250 1964,1950 2053,1950 2053,250"/>
+            <TextEquiv>
+                <Unicode>mony of vague report and of doting tradition.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2044,210 2044,2155 2135,2155 2135,210"/>
+            <TextEquiv>
+                <Unicode>But in cases of witchcraft, we have before us the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2124,250 2124,1948 2214,1948 2214,250"/>
+            <TextEquiv>
+                <Unicode>recorded evidence upon which judge and jury act-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2202,248 2202,1958 2293,1958 2293,248"/>
+            <TextEquiv>
+                <Unicode>ed, and can form an opinion with some degree of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2281,251 2281,1950 2372,1950 2372,251"/>
+            <TextEquiv>
+                <Unicode>certainty of the grounds, real or fanciful, on which</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2345,243 2345,2168 2463,2168 2463,243"/>
+            <TextEquiv>
+                <Unicode>they acquitted or condemned. It is, therefore, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2441,246 2441,2109 2532,2109 2532,246"/>
+            <TextEquiv>
+                <Unicode>tracing this part of Demonology, with its accom-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2521,241 2521,2158 2610,2158 2610,241"/>
+            <TextEquiv>
+                <Unicode>panying circumstances, that we have the best chance</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2601,252 2601,1815 2691,1815 2691,252"/>
+            <TextEquiv>
+                <Unicode>of obtaining an accurate view of our subject.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2680,251 2680,1947 2771,1947 2771,251"/>
+            <TextEquiv>
+                <Unicode>The existence of witchcraft was, no doubt, re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2759,246 2759,1947 2852,1947 2852,246"/>
+            <TextEquiv>
+                <Unicode>ceived and credited in England, as in the coun-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2838,243 2838,1947 2932,1947 2932,243"/>
+            <TextEquiv>
+                <Unicode>tries on the continent, and originally punished</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2919,245 2919,1947 3010,1947 3010,245"/>
+            <TextEquiv>
+                <Unicode>accordingly. But after the fourteenth century,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2994,245 2994,1945 3091,1945 3091,245"/>
+            <TextEquiv>
+                <Unicode>the practices which fell under such a description</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>224
+LETTERS ON
+frighful increase of the Prosecutions - Suddenly put a
+top to - The Penitence of those concerned in them.
+OUR account of Demonology in England must
+naturally, as in every other country, depend
+chiefly on the instances which history contains of
+the laws and prosecutions against witchcraft.
+Other superstitions arose and decayed, were
+dreaded or despised, without greater embarrass-
+ment, in the provinces in which they have a tem-
+porary currency, than that cowards and children
+go out more seldom at night, while the reports of
+ghosts and fairies are peculiarly current. But
+when the alarm of witchcraft arises, Superstition
+dips her hand in the blood of the persons accused,
+and records in the annals of jurisprudenece their
+trials, and the canses alleged in vindication of
+their execution. Respecting other fantastic alle-
+gations, the proof is necessarily transient and
+doubtful, depending upon the inaccurate testi-
+mony of vague report and of doting tradition.
+But in cases of witchcraft, we have before us the
+recorded evidence upon which judge and jury act-
+ed, and can form an opinion with some degree of
+certainty of the grounds, real or fanciful, on which
+they acquitted or condemned. It is, therefore, in
+tracing this part of Demonology, with its accom-
+panying circumstances, that we have the best chance
+of obtaining an accurate view of our subject.
+The existence of witchcraft was, no doubt, re-
+ceived and credited in England, as in the coun-
+tries on the continent, and originally punished
+accordingly. But after the fourteenth century,
+the practices which fell under such a description</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

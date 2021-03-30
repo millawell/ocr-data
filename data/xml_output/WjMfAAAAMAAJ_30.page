@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="2420" imageWidth="1806">
+    <PrintSpace>
+        <Coords points="0,0 0,1806 2420,1806 2420,1806"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,1806 2420,1806 2420,1806"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="244,61 244,1500 314,1500 314,61"/>
+            <TextEquiv>
+                <Unicode>mehr zur Aufklärung des Landes beitrug, als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="315,60 315,1500 376,1500 376,60"/>
+            <TextEquiv>
+                <Unicode>solches je von irgend einem Fürsten bewirkt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="383,16 383,1503 451,1503 451,16"/>
+            <TextEquiv>
+                <Unicode>worden war, der in oder über Schottland re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="452,90 452,266 515,266 515,90"/>
+            <TextEquiv>
+                <Unicode>gierte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="519,128 519,1493 588,1493 588,128"/>
+            <TextEquiv>
+                <Unicode>Während Marschall Wade beschäftigt war,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="587,64 587,1488 650,1488 650,64"/>
+            <TextEquiv>
+                <Unicode>die Hochlande zu beruhigen, und sie der Mi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="656,58 656,1494 725,1494 725,58"/>
+            <TextEquiv>
+                <Unicode>litärmacht zugänglich zu machen, brach in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="726,60 726,1493 792,1493 792,60"/>
+            <TextEquiv>
+                <Unicode>dem Flachlande ein Miſsvergnügen aus, wel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="794,1359 794,1461 844,1461 844,1359"/>
+            <TextEquiv>
+                <Unicode>Die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="793,65 793,1308 862,1308 862,65"/>
+            <TextEquiv>
+                <Unicode>ches mit gefährlichen Folgen drohete.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="857,59 857,1492 928,1492 928,59"/>
+            <TextEquiv>
+                <Unicode>Regierung hatte Lust bekommen, die Ein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="929,58 929,1496 988,1496 988,58"/>
+            <TextEquiv>
+                <Unicode>künfte Schottlands zu einer Quelle der Re-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1000,60 1000,1491 1062,1491 1062,60"/>
+            <TextEquiv>
+                <Unicode>venüen des öffentlichen Schatzes zu machen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1067,56 1067,1615 1132,1615 1132,56"/>
+            <TextEquiv>
+                <Unicode>da sie bisher kaum hinreichend gewesen wa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1136,57 1136,1490 1201,1490 1201,57"/>
+            <TextEquiv>
+                <Unicode>ren, die öffentlichen Anstalten des Königrei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1205,60 1205,1491 1266,1491 1266,60"/>
+            <TextEquiv>
+                <Unicode>ches aufrecht zu erhalten und die Truppen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1272,56 1272,1492 1339,1492 1339,56"/>
+            <TextEquiv>
+                <Unicode>zu besolden, die dort nothwendiger Weise</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1338,57 1338,1491 1404,1491 1404,57"/>
+            <TextEquiv>
+                <Unicode>der öffentlichen Ruhe wegen einquartiert wer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1407,57 1407,1492 1468,1492 1468,57"/>
+            <TextEquiv>
+                <Unicode>den muſsten. So war ein Surplus der Ein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1473,54 1473,1492 1529,1492 1529,54"/>
+            <TextEquiv>
+                <Unicode>künfte wünschenswerth und die Jacobiten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1542,55 1542,1492 1610,1492 1610,55"/>
+            <TextEquiv>
+                <Unicode>sprengten neidisch aus, daſs der unmittelbare</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1612,54 1612,1492 1679,1492 1679,54"/>
+            <TextEquiv>
+                <Unicode>Zweck nichts anders wäre, als Gelder in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1680,53 1680,1490 1746,1490 1746,53"/>
+            <TextEquiv>
+                <Unicode>Schottland aufzutreiben, um eine Ausgabe von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1747,51 1747,1489 1815,1489 1815,51"/>
+            <TextEquiv>
+                <Unicode>etwa zehn Guineen wöchentlich zu bestreiten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1815,52 1815,1486 1882,1486 1882,52"/>
+            <TextEquiv>
+                <Unicode>die jedem Nord-Britischen Parlamentsgliede</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1887,52 1887,1485 1953,1485 1953,52"/>
+            <TextEquiv>
+                <Unicode>zur Deckung der Kosten seines Aufenthaltes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1949,51 1949,1487 2021,1487 2021,51"/>
+            <TextEquiv>
+                <Unicode>in London bewilligt woren waren. Diese</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2021,51 2021,1488 2088,1488 2088,51"/>
+            <TextEquiv>
+                <Unicode>Ausgahe war bisher der allgemeinen Revenüe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2087,4 2087,1486 2158,1486 2158,4"/>
+            <TextEquiv>
+                <Unicode>auferlegt worden; allein jetzt, sagten die Ja-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2148,4 2148,1494 2240,1494 2240,4"/>
+            <TextEquiv>
+                <Unicode>cobiten, wurden die schottischen Mitglieder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2240,36 2240,263 2319,263 2319,36"/>
+            <TextEquiv>
+                <Unicode>257.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>mehr zur Aufklärung des Landes beitrug, als
+solches je von irgend einem Fürsten bewirkt
+worden war, der in oder über Schottland re-
+gierte.
+Während Marschall Wade beschäftigt war,
+die Hochlande zu beruhigen, und sie der Mi-
+litärmacht zugänglich zu machen, brach in
+dem Flachlande ein Miſsvergnügen aus, wel-
+Die
+ches mit gefährlichen Folgen drohete.
+Regierung hatte Lust bekommen, die Ein-
+künfte Schottlands zu einer Quelle der Re-
+venüen des öffentlichen Schatzes zu machen,
+da sie bisher kaum hinreichend gewesen wa-
+ren, die öffentlichen Anstalten des Königrei-
+ches aufrecht zu erhalten und die Truppen
+zu besolden, die dort nothwendiger Weise
+der öffentlichen Ruhe wegen einquartiert wer-
+den muſsten. So war ein Surplus der Ein-
+künfte wünschenswerth und die Jacobiten
+sprengten neidisch aus, daſs der unmittelbare
+Zweck nichts anders wäre, als Gelder in
+Schottland aufzutreiben, um eine Ausgabe von
+etwa zehn Guineen wöchentlich zu bestreiten,
+die jedem Nord-Britischen Parlamentsgliede
+zur Deckung der Kosten seines Aufenthaltes
+in London bewilligt woren waren. Diese
+Ausgahe war bisher der allgemeinen Revenüe
+auferlegt worden; allein jetzt, sagten die Ja-
+cobiten, wurden die schottischen Mitglieder
+257.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -19,20 +19,20 @@
     <mets:fileSec>
         <mets:fileGrp USE="IMG">
             <mets:file ID="pdf_anneofgeierstein02scot_40" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=anneofgeierstein02scot#page=40"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/anneofgeierstein02scot#page=40"/>
             </mets:file>
             <mets:file ID="pdf_anneofgeierstein02scot_178" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=anneofgeierstein02scot#page=178"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://archive.org/details/anneofgeierstein02scot#page=178"/>
             </mets:file>
  
         </mets:fileGrp>
 		<mets:fileGrp USE="GT">
 		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
             <mets:file ID="gt_anneofgeierstein02scot_40" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/anneofgeierstein02scot_40.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/anneofgeierstein02scot_40.page"/>
             </mets:file>
             <mets:file ID="gt_anneofgeierstein02scot_178" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/anneofgeierstein02scot_178.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/anneofgeierstein02scot_178.page"/>
             </mets:file> 
         </mets:fileGrp>
     </mets:fileSec>

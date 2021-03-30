@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3102" imageWidth="2146">
+    <PrintSpace>
+        <Coords points="0,0 0,2146 3102,2146 3102,2146"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2146 3102,2146 3102,2146"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="229,629 229,1215 287,1215 287,629"/>
+            <TextEquiv>
+                <Unicode>- 125 -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="362,216 362,1779 441,1779 441,216"/>
+            <TextEquiv>
+                <Unicode>horſam zurückgeführt, der junge Heinrich unter allen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="452,156 452,1780 529,1780 529,156"/>
+            <TextEquiv>
+                <Unicode>ſeinen Brüdern der Tauglichſte war, die hohe Stel-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="538,214 538,1779 617,1779 617,214"/>
+            <TextEquiv>
+                <Unicode>lung eines Vaſallen der franzöſiſchen Krone zu be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="629,212 629,1779 702,1779 702,212"/>
+            <TextEquiv>
+                <Unicode>haupten. Er hatte keinesweges daſſelbe Vertrauen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="714,212 714,1780 792,1780 792,212"/>
+            <TextEquiv>
+                <Unicode>zu den Fähigkeiten ſeiner übrigen Söhne, und war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="803,211 803,1779 880,1779 880,211"/>
+            <TextEquiv>
+                <Unicode>ſonach ſchier untröſtlich über den erlittenen Verluſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="890,350 890,1776 968,1776 968,350"/>
+            <TextEquiv>
+                <Unicode>Neue Kriege und Miſverſtändniſſe zwiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="977,211 977,1780 1057,1780 1057,211"/>
+            <TextEquiv>
+                <Unicode>Frankreich und England ergaben ſich auf Seiten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1067,210 1067,1777 1140,1777 1140,210"/>
+            <TextEquiv>
+                <Unicode>Heinrichs aus einem Vorwande von keinesweges auf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1153,209 1153,1778 1231,1778 1231,209"/>
+            <TextEquiv>
+                <Unicode>richtiger Beſchaffenheit. Adelheid, die Schweſter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1243,208 1243,1778 1325,1778 1325,208"/>
+            <TextEquiv>
+                <Unicode>Philipps, des Königs von Frankreich, hatte eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1331,208 1331,1777 1406,1777 1406,208"/>
+            <TextEquiv>
+                <Unicode>Zeitlang am engländiſchen Hofe unter dem Vertrage</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1416,208 1416,1774 1492,1774 1492,208"/>
+            <TextEquiv>
+                <Unicode>reſidirt, mit Richard, der jetzt der älteſte der leben-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1501,208 1501,1778 1579,1778 1579,208"/>
+            <TextEquiv>
+                <Unicode>den Söhne Heinrichs des Zweiten war, vermählt zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1594,205 1594,1859 1670,1859 1670,205"/>
+            <TextEquiv>
+                <Unicode>werden. Allein aus etlichen nicht leicht genau zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1681,207 1681,1772 1757,1772 1757,207"/>
+            <TextEquiv>
+                <Unicode>beſtimmenden Gründen verſchob der König von Eng-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1769,209 1769,1777 1845,1777 1845,209"/>
+            <TextEquiv>
+                <Unicode>land zu mehreren Malen die Vermählung, ſo daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1859,130 1859,1776 1936,1776 1936,130"/>
+            <TextEquiv>
+                <Unicode>er in Verdacht gerieth, er hege ſelbſt eine weder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1946,204 1946,1771 2019,1771 2019,204"/>
+            <TextEquiv>
+                <Unicode>ſeinem Alter noch ſeinem Verſtande angemeſſene Lei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2032,205 2032,1772 2110,1772 2110,205"/>
+            <TextEquiv>
+                <Unicode>denſchaft zu der jungen Prinzeſſen. König Philipp</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2122,204 2122,1771 2199,1771 2199,204"/>
+            <TextEquiv>
+                <Unicode>verlangte nun mit dem Schwerte in der Hand die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2209,209 2209,1769 2290,1769 2290,209"/>
+            <TextEquiv>
+                <Unicode>Verehelichung ſeiner Schweſter. Andere Gründe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2296,207 2296,1771 2376,1771 2376,207"/>
+            <TextEquiv>
+                <Unicode>zum Mißvergnügen, die ſich fortwährend zwiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2387,206 2387,1770 2461,1770 2461,206"/>
+            <TextEquiv>
+                <Unicode>einem ſo mächtigen Lehensherrn und einem ſo ſtolzen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2475,207 2475,1785 2550,1785 2550,207"/>
+            <TextEquiv>
+                <Unicode>Vaſallen erhoben, erhitzten den Groll auf beiden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2563,201 2563,1769 2638,1769 2638,201"/>
+            <TextEquiv>
+                <Unicode>Seiten; auch bewahrten Heinrichs Talente, die durch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2651,208 2651,1766 2727,1766 2727,208"/>
+            <TextEquiv>
+                <Unicode>hohes Alter einigermaaßen in Abnahme ſeyn mog-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>- 125 -
+horſam zurückgeführt, der junge Heinrich unter allen
+ſeinen Brüdern der Tauglichſte war, die hohe Stel-
+lung eines Vaſallen der franzöſiſchen Krone zu be-
+haupten. Er hatte keinesweges daſſelbe Vertrauen
+zu den Fähigkeiten ſeiner übrigen Söhne, und war
+ſonach ſchier untröſtlich über den erlittenen Verluſt.
+Neue Kriege und Miſverſtändniſſe zwiſchen
+Frankreich und England ergaben ſich auf Seiten
+Heinrichs aus einem Vorwande von keinesweges auf-
+richtiger Beſchaffenheit. Adelheid, die Schweſter
+Philipps, des Königs von Frankreich, hatte eine
+Zeitlang am engländiſchen Hofe unter dem Vertrage
+reſidirt, mit Richard, der jetzt der älteſte der leben-
+den Söhne Heinrichs des Zweiten war, vermählt zu
+werden. Allein aus etlichen nicht leicht genau zu
+beſtimmenden Gründen verſchob der König von Eng-
+land zu mehreren Malen die Vermählung, ſo daß
+er in Verdacht gerieth, er hege ſelbſt eine weder
+ſeinem Alter noch ſeinem Verſtande angemeſſene Lei-
+denſchaft zu der jungen Prinzeſſen. König Philipp
+verlangte nun mit dem Schwerte in der Hand die
+Verehelichung ſeiner Schweſter. Andere Gründe
+zum Mißvergnügen, die ſich fortwährend zwiſchen
+einem ſo mächtigen Lehensherrn und einem ſo ſtolzen
+Vaſallen erhoben, erhitzten den Groll auf beiden
+Seiten; auch bewahrten Heinrichs Talente, die durch
+hohes Alter einigermaaßen in Abnahme ſeyn mog-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

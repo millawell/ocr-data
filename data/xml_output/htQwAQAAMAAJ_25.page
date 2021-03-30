@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3606" imageWidth="2550">
+    <PrintSpace>
+        <Coords points="0,0 0,2550 3606,2550 3606,2550"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2550 3606,2550 3606,2550"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="254,1229 254,1317 314,1317 314,1229"/>
+            <TextEquiv>
+                <Unicode>12</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="425,429 425,2257 503,2257 503,429"/>
+            <TextEquiv>
+                <Unicode>„Du haſt ihn das Geheimniß gelehrt, ſein Pfund zu einem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="514,283 514,2264 591,2264 591,283"/>
+            <TextEquiv>
+                <Unicode>Pfennig und ſeine Gewebe zu einem Faden umzuſchmelzen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="600,282 600,2261 678,2261 678,282"/>
+            <TextEquiv>
+                <Unicode>Vetter,“  ſagte Giles Gosling. -  „Nimm keines Narren Rath</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="685,285 685,2263 764,2263 764,285"/>
+            <TextEquiv>
+                <Unicode>an, Nachbar Goldthred. Wage Dich nicht aufs Meer, denn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="772,285 772,2261 849,2261 849,285"/>
+            <TextEquiv>
+                <Unicode>es iſt ein unerſättliches Raubthier. Mögen auch Karten und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="860,280 860,2262 936,2262 936,280"/>
+            <TextEquiv>
+                <Unicode>Dirnen ihr Schlimmſtes thun, Deines Vaters Waarenballen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="947,281 947,2265 1027,2265 1027,281"/>
+            <TextEquiv>
+                <Unicode>mögen Dein luſtiges Leben wohl noch ein oder zwei Iahre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1027,283 1027,2265 1113,2265 1113,283"/>
+            <TextEquiv>
+                <Unicode>gut machen, ehe Du in&#39;s Spital kommſt; doch das Meer hat</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1123,284 1123,2260 1209,2260 1209,284"/>
+            <TextEquiv>
+                <Unicode>einen bodenloſen Appetit, es würde den ganzen Reichthum von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1203,282 1203,2260 1289,2260 1289,282"/>
+            <TextEquiv>
+                <Unicode>Lombard Street in einem Morgen ebenſo gemächlich verſchlin-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1297,283 1297,2263 1377,2263 1377,283"/>
+            <TextEquiv>
+                <Unicode>gen, wie ich ein weich geſottenes Ei und ein Glas Claret -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1383,280 1383,2266 1459,2266 1459,280"/>
+            <TextEquiv>
+                <Unicode>und was meines Vetters Eldorado betriſft, ſo traue mir nie-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1464,282 1464,2261 1547,2261 1547,282"/>
+            <TextEquiv>
+                <Unicode>mals wieder, wenn ich nicht glaube, daß er es in den Taſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1557,282 1557,2259 1632,2259 1632,282"/>
+            <TextEquiv>
+                <Unicode>ſolcher Einfaltspinſel wie Du gefunden hat. - Aber ſtopfe Dir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1643,282 1643,2259 1721,2259 1721,282"/>
+            <TextEquiv>
+                <Unicode>die Naſe deshalb nicht voll Schnupftabak; greift zu und ſeid</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1731,281 1731,2259 1808,2259 1808,281"/>
+            <TextEquiv>
+                <Unicode>willkommen, denn hier kommt das Abendeſſen, und ich gebe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1817,283 1817,2261 1895,2261 1895,283"/>
+            <TextEquiv>
+                <Unicode>es herzlich gern allen denen, die Theil daran nehmeu wollen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1899,279 1899,2258 1983,2258 1983,279"/>
+            <TextEquiv>
+                <Unicode>um die Rückkehr meines hoffnungsvollen Neffen zu feiern,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1991,278 1991,2258 2069,2258 2069,278"/>
+            <TextEquiv>
+                <Unicode>indem ich das Vertrauen hege, daß er als ein anderer Mann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2078,280 2078,2260 2164,2260 2164,280"/>
+            <TextEquiv>
+                <Unicode>zurückgekehrt iſt. - Wahrhaftig, Vetter, Du ſiehſt meiner armen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2157,284 2157,2211 2246,2211 2246,284"/>
+            <TextEquiv>
+                <Unicode>Schweſter ſo ähnlich, wie nur je ein Sohn ſeiner Mutter.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2252,425 2252,2254 2330,2254 2330,425"/>
+            <TextEquiv>
+                <Unicode>„Doch nicht ähnlich dem alten Benedict Lambourne, ihrem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2338,283 2338,2260 2417,2260 2417,283"/>
+            <TextEquiv>
+                <Unicode>Gatten,“ ſagte der Krämer nickend und winkend. „„Erinnerſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2422,281 2422,2259 2502,2259 2502,281"/>
+            <TextEquiv>
+                <Unicode>Du Dich, Michel, was Du ſagteſt, als des Schulmeiſters Ruthe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2510,280 2510,2259 2599,2259 2599,280"/>
+            <TextEquiv>
+                <Unicode>über Dir ſchwebte, weil Du Deinem Vater die Krücken wegge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2593,283 2593,2257 2675,2257 2675,283"/>
+            <TextEquiv>
+                <Unicode>ſchlagen? - Es iſt ein kluges Kind, ſagteſt Du, welches ſeinen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2684,283 2684,2260 2760,2260 2760,283"/>
+            <TextEquiv>
+                <Unicode>eigenen Vater kennt. Doctor Bricham lachte bis er weinte, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2770,283 2770,2146 2852,2146 2852,283"/>
+            <TextEquiv>
+                <Unicode>durch ſein Weinen wurdeſt Du des Weinens überhoben.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2859,428 2859,2257 2936,2257 2936,428"/>
+            <TextEquiv>
+                <Unicode>„Ia, er trug es mir ſpäter manches Iahr nach,“ ſagte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2944,182 2944,2261 3024,2261 3024,182"/>
+            <TextEquiv>
+                <Unicode>Lambourne; „und wie geht es dem würdigen Pädagogen?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3032,429 3032,2253 3108,2253 3108,429"/>
+            <TextEquiv>
+                <Unicode>„Er iſt ſchon manchen Tag todt,“ ſagte Giles Gosling.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>12
+„Du haſt ihn das Geheimniß gelehrt, ſein Pfund zu einem
+Pfennig und ſeine Gewebe zu einem Faden umzuſchmelzen,
+Vetter,“  ſagte Giles Gosling. -  „Nimm keines Narren Rath
+an, Nachbar Goldthred. Wage Dich nicht aufs Meer, denn
+es iſt ein unerſättliches Raubthier. Mögen auch Karten und
+Dirnen ihr Schlimmſtes thun, Deines Vaters Waarenballen
+mögen Dein luſtiges Leben wohl noch ein oder zwei Iahre
+gut machen, ehe Du in&#39;s Spital kommſt; doch das Meer hat
+einen bodenloſen Appetit, es würde den ganzen Reichthum von
+Lombard Street in einem Morgen ebenſo gemächlich verſchlin-
+gen, wie ich ein weich geſottenes Ei und ein Glas Claret -
+und was meines Vetters Eldorado betriſft, ſo traue mir nie-
+mals wieder, wenn ich nicht glaube, daß er es in den Taſchen
+ſolcher Einfaltspinſel wie Du gefunden hat. - Aber ſtopfe Dir
+die Naſe deshalb nicht voll Schnupftabak; greift zu und ſeid
+willkommen, denn hier kommt das Abendeſſen, und ich gebe
+es herzlich gern allen denen, die Theil daran nehmeu wollen,
+um die Rückkehr meines hoffnungsvollen Neffen zu feiern,
+indem ich das Vertrauen hege, daß er als ein anderer Mann
+zurückgekehrt iſt. - Wahrhaftig, Vetter, Du ſiehſt meiner armen
+Schweſter ſo ähnlich, wie nur je ein Sohn ſeiner Mutter.“
+„Doch nicht ähnlich dem alten Benedict Lambourne, ihrem
+Gatten,“ ſagte der Krämer nickend und winkend. „„Erinnerſt
+Du Dich, Michel, was Du ſagteſt, als des Schulmeiſters Ruthe
+über Dir ſchwebte, weil Du Deinem Vater die Krücken wegge-
+ſchlagen? - Es iſt ein kluges Kind, ſagteſt Du, welches ſeinen
+eigenen Vater kennt. Doctor Bricham lachte bis er weinte, und
+durch ſein Weinen wurdeſt Du des Weinens überhoben.“
+„Ia, er trug es mir ſpäter manches Iahr nach,“ ſagte
+Lambourne; „und wie geht es dem würdigen Pädagogen?“
+„Er iſt ſchon manchen Tag todt,“ ſagte Giles Gosling.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

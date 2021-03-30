@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="2448" imageWidth="1902">
+    <PrintSpace>
+        <Coords points="0,0 0,1902 2448,1902 2448,1902"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,1902 2448,1902 2448,1902"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="148,362 148,432 200,432 200,362"/>
+            <TextEquiv>
+                <Unicode>82</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="254,333 254,1772 327,1772 327,333"/>
+            <TextEquiv>
+                <Unicode>ten, die demjenigen hochst vortheilhaft seyn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="324,333 324,1780 394,1780 394,333"/>
+            <TextEquiv>
+                <Unicode>muſsten, der sich anschickte, der Wiederher-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="391,336 391,1779 454,1779 454,336"/>
+            <TextEquiv>
+                <Unicode>steller einer uralten Dynastie zu werden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="458,337 458,1778 521,1778 521,337"/>
+            <TextEquiv>
+                <Unicode>Andrerseits war seine Erziehung in gewissen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="528,337 528,1780 596,1780 596,337"/>
+            <TextEquiv>
+                <Unicode>Puncten, die zum Gelingen seines Unterneh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="594,337 594,1782 662,1782 662,337"/>
+            <TextEquiv>
+                <Unicode>mens überaus wichtig waren, im höchsten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="665,355 665,1253 726,1253 726,355"/>
+            <TextEquiv>
+                <Unicode>Grade vernachläſsigt worden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="729,415 729,1927 800,1927 800,415"/>
+            <TextEquiv>
+                <Unicode>Anstatt von denen, die seine Bildung lei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="800,341 800,1785 867,1785 867,341"/>
+            <TextEquiv>
+                <Unicode>teten, mit den Rechten und der Verfassung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="867,342 867,1922 929,1922 929,342"/>
+            <TextEquiv>
+                <Unicode>der engländischen Nation bekannt gemacht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="936,343 936,1926 1011,1926 1011,343"/>
+            <TextEquiv>
+                <Unicode>zu werden, war man bemüiht gewesen, ihn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="999,344 999,1925 1073,1925 1073,344"/>
+            <TextEquiv>
+                <Unicode>in jenen absurden, verwerflichen, übertriebe-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1068,343 1068,1925 1143,1925 1143,343"/>
+            <TextEquiv>
+                <Unicode>nen und veralteten Lehrmeynungen über</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1137,346 1137,1918 1212,1918 1212,346"/>
+            <TextEquiv>
+                <Unicode>das göttliche Erbrecht und passiven Gehor-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1206,347 1206,1918 1282,1918 1282,347"/>
+            <TextEquiv>
+                <Unicode>sam aufzuerziehen, woraus sich die Irrthü-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1275,345 1275,1922 1350,1922 1350,345"/>
+            <TextEquiv>
+                <Unicode>mer und das Miſsgeschick der Regierung sei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1343,345 1343,1921 1419,1921 1419,345"/>
+            <TextEquiv>
+                <Unicode>nes Ahnherrn Jacobs II von England herge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1409,343 1409,1920 1485,1920 1485,343"/>
+            <TextEquiv>
+                <Unicode>leitet hatten. Auch war er streng in der ka-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1479,346 1479,1920 1554,1920 1554,346"/>
+            <TextEquiv>
+                <Unicode>tholischen Kirche erzogen worden, welches</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1546,351 1546,1919 1623,1919 1623,351"/>
+            <TextEquiv>
+                <Unicode>so nachtheilig für seinen Groſsvater gewesen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1613,345 1613,1918 1678,1918 1678,345"/>
+            <TextEquiv>
+                <Unicode>war; so also ward er der britischen Nation</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1679,349 1679,1917 1763,1917 1763,349"/>
+            <TextEquiv>
+                <Unicode>ohne alle Abänderung oder Abweichung von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1740,344 1740,1916 1834,1916 1834,344"/>
+            <TextEquiv>
+                <Unicode>jenen falschen Grundsätzen über Kirche und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1813,350 1813,1915 1899,1915 1899,350"/>
+            <TextEquiv>
+                <Unicode>Staat vorgestellt, die sich denen so nachthei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1875,349 1875,1915 1971,1915 1971,349"/>
+            <TextEquiv>
+                <Unicode>lig ergaben, die er seine Unterthanen nannte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1945,348 1945,1913 2028,1913 2028,348"/>
+            <TextEquiv>
+                <Unicode>und die seinem Vorfahren einen Thron ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2010,347 2010,1913 2105,1913 2105,347"/>
+            <TextEquiv>
+                <Unicode>kostet hatten. Es war eine natürliche Folge</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2079,348 2079,1913 2163,1913 2163,348"/>
+            <TextEquiv>
+                <Unicode>der hohen Begriffe von königlichen Vorrech-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2146,344 2146,1911 2244,1911 2244,344"/>
+            <TextEquiv>
+                <Unicode>ten, die ihm eingeimpft worden waren, ob</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>82
+ten, die demjenigen hochst vortheilhaft seyn
+muſsten, der sich anschickte, der Wiederher-
+steller einer uralten Dynastie zu werden.
+Andrerseits war seine Erziehung in gewissen
+Puncten, die zum Gelingen seines Unterneh-
+mens überaus wichtig waren, im höchsten
+Grade vernachläſsigt worden.
+Anstatt von denen, die seine Bildung lei-
+teten, mit den Rechten und der Verfassung
+der engländischen Nation bekannt gemacht
+zu werden, war man bemüiht gewesen, ihn
+in jenen absurden, verwerflichen, übertriebe-
+nen und veralteten Lehrmeynungen über
+das göttliche Erbrecht und passiven Gehor-
+sam aufzuerziehen, woraus sich die Irrthü-
+mer und das Miſsgeschick der Regierung sei-
+nes Ahnherrn Jacobs II von England herge-
+leitet hatten. Auch war er streng in der ka-
+tholischen Kirche erzogen worden, welches
+so nachtheilig für seinen Groſsvater gewesen
+war; so also ward er der britischen Nation
+ohne alle Abänderung oder Abweichung von
+jenen falschen Grundsätzen über Kirche und
+Staat vorgestellt, die sich denen so nachthei-
+lig ergaben, die er seine Unterthanen nannte,
+und die seinem Vorfahren einen Thron ge-
+kostet hatten. Es war eine natürliche Folge
+der hohen Begriffe von königlichen Vorrech-
+ten, die ihm eingeimpft worden waren, ob</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

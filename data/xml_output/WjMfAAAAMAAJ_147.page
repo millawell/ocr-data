@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="2458" imageWidth="1949">
+    <PrintSpace>
+        <Coords points="0,0 0,1949 2458,1949 2458,1949"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,1949 2458,1949 2458,1949"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="148,389 148,573 232,573 232,389"/>
+            <TextEquiv>
+                <Unicode>132</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="266,356 266,1960 345,1960 345,356"/>
+            <TextEquiv>
+                <Unicode>birge zieht sich ein Theil der vom Marschall</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="336,359 336,1955 417,1955 417,359"/>
+            <TextEquiv>
+                <Unicode>Wade angelegten Militärstraſse hin, die im</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="405,360 405,1948 485,1948 485,360"/>
+            <TextEquiv>
+                <Unicode>Zickzack über den Berg in langsamen und all-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="621,347 621,1950 697,1950 697,347"/>
+            <TextEquiv>
+                <Unicode>men würde. Die vielen aufeinanderfolgenden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="689,367 689,1831 759,1831 759,367"/>
+            <TextEquiv>
+                <Unicode>Abschrägungen und Windungen am Bergrük-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="759,367 759,1970 832,1970 832,367"/>
+            <TextEquiv>
+                <Unicode>ken, dessen übrige Theile fast unzugänglich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="802,363 802,1973 917,1973 917,363"/>
+            <TextEquiv>
+                <Unicode>sind, führen den passenden Namen der T e u-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="898,365 898,1969 965,1969 965,365"/>
+            <TextEquiv>
+                <Unicode>f e l s t r e p p e. Die Seite des Berges, auſser</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="966,366 966,1970 1050,1970 1050,366"/>
+            <TextEquiv>
+                <Unicode>da, wo sich diese ihr eingeschnittene Zugangs-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1036,369 1036,1969 1139,1969 1139,369"/>
+            <TextEquiv>
+                <Unicode>linie befindet, ist unersteigbar und selbst der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1101,371 1101,1825 1179,1825 1179,371"/>
+            <TextEquiv>
+                <Unicode>angelegte Weg wird oft von tiefen Bergwas-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1173,368 1173,1966 1273,1966 1273,368"/>
+            <TextEquiv>
+                <Unicode>sern und Waldströmen durchschnitten, über</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1243,376 1243,1964 1341,1964 1341,376"/>
+            <TextEquiv>
+                <Unicode>welche Brücken führen, die in kurzer Zeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1313,368 1313,1964 1402,1964 1402,368"/>
+            <TextEquiv>
+                <Unicode>abgebrochen werden können, und da sie von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1383,372 1383,1962 1480,1962 1480,372"/>
+            <TextEquiv>
+                <Unicode>Felsblöcken und Dickigen umgeben sind, un-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1453,373 1453,1961 1541,1961 1541,373"/>
+            <TextEquiv>
+                <Unicode>zählbare Punkte darbieten, um Scharfschützen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1523,374 1523,1960 1612,1960 1612,374"/>
+            <TextEquiv>
+                <Unicode>und Streifzüglern zum Hinterhalte zu dienen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1592,375 1592,1959 1681,1959 1681,375"/>
+            <TextEquiv>
+                <Unicode>Der Chevalier eilte, die Nordseite hinanzu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1660,377 1660,1834 1728,1834 1728,377"/>
+            <TextEquiv>
+                <Unicode>steigen und sich der Spitze des Berges zu be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1730,376 1730,1833 1795,1833 1795,376"/>
+            <TextEquiv>
+                <Unicode>mächtigen, der alle Eigenschaften einer Ve-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1797,375 1797,1956 1875,1956 1875,375"/>
+            <TextEquiv>
+                <Unicode>stung hat, indem jeder Weg darüber als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1866,376 1866,1956 1956,1956 1956,376"/>
+            <TextEquiv>
+                <Unicode>Laufgraben dient. Er zeigte frohe Hoffnung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1935,374 1935,1955 2005,1955 2005,374"/>
+            <TextEquiv>
+                <Unicode>und hohen Muth, und sagte, während er ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1987,376 1987,1954 2090,1954 2090,376"/>
+            <TextEquiv>
+                <Unicode>Paar neue hochländische Holzschuhe anlegte, mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2073,376 2073,1953 2143,1953 2143,376"/>
+            <TextEquiv>
+                <Unicode>vieler Muterkeit: „Bevor ich sie wieder aus-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2128,376 2128,1952 2212,1952 2212,376"/>
+            <TextEquiv>
+                <Unicode>ziehe, will ich mit dem General Cope fechten.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2209,363 2209,1951 2467,1951 2467,363"/>
+            <TextEquiv>
+                <Unicode>Er erwartete, den General um ein Uhr zu treffen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>132
+birge zieht sich ein Theil der vom Marschall
+Wade angelegten Militärstraſse hin, die im
+Zickzack über den Berg in langsamen und all-
+men würde. Die vielen aufeinanderfolgenden
+Abschrägungen und Windungen am Bergrük-
+ken, dessen übrige Theile fast unzugänglich
+sind, führen den passenden Namen der T e u-
+f e l s t r e p p e. Die Seite des Berges, auſser
+da, wo sich diese ihr eingeschnittene Zugangs-
+linie befindet, ist unersteigbar und selbst der
+angelegte Weg wird oft von tiefen Bergwas-
+sern und Waldströmen durchschnitten, über
+welche Brücken führen, die in kurzer Zeit
+abgebrochen werden können, und da sie von
+Felsblöcken und Dickigen umgeben sind, un-
+zählbare Punkte darbieten, um Scharfschützen
+und Streifzüglern zum Hinterhalte zu dienen.
+Der Chevalier eilte, die Nordseite hinanzu-
+steigen und sich der Spitze des Berges zu be-
+mächtigen, der alle Eigenschaften einer Ve-
+stung hat, indem jeder Weg darüber als
+Laufgraben dient. Er zeigte frohe Hoffnung
+und hohen Muth, und sagte, während er ein
+Paar neue hochländische Holzschuhe anlegte, mit
+vieler Muterkeit: „Bevor ich sie wieder aus-
+ziehe, will ich mit dem General Cope fechten.“
+Er erwartete, den General um ein Uhr zu treffen.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

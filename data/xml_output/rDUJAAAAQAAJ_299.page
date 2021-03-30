@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4042" imageWidth="2501">
+    <PrintSpace>
+        <Coords points="0,0 0,2501 4042,2501 4042,2501"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2501 4042,2501 4042,2501"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="567,381 567,1561 639,1561 639,381"/>
+            <TextEquiv>
+                <Unicode>chap. XII.] ARMY OF PHILIP.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="551,1747 551,2025 622,2025 622,1747"/>
+            <TextEquiv>
+                <Unicode>275</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="657,369 657,2065 754,2065 754,369"/>
+            <TextEquiv>
+                <Unicode>Flanders should enter Paris in great pomp after</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="761,365 761,2063 845,2063 845,365"/>
+            <TextEquiv>
+                <Unicode>the engagement&#34; The allies received as propi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="848,365 848,2066 924,2066 924,365"/>
+            <TextEquiv>
+                <Unicode>tious an oracle, which afterwards turned out to be</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="937,367 937,2067 1023,2067 1023,367"/>
+            <TextEquiv>
+                <Unicode>of a different and ambiguous character: they ac-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1026,370 1026,2068 1110,2068 1110,370"/>
+            <TextEquiv>
+                <Unicode>cordingly advanced at the head of a numerous</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1114,367 1114,2066 1197,2066 1197,367"/>
+            <TextEquiv>
+                <Unicode>army, amounting, it is said, to one hundred and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1202,366 1202,2068 1288,2068 1288,366"/>
+            <TextEquiv>
+                <Unicode>fifty thousand men. They assembled at Peronne,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1291,369 1291,2068 1366,2068 1366,369"/>
+            <TextEquiv>
+                <Unicode>in Flanders, and moved south-westwards into</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1382,405 1382,661 1443,661 1443,405"/>
+            <TextEquiv>
+                <Unicode>France.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1465,453 1465,2067 1551,2067 1551,453"/>
+            <TextEquiv>
+                <Unicode>The army of Philip was not nearly so numer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1554,367 1554,2069 1635,2069 1635,367"/>
+            <TextEquiv>
+                <Unicode>ous, but was composed of the flower of the French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1639,370 1639,2068 1728,2068 1728,370"/>
+            <TextEquiv>
+                <Unicode>chivalry, with the great princes of the blood royal,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1730,368 1730,2071 1795,2071 1795,368"/>
+            <TextEquiv>
+                <Unicode>and such of the vassals of the crown as were not</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1818,367 1818,2071 1902,2071 1902,367"/>
+            <TextEquiv>
+                <Unicode>in the confederaoy. The monarch also enjoyed the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1902,368 1902,2071 1991,2071 1991,368"/>
+            <TextEquiv>
+                <Unicode>advantage of the bravery and experience of a va-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1994,367 1994,2073 2085,2073 2085,367"/>
+            <TextEquiv>
+                <Unicode>liant kniglt-hospitaller, called Guerin, who acted</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2078,368 2078,2072 2169,2072 2169,368"/>
+            <TextEquiv>
+                <Unicode>as quartermaster-general. Philip, having deter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2172,369 2172,2073 2255,2073 2255,369"/>
+            <TextEquiv>
+                <Unicode>mined to prevent the wasting of his own country</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2260,370 2260,2071 2343,2071 2343,370"/>
+            <TextEquiv>
+                <Unicode>by ravaging that of the enemy, directed his course</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2348,371 2348,2072 2432,2072 2432,371"/>
+            <TextEquiv>
+                <Unicode>towards Hainault with that purpose. But in the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2436,372 2436,2072 2511,2072 2511,372"/>
+            <TextEquiv>
+                <Unicode>course of their march, the French discovered the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2525,371 2525,2071 2608,2071 2608,371"/>
+            <TextEquiv>
+                <Unicode>numerous squadrons of the Emperor, on the oppo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2614,371 2614,2072 2687,2072 2687,371"/>
+            <TextEquiv>
+                <Unicode>site side of the Meuse, near Bouvines. The river</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2700,373 2700,2072 2784,2072 2784,373"/>
+            <TextEquiv>
+                <Unicode>was crossed by,a wooden bridge. The French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2788,370 2788,2072 2865,2072 2865,370"/>
+            <TextEquiv>
+                <Unicode>noblesse on the one side, and the German on the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2878,372 2878,2073 2960,2073 2960,372"/>
+            <TextEquiv>
+                <Unicode>other, rushed emulously to seize the passage. But</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2965,370 2965,2073 3049,2073 3049,370"/>
+            <TextEquiv>
+                <Unicode>it was occupied by the former; and the French</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="3054,369 3054,2074 3138,2074 3138,369"/>
+            <TextEquiv>
+                <Unicode>infantry, principally the militia of the towns, passed</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3140,371 3140,2072 3216,2072 3216,371"/>
+            <TextEquiv>
+                <Unicode>over under the Oriflamme, or banner of Saint De-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3227,371 3227,2073 3304,2073 3304,371"/>
+            <TextEquiv>
+                <Unicode>nis, and formed on the western side of the river.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="3317,379 3317,2073 3401,2073 3401,379"/>
+            <TextEquiv>
+                <Unicode>The King had stretched himself to repose uuder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="3404,370 3404,2095 3490,2095 3490,370"/>
+            <TextEquiv>
+                <Unicode>an ash-tree, when he was roused by the horsemen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>chap. XII.] ARMY OF PHILIP.
+275
+Flanders should enter Paris in great pomp after
+the engagement&#34; The allies received as propi-
+tious an oracle, which afterwards turned out to be
+of a different and ambiguous character: they ac-
+cordingly advanced at the head of a numerous
+army, amounting, it is said, to one hundred and
+fifty thousand men. They assembled at Peronne,
+in Flanders, and moved south-westwards into
+France.
+The army of Philip was not nearly so numer-
+ous, but was composed of the flower of the French
+chivalry, with the great princes of the blood royal,
+and such of the vassals of the crown as were not
+in the confederaoy. The monarch also enjoyed the
+advantage of the bravery and experience of a va-
+liant kniglt-hospitaller, called Guerin, who acted
+as quartermaster-general. Philip, having deter-
+mined to prevent the wasting of his own country
+by ravaging that of the enemy, directed his course
+towards Hainault with that purpose. But in the
+course of their march, the French discovered the
+numerous squadrons of the Emperor, on the oppo-
+site side of the Meuse, near Bouvines. The river
+was crossed by,a wooden bridge. The French
+noblesse on the one side, and the German on the
+other, rushed emulously to seize the passage. But
+it was occupied by the former; and the French
+infantry, principally the militia of the towns, passed
+over under the Oriflamme, or banner of Saint De-
+nis, and formed on the western side of the river.
+The King had stretched himself to repose uuder
+an ash-tree, when he was roused by the horsemen.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

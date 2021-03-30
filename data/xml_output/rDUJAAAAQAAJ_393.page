@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4040" imageWidth="2466">
+    <PrintSpace>
+        <Coords points="0,0 0,2466 4040,2466 4040,2466"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2466 4040,2466 4040,2466"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="520,301 520,1582 589,1582 589,301"/>
+            <TextEquiv>
+                <Unicode>CHAP. XV]  TRIAL OF MARIGNY.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="501,1832 501,1962 571,1962 571,1832"/>
+            <TextEquiv>
+                <Unicode>369</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="624,289 624,2004 706,2004 706,289"/>
+            <TextEquiv>
+                <Unicode>that the Kings of England laid claim to the inheri-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="713,285 713,2143 789,2143 789,285"/>
+            <TextEquiv>
+                <Unicode>tance of France, in contradiction te the Salic law,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="800,288 800,2004 884,2004 884,288"/>
+            <TextEquiv>
+                <Unicode>and in right of this same Isabel&#39;s succession to her</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="891,322 891,541 953,541 953,322"/>
+            <TextEquiv>
+                <Unicode>father.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="978,372 978,2002 1054,2002 1054,372"/>
+            <TextEquiv>
+                <Unicode>Louis X., whom, for some uncertain reason, the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1066,289 1066,2004 1149,2004 1149,289"/>
+            <TextEquiv>
+                <Unicode>French called Hutin (or the Turbulent), next as-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1155,286 1155,2005 1239,2005 1239,286"/>
+            <TextEquiv>
+                <Unicode>cended the throne. The first point he had to con-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1243,283 1243,2012 1325,2012 1325,283"/>
+            <TextEquiv>
+                <Unicode>sider was the bringing to account the favourite of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1331,284 1331,2001 1415,2001 1415,284"/>
+            <TextEquiv>
+                <Unicode>the deceased monarch, Enguerrand de Marigny,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1416,282 1416,2001 1500,2001 1500,282"/>
+            <TextEquiv>
+                <Unicode>who had been the agent of Philip&#39;s exactions, and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1504,282 1504,2001 1592,2001 1592,282"/>
+            <TextEquiv>
+                <Unicode>was supposed to have peculated enormously, as the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1593,281 1593,2001 1679,2001 1679,281"/>
+            <TextEquiv>
+                <Unicode>money passed through his hands. Called before</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1681,280 1681,2002 1765,2002 1765,280"/>
+            <TextEquiv>
+                <Unicode>the princes of the blood, and closely interrogated</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1769,278 1769,2009 1852,2009 1852,278"/>
+            <TextEquiv>
+                <Unicode>by the brother of the late king, Charles, Count of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1859,290 1859,2000 1942,2000 1942,290"/>
+            <TextEquiv>
+                <Unicode>Valois, in particular, who, in fact, governed in the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1947,276 1947,2001 2031,2001 2031,276"/>
+            <TextEquiv>
+                <Unicode>name of his nephew, the accused party answered</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2036,302 2036,1007 2118,1007 2118,302"/>
+            <TextEquiv>
+                <Unicode>with great insolence.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2125,357 2125,1997 2200,1997 2200,357"/>
+            <TextEquiv>
+                <Unicode>&#34;Where,&#34; said the Count de Valois, &#34;are the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2212,289 2212,1394 2295,1394 2295,289"/>
+            <TextEquiv>
+                <Unicode>treasures of the late kingr?&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2300,357 2300,1998 2384,1998 2384,357"/>
+            <TextEquiv>
+                <Unicode>&#34;You shall have a good account of them,&#34; an-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2389,288 2389,1348 2473,1348 2473,288"/>
+            <TextEquiv>
+                <Unicode>swered the prisoner, haughtily.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2476,355 2476,1996 2560,1996 2560,355"/>
+            <TextEquiv>
+                <Unicode>&#34;Give it me, then, instantly,&#34; answered the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2565,307 2565,544 2630,544 2630,307"/>
+            <TextEquiv>
+                <Unicode>Prince.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2651,352 2651,1995 2740,1995 2740,352"/>
+            <TextEquiv>
+                <Unicode>&#34;Since you press me to speak,&#34; replied Ma-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2742,278 2742,1995 2828,1995 2828,278"/>
+            <TextEquiv>
+                <Unicode>rigny, &#34;I have given you one half of the treasure</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2826,269 2826,1994 2917,1994 2917,269"/>
+            <TextEquiv>
+                <Unicode>of the late king, your brother, and, with the other</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2918,281 2918,1558 3008,1558 3008,281"/>
+            <TextEquiv>
+                <Unicode>half, I have paid his majesty&#39;s debts.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="3009,350 3009,1729 3095,1729 3095,350"/>
+            <TextEquiv>
+                <Unicode>&#34;You lie,&#34; replied the Prince, in a rage.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="3095,352 3095,1673 3189,1673 3189,352"/>
+            <TextEquiv>
+                <Unicode>&#34;You lie yourself,&#34; replied Marigny.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="3172,354 3172,1987 3271,1987 3271,354"/>
+            <TextEquiv>
+                <Unicode>In consequence of this intemperate and insult-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="3263,263 3263,1989 3354,1989 3354,263"/>
+            <TextEquiv>
+                <Unicode>ing conduct, the fallen favourite was arrested,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="3350,264 3350,1979 3446,1979 3446,264"/>
+            <TextEquiv>
+                <Unicode>thrown into prison, and brought to trial, when he</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="3457,369 3457,757 3512,757 3512,369"/>
+            <TextEquiv>
+                <Unicode>VOL. XXVII.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="3453,1106 3453,1239 3515,1239 3515,1106"/>
+            <TextEquiv>
+                <Unicode>2 A</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>CHAP. XV]  TRIAL OF MARIGNY.
+369
+that the Kings of England laid claim to the inheri-
+tance of France, in contradiction te the Salic law,
+and in right of this same Isabel&#39;s succession to her
+father.
+Louis X., whom, for some uncertain reason, the
+French called Hutin (or the Turbulent), next as-
+cended the throne. The first point he had to con-
+sider was the bringing to account the favourite of
+the deceased monarch, Enguerrand de Marigny,
+who had been the agent of Philip&#39;s exactions, and
+was supposed to have peculated enormously, as the
+money passed through his hands. Called before
+the princes of the blood, and closely interrogated
+by the brother of the late king, Charles, Count of
+Valois, in particular, who, in fact, governed in the
+name of his nephew, the accused party answered
+with great insolence.
+&#34;Where,&#34; said the Count de Valois, &#34;are the
+treasures of the late kingr?&#34;
+&#34;You shall have a good account of them,&#34; an-
+swered the prisoner, haughtily.
+&#34;Give it me, then, instantly,&#34; answered the
+Prince.
+&#34;Since you press me to speak,&#34; replied Ma-
+rigny, &#34;I have given you one half of the treasure
+of the late king, your brother, and, with the other
+half, I have paid his majesty&#39;s debts.&#34;
+&#34;You lie,&#34; replied the Prince, in a rage.
+&#34;You lie yourself,&#34; replied Marigny.
+In consequence of this intemperate and insult-
+ing conduct, the fallen favourite was arrested,
+thrown into prison, and brought to trial, when he
+VOL. XXVII.
+2 A</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3552" imageWidth="2621">
+    <PrintSpace>
+        <Coords points="0,0 0,2621 3552,2621 3552,2621"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2621 3552,2621 3552,2621"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="255,1182 255,1431 335,1431 335,1182"/>
+            <TextEquiv>
+                <Unicode>289</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="436,216 436,2409 515,2409 515,216"/>
+            <TextEquiv>
+                <Unicode>davon; doch hingen ſie ſo ſchwankend an der Wagſchale, daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="506,223 506,2235 582,2235 582,223"/>
+            <TextEquiv>
+                <Unicode>ich ſie weder glauben noch verwerfen konnte. Ich bitt&#39; euch,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="574,225 574,2235 652,2235 652,225"/>
+            <TextEquiv>
+                <Unicode>mich zu verlaſſen; verbergt die Sache in eurem Buſen, und ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="643,227 643,2235 735,2235 735,227"/>
+            <TextEquiv>
+                <Unicode>dank&#39; euch für eure treue Sorgfalt: ich will noch weiter davon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="714,257 714,790 787,790 787,257"/>
+            <TextEquiv>
+                <Unicode>mit euch ſprechen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="728,1454 728,2092 791,2092 791,1454"/>
+            <TextEquiv>
+                <Unicode>(Haushofmeiſter geht ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="799,189 799,2005 902,2005 902,189"/>
+            <TextEquiv>
+                <Unicode>Gräf. So war&#39;s mit mir, da ich noch jung: ſo geht&#39;s,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="884,638 884,2016 982,2016 982,638"/>
+            <TextEquiv>
+                <Unicode>Sind wir natürlich. Dieser Dorn wird zeigen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="953,576 953,1724 1029,1724 1029,576"/>
+            <TextEquiv>
+                <Unicode>Sich bei der Roſe unſrer Jugend ſtets:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1023,638 1023,2041 1100,2041 1100,638"/>
+            <TextEquiv>
+                <Unicode>Das Blut iſt uns, dies unſerm Blute eigen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1091,573 1091,1869 1163,1869 1163,573"/>
+            <TextEquiv>
+                <Unicode>Das Zeichen iſts der Wahrheit der Natur,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1159,577 1159,1780 1234,1780 1234,577"/>
+            <TextEquiv>
+                <Unicode>Wann Jugend Liebesleidenſchaft erfuhr:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1227,575 1227,1800 1300,1800 1300,575"/>
+            <TextEquiv>
+                <Unicode>Ich finde, denk ich früh&#39;rer Zeit, bei mir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1295,572 1295,1951 1369,1951 1369,572"/>
+            <TextEquiv>
+                <Unicode>Die Fehler auch, hielt ſie nur nicht dafür. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1379,993 1379,1473 1436,1473 1436,993"/>
+            <TextEquiv>
+                <Unicode>Helena tritt auf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1447,466 1447,1722 1526,1722 1526,466"/>
+            <TextEquiv>
+                <Unicode>Jhr Auge leidet dran, ich ſeh es ſchon.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1540,316 1540,1609 1632,1609 1632,316"/>
+            <TextEquiv>
+                <Unicode>Hel. Was euer Wille, gnädge Frau?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1634,318 1634,1755 1722,1755 1722,318"/>
+            <TextEquiv>
+                <Unicode>Gräf. Du weißt, ich bin dir Mutter, Helena.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1721,330 1721,1317 1816,1317 1816,330"/>
+            <TextEquiv>
+                <Unicode>Hel. Verehrteſte Gebieterin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1825,333 1825,1202 1899,1202 1899,333"/>
+            <TextEquiv>
+                <Unicode>Gräf. Nein, Mutter;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1895,236 1895,1717 1970,1717 1970,236"/>
+            <TextEquiv>
+                <Unicode>Warum nicht Mutter? Als ich ſagte: Mutter,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1963,236 1963,2204 2039,2204 2039,236"/>
+            <TextEquiv>
+                <Unicode>Sahſt, glaub&#39; ich, Schlangen du. - Was liegt in ,, Mutter“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2035,249 2035,1703 2110,1703 2110,249"/>
+            <TextEquiv>
+                <Unicode>Das dich erſchreckt? Ich ſag, ich bin dir Mutter,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2102,255 2102,1332 2175,1332 2175,255"/>
+            <TextEquiv>
+                <Unicode>und ſetze dich mit in der Reihe derer,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2172,254 2172,1381 2246,1381 2246,254"/>
+            <TextEquiv>
+                <Unicode>Die ich gebar: wetteifern ſah man oft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2241,253 2241,1544 2317,1544 2317,253"/>
+            <TextEquiv>
+                <Unicode>Natur mit Neigung; Wahl hat zugewandt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2301,247 2301,1850 2383,1850 2383,247"/>
+            <TextEquiv>
+                <Unicode>uns oft den Zweig, gepflanzt von fremder Hand.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2377,256 2377,1456 2453,1456 2453,256"/>
+            <TextEquiv>
+                <Unicode>Du preßteſt nie mir Mutterthränen aus,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2446,255 2446,1655 2522,1655 2522,255"/>
+            <TextEquiv>
+                <Unicode>Doch heg&#39; ich für dich mütterliche Sorgfalt:-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2516,255 2516,1573 2587,1573 2587,255"/>
+            <TextEquiv>
+                <Unicode>um Gotteswillen, Kind! erſtarrt dein Blut,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2584,255 2584,1653 2657,1653 2657,255"/>
+            <TextEquiv>
+                <Unicode>Sag&#39; ich, ich ſei dir Mutter? Woher kommt&#39;s,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2650,257 2650,1448 2726,1448 2726,257"/>
+            <TextEquiv>
+                <Unicode>Daß krankhaft dieſe Vorbotin dev Näſſe,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2720,256 2720,1486 2796,1486 2796,256"/>
+            <TextEquiv>
+                <Unicode>Vielfarb&#39;ge Iris, dir umringt das Auge?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2788,260 2788,1407 2973,1407 2973,260"/>
+            <TextEquiv>
+                <Unicode>Wie? - Weil du meine Tochter? hel. Bin es nicht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2978,335 2978,1461 3052,1461 3052,335"/>
+            <TextEquiv>
+                <Unicode>Gräf. Ich ſag, ich bin dir Mutter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="3047,228 3047,514 3139,514 3139,228"/>
+            <TextEquiv>
+                <Unicode>XII.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="3030,1691 3030,1892 3097,1892 3097,1691"/>
+            <TextEquiv>
+                <Unicode>19</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>289
+davon; doch hingen ſie ſo ſchwankend an der Wagſchale, daß
+ich ſie weder glauben noch verwerfen konnte. Ich bitt&#39; euch,
+mich zu verlaſſen; verbergt die Sache in eurem Buſen, und ich
+dank&#39; euch für eure treue Sorgfalt: ich will noch weiter davon
+mit euch ſprechen.
+(Haushofmeiſter geht ab.)
+Gräf. So war&#39;s mit mir, da ich noch jung: ſo geht&#39;s,
+Sind wir natürlich. Dieser Dorn wird zeigen
+Sich bei der Roſe unſrer Jugend ſtets:
+Das Blut iſt uns, dies unſerm Blute eigen.
+Das Zeichen iſts der Wahrheit der Natur,
+Wann Jugend Liebesleidenſchaft erfuhr:
+Ich finde, denk ich früh&#39;rer Zeit, bei mir
+Die Fehler auch, hielt ſie nur nicht dafür. -
+Helena tritt auf.
+Jhr Auge leidet dran, ich ſeh es ſchon.
+Hel. Was euer Wille, gnädge Frau?
+Gräf. Du weißt, ich bin dir Mutter, Helena.
+Hel. Verehrteſte Gebieterin.
+Gräf. Nein, Mutter;
+Warum nicht Mutter? Als ich ſagte: Mutter,
+Sahſt, glaub&#39; ich, Schlangen du. - Was liegt in ,, Mutter“
+Das dich erſchreckt? Ich ſag, ich bin dir Mutter,
+und ſetze dich mit in der Reihe derer,
+Die ich gebar: wetteifern ſah man oft
+Natur mit Neigung; Wahl hat zugewandt
+uns oft den Zweig, gepflanzt von fremder Hand.
+Du preßteſt nie mir Mutterthränen aus,
+Doch heg&#39; ich für dich mütterliche Sorgfalt:-
+um Gotteswillen, Kind! erſtarrt dein Blut,
+Sag&#39; ich, ich ſei dir Mutter? Woher kommt&#39;s,
+Daß krankhaft dieſe Vorbotin dev Näſſe,
+Vielfarb&#39;ge Iris, dir umringt das Auge?
+Wie? - Weil du meine Tochter? hel. Bin es nicht.
+Gräf. Ich ſag, ich bin dir Mutter.
+XII.
+19</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

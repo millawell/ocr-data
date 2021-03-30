@@ -32,13 +32,13 @@
 		<mets:fileGrp USE="GT">
 		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
             <mets:file ID="gt_DNUwAQAAMAAJ_463" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/DNUwAQAAMAAJ_463.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/DNUwAQAAMAAJ_463.page"/>
             </mets:file>
             <mets:file ID="gt_DNUwAQAAMAAJ_550" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/DNUwAQAAMAAJ_550.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/DNUwAQAAMAAJ_550.page"/>
             </mets:file>
             <mets:file ID="gt_DNUwAQAAMAAJ_577" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/DNUwAQAAMAAJ_577.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/DNUwAQAAMAAJ_577.page"/>
             </mets:file> 
         </mets:fileGrp>
     </mets:fileSec>

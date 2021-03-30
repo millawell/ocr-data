@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4304" imageWidth="2644">
+    <PrintSpace>
+        <Coords points="0,0 0,2644 4304,2644 4304,2644"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2644 4304,2644 4304,2644"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="447,1156 447,1662 546,1662 546,1156"/>
+            <TextEquiv>
+                <Unicode>WOODSTOCK.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="657,549 657,2336 758,2336 758,549"/>
+            <TextEquiv>
+                <Unicode>companion; and it was plain, from his melancholy</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="777,535 777,2332 879,2332 879,535"/>
+            <TextEquiv>
+                <Unicode>yet displeased look, that the conversation was as</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="894,547 894,2329 992,2329 992,547"/>
+            <TextEquiv>
+                <Unicode>distressing to himself as to her. When they sate</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1014,549 1014,2330 1111,2330 1111,549"/>
+            <TextEquiv>
+                <Unicode>down on the bench we have mentioned, the gen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1133,539 1133,2331 1228,2331 1228,539"/>
+            <TextEquiv>
+                <Unicode>tleman&#39;s discourse could be distinctly overheard</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1253,541 1253,2490 1357,2490 1357,541"/>
+            <TextEquiv>
+                <Unicode>by the eves-dropping soldier, but the answers of</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1369,548 1369,2328 1466,2328 1466,548"/>
+            <TextEquiv>
+                <Unicode>the young lady reached his ear rather less dis-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1484,583 1484,833 1582,833 1582,583"/>
+            <TextEquiv>
+                <Unicode>tinctly.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1605,634 1605,2322 1694,2322 1694,634"/>
+            <TextEquiv>
+                <Unicode>&#34;It is not to be endured,&#34; said the old man,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1719,545 1719,2330 1817,2330 1817,545"/>
+            <TextEquiv>
+                <Unicode>passionately;&#34; it would stir up a paralytic</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1838,547 1838,2328 1938,2328 1938,547"/>
+            <TextEquiv>
+                <Unicode>wretch to start up a soldier. My people have</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1955,543 1955,2338 2060,2338 2060,543"/>
+            <TextEquiv>
+                <Unicode>been thinned, I grant you, or have fallen off</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2074,541 2074,2329 2169,2329 2169,541"/>
+            <TextEquiv>
+                <Unicode>from me in these times - I owe them no grudge</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2190,542 2190,2328 2285,2328 2285,542"/>
+            <TextEquiv>
+                <Unicode>for it, poor knaves; what should they do when</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2301,543 2301,2325 2398,2325 2398,543"/>
+            <TextEquiv>
+                <Unicode>the pantry has no bread and the buttery no ale?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2418,545 2418,2325 2516,2325 2516,545"/>
+            <TextEquiv>
+                <Unicode>But we have still about us some rugged foresters</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2534,543 2534,2325 2639,2325 2639,543"/>
+            <TextEquiv>
+                <Unicode>of the old Woodstock breed - old as myself most</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2656,539 2656,2325 2757,2325 2757,539"/>
+            <TextEquiv>
+                <Unicode>of them - what of that? old wood seldom warps</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2771,541 2771,2323 2867,2323 2867,541"/>
+            <TextEquiv>
+                <Unicode>in the wetting; - I will hold out the old house,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2893,545 2893,2325 2970,2325 2970,545"/>
+            <TextEquiv>
+                <Unicode>and it will not be the first time that I have held</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3011,547 3011,2323 3123,2323 3123,547"/>
+            <TextEquiv>
+                <Unicode>it against ten times the strength that we hear</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3128,580 3128,889 3197,889 3197,580"/>
+            <TextEquiv>
+                <Unicode>of now.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3246,637 3246,2323 3354,2323 3354,637"/>
+            <TextEquiv>
+                <Unicode>&#34;Alas! my dear father,&#34; - said the young</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3367,546 3367,2320 3472,2320 3472,546"/>
+            <TextEquiv>
+                <Unicode>lady, in a tone which seemed to intimate his pro-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3485,554 3485,2130 3594,2130 3594,554"/>
+            <TextEquiv>
+                <Unicode>posal of defence to be altogether desperate.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>WOODSTOCK.
+companion; and it was plain, from his melancholy
+yet displeased look, that the conversation was as
+distressing to himself as to her. When they sate
+down on the bench we have mentioned, the gen-
+tleman&#39;s discourse could be distinctly overheard
+by the eves-dropping soldier, but the answers of
+the young lady reached his ear rather less dis-
+tinctly.
+&#34;It is not to be endured,&#34; said the old man,
+passionately;&#34; it would stir up a paralytic
+wretch to start up a soldier. My people have
+been thinned, I grant you, or have fallen off
+from me in these times - I owe them no grudge
+for it, poor knaves; what should they do when
+the pantry has no bread and the buttery no ale?
+But we have still about us some rugged foresters
+of the old Woodstock breed - old as myself most
+of them - what of that? old wood seldom warps
+in the wetting; - I will hold out the old house,
+and it will not be the first time that I have held
+it against ten times the strength that we hear
+of now.&#34;
+&#34;Alas! my dear father,&#34; - said the young
+lady, in a tone which seemed to intimate his pro-
+posal of defence to be altogether desperate.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

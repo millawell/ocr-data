@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3494" imageWidth="2530">
+    <PrintSpace>
+        <Coords points="0,0 0,2530 3494,2530 3494,2530"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2530 3494,2530 3494,2530"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="287,1193 287,1327 387,1327 387,1193"/>
+            <TextEquiv>
+                <Unicode>193</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="431,257 431,1798 529,1798 529,257"/>
+            <TextEquiv>
+                <Unicode>Die Glocke rief&#39;, und euer braunes Mädchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="523,264 523,1591 611,1591 611,264"/>
+            <TextEquiv>
+                <Unicode>Im Arm euch küſſend läg&#39;, Lord Cardinal.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="604,215 604,2108 701,2108 701,215"/>
+            <TextEquiv>
+                <Unicode>Wolſ. Wie ſehr könnt&#39; ich doch dieſen Mann verachten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="692,116 692,1742 786,1742 786,116"/>
+            <TextEquiv>
+                <Unicode>Hielt&#39; mich die Menſchenliebe nicht zurück!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="778,324 778,2017 895,2017 895,324"/>
+            <TextEquiv>
+                <Unicode>Norf. Mylord, die Klag&#39; liegt in des Königs Hand,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="865,274 865,1218 939,1218 939,274"/>
+            <TextEquiv>
+                <Unicode>Und ſchlimm ſteht eure Sache.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="967,351 967,1013 1041,1013 1041,351"/>
+            <TextEquiv>
+                <Unicode>Wolſ. Deſto ſchöner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1036,266 1036,1493 1109,1493 1109,266"/>
+            <TextEquiv>
+                <Unicode>Und fleckenlos erſcheinet meine Unſchuld,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1104,265 1104,1604 1179,1604 1179,265"/>
+            <TextEquiv>
+                <Unicode>Wenn erſt der König weiß die Wahrheit.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1190,359 1190,758 1249,758 1249,359"/>
+            <TextEquiv>
+                <Unicode>Surr. Das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1254,231 1254,1888 1333,1888 1333,231"/>
+            <TextEquiv>
+                <Unicode>Wird euch nicht helfen: mein Gedächtniß, Dank ihm,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1322,243 1322,1390 1400,1390 1400,243"/>
+            <TextEquiv>
+                <Unicode>Behielt noch einige der Klagepunkte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1368,257 1368,1659 1470,1659 1470,257"/>
+            <TextEquiv>
+                <Unicode>Die ſollen jetzt heraus. Wenn ihr erröthet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1463,263 1463,1546 1538,1546 1538,263"/>
+            <TextEquiv>
+                <Unicode>Und ſchuldig euch bekennet, Cardinal,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1532,261 1532,1776 1614,1776 1614,261"/>
+            <TextEquiv>
+                <Unicode>So könnt ihr noch ein wenig Tugend zeigen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1608,320 1608,2226 1706,2226 1706,320"/>
+            <TextEquiv>
+                <Unicode>Wolſ. Sprecht nur, ich trotze eurer ſchlimmſten Klage;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1684,262 1684,1609 1758,1609 1758,262"/>
+            <TextEquiv>
+                <Unicode>Erröth&#39; ich, iſt&#39;s nur einen Edelmann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1753,273 1753,1157 1827,1157 1827,273"/>
+            <TextEquiv>
+                <Unicode>Zu ſeh&#39;n, dem Sitte fehlt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1838,343 1838,1165 1910,1165 1910,343"/>
+            <TextEquiv>
+                <Unicode>Surr. Stets beſſer noch,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1905,262 1905,1675 1980,1675 1980,262"/>
+            <TextEquiv>
+                <Unicode>Als fehlt der Kopf. So höret denn. Zuerſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1975,263 1975,1615 2048,1615 2048,263"/>
+            <TextEquiv>
+                <Unicode>Daß ohne unſers Königs Will und Wiſſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2042,272 2042,1294 2117,1294 2117,272"/>
+            <TextEquiv>
+                <Unicode>Ihr habt geſtrebt Legat zu ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2111,264 2111,1555 2185,1555 2185,264"/>
+            <TextEquiv>
+                <Unicode>Wodurch die Macht der Biſchöfe gelähmt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2195,319 2195,2235 2301,2235 2301,319"/>
+            <TextEquiv>
+                <Unicode>Norf. Dann, daß in Allem was noch Rom ihr ſchriebt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2266,257 2266,1779 2339,1779 2339,257"/>
+            <TextEquiv>
+                <Unicode>Und ſonſt an fremde Höf&#39;, die Form ihr braucht:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2334,262 2334,1595 2406,1595 2406,262"/>
+            <TextEquiv>
+                <Unicode>Ego et Rex meus, und dadurch den König</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2403,269 2403,1284 2486,1284 2486,269"/>
+            <TextEquiv>
+                <Unicode>Zu eurem Diener habt gemacht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2480,324 2480,2061 2571,2061 2571,324"/>
+            <TextEquiv>
+                <Unicode>Suff. Dann, daß ihr ohn&#39; des Königs und des Raths</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2555,214 2555,1493 2630,1493 2630,214"/>
+            <TextEquiv>
+                <Unicode>Vorwiſſen, als man an den Kaiſer euch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2626,261 2626,1656 2699,1656 2699,261"/>
+            <TextEquiv>
+                <Unicode>Geſandt, euch habt erkühnt das große Siegel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2692,267 2692,1295 2769,1295 2769,267"/>
+            <TextEquiv>
+                <Unicode>Nach Flandern mitzunehmen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2779,292 2779,1076 2851,1076 2851,292"/>
+            <TextEquiv>
+                <Unicode>Surr. Dann gabt ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2848,260 2848,1617 2923,1617 2923,260"/>
+            <TextEquiv>
+                <Unicode>Gregor von Caſſalis weitläuft&#39;ge Vollmacht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2916,262 2916,1599 2989,1599 2989,262"/>
+            <TextEquiv>
+                <Unicode>Ohn&#39; daß der König noch der Staat davon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2982,257 2982,1668 3142,1668 3142,257"/>
+            <TextEquiv>
+                <Unicode>Gewußt, &#39;nen Bund zu ſchließen mit Ferrara. VI.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="3072,1532 3072,1796 3141,1796 3141,1532"/>
+            <TextEquiv>
+                <Unicode>13</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>193
+Die Glocke rief&#39;, und euer braunes Mädchen
+Im Arm euch küſſend läg&#39;, Lord Cardinal.
+Wolſ. Wie ſehr könnt&#39; ich doch dieſen Mann verachten,
+Hielt&#39; mich die Menſchenliebe nicht zurück!
+Norf. Mylord, die Klag&#39; liegt in des Königs Hand,
+Und ſchlimm ſteht eure Sache.
+Wolſ. Deſto ſchöner
+Und fleckenlos erſcheinet meine Unſchuld,
+Wenn erſt der König weiß die Wahrheit.
+Surr. Das
+Wird euch nicht helfen: mein Gedächtniß, Dank ihm,
+Behielt noch einige der Klagepunkte,
+Die ſollen jetzt heraus. Wenn ihr erröthet
+Und ſchuldig euch bekennet, Cardinal,
+So könnt ihr noch ein wenig Tugend zeigen.
+Wolſ. Sprecht nur, ich trotze eurer ſchlimmſten Klage;
+Erröth&#39; ich, iſt&#39;s nur einen Edelmann
+Zu ſeh&#39;n, dem Sitte fehlt.
+Surr. Stets beſſer noch,
+Als fehlt der Kopf. So höret denn. Zuerſt,
+Daß ohne unſers Königs Will und Wiſſen,
+Ihr habt geſtrebt Legat zu ſein,
+Wodurch die Macht der Biſchöfe gelähmt.
+Norf. Dann, daß in Allem was noch Rom ihr ſchriebt,
+Und ſonſt an fremde Höf&#39;, die Form ihr braucht:
+Ego et Rex meus, und dadurch den König
+Zu eurem Diener habt gemacht.
+Suff. Dann, daß ihr ohn&#39; des Königs und des Raths
+Vorwiſſen, als man an den Kaiſer euch
+Geſandt, euch habt erkühnt das große Siegel
+Nach Flandern mitzunehmen.
+Surr. Dann gabt ihr
+Gregor von Caſſalis weitläuft&#39;ge Vollmacht,
+Ohn&#39; daß der König noch der Staat davon
+Gewußt, &#39;nen Bund zu ſchließen mit Ferrara. VI.
+13</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="3052" imageWidth="2080">
+    <PrintSpace>
+        <Coords points="0,0 0,2080 3052,2080 3052,2080"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2080 3052,2080 3052,2080"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="167,1055 167,1133 239,1133 239,1055"/>
+            <TextEquiv>
+                <Unicode>62</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="282,358 282,1950 358,1950 358,358"/>
+            <TextEquiv>
+                <Unicode>Die meiſten dieſer rohen Schmäuſe fielen in die Zeiten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="357,246 357,1952 433,1952 433,246"/>
+            <TextEquiv>
+                <Unicode>der Plantagenets. Als das Haus der Tudor zum Throne</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="427,248 427,1949 504,1949 504,248"/>
+            <TextEquiv>
+                <Unicode>gelangte, war man minder freigebig mit der königlichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="497,247 497,1951 575,1951 575,247"/>
+            <TextEquiv>
+                <Unicode>Gegenwart, und hielt Mahlzeit in den weiter entlegenen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="568,245 568,1946 640,1946 640,245"/>
+            <TextEquiv>
+                <Unicode>inneren Hallen und Gemächern, indem man den äußerſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="640,244 640,1945 716,1945 716,244"/>
+            <TextEquiv>
+                <Unicode>Vorhof den Leibgardiſten überließ, welche dort ihre Wache</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="711,242 711,1947 789,1947 789,242"/>
+            <TextEquiv>
+                <Unicode>bezogen und die Nacht mit Jubeln und Zechen hinbrachten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="783,242 783,1946 855,1946 855,242"/>
+            <TextEquiv>
+                <Unicode>wobei ſie ſich bisweilen durch eine furchtbare Geiſter und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="854,242 854,1949 931,1949 931,242"/>
+            <TextEquiv>
+                <Unicode>Hexengeſchichte unterbrachen, die ſelbſt den würde haben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="925,242 925,1949 999,1949 999,242"/>
+            <TextEquiv>
+                <Unicode>erbleichen laſſen, in deſſen Ohren die Drommete eines fran-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="996,242 996,1948 1076,1948 1076,242"/>
+            <TextEquiv>
+                <Unicode>zofiſchen feindlichen Reiters eben ſo lieblich zu klingen pflegte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1067,255 1067,1382 1147,1382 1147,255"/>
+            <TextEquiv>
+                <Unicode>als ein Aufruf zur Jagd im Forſtlande.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1140,350 1140,1949 1216,1949 1216,350"/>
+            <TextEquiv>
+                <Unicode>Joceline deutete ſeinem finſtern Gefährten dieſe Merk-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1210,240 1210,1945 1289,1945 1289,240"/>
+            <TextEquiv>
+                <Unicode>würdigkeiten des Ortes weit kürzer an, als wir ſie dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1283,240 1283,1948 1361,1948 1361,240"/>
+            <TextEquiv>
+                <Unicode>Leſer geſchildert haben. Anfangs ſchien der Independent</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1352,237 1352,1947 1432,1947 1432,237"/>
+            <TextEquiv>
+                <Unicode>mit einiger Theilnahme zuzuhören; jetzt aber, indem er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1425,236 1425,1946 1503,1946 1503,236"/>
+            <TextEquiv>
+                <Unicode>plötzlich ſeiner Aufmerkſamkeit eine Ende machte, rief er in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1496,235 1496,1948 1571,1948 1571,235"/>
+            <TextEquiv>
+                <Unicode>feierlichem Tone: „Verderbe du, Babylon, wie dein Mei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1568,235 1568,1946 1645,1946 1645,235"/>
+            <TextEquiv>
+                <Unicode>ſter Nebukadnezar verdarb! Er iſt ein Flüchtling und du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1637,235 1637,1943 1716,1943 1716,235"/>
+            <TextEquiv>
+                <Unicode>ſollſt ein wüſter Platz werden - ja, und eine Wildniß -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1710,233 1710,1943 1790,1943 1790,233"/>
+            <TextEquiv>
+                <Unicode>ja, eine Salzwüſte, in welcher Durſt und Hunger wohnen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1782,269 1782,490 1856,490 1856,269"/>
+            <TextEquiv>
+                <Unicode>ſollen!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1855,349 1855,1935 1933,1935 1933,349"/>
+            <TextEquiv>
+                <Unicode>„Von beiden iſt genug zum Abendbrode vorhanden,“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1925,233 1925,1943 2002,1943 2002,233"/>
+            <TextEquiv>
+                <Unicode>ſagte Joceline; „es ſey denn, des Ritters Speiſekammer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1996,239 1996,1677 2074,1677 2074,239"/>
+            <TextEquiv>
+                <Unicode>finde ſich gefüllter, als ſie es ſonſt zu ſeyn pflegt.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2067,349 2067,1939 2146,1939 2146,349"/>
+            <TextEquiv>
+                <Unicode>„Wir müſen für des Leibes Beſtand ſorgen,“ ſagte der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2139,237 2139,1943 2218,1943 2218,237"/>
+            <TextEquiv>
+                <Unicode>Independent; „jedoch zu rechter Zeit, wenn unſere Pflicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2211,235 2211,1670 2289,1670 2289,235"/>
+            <TextEquiv>
+                <Unicode>vollbracht iſt. Wohin führen dieſe Eingänge?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2282,348 2282,1942 2361,1942 2361,348"/>
+            <TextEquiv>
+                <Unicode>„Der zur Rechten,“  erwiederte der Hüter, „führt zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2353,229 2353,1946 2432,1946 2432,229"/>
+            <TextEquiv>
+                <Unicode>dem, was man Prunkſaal nennt, der ſeit dem Jahre ein-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2425,233 2425,1944 2504,1944 2504,233"/>
+            <TextEquiv>
+                <Unicode>tauſend ſechshundert und neununddreißig nicht gebraucht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2497,246 2497,1534 2576,1534 2576,246"/>
+            <TextEquiv>
+                <Unicode>war, als Seine höchſtſelige Majeſtät - -“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2567,347 2567,1943 2643,1943 2643,347"/>
+            <TextEquiv>
+                <Unicode>„Was!“ unterbrach der Independent mit einer Donner-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2638,234 2638,1943 2718,1943 2718,234"/>
+            <TextEquiv>
+                <Unicode>ſtimme: „Sprichſt Du von Karl Stuart als ſeligmachend</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2711,231 2711,2059 2790,2059 2790,231"/>
+            <TextEquiv>
+                <Unicode>oder als ſelig -  Gedenke der Proklamation hierüber.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2784,347 2784,1941 2862,1941 2862,347"/>
+            <TextEquiv>
+                <Unicode>„Ich meinte nichts Arges damit,“ antwortete der Hüter,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2850,232 2850,1991 2938,1991 2938,232"/>
+            <TextEquiv>
+                <Unicode>der ſein Gelüſten, eine derbere Antwort zu geben, unter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>62
+Die meiſten dieſer rohen Schmäuſe fielen in die Zeiten
+der Plantagenets. Als das Haus der Tudor zum Throne
+gelangte, war man minder freigebig mit der königlichen
+Gegenwart, und hielt Mahlzeit in den weiter entlegenen
+inneren Hallen und Gemächern, indem man den äußerſten
+Vorhof den Leibgardiſten überließ, welche dort ihre Wache
+bezogen und die Nacht mit Jubeln und Zechen hinbrachten,
+wobei ſie ſich bisweilen durch eine furchtbare Geiſter und
+Hexengeſchichte unterbrachen, die ſelbſt den würde haben
+erbleichen laſſen, in deſſen Ohren die Drommete eines fran-
+zofiſchen feindlichen Reiters eben ſo lieblich zu klingen pflegte,
+als ein Aufruf zur Jagd im Forſtlande.
+Joceline deutete ſeinem finſtern Gefährten dieſe Merk-
+würdigkeiten des Ortes weit kürzer an, als wir ſie dem
+Leſer geſchildert haben. Anfangs ſchien der Independent
+mit einiger Theilnahme zuzuhören; jetzt aber, indem er
+plötzlich ſeiner Aufmerkſamkeit eine Ende machte, rief er in
+feierlichem Tone: „Verderbe du, Babylon, wie dein Mei-
+ſter Nebukadnezar verdarb! Er iſt ein Flüchtling und du
+ſollſt ein wüſter Platz werden - ja, und eine Wildniß -
+ja, eine Salzwüſte, in welcher Durſt und Hunger wohnen
+ſollen!“
+„Von beiden iſt genug zum Abendbrode vorhanden,“
+ſagte Joceline; „es ſey denn, des Ritters Speiſekammer
+finde ſich gefüllter, als ſie es ſonſt zu ſeyn pflegt.“
+„Wir müſen für des Leibes Beſtand ſorgen,“ ſagte der
+Independent; „jedoch zu rechter Zeit, wenn unſere Pflicht
+vollbracht iſt. Wohin führen dieſe Eingänge?“
+„Der zur Rechten,“  erwiederte der Hüter, „führt zu
+dem, was man Prunkſaal nennt, der ſeit dem Jahre ein-
+tauſend ſechshundert und neununddreißig nicht gebraucht
+war, als Seine höchſtſelige Majeſtät - -“
+„Was!“ unterbrach der Independent mit einer Donner-
+ſtimme: „Sprichſt Du von Karl Stuart als ſeligmachend
+oder als ſelig -  Gedenke der Proklamation hierüber.“
+„Ich meinte nichts Arges damit,“ antwortete der Hüter,
+der ſein Gelüſten, eine derbere Antwort zu geben, unter-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

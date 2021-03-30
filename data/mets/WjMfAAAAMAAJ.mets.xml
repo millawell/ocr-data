@@ -50,28 +50,28 @@
 		<mets:fileGrp USE="GT">
 		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
             <mets:file ID="gt_WjMfAAAAMAAJ_137" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ_137.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_137.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_97" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ977.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ977.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_519" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ_519.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_519.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_375" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ_375.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_375.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_30" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ307.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ307.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_363" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ_363.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_363.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_147" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ_147.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_147.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_271" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/millawell/ocr-data/blob/master/data/xml_output/WjMfAAAAMAAJ_271.xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_271.page"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>
@@ -84,7 +84,7 @@
         </mets:div>
         <mets:div ID="map_001">
             <mets:fptr FILEID="gt_WjMfAAAAMAAJ_97"/>
-            <mets:fptr FILEID="pdf_WjMfAAAAMAAJ977"/>
+            <mets:fptr FILEID="pdf_WjMfAAAAMAAJ_97"/>
         </mets:div>
         <mets:div ID="map_001">
             <mets:fptr FILEID="gt_WjMfAAAAMAAJ_519"/>
@@ -96,7 +96,7 @@
         </mets:div>
         <mets:div ID="map_001">
             <mets:fptr FILEID="gt_WjMfAAAAMAAJ_30"/>
-            <mets:fptr FILEID="pdf_WjMfAAAAMAAJ307"/>
+            <mets:fptr FILEID="pdf_WjMfAAAAMAAJ_30"/>
         </mets:div>
         <mets:div ID="map_001">
             <mets:fptr FILEID="gt_WjMfAAAAMAAJ_363"/>

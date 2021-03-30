@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="2405" imageWidth="1797">
+    <PrintSpace>
+        <Coords points="0,0 0,1797 2405,1797 2405,1797"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,1797 2405,1797 2405,1797"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="174,274 174,383 226,383 226,274"/>
+            <TextEquiv>
+                <Unicode>220</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="275,238 275,1701 355,1701 355,238"/>
+            <TextEquiv>
+                <Unicode>ren, hatte die allgemeine Civilisation Brita-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="355,237 355,1698 422,1698 422,237"/>
+            <TextEquiv>
+                <Unicode>taniens solchen Einfluſs gehabt, daſs sie nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="424,237 424,1696 478,1696 478,237"/>
+            <TextEquiv>
+                <Unicode>nur dem Miſsbrauch ihrer Gewalt über ihre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="490,239 490,1696 556,1696 556,239"/>
+            <TextEquiv>
+                <Unicode>Clansmänner abhold, sondern sowohl aus Po-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="559,236 559,1797 627,1797 627,236"/>
+            <TextEquiv>
+                <Unicode>litik wie aus höheren Beweggründen geneigt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="622,232 622,1799 698,1799 698,232"/>
+            <TextEquiv>
+                <Unicode>waren, ihre Vasallen von frechen Gewohn-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="689,231 689,1799 770,1799 770,231"/>
+            <TextEquiv>
+                <Unicode>heiten abzubringen, Rohes und Wildes unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="764,238 764,1800 837,1800 837,238"/>
+            <TextEquiv>
+                <Unicode>denselben auszurotten und das auszubilden,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="832,235 832,1803 901,1803 901,235"/>
+            <TextEquiv>
+                <Unicode>was sich an ehrenvollen und edlen Regungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1035,234 1035,1802 1095,1802 1095,234"/>
+            <TextEquiv>
+                <Unicode>nie auf eine für die Menschheit so wohthä-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1102,238 1102,1685 1175,1685 1175,238"/>
+            <TextEquiv>
+                <Unicode>tige Weise in Anwendung gebracht ward, als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1171,237 1171,1798 1239,1798 1239,237"/>
+            <TextEquiv>
+                <Unicode>zu der Zeit, wo es von den Ursachen er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1238,239 1238,1688 1307,1688 1307,239"/>
+            <TextEquiv>
+                <Unicode>schüttert wurde, durch welche es endlich sei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1308,239 1308,1686 1374,1686 1374,239"/>
+            <TextEquiv>
+                <Unicode>ner Auflösung hingegeben werden muſste. Aus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1374,238 1374,1801 1442,1801 1442,238"/>
+            <TextEquiv>
+                <Unicode>diesem Gesichtspunkte glich es dem Holze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1444,235 1444,1690 1513,1690 1513,235"/>
+            <TextEquiv>
+                <Unicode>gewisser Bäume, welches dann erst dem Kunst-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1511,245 1511,1684 1579,1684 1579,245"/>
+            <TextEquiv>
+                <Unicode>arbeiter ein schönes Material liefert, wenn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1580,243 1580,1683 1645,1683 1645,243"/>
+            <TextEquiv>
+                <Unicode>es die Berührung des Verfalls empfunden hat.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1645,318 1645,1680 1713,1680 1713,318"/>
+            <TextEquiv>
+                <Unicode>Aus diesen und andern Gründen gewährt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1715,241 1715,1679 1781,1679 1781,241"/>
+            <TextEquiv>
+                <Unicode>der Ueberblick, den wir auf das System des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1784,239 1784,1800 1849,1800 1849,239"/>
+            <TextEquiv>
+                <Unicode>Clanswesens, so wie es zur Zeit der vorher-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1849,236 1849,1681 1917,1681 1917,236"/>
+            <TextEquiv>
+                <Unicode>gehenden Generation war, warfen, denselben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1915,237 1915,1679 1978,1679 1978,237"/>
+            <TextEquiv>
+                <Unicode>Anblick, den eine hochländische Landschaft dar-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1984,238 1984,1682 2045,1682 2045,238"/>
+            <TextEquiv>
+                <Unicode>bietet, wenn sie durch die Tinten eines milden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2048,238 2048,1679 2106,1679 2106,238"/>
+            <TextEquiv>
+                <Unicode>Sommerabends verschönt wird. An solchem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2112,237 2112,1681 2187,1681 2187,237"/>
+            <TextEquiv>
+                <Unicode>Abend werden die fernen Höhen, Seen, Wälder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2177,239 2177,1678 2255,1678 2255,239"/>
+            <TextEquiv>
+                <Unicode>und Klüfte durch das Erglühen der Atmosphäre</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>220
+ren, hatte die allgemeine Civilisation Brita-
+taniens solchen Einfluſs gehabt, daſs sie nicht
+nur dem Miſsbrauch ihrer Gewalt über ihre
+Clansmänner abhold, sondern sowohl aus Po-
+litik wie aus höheren Beweggründen geneigt
+waren, ihre Vasallen von frechen Gewohn-
+heiten abzubringen, Rohes und Wildes unter
+denselben auszurotten und das auszubilden,
+was sich an ehrenvollen und edlen Regungen
+nie auf eine für die Menschheit so wohthä-
+tige Weise in Anwendung gebracht ward, als
+zu der Zeit, wo es von den Ursachen er-
+schüttert wurde, durch welche es endlich sei-
+ner Auflösung hingegeben werden muſste. Aus
+diesem Gesichtspunkte glich es dem Holze
+gewisser Bäume, welches dann erst dem Kunst-
+arbeiter ein schönes Material liefert, wenn
+es die Berührung des Verfalls empfunden hat.
+Aus diesen und andern Gründen gewährt
+der Ueberblick, den wir auf das System des
+Clanswesens, so wie es zur Zeit der vorher-
+gehenden Generation war, warfen, denselben
+Anblick, den eine hochländische Landschaft dar-
+bietet, wenn sie durch die Tinten eines milden
+Sommerabends verschönt wird. An solchem
+Abend werden die fernen Höhen, Seen, Wälder
+und Klüfte durch das Erglühen der Atmosphäre</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

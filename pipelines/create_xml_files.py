@@ -11,43 +11,26 @@ from kraken.serialization import _rescale
 
 def serialize_page(rec, urlpdf, langauge):
     
-    image_name = rec["image_name"]
-    image_size = rec["image_size"]
-    writing_mode = rec["writing_mode"]
-    lines = rec["lines"]
+    page = {
+        'lines': [], 
+        'image_height': rec["image_height"], 
+        'image_width': rec["image_width"], 
+        'name': rec["image_name"], 
+        'writing_mode': rec["writing_mode"], 
+        'scripts': None, 
+        'text': rec['text']
+    } 
+    for idx, record in enumerate(rec["lines"]):
 
-def serialize(records, urlpdf, langauge):
-    pages = []
-    for rec in records:
-        image_name = rec["image_name"]
-        
-        writing_mode = rec["writing_mode"]
-        lines = rec["lines"]
-
-        page = {
-            'lines': [], 
-            'image_height': rec["image_height"], 
-            'image_width': rec["image_width"], 
-            'name': image_name, 
-            'writing_mode': writing_mode, 
-            'scripts': None, 
-            'text': rec['text']
-        }  # type: dict
-
-        seg_idx = 0
-        char_idx = 0
-        for idx, record in enumerate(lines):
-
-            line = {'index': idx,
-                    'top_left': f"{record['bbox'][1]},{record['bbox'][0]}",
-                    'top_right': f"{record['bbox'][1]},{record['bbox'][2]}",
-                    'bottom_right': f"{record['bbox'][3]},{record['bbox'][2]}",
-                    'bottom_left': f"{record['bbox'][3]},{record['bbox'][0]}",
-                    'text': record["text"]
-                    }
-            page['lines'].append(line)
-        pages.append(page)
-
+        line = {'index': idx,
+                'top_left': f"{record['bbox'][1]},{record['bbox'][0]}",
+                'top_right': f"{record['bbox'][1]},{record['bbox'][2]}",
+                'bottom_right': f"{record['bbox'][3]},{record['bbox'][2]}",
+                'bottom_left': f"{record['bbox'][3]},{record['bbox'][0]}",
+                'text': record["text"]
+                }
+        page['lines'].append(line)
+    
     env = Environment(
         loader=FileSystemLoader('../templates'),
         trim_blocks=True,
@@ -57,7 +40,8 @@ def serialize(records, urlpdf, langauge):
     env.tests['whitespace'] = str.isspace
     env.filters['rescale'] = _rescale
     tmpl = env.get_template("page.xml")
-    return tmpl.render(pages=pages, urlpdf=urlpdf, language=langauge)
+    return tmpl.render(page=page, urlpdf=urlpdf, language=langauge)
+
 
 @click.command()
 @click.option('--pdf_path')
@@ -77,27 +61,29 @@ def main(pdf_path):
     bboxes = []
     for transcribe in transcribes:
         bboxes += get_bounding_boxes_from_transcription(str(transcribe))
-
     for page_nr, (_, image), rec in zip(pages, images, bboxes):
-        render_set = {
-            "image_name": page_nr,
-            "image_width": rec["image_size"][0],
-            "image_height": rec["image_size"][1],
-            "writing_mode": rec["writing_mode"],
-            "lines": rec["lines"],
-            "text": "\n".join([l['text'] for l in rec["lines"]])
-        }
+        if len(rec["lines"]) > 0:
 
-        serialized_page = serialize_page(
-            render_set,
-            mets_record.book_url,
-            mets_record.language
-        )
-    
-        output_path = Path(f"../data/xml_output/{pdf_file_name}_{page_nr}")
-        output_path = output_path.with_suffix(".page")
-        with open(output_path, "w") as fout:
-            fout.write(serialized_page)
+            render_set = {
+                "image_name": page_nr,
+                "image_width": rec["image_size"][0],
+                "image_height": rec["image_size"][1],
+                "writing_mode": rec["writing_mode"],
+                "lines": rec["lines"],
+                "text": "\n".join([l['text'] for l in rec["lines"]])
+            }
 
+            serialized_page = serialize_page(
+                render_set,
+                mets_record['source_url'],
+                mets_record['language']
+            )
+
+            output_path = Path(f"../data/xml_output/{identifier}_{page_nr}")
+            output_path = output_path.with_suffix(".page")
+            with open(output_path, "w") as fout:
+                fout.write(serialized_page)
+        else:
+            print(f"no text found for {identifier} on page {page_nr} of {pages}")
 if __name__ == '__main__':
     main()

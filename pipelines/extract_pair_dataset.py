@@ -1,9 +1,9 @@
 import sys
 sys.path.append("../utils/")
 from pathlib import Path
+from mets import parse_mets
 import click
 
-from sheet import get_pdf_pages_of_book
 from transcriptions import get_bounding_boxes_from_transcription
 from pdfs import extract_images
 
@@ -55,33 +55,41 @@ def extract_page(page_el, image):
 @click.command()
 @click.option('--pdf_path')
 def main(pdf_path):
-
+    root = Path("..")
     pdf_file_name = Path(pdf_path).name
+    mets_record = parse_mets(pdf_file_name)
+    xml_files = mets_record["xml_files"]
+    rerouted_files = []
+    for xml_file in xml_files:
+        rerouted_files.append(
+            root / Path(xml_file)
+        )
+    xml_files = rerouted_files
+
     images = extract_images(pdf_path)
-    xml_file_name = Path(f"../data/page_transcriptions/{pdf_file_name}")
-    xml_file_name = xml_file_name.with_suffix(".xml")
-
-    with open(xml_file_name) as fin:
-        tree = etree.fromstring(fin.read().encode('utf-8'))
-
-    image_pages = tree.xpath('//pc:Page', namespaces=pc)
-
-    out_dir = Path(f"../data/pair_output/")
-    out_dir.mkdir(exist_ok=True)
-
+    
     file_id = 0
-    for iimage, page_el in enumerate(image_pages):
-        image = images[iimage][1]
-        for text, crop in extract_page(page_el, image):
+    for xml_file, image in zip(xml_files, images):
+        if xml_file.exists():
+            with open(xml_file) as fin:
+                tree = etree.fromstring(fin.read().encode('utf-8'))
+            image_pages = tree.xpath('//pc:Page', namespaces=pc)
 
-            txt_filename = out_dir / f"{Path(pdf_path).stem}_{file_id:08d}.txt"
-            img_filename = out_dir / f"{Path(pdf_path).stem}_{file_id:08d}.png"
+            out_dir = Path(f"../data/pair_output/")
+            out_dir.mkdir(exist_ok=True)
 
-            with open(txt_filename, 'w') as fout:
-                fout.write(text)
+            for iimage, page_el in enumerate(image_pages):
+                image = images[iimage][1]
+                for text, crop in extract_page(page_el, image):
 
-            crop.save(img_filename)
-            file_id += 1
+                    txt_filename = out_dir / f"{Path(pdf_path).stem}_{file_id:08d}.txt"
+                    img_filename = out_dir / f"{Path(pdf_path).stem}_{file_id:08d}.png"
+
+                    with open(txt_filename, 'w') as fout:
+                        fout.write(text)
+
+                    crop.save(img_filename)
+                    file_id += 1
 
 if __name__ == '__main__':
     main()

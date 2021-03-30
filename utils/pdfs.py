@@ -23,8 +23,8 @@ def ensure_not_inverted(img):
 def extract_images(pdf_path):
     pdf_file_name = Path(pdf_path).name
     identifier = Path(pdf_path).stem
+    
     pages = get_pdf_pages_of_book(pdf_file_name)
-
     images = []
     with tempfile.TemporaryDirectory() as tmp_dir:
         for pagenr in pages:

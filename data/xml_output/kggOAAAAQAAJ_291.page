@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="4113" imageWidth="2373">
+    <PrintSpace>
+        <Coords points="0,0 0,2373 4113,2373 4113,2373"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2373 4113,2373 4113,2373"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="313,527 313,2074 413,2074 413,527"/>
+            <TextEquiv>
+                <Unicode>THE HEART OF MID-LOTHIAN. 279</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="497,205 497,2089 626,2089 626,205"/>
+            <TextEquiv>
+                <Unicode>the justises, and the sworn inquest Of ex-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="616,203 616,2083 754,2083 754,203"/>
+            <TextEquiv>
+                <Unicode>tra-judicial confession, all authorities held</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="745,196 745,2083 864,2083 864,196"/>
+            <TextEquiv>
+                <Unicode>with the illustrious Fariuaceus, and Mat-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="881,201 881,2085 997,2085 997,201"/>
+            <TextEquiv>
+                <Unicode>theus, &#39;confessio extrajudicialis in se nulla</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1013,194 1013,2090 1126,2090 1126,194"/>
+            <TextEquiv>
+                <Unicode>est, et quod nulllum est, non potest adminicu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1135,194 1135,2086 1253,2086 1253,194"/>
+            <TextEquiv>
+                <Unicode>lari.&#39; It was totally inept, and void of all</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1265,205 1265,2078 1378,2078 1378,205"/>
+            <TextEquiv>
+                <Unicode>strength and effect from the beginning; in-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1393,201 1393,2083 1504,2083 1504,201"/>
+            <TextEquiv>
+                <Unicode>eapable, therefore, of being bolstered up or</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1521,197 1521,2078 1632,2078 1632,197"/>
+            <TextEquiv>
+                <Unicode>supported, or, according to the law-phrase,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1648,197 1648,2085 1760,2085 1760,197"/>
+            <TextEquiv>
+                <Unicode>adminiculated, by other presumptive cir-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1775,209 1775,2078 1888,2078 1888,209"/>
+            <TextEquiv>
+                <Unicode>cumstances. In the present cese, therefore,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1903,203 1903,2087 2015,2087 2015,203"/>
+            <TextEquiv>
+                <Unicode>letting the extra-judicial confession go, as</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2028,206 2028,2089 2142,2089 2142,206"/>
+            <TextEquiv>
+                <Unicode>it ought to go, for nothing,&#39;&#39; he contend-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2157,204 2157,2088 2269,2088 2269,204"/>
+            <TextEquiv>
+                <Unicode>ed,&#34; the proseutor had not made out the</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2283,212 2283,2089 2399,2089 2399,212"/>
+            <TextEquiv>
+                <Unicode>second quality of the statute, that a live</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="2410,208 2410,2087 2515,2087 2515,208"/>
+            <TextEquiv>
+                <Unicode>child had been born; and that, at least,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="2539,206 2539,2091 2650,2091 2650,206"/>
+            <TextEquiv>
+                <Unicode>ought to be established before presump-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="2667,185 2667,2093 2782,2093 2782,185"/>
+            <TextEquiv>
+                <Unicode>tions were received that it had been mur-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="2792,206 2792,2231 2905,2231 2905,206"/>
+            <TextEquiv>
+                <Unicode>dered. If any of the assize,&#39;&#39; he said,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2919,214 2919,2094 3031,2094 3031,214"/>
+            <TextEquiv>
+                <Unicode>&#34;should be of opinion that this was deal-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3048,212 3048,2092 3160,2092 3160,212"/>
+            <TextEquiv>
+                <Unicode>ing rather narrowly with the statute, they</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3175,218 3175,2096 3287,2096 3287,218"/>
+            <TextEquiv>
+                <Unicode>ought to consider that it was in its nature</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3301,216 3301,2096 3417,2096 3417,216"/>
+            <TextEquiv>
+                <Unicode>highly penal, and therefore entitled to no</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3432,175 3432,1339 3576,1339 3576,175"/>
+            <TextEquiv>
+                <Unicode>favourable construction.&#34;</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>THE HEART OF MID-LOTHIAN. 279
+the justises, and the sworn inquest Of ex-
+tra-judicial confession, all authorities held
+with the illustrious Fariuaceus, and Mat-
+theus, &#39;confessio extrajudicialis in se nulla
+est, et quod nulllum est, non potest adminicu-
+lari.&#39; It was totally inept, and void of all
+strength and effect from the beginning; in-
+eapable, therefore, of being bolstered up or
+supported, or, according to the law-phrase,
+adminiculated, by other presumptive cir-
+cumstances. In the present cese, therefore,
+letting the extra-judicial confession go, as
+it ought to go, for nothing,&#39;&#39; he contend-
+ed,&#34; the proseutor had not made out the
+second quality of the statute, that a live
+child had been born; and that, at least,
+ought to be established before presump-
+tions were received that it had been mur-
+dered. If any of the assize,&#39;&#39; he said,
+&#34;should be of opinion that this was deal-
+ing rather narrowly with the statute, they
+ought to consider that it was in its nature
+highly penal, and therefore entitled to no
+favourable construction.&#34;</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

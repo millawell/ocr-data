@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+<Page imageFilename="pixel" imageHeight="5110" imageWidth="2870">
+    <PrintSpace>
+        <Coords points="0,0 0,2870 5110,2870 5110,2870"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,2870 5110,2870 5110,2870"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="574,1252 574,1365 654,1365 654,1252"/>
+            <TextEquiv>
+                <Unicode>83</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="826,239 826,2369 910,2369 910,239"/>
+            <TextEquiv>
+                <Unicode>the numberless boats hich followed that from</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="969,237 969,2365 1083,2365 1083,237"/>
+            <TextEquiv>
+                <Unicode>which the black banner of the Chief was display-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="1117,237 1117,2367 1227,2367 1227,237"/>
+            <TextEquiv>
+                <Unicode>ed, rose in wild unison up to the Tom-an-Lo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="1263,239 1263,2371 1374,2371 1374,239"/>
+            <TextEquiv>
+                <Unicode>nach, from which the Glover viewed the spec-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1405,237 1405,2365 1517,2365 1517,237"/>
+            <TextEquiv>
+                <Unicode>tacle. The galley which headed the procession,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1552,234 1552,2372 1664,2372 1664,234"/>
+            <TextEquiv>
+                <Unicode>bore on its poop a species of scaffold, upon which,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="1696,236 1696,2369 1808,2369 1808,236"/>
+            <TextEquiv>
+                <Unicode>arrayed in white linen, and with the face bare,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1843,239 1843,2371 1953,2371 1953,239"/>
+            <TextEquiv>
+                <Unicode>was displayed the corpse of the deceased Chief-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1988,237 1988,2372 2089,2372 2089,237"/>
+            <TextEquiv>
+                <Unicode>tain. His son, and the nearest relatives, fill-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2135,240 2135,2375 2243,2375 2243,240"/>
+            <TextEquiv>
+                <Unicode>ed the vessel, while a great number of boats,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2282,240 2282,2371 2392,2371 2392,240"/>
+            <TextEquiv>
+                <Unicode>of every description that could be assembled,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2426,240 2426,2374 2539,2374 2539,240"/>
+            <TextEquiv>
+                <Unicode>either on Loch Tay itself, or brought by land</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2573,240 2573,2375 2683,2375 2683,240"/>
+            <TextEquiv>
+                <Unicode>carriage from Loch Earn and otherwise, fol-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2721,237 2721,2377 2831,2377 2831,237"/>
+            <TextEquiv>
+                <Unicode>lowed in the rear, some of them of very frail</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="2867,243 2867,2375 2980,2375 2980,243"/>
+            <TextEquiv>
+                <Unicode>materials. There were even curraghs, com-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="3013,243 3013,2374 3127,2374 3127,243"/>
+            <TextEquiv>
+                <Unicode>posed of ox-hides stretched over hoops of wil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="3157,237 3157,2379 3262,2379 3262,237"/>
+            <TextEquiv>
+                <Unicode>low, in the manner of the ancient British; and</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3307,243 3307,2375 3391,2375 3391,243"/>
+            <TextEquiv>
+                <Unicode>some committed themselves to rafts formed for</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3451,244 3451,2377 3552,2377 3552,244"/>
+            <TextEquiv>
+                <Unicode>the occasion, from the readiest materials that</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3597,246 3597,2377 3708,2377 3708,246"/>
+            <TextEquiv>
+                <Unicode>occurred, and united in such a precarious man-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3745,243 3745,2375 3854,2375 3854,243"/>
+            <TextEquiv>
+                <Unicode>ner as to render it probable, that, before the ac-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3887,246 3887,2377 4001,2377 4001,246"/>
+            <TextEquiv>
+                <Unicode>complishment of the voyage, some of the clans-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="4033,241 4033,2377 4143,2377 4143,241"/>
+            <TextEquiv>
+                <Unicode>men of the deceased might be sent to attend their</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="4180,262 4180,1739 4294,1739 4294,262"/>
+            <TextEquiv>
+                <Unicode>Chieftain in the world of spirits.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>83
+the numberless boats hich followed that from
+which the black banner of the Chief was display-
+ed, rose in wild unison up to the Tom-an-Lo-
+nach, from which the Glover viewed the spec-
+tacle. The galley which headed the procession,
+bore on its poop a species of scaffold, upon which,
+arrayed in white linen, and with the face bare,
+was displayed the corpse of the deceased Chief-
+tain. His son, and the nearest relatives, fill-
+ed the vessel, while a great number of boats,
+of every description that could be assembled,
+either on Loch Tay itself, or brought by land
+carriage from Loch Earn and otherwise, fol-
+lowed in the rear, some of them of very frail
+materials. There were even curraghs, com-
+posed of ox-hides stretched over hoops of wil-
+low, in the manner of the ancient British; and
+some committed themselves to rafts formed for
+the occasion, from the readiest materials that
+occurred, and united in such a precarious man-
+ner as to render it probable, that, before the ac-
+complishment of the voyage, some of the clans-
+men of the deceased might be sent to attend their
+Chieftain in the world of spirits.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>
