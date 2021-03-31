@@ -5,7 +5,7 @@ This repository consists of
 * a framework to create and share your own ground truth OCR data sets if you don't own the copyright for the images used. 
 
 ## How to get the ground truth OCR data set?
-The data set can be found in the `data` directory and consists of a *.mets file for each of the pdfs that were used for transcription and a directory `data/page_transcriptions` that contains the transcriptions of the ground truth in PAGEXML format.
+The data set can be found in the `data` directory and consists of a [METS](http://www.loc.gov/standards/mets/) file for each of the PDFs that were used for transcription and a directory `data/page_transcriptions` that contains the transcriptions of the ground truth in [PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML) format.
 The PDFs are not hosted here, but have to be retrieved from the respective institutions and can then be combined with the transcriptions found here. To compile the data set, please
 
 * download all PDFs listed in the `*.mets` files into the `data/pdf_renamed/` directory and rename them ${identifier}.pdf
@@ -13,9 +13,9 @@ The PDFs are not hosted here, but have to be retrieved from the respective insti
 
 ## How to create your own ground truth OCR data set?
 
-* Collect a set of PDFs from Google Books or the Internet Archive and select a set of Pages that you would like to transcribe
-* transcribe the text on the images for each pdf individually with the `ketos transcribe` framework found here http://kraken.re/ketos.html (Kiessling 2019) and store the resulting `*.html` a directory named after the pdfs identifier within the `data/transcriptions` directory.
-* Now, you can run the `python create_xml_files.py` for each of the pdfs which will output a data set similar to the one from our case study in this repository and other scholars who would like  to use your data set can reproduce it without you having to publish the Google Books PDF yourself. 
+* Collect a set of PDFs from Google Books or the Internet Archive and select a set of pages that you would like to transcribe
+* transcribe the text on the images for each PDF individually with the `ketos transcribe` framework found here http://kraken.re/ketos.html (Kiessling 2019) and store the resulting `*.html` in a directory named after the PDFs identifier within the `data/transcriptions` directory.
+* Now, you can run `python create_xml_files.py` for each of the PDFs which will output a data set similar to the one from our case study in this repository and other scholars who would like to use your data set can reproduce it without you having to publish the Google Books PDF yourself. 
 
 ___
 
