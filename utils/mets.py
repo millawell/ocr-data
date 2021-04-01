@@ -29,7 +29,7 @@ def parse_mets(pdf_name):
     pdf_files = el_list_to_id_indexed_dict(pdf_files)
 
     xml_files = tree.xpath(
-        "//mets:file[@MIMETYPE='text/xml']",
+        "//mets:file[@MIMETYPE='application/vnd.prima.page+xml']",
         namespaces=namespaces
     )
     xml_files = el_list_to_id_indexed_dict(xml_files)

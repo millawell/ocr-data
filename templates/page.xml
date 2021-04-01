@@ -10,7 +10,8 @@
 </Metadata>
 
 {% set vars = {'text_block_id': 0, 'text_line_id': 0} %}
-<Page imageFilename="pixel" imageHeight="{{ page.image_height }}" imageWidth="{{ page.image_width }}">
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="{{ identifier }}" imageHeight="{{ page.image_height }}" imageWidth="{{ page.image_width }}">
     <PrintSpace>
         <Coords points="0,0 0,{{page.image_width}} {{page.image_height}},{{page.image_width}} {{page.image_height}},{{page.image_width}}"/>
     </PrintSpace>
