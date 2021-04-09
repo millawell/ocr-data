@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6125" imageWidth="3816">
+    <PrintSpace>
+        <Coords points="0,0 0,3816 6125,3816 6125,3816"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3816 6125,3816 6125,3816"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="309,1450 309,2650 407,2650 407,1450"/>
+            <TextEquiv>
+                <Unicode>Viel Lärm um Nichts.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="469,314 469,2064 560,2064 560,314"/>
+            <TextEquiv>
+                <Unicode>mit ihr mein Vermdgen. Des Prinzen Hoheit hat die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="552,314 552,2065 629,2065 629,314"/>
+            <TextEquiv>
+                <Unicode>Heirath geſtiftet, und die höchſte Hoheit ſage Amen dazu.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="622,394 622,1879 700,1879 700,394"/>
+            <TextEquiv>
+                <Unicode>Beat. Redet, Graf; die Reihe iſt an euch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="690,389 690,2063 768,2063 768,389"/>
+            <TextEquiv>
+                <Unicode>Claud. Das Schweigen iſt der vollkommenſie Herold</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="760,318 760,2064 839,2064 839,318"/>
+            <TextEquiv>
+                <Unicode>der Freude. Ich würde nicht erheblich glücklich ſein, wenn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="829,315 829,2065 909,2065 909,315"/>
+            <TextEquiv>
+                <Unicode>ich ſagen könnte, wie ſehr ich es bin. Signora, ſo wie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="901,317 901,2064 979,2064 979,317"/>
+            <TextEquiv>
+                <Unicode>ihr die Meinige ſeid, bin ich der Eurige. Ich gebe mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="968,316 968,2065 1047,2065 1047,316"/>
+            <TextEquiv>
+                <Unicode>ſelbſt für euch hin, und bin entzückt über den Austauſch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1040,392 1040,2064 1117,2064 1117,392"/>
+            <TextEquiv>
+                <Unicode>Beat. Sprich, Baſe; oder wenn du das nicht kannſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1109,318 1109,2067 1188,2067 1188,318"/>
+            <TextEquiv>
+                <Unicode>ſo ſtopf ihm den Mund mit einem Kuß, und laß ihn ſo</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1181,354 1181,730 1252,730 1252,354"/>
+            <TextEquiv>
+                <Unicode>wenig reden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1249,393 1249,2065 1326,2065 1326,393"/>
+            <TextEquiv>
+                <Unicode>Don Pedro. In der That, Signora, ihr habt ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1316,351 1316,875 1394,875 1394,351"/>
+            <TextEquiv>
+                <Unicode>fröhliches Herz.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1386,390 1386,2064 1462,2064 1462,390"/>
+            <TextEquiv>
+                <Unicode>Beat. Nun ja, Hoheit. Ich dank&#39; ihm dafür, dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1455,321 1455,2069 1531,2069 1531,321"/>
+            <TextEquiv>
+                <Unicode>armen Närrchen, es hält ſich nach der Windſeite der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1526,321 1526,2066 1605,2066 1605,321"/>
+            <TextEquiv>
+                <Unicode>Sorge zu auf. - Seht, meine Baſe ſagt&#39;s ihm ins Ohr,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1596,343 1596,1164 1670,1164 1670,343"/>
+            <TextEquiv>
+                <Unicode>daß er in ihrem Herzen iſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1663,409 1663,1455 1739,1455 1739,409"/>
+            <TextEquiv>
+                <Unicode>Claud. Das thut ſie, Bäschen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1735,396 1735,2069 1811,2069 1811,396"/>
+            <TextEquiv>
+                <Unicode>Beat. Guter Gott, ein Brautpaar! So geht es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1802,323 1802,2072 1880,2072 1880,323"/>
+            <TextEquiv>
+                <Unicode>Allen in der Welt außer mir; und ich bin ſonnverbrannt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1872,323 1872,2072 1948,2072 1948,323"/>
+            <TextEquiv>
+                <Unicode>und muß in einem Winkel ſitzen, und Holla nach einem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1938,356 1938,830 2013,830 2013,356"/>
+            <TextEquiv>
+                <Unicode>Gatten ſchreien.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2010,393 2010,2070 2088,2070 2088,393"/>
+            <TextEquiv>
+                <Unicode>Don Pedro. Signora Beatrice, ich will euch einen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2079,356 2079,676 2154,676 2154,356"/>
+            <TextEquiv>
+                <Unicode>verſchaffen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2145,392 2145,2070 2223,2070 2223,392"/>
+            <TextEquiv>
+                <Unicode>Beat. Ich möchte lieber einen von eures Vaters</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2220,324 2220,2070 2294,2070 2294,324"/>
+            <TextEquiv>
+                <Unicode>Erzeugnis. Hat euer Hoheit nicht etwa einen Bruder,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2287,328 2287,2075 2364,2075 2364,328"/>
+            <TextEquiv>
+                <Unicode>der euch gleicht? Euer Vater erzeugte treffliche Ehemän-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2356,329 2356,1863 2431,1863 2431,329"/>
+            <TextEquiv>
+                <Unicode>ner, wenn ein Mädchen ſie nur bekommen könnte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2428,395 2428,1931 2504,1931 2504,395"/>
+            <TextEquiv>
+                <Unicode>Don Pedro. Wollt ihr mich haben, Signora?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2497,394 2497,2074 2572,2074 2572,394"/>
+            <TextEquiv>
+                <Unicode>Beat. Nein, hoher Herr, ich müßte denn einen zwei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2565,328 2565,2072 2643,2072 2643,328"/>
+            <TextEquiv>
+                <Unicode>ten Mann für die Wecktage haben. Euer Hoheit iſt zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2634,325 2634,2071 2713,2071 2713,325"/>
+            <TextEquiv>
+                <Unicode>koſtbar , um tagtäglich getragen zu werden. Doch ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2704,325 2704,2072 2783,2072 2783,325"/>
+            <TextEquiv>
+                <Unicode>bitte euch, Prinz, verzeihet mir; ich ward geboren eitel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2773,331 2773,1683 2849,1683 2849,331"/>
+            <TextEquiv>
+                <Unicode>Luſtiges, aber nichts Geſcheidtes zu ſprechen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2844,392 2844,2072 2919,2072 2919,392"/>
+            <TextEquiv>
+                <Unicode>Don Pedro. Euer Schweigen thut mir am meiſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2913,322 2913,2076 2991,2076 2991,322"/>
+            <TextEquiv>
+                <Unicode>weh, und luſtig zu ſein, ſteht euch am Beſten; denn es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2980,325 2980,2075 3060,2075 3060,325"/>
+            <TextEquiv>
+                <Unicode>iſt außer Frage, daß ihr in einer heiteren Stunde gebo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3052,357 3052,706 3110,706 3110,357"/>
+            <TextEquiv>
+                <Unicode>ren wurdet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3119,395 3119,2077 3197,2077 3197,395"/>
+            <TextEquiv>
+                <Unicode>Beat. Zuverläſſig nicht, Hoheit; meine Mutter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3189,326 3189,2077 3266,2077 3266,326"/>
+            <TextEquiv>
+                <Unicode>weinte; aber es tanzte damahls ein Stern, und unter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3257,329 3257,2074 3337,2074 3337,329"/>
+            <TextEquiv>
+                <Unicode>dem ward ich geboren. - Vetter, Baſe - Gott ſchenk</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3328,360 3328,730 3402,730 3402,360"/>
+            <TextEquiv>
+                <Unicode>euch Freude!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3395,394 3395,2074 3474,2074 3474,394"/>
+            <TextEquiv>
+                <Unicode>Leon. Nichte, willſt du nach dem ſehen, wovon ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3467,311 3467,656 3540,656 3540,311"/>
+            <TextEquiv>
+                <Unicode>dir ſagte?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3532,277 3532,2077 3614,2077 3614,277"/>
+            <TextEquiv>
+                <Unicode>Beat. Ich bitte um Verzeihung, Oheim. - Mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3606,303 3606,1048 3678,1048 3678,303"/>
+            <TextEquiv>
+                <Unicode>euer Hoheit Erlaubnis.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3627,1869 3627,1989 3680,1989 3680,1869"/>
+            <TextEquiv>
+                <Unicode>(ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3672,277 3672,2078 3752,2078 3752,277"/>
+            <TextEquiv>
+                <Unicode>Don Pedro. Meiner Treu, ein Frauenzimmer von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3745,306 3745,934 3819,934 3819,306"/>
+            <TextEquiv>
+                <Unicode>ſangenehmen Geiſte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3813,278 3813,2077 3889,2077 3889,278"/>
+            <TextEquiv>
+                <Unicode>Leon. Es iſt etwas von melancholiſchem Elemente in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3882,278 3882,2077 3960,2077 3960,278"/>
+            <TextEquiv>
+                <Unicode>ihr, hoher Herr. Sie iſt nie traurig, außer wenn ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3950,280 3950,2076 4032,2076 4032,280"/>
+            <TextEquiv>
+                <Unicode>ſchläft, und auch dann nicht immer; denn ich habe meine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4160,280 4160,2075 4239,2075 4239,280"/>
+            <TextEquiv>
+                <Unicode>Don Pedro. Sie kann es nicht ertragen, wenn man</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4229,299 4229,1269 4306,1269 4306,299"/>
+            <TextEquiv>
+                <Unicode>ihr von einem Gemahl ſpricht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4299,281 4299,2080 4378,2080 4378,281"/>
+            <TextEquiv>
+                <Unicode>Leon. Durchaus nicht. Sie ſpottet alle ihre Bewer-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4365,302 4365,1170 4446,1170 4446,302"/>
+            <TextEquiv>
+                <Unicode>ber aus Reih&#39; und Glied.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4433,281 4433,2079 4515,2079 4515,281"/>
+            <TextEquiv>
+                <Unicode>Don Pedro. Sie würde eine treffiiche Gattin für</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4500,310 4500,775 4582,775 4582,310"/>
+            <TextEquiv>
+                <Unicode>Benedict ſein.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Viel Lärm um Nichts.
+mit ihr mein Vermdgen. Des Prinzen Hoheit hat die
+Heirath geſtiftet, und die höchſte Hoheit ſage Amen dazu.
+Beat. Redet, Graf; die Reihe iſt an euch.
+Claud. Das Schweigen iſt der vollkommenſie Herold
+der Freude. Ich würde nicht erheblich glücklich ſein, wenn
+ich ſagen könnte, wie ſehr ich es bin. Signora, ſo wie
+ihr die Meinige ſeid, bin ich der Eurige. Ich gebe mich
+ſelbſt für euch hin, und bin entzückt über den Austauſch.
+Beat. Sprich, Baſe; oder wenn du das nicht kannſt,
+ſo ſtopf ihm den Mund mit einem Kuß, und laß ihn ſo
+wenig reden.
+Don Pedro. In der That, Signora, ihr habt ein
+fröhliches Herz.
+Beat. Nun ja, Hoheit. Ich dank&#39; ihm dafür, dem
+armen Närrchen, es hält ſich nach der Windſeite der
+Sorge zu auf. - Seht, meine Baſe ſagt&#39;s ihm ins Ohr,
+daß er in ihrem Herzen iſt.
+Claud. Das thut ſie, Bäschen.
+Beat. Guter Gott, ein Brautpaar! So geht es
+Allen in der Welt außer mir; und ich bin ſonnverbrannt
+und muß in einem Winkel ſitzen, und Holla nach einem
+Gatten ſchreien.
+Don Pedro. Signora Beatrice, ich will euch einen
+verſchaffen.
+Beat. Ich möchte lieber einen von eures Vaters
+Erzeugnis. Hat euer Hoheit nicht etwa einen Bruder,
+der euch gleicht? Euer Vater erzeugte treffliche Ehemän-
+ner, wenn ein Mädchen ſie nur bekommen könnte.
+Don Pedro. Wollt ihr mich haben, Signora?
+Beat. Nein, hoher Herr, ich müßte denn einen zwei-
+ten Mann für die Wecktage haben. Euer Hoheit iſt zu
+koſtbar , um tagtäglich getragen zu werden. Doch ich
+bitte euch, Prinz, verzeihet mir; ich ward geboren eitel
+Luſtiges, aber nichts Geſcheidtes zu ſprechen.
+Don Pedro. Euer Schweigen thut mir am meiſten
+weh, und luſtig zu ſein, ſteht euch am Beſten; denn es
+iſt außer Frage, daß ihr in einer heiteren Stunde gebo-
+ren wurdet.
+Beat. Zuverläſſig nicht, Hoheit; meine Mutter
+weinte; aber es tanzte damahls ein Stern, und unter
+dem ward ich geboren. - Vetter, Baſe - Gott ſchenk
+euch Freude!
+Leon. Nichte, willſt du nach dem ſehen, wovon ich
+dir ſagte?
+Beat. Ich bitte um Verzeihung, Oheim. - Mit
+euer Hoheit Erlaubnis.
+(ab.)
+Don Pedro. Meiner Treu, ein Frauenzimmer von
+ſangenehmen Geiſte.
+Leon. Es iſt etwas von melancholiſchem Elemente in
+ihr, hoher Herr. Sie iſt nie traurig, außer wenn ſie
+ſchläft, und auch dann nicht immer; denn ich habe meine
+Don Pedro. Sie kann es nicht ertragen, wenn man
+ihr von einem Gemahl ſpricht.
+Leon. Durchaus nicht. Sie ſpottet alle ihre Bewer-
+ber aus Reih&#39; und Glied.
+Don Pedro. Sie würde eine treffiiche Gattin für
+Benedict ſein.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

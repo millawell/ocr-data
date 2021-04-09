@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6116" imageWidth="3776">
+    <PrintSpace>
+        <Coords points="0,0 0,3776 6116,3776 6116,3776"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3776 6116,3776 6116,3776"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="324,51 324,305 408,305 408,51"/>
+            <TextEquiv>
+                <Unicode>Akt IV.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="316,1083 316,2286 425,2286 425,1083"/>
+            <TextEquiv>
+                <Unicode>Viel Lärm um Nichts.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="490,42 490,2627 560,2627 560,42"/>
+            <TextEquiv>
+                <Unicode>Beat. Benedictus? Warum Benedictus? Steckt in Hundsb. Gottes Gaben!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="345,3227 345,3375 418,3375 418,3227"/>
+            <TextEquiv>
+                <Unicode>139</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="559,1753 559,2737 639,2737 639,1753"/>
+            <TextEquiv>
+                <Unicode>Leon. Jch muß euch verlaſſen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="560,22 560,1507 634,1507 634,22"/>
+            <TextEquiv>
+                <Unicode>dieſem Benedictus deine moraliſche Nutzanwendung?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="624,22 624,3457 721,3457 721,22"/>
+            <TextEquiv>
+                <Unicode>Marg. Moraliſch Meiner Treu, ich meinte nichts Hundsb. Ein Wort, Herr. unſre Wache hat wirk-</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt IV.
+Viel Lärm um Nichts.
+Beat. Benedictus? Warum Benedictus? Steckt in Hundsb. Gottes Gaben!
+139
+Leon. Jch muß euch verlaſſen.
+dieſem Benedictus deine moraliſche Nutzanwendung?
+Marg. Moraliſch Meiner Treu, ich meinte nichts Hundsb. Ein Wort, Herr. unſre Wache hat wirk-</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

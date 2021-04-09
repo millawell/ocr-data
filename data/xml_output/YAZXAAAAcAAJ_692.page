@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6117" imageWidth="3732">
+    <PrintSpace>
+        <Coords points="0,0 0,3732 6117,3732 6117,3732"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3732 6117,3732 6117,3732"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="357,-7 357,304 433,304 433,-7"/>
+            <TextEquiv>
+                <Unicode>Akt III.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="350,1105 350,2249 456,2249 456,1105"/>
+            <TextEquiv>
+                <Unicode>Prinz von Dänemark.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="504,10 504,1698 580,1698 580,10"/>
+            <TextEquiv>
+                <Unicode>Haml. O, guter Horaz, ich will des Geiſtes Worte für</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="572,-34 572,1432 649,1432 649,-34"/>
+            <TextEquiv>
+                <Unicode>Tauſende werth erachten. Haſt du&#39;s beobachtet?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="643,28 643,1015 716,1015 716,28"/>
+            <TextEquiv>
+                <Unicode>Hor. Allerdings, mein Prinz.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="714,14 714,1543 786,1543 786,14"/>
+            <TextEquiv>
+                <Unicode>Haml. Als die Rede auf das Vergiften kam -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="779,13 779,1550 857,1550 857,13"/>
+            <TextEquiv>
+                <Unicode>Hor. Ich habe ihn ſcharf aufs Korn genommen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="852,8 852,1696 928,1696 928,8"/>
+            <TextEquiv>
+                <Unicode>Haml. Aha! - Auf! Macht Muſik! Ihr mit den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="918,395 918,729 994,729 994,395"/>
+            <TextEquiv>
+                <Unicode>Flöten! -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1003,16 1003,1314 1082,1314 1082,16"/>
+            <TextEquiv>
+                <Unicode>Misfiel dem Könige des Schauſpiels Witz,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1076,14 1076,1658 1152,1658 1152,14"/>
+            <TextEquiv>
+                <Unicode>Ei nun! Vielleicht - - gefiel&#39;s ihm nicht, potz Blitz!</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt III.
+Prinz von Dänemark.
+Haml. O, guter Horaz, ich will des Geiſtes Worte für
+Tauſende werth erachten. Haſt du&#39;s beobachtet?
+Hor. Allerdings, mein Prinz.
+Haml. Als die Rede auf das Vergiften kam -
+Hor. Ich habe ihn ſcharf aufs Korn genommen.
+Haml. Aha! - Auf! Macht Muſik! Ihr mit den
+Flöten! -
+Misfiel dem Könige des Schauſpiels Witz,
+Ei nun! Vielleicht - - gefiel&#39;s ihm nicht, potz Blitz!</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

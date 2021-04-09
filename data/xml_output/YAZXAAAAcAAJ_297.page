@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6129" imageWidth="3770">
+    <PrintSpace>
+        <Coords points="0,0 0,3770 6129,3770 6129,3770"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3770 6129,3770 6129,3770"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="323,312 323,462 391,462 391,312"/>
+            <TextEquiv>
+                <Unicode>278</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="304,1482 304,2459 404,2459 404,1482"/>
+            <TextEquiv>
+                <Unicode>Winter-Mährchen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="478,277 478,1637 550,1637 550,277"/>
+            <TextEquiv>
+                <Unicode>Beſtiegen. Wenn auch während all der Zeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="545,276 545,1686 622,1686 622,276"/>
+            <TextEquiv>
+                <Unicode>Dir unſer Dank geworden wär&#39;, mein Bruder,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="613,280 613,1564 689,1564 689,280"/>
+            <TextEquiv>
+                <Unicode>So würden wir für alle Folg&#39;zeit doch als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="684,276 684,1771 758,1771 758,276"/>
+            <TextEquiv>
+                <Unicode>Dein Schuldner ſcheiden. Drum gleich einer Null</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="752,285 752,1392 826,1392 826,285"/>
+            <TextEquiv>
+                <Unicode>Am Geltungsort, multiplizir ich dir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="819,279 819,1656 896,1656 896,279"/>
+            <TextEquiv>
+                <Unicode>Das eine „Dank dir,“ das vorausging, noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="894,301 894,834 966,834 966,301"/>
+            <TextEquiv>
+                <Unicode>Viel tauſendmahl.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="959,881 959,1716 1034,1716 1034,881"/>
+            <TextEquiv>
+                <Unicode>Halt inne noch mit Danken,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="965,375 965,667 1021,667 1021,375"/>
+            <TextEquiv>
+                <Unicode>Leont.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1028,288 1028,1160 1102,1160 1102,288"/>
+            <TextEquiv>
+                <Unicode>Und thu&#39; es wenn du reiſeſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1094,1201 1094,1712 1169,1712 1169,1201"/>
+            <TextEquiv>
+                <Unicode>Morgen reiſ&#39; ich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1104,375 1104,529 1170,529 1170,375"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1164,273 1164,1889 1239,1889 1239,273"/>
+            <TextEquiv>
+                <Unicode>Mich foltert Furcht ob dem, was, weil ich fern war,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1235,280 1235,1608 1309,1608 1309,280"/>
+            <TextEquiv>
+                <Unicode>Sich zutrug und begab. Wenn nur daheim</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1300,277 1300,1669 1378,1669 1378,277"/>
+            <TextEquiv>
+                <Unicode>Kein ſcharfer Wind uns ſagen läßt: gegründet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1370,278 1370,1606 1461,1606 1461,278"/>
+            <TextEquiv>
+                <Unicode>War unſre Furcht. Zudem blieb ich bis zur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1443,292 1443,1095 1516,1095 1516,292"/>
+            <TextEquiv>
+                <Unicode>Ermüdung deiner hier.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1507,1026 1507,1473 1583,1473 1583,1026"/>
+            <TextEquiv>
+                <Unicode>Zu zäh&#39; bin ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1515,373 1515,596 1571,596 1571,373"/>
+            <TextEquiv>
+                <Unicode>Leont.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1578,299 1578,879 1655,879 1655,299"/>
+            <TextEquiv>
+                <Unicode>Für dein Ermüden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1644,935 1644,1593 1721,1593 1721,935"/>
+            <TextEquiv>
+                <Unicode>Länger weil ich nicht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1653,376 1653,527 1721,527 1721,376"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1713,335 1713,1286 1788,1286 1788,335"/>
+            <TextEquiv>
+                <Unicode>Leont. Acht Tage nur noch!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1781,1078 1781,1956 1862,1956 1862,1078"/>
+            <TextEquiv>
+                <Unicode>Nicht doch Morgen reiſ ich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1792,374 1792,523 1859,523 1859,374"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="1853,346 1853,1944 1930,1944 1930,346"/>
+            <TextEquiv>
+                <Unicode>Leont. So theilen wir die Friſt des Bleibens, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="1925,295 1925,943 1986,943 1986,295"/>
+            <TextEquiv>
+                <Unicode>Nun keine Widerrede.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="1989,984 1989,1827 2070,1827 2070,984"/>
+            <TextEquiv>
+                <Unicode>Bitte, dräng mich nicht ſo.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="1996,376 1996,531 2065,531 2065,376"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2056,280 2056,1488 2132,1488 2132,280"/>
+            <TextEquiv>
+                <Unicode>Giebt&#39;s keine Zunge doch in dieſer Welt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2128,280 2128,1522 2205,1522 2205,280"/>
+            <TextEquiv>
+                <Unicode>Die mich ſo leicht bewegte wie die deine;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2197,270 2197,1880 2280,1880 2280,270"/>
+            <TextEquiv>
+                <Unicode>Sie würd&#39;s auch jetzt, trieb Noth dich zu der Bitte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2266,274 2266,1737 2344,1737 2344,274"/>
+            <TextEquiv>
+                <Unicode>Wie nöthig mir auch Weigrung wär. Geſchäfte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2334,275 2334,1689 2411,1689 2411,275"/>
+            <TextEquiv>
+                <Unicode>Begehren mein daheim; mich daran hindern,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2404,272 2404,1723 2479,1723 2479,272"/>
+            <TextEquiv>
+                <Unicode>Hieß&#39; mich aus Liebe geißeln. Bleib ich länger,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2473,272 2473,1704 2549,1704 2549,272"/>
+            <TextEquiv>
+                <Unicode>Iſt&#39;s dir zu Laſt und Unruh; Beides meid&#39; ich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2543,294 2543,864 2617,864 2617,294"/>
+            <TextEquiv>
+                <Unicode>Und ſage Lebewohl.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2609,345 2609,1667 2687,1667 2687,345"/>
+            <TextEquiv>
+                <Unicode>Leont. Stumm, Kön&#39;gin? Sprecht doch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2679,338 2679,1973 2757,1973 2757,338"/>
+            <TextEquiv>
+                <Unicode>Herm. Zu ſchweigen dacht ich, Herr, bis ihr ihm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2747,747 2747,996 2821,996 2821,747"/>
+            <TextEquiv>
+                <Unicode>Schwüre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2817,279 2817,1536 2891,1536 2891,279"/>
+            <TextEquiv>
+                <Unicode>Entlocktet, nicht zu bleiben. Viel zu kalt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2885,273 2885,1834 2962,1834 2962,273"/>
+            <TextEquiv>
+                <Unicode>Beſtürmt ihr ihn. Sagt ihm, wie&#39;s kund euch iſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2956,272 2956,1658 3030,1658 3030,272"/>
+            <TextEquiv>
+                <Unicode>Daß Alles wohl in Böhmen ſteht, daß geſtern</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3027,276 3027,1576 3103,1576 3103,276"/>
+            <TextEquiv>
+                <Unicode>Noch Kunde davon einlief; ſagt ihm&#39;s, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3094,291 3094,909 3168,909 3168,291"/>
+            <TextEquiv>
+                <Unicode>Er ſchlägt Chamade.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3161,983 3161,1527 3238,1527 3238,983"/>
+            <TextEquiv>
+                <Unicode>Recht, Hermione!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3166,365 3166,594 3223,594 3223,365"/>
+            <TextEquiv>
+                <Unicode>Leont.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3231,335 3231,1968 3311,1968 3311,335"/>
+            <TextEquiv>
+                <Unicode>Herm. Zu ſagen, Sehnſucht nach dem Sohne trieb&#39; ihn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3301,271 3301,1602 3379,1602 3379,271"/>
+            <TextEquiv>
+                <Unicode>Wär Etwas; ſag&#39; er&#39;s denn und ziehe hin;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3370,272 3370,1661 3446,1661 3446,272"/>
+            <TextEquiv>
+                <Unicode>Beſchwör&#39; er&#39;s denn und ſäume nicht zu reiſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3440,275 3440,1529 3513,1529 3513,275"/>
+            <TextEquiv>
+                <Unicode>Sonſt jagen wir ihn mit der Kunkel fort!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="3508,261 3508,1970 3590,1970 3590,261"/>
+            <TextEquiv>
+                <Unicode>(zu Polyrenes) So wag&#39; ich denn, uns euer hohes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="3578,747 3578,968 3647,968 3647,747"/>
+            <TextEquiv>
+                <Unicode>Hierſein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="3637,276 3637,1521 3719,1521 3719,276"/>
+            <TextEquiv>
+                <Unicode>Noch auf acht Tage zu erbitten. Kommt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="3710,270 3710,1546 3789,1546 3789,270"/>
+            <TextEquiv>
+                <Unicode>Nach Böhmen mein Gemahl einſt, geb&#39; ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="3782,272 3782,1372 3857,1372 3857,272"/>
+            <TextEquiv>
+                <Unicode>Ihm einen Monat länger Urlaub als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="3850,263 3850,1822 3931,1822 3931,263"/>
+            <TextEquiv>
+                <Unicode>Vorher beſtimmt ward. - Dennoch, mein Leontes,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="3917,265 3917,1587 3999,1587 3999,265"/>
+            <TextEquiv>
+                <Unicode>Lieb&#39; ich um keinen Pendelſchlag dich minder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="3988,266 3988,1545 4062,1545 4062,266"/>
+            <TextEquiv>
+                <Unicode>Als je ein Weib den Mann - ihr bleibt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4059,360 4059,509 4127,509 4127,360"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4065,1566 4065,1927 4141,1927 4141,1566"/>
+            <TextEquiv>
+                <Unicode>Mit nichten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4104,335 4104,1610 4201,1610 4201,335"/>
+            <TextEquiv>
+                <Unicode>Herm. Und dennoch, ja! Jhr bleibt -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4197,358 4197,513 4265,513 4265,358"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4199,1141 4199,1868 4279,1868 4279,1141"/>
+            <TextEquiv>
+                <Unicode>Ich kann fürwahr nicht!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4263,348 4263,1034 4338,1034 4338,348"/>
+            <TextEquiv>
+                <Unicode>Herm. „Fürwahr!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4332,254 4332,1826 4416,1826 4416,254"/>
+            <TextEquiv>
+                <Unicode>Ihr weiſ&#39;t mich mit geſchmeid&#39;gem Schwur ab; aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="4400,249 4400,1959 4483,1959 4483,249"/>
+            <TextEquiv>
+                <Unicode>Ich - ſchwüret ihr die Stern&#39; aus ihrer Bahn auch -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="4470,250 4470,1953 4556,1953 4556,250"/>
+            <TextEquiv>
+                <Unicode>Bleib doch dabei: „Ihr geht nicht, Herr!“ Fürwahr!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="4539,252 4539,1797 4621,1797 4621,252"/>
+            <TextEquiv>
+                <Unicode>Ihr ſollt nicht reiſen. Einer Frau „Fürwahr“ iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="4607,251 4607,1887 4695,1887 4695,251"/>
+            <TextEquiv>
+                <Unicode>Wie eines Manns „Fürwahr“ ſo mächtig. Wollt ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="4675,255 4675,1706 4761,1706 4761,255"/>
+            <TextEquiv>
+                <Unicode>Doch reiſen? Zwingen mich, euch als Gefangnen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="4746,255 4746,1780 4827,1780 4827,255"/>
+            <TextEquiv>
+                <Unicode>Und nicht als Gaſt zu halten? Strafgeld zahlt ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="4816,246 4816,1958 4899,1958 4899,246"/>
+            <TextEquiv>
+                <Unicode>Dann wann ihr reiſ&#39;t, und ſpart den Dank. Was meint ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="4885,256 4885,1568 4966,1568 4966,256"/>
+            <TextEquiv>
+                <Unicode>Gefangner oder Gaſt? Eins müßt ihr ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="4953,261 4953,1320 5032,1320 5032,261"/>
+            <TextEquiv>
+                <Unicode>Bei eurem ſchaurigen „Fürwahr!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="5025,348 5025,503 5092,503 5092,348"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="5030,1381 5030,1920 5102,1920 5102,1381"/>
+            <TextEquiv>
+                <Unicode>Nun, Gaſt denn!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="5090,252 5090,1616 5180,1616 5180,252"/>
+            <TextEquiv>
+                <Unicode>Gefangner euch, ſetzt ein Vergehn voraus,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="5163,252 5163,1603 5240,1603 5240,252"/>
+            <TextEquiv>
+                <Unicode>Und ein Vergehn an euch wär&#39; ſchwerer mir,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="5228,270 5228,929 5304,929 5304,270"/>
+            <TextEquiv>
+                <Unicode>Als euch das Strafen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="5299,853 5299,1668 5383,1668 5383,853"/>
+            <TextEquiv>
+                <Unicode>Nicht euch Hütrin alſo,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="5299,344 5299,565 5367,565 5367,344"/>
+            <TextEquiv>
+                <Unicode>Herm.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="5365,240 5365,1816 5456,1816 5456,240"/>
+            <TextEquiv>
+                <Unicode>Doch güt&#39;ge Wirthin. Kommt nur; ich befrag euch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="5436,247 5436,1647 5522,1647 5522,247"/>
+            <TextEquiv>
+                <Unicode>Nach meines Herrn und euren Jugendſtreichen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="5505,256 5505,1099 5581,1099 5581,256"/>
+            <TextEquiv>
+                <Unicode>Ihr wart wohl loſe Vögel?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="5575,342 5575,494 5642,494 5642,342"/>
+            <TextEquiv>
+                <Unicode>Pol.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="5582,1166 5582,1705 5661,1705 5661,1166"/>
+            <TextEquiv>
+                <Unicode>Freilich, Kön&#39;gin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>278
+Winter-Mährchen.
+Beſtiegen. Wenn auch während all der Zeit
+Dir unſer Dank geworden wär&#39;, mein Bruder,
+So würden wir für alle Folg&#39;zeit doch als
+Dein Schuldner ſcheiden. Drum gleich einer Null
+Am Geltungsort, multiplizir ich dir
+Das eine „Dank dir,“ das vorausging, noch
+Viel tauſendmahl.
+Halt inne noch mit Danken,
+Leont.
+Und thu&#39; es wenn du reiſeſt.
+Morgen reiſ&#39; ich.
+Pol.
+Mich foltert Furcht ob dem, was, weil ich fern war,
+Sich zutrug und begab. Wenn nur daheim
+Kein ſcharfer Wind uns ſagen läßt: gegründet
+War unſre Furcht. Zudem blieb ich bis zur
+Ermüdung deiner hier.
+Zu zäh&#39; bin ich
+Leont.
+Für dein Ermüden.
+Länger weil ich nicht.
+Pol.
+Leont. Acht Tage nur noch!
+Nicht doch Morgen reiſ ich.
+Pol.
+Leont. So theilen wir die Friſt des Bleibens, und
+Nun keine Widerrede.
+Bitte, dräng mich nicht ſo.
+Pol.
+Giebt&#39;s keine Zunge doch in dieſer Welt,
+Die mich ſo leicht bewegte wie die deine;
+Sie würd&#39;s auch jetzt, trieb Noth dich zu der Bitte,
+Wie nöthig mir auch Weigrung wär. Geſchäfte
+Begehren mein daheim; mich daran hindern,
+Hieß&#39; mich aus Liebe geißeln. Bleib ich länger,
+Iſt&#39;s dir zu Laſt und Unruh; Beides meid&#39; ich,
+Und ſage Lebewohl.
+Leont. Stumm, Kön&#39;gin? Sprecht doch.
+Herm. Zu ſchweigen dacht ich, Herr, bis ihr ihm
+Schwüre
+Entlocktet, nicht zu bleiben. Viel zu kalt
+Beſtürmt ihr ihn. Sagt ihm, wie&#39;s kund euch iſt,
+Daß Alles wohl in Böhmen ſteht, daß geſtern
+Noch Kunde davon einlief; ſagt ihm&#39;s, und
+Er ſchlägt Chamade.
+Recht, Hermione!
+Leont.
+Herm. Zu ſagen, Sehnſucht nach dem Sohne trieb&#39; ihn,
+Wär Etwas; ſag&#39; er&#39;s denn und ziehe hin;
+Beſchwör&#39; er&#39;s denn und ſäume nicht zu reiſen,
+Sonſt jagen wir ihn mit der Kunkel fort!
+(zu Polyrenes) So wag&#39; ich denn, uns euer hohes
+Hierſein
+Noch auf acht Tage zu erbitten. Kommt
+Nach Böhmen mein Gemahl einſt, geb&#39; ich
+Ihm einen Monat länger Urlaub als
+Vorher beſtimmt ward. - Dennoch, mein Leontes,
+Lieb&#39; ich um keinen Pendelſchlag dich minder
+Als je ein Weib den Mann - ihr bleibt?
+Pol.
+Mit nichten.
+Herm. Und dennoch, ja! Jhr bleibt -
+Pol.
+Ich kann fürwahr nicht!
+Herm. „Fürwahr!“
+Ihr weiſ&#39;t mich mit geſchmeid&#39;gem Schwur ab; aber
+Ich - ſchwüret ihr die Stern&#39; aus ihrer Bahn auch -
+Bleib doch dabei: „Ihr geht nicht, Herr!“ Fürwahr!
+Ihr ſollt nicht reiſen. Einer Frau „Fürwahr“ iſt
+Wie eines Manns „Fürwahr“ ſo mächtig. Wollt ihr
+Doch reiſen? Zwingen mich, euch als Gefangnen
+Und nicht als Gaſt zu halten? Strafgeld zahlt ihr
+Dann wann ihr reiſ&#39;t, und ſpart den Dank. Was meint ihr
+Gefangner oder Gaſt? Eins müßt ihr ſein,
+Bei eurem ſchaurigen „Fürwahr!“
+Pol.
+Nun, Gaſt denn!
+Gefangner euch, ſetzt ein Vergehn voraus,
+Und ein Vergehn an euch wär&#39; ſchwerer mir,
+Als euch das Strafen.
+Nicht euch Hütrin alſo,
+Herm.
+Doch güt&#39;ge Wirthin. Kommt nur; ich befrag euch
+Nach meines Herrn und euren Jugendſtreichen.
+Ihr wart wohl loſe Vögel?
+Pol.
+Freilich, Kön&#39;gin.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6110" imageWidth="3785">
+    <PrintSpace>
+        <Coords points="0,0 0,3785 6110,3785 6110,3785"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3785 6110,3785 6110,3785"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="1054,856 1054,3272 1205,3272 1205,856"/>
+            <TextEquiv>
+                <Unicode>Viel Lärm um Nichts.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="1966,335 1966,1404 2044,1404 2044,335"/>
+            <TextEquiv>
+                <Unicode>Don Pedro, Prinz von Aragon.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="1359,1862 1359,2237 1431,2237 1431,1862"/>
+            <TextEquiv>
+                <Unicode>Ueberſetzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="1528,1381 1528,2733 1618,2733 1618,1381"/>
+            <TextEquiv>
+                <Unicode>Dr. Georg Nieolaus Bärmann.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="2036,334 2036,1508 2115,1508 2115,334"/>
+            <TextEquiv>
+                <Unicode>Don Juan, ſein unehelicher Bruder.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="1807,1799 1807,2316 1916,2316 1916,1799"/>
+            <TextEquiv>
+                <Unicode>Perſonen:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="1948,2038 1948,2703 2028,2703 2028,2038"/>
+            <TextEquiv>
+                <Unicode>Ein Unterküſter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="2023,2043 2023,2494 2102,2494 2102,2043"/>
+            <TextEquiv>
+                <Unicode>Ein Mönch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="2095,309 2095,2542 2183,2542 2183,309"/>
+            <TextEquiv>
+                <Unicode>Claudio, ein junger florentiniſcher Edelmann, Günſtlinge Ein Knabe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="2167,319 2167,2106 2253,2106 2253,319"/>
+            <TextEquiv>
+                <Unicode>Benedict, ein junger Edelmann aus Padua, Don Pedro&#39;s.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="2243,336 2243,1468 2318,1468 2318,336"/>
+            <TextEquiv>
+                <Unicode>Leonato, Statthalter von Meſſina.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="2314,344 2314,1180 2387,1180 2387,344"/>
+            <TextEquiv>
+                <Unicode>Antonio, deſſen Bruder.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="2382,338 2382,1448 2466,1448 2466,338"/>
+            <TextEquiv>
+                <Unicode>Balthaſar, Don Pedros Diener.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="2450,335 2450,1529 2558,1529 2558,335"/>
+            <TextEquiv>
+                <Unicode>Borrachio, Don Juans Genoſſen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="2525,356 2525,824 2596,824 2596,356"/>
+            <TextEquiv>
+                <Unicode>Conrad,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="3010,787 3010,1623 3104,1623 3104,787"/>
+            <TextEquiv>
+                <Unicode>Erſter Aufzug.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="3243,379 3243,2084 3306,2084 3306,379"/>
+            <TextEquiv>
+                <Unicode>(Leonato, Hero, Beatrice, Gefolge treten auf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="3296,455 3296,1027 3353,1027 3353,455"/>
+            <TextEquiv>
+                <Unicode>mit einem Boten.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="3417,405 3417,2083 3503,2083 3503,405"/>
+            <TextEquiv>
+                <Unicode>Leon. Ich vernehme aus dieſem Briefe, daß Don</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="3497,330 3497,2084 3577,2084 3577,330"/>
+            <TextEquiv>
+                <Unicode>Pedro von Aragon heut abend nach Meſſina kommen wird.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="3567,402 3567,2086 3641,2086 3641,402"/>
+            <TextEquiv>
+                <Unicode>Bote. Er iſt nicht fern mehr. Er war nur noch drei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="3635,342 3635,1746 3712,1746 3712,342"/>
+            <TextEquiv>
+                <Unicode>Stunden Weges von hier, als ich ihn verließ.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="3706,401 3706,2083 3780,2083 3780,401"/>
+            <TextEquiv>
+                <Unicode>Leon. Wie viele Herren habt ihr in dieſem Treffen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="3842,401 3842,2081 3919,2081 3919,401"/>
+            <TextEquiv>
+                <Unicode>Bote. Nur wenige von Range, und keinen von Nahmen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="3914,402 3914,2084 3988,2084 3988,402"/>
+            <TextEquiv>
+                <Unicode>Leon. Ein Sieg iſt doppelt ſo viel werth, wenn der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="3983,331 3983,2083 4064,2083 4064,331"/>
+            <TextEquiv>
+                <Unicode>Feldherr vollzählige Mannſchaft wieder heimbringt. IJch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="4054,334 4054,2082 4129,2082 4129,334"/>
+            <TextEquiv>
+                <Unicode>ſinde hier auch, daß Don Pedro einem jungen Florentiner,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="4122,342 4122,1737 4197,1737 4197,342"/>
+            <TextEquiv>
+                <Unicode>Nahmens Claudio, hohe Ehren verliehen hat.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="4193,407 4193,2085 4265,2085 4265,407"/>
+            <TextEquiv>
+                <Unicode>Bote. Die dieſer eben ſo verdient, wie Don Pedro es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="4261,335 4261,2082 4335,2082 4335,335"/>
+            <TextEquiv>
+                <Unicode>anerkennt. Er leiſtete weit mehr als ſein Alter verheißt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="4330,335 4330,2088 4402,2088 4402,335"/>
+            <TextEquiv>
+                <Unicode>indem er in der Geſtalt eines Lammes die Thaten eines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="4400,334 4400,2087 4475,2087 4475,334"/>
+            <TextEquiv>
+                <Unicode>Löwen vollführte. Er hat in der That die Erwartung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="4470,336 4470,2085 4546,2085 4546,336"/>
+            <TextEquiv>
+                <Unicode>mehr übertroffen, als ihr von mir erwarten müßt, euch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="4538,355 4538,1253 4618,1253 4618,355"/>
+            <TextEquiv>
+                <Unicode>zu erzählen, wie er das that.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="4607,409 4607,2087 4683,2087 4683,409"/>
+            <TextEquiv>
+                <Unicode>Leon. Er hat hier in Meſſina einen Oheim, den das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="4679,366 4679,1035 4755,1035 4755,366"/>
+            <TextEquiv>
+                <Unicode>höchlich erfreuen wird.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="4743,413 4743,2086 4823,2086 4823,413"/>
+            <TextEquiv>
+                <Unicode>Bote. Dem habe ich bereits Briefe eingehändigt, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="4815,340 4815,2091 4893,2091 4893,340"/>
+            <TextEquiv>
+                <Unicode>ſeine Freude ſchien ſehr groß, ja ſo groß zu ſein, daß ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="4883,340 4883,2091 4966,2091 4966,340"/>
+            <TextEquiv>
+                <Unicode>ſich ohne Zeichen von Schmerz nicht beſcheiden genug zei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="4958,375 4958,711 5032,711 5032,375"/>
+            <TextEquiv>
+                <Unicode>gen konnte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="5018,426 5018,1520 5093,1520 5093,426"/>
+            <TextEquiv>
+                <Unicode>Leon. Brach er in Thränen aus?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="5091,424 5091,1564 5167,1564 5167,424"/>
+            <TextEquiv>
+                <Unicode>Bote. In eine Fluth von Thränen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="5161,414 5161,2091 5244,2091 5244,414"/>
+            <TextEquiv>
+                <Unicode>Leon. Eine milde Fluth der Mildherzigkeit! Es giebt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="5228,344 5228,2094 5316,2094 5316,344"/>
+            <TextEquiv>
+                <Unicode>keine wahreren Geſichter als diejenigen, welche ſo gewa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="5301,344 5301,2093 5383,2093 5383,344"/>
+            <TextEquiv>
+                <Unicode>ſchen werden. Wie viel beſſer iſt es, vor Freude zu wei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="5367,359 5367,1540 5446,1540 5446,359"/>
+            <TextEquiv>
+                <Unicode>nen, als ſich über Thränen zu freuen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="2281,2036 2281,2868 2382,2868 2382,2036"/>
+            <TextEquiv>
+                <Unicode>Hero, Leonato&#39;s Tochter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="2375,2032 2375,2994 2453,2994 2453,2032"/>
+            <TextEquiv>
+                <Unicode>Beatrice, Leonato&#39;s Nichte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="2516,2048 2516,2365 2590,2365 2590,2048"/>
+            <TextEquiv>
+                <Unicode>Urſula,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="2581,2031 2581,3059 2672,3059 2672,2031"/>
+            <TextEquiv>
+                <Unicode>Boten, Wachen, Gefolge.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2738,1670 2738,2470 2815,2470 2815,1670"/>
+            <TextEquiv>
+                <Unicode>Schauplatz: Meſſina.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3149,436 3149,1973 3222,1973 3222,436"/>
+            <TextEquiv>
+                <Unicode>Erſter Auftritt. Vor Leonatos Hauſe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3779,365 3779,633 3841,633 3841,365"/>
+            <TextEquiv>
+                <Unicode>verloren?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="5440,416 5440,2094 5517,2094 5517,416"/>
+            <TextEquiv>
+                <Unicode>Beat. Sagt an, iſt Signore Haudegen aus dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="5509,361 5509,1334 5584,1334 5584,361"/>
+            <TextEquiv>
+                <Unicode>Felde zurückgekehrt, oder nicht?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="5577,414 5577,2097 5663,2097 5663,414"/>
+            <TextEquiv>
+                <Unicode>Bote. Ich kenne keinen des Nahmens, Signora; in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="5649,358 5649,1560 5722,1560 5722,358"/>
+            <TextEquiv>
+                <Unicode>der ganzen Armee gab es keinen ſolchen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Viel Lärm um Nichts.
+Don Pedro, Prinz von Aragon.
+Ueberſetzt
+Dr. Georg Nieolaus Bärmann.
+Don Juan, ſein unehelicher Bruder.
+Perſonen:
+Ein Unterküſter.
+Ein Mönch.
+Claudio, ein junger florentiniſcher Edelmann, Günſtlinge Ein Knabe.
+Benedict, ein junger Edelmann aus Padua, Don Pedro&#39;s.
+Leonato, Statthalter von Meſſina.
+Antonio, deſſen Bruder.
+Balthaſar, Don Pedros Diener.
+Borrachio, Don Juans Genoſſen.
+Conrad,
+Erſter Aufzug.
+(Leonato, Hero, Beatrice, Gefolge treten auf
+mit einem Boten.)
+Leon. Ich vernehme aus dieſem Briefe, daß Don
+Pedro von Aragon heut abend nach Meſſina kommen wird.
+Bote. Er iſt nicht fern mehr. Er war nur noch drei
+Stunden Weges von hier, als ich ihn verließ.
+Leon. Wie viele Herren habt ihr in dieſem Treffen
+Bote. Nur wenige von Range, und keinen von Nahmen.
+Leon. Ein Sieg iſt doppelt ſo viel werth, wenn der
+Feldherr vollzählige Mannſchaft wieder heimbringt. IJch
+ſinde hier auch, daß Don Pedro einem jungen Florentiner,
+Nahmens Claudio, hohe Ehren verliehen hat.
+Bote. Die dieſer eben ſo verdient, wie Don Pedro es
+anerkennt. Er leiſtete weit mehr als ſein Alter verheißt,
+indem er in der Geſtalt eines Lammes die Thaten eines
+Löwen vollführte. Er hat in der That die Erwartung
+mehr übertroffen, als ihr von mir erwarten müßt, euch
+zu erzählen, wie er das that.
+Leon. Er hat hier in Meſſina einen Oheim, den das
+höchlich erfreuen wird.
+Bote. Dem habe ich bereits Briefe eingehändigt, und
+ſeine Freude ſchien ſehr groß, ja ſo groß zu ſein, daß ſie
+ſich ohne Zeichen von Schmerz nicht beſcheiden genug zei-
+gen konnte.
+Leon. Brach er in Thränen aus?
+Bote. In eine Fluth von Thränen.
+Leon. Eine milde Fluth der Mildherzigkeit! Es giebt
+keine wahreren Geſichter als diejenigen, welche ſo gewa-
+ſchen werden. Wie viel beſſer iſt es, vor Freude zu wei-
+nen, als ſich über Thränen zu freuen!
+Hero, Leonato&#39;s Tochter.
+Beatrice, Leonato&#39;s Nichte.
+Urſula,
+Boten, Wachen, Gefolge.
+Schauplatz: Meſſina.
+Erſter Auftritt. Vor Leonatos Hauſe.
+verloren?
+Beat. Sagt an, iſt Signore Haudegen aus dem
+Felde zurückgekehrt, oder nicht?
+Bote. Ich kenne keinen des Nahmens, Signora; in
+der ganzen Armee gab es keinen ſolchen.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6121" imageWidth="3744">
+    <PrintSpace>
+        <Coords points="0,0 0,3744 6121,3744 6121,3744"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3744 6121,3744 6121,3744"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="323,39 323,244 403,244 403,39"/>
+            <TextEquiv>
+                <Unicode>Akt l.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="305,958 305,2426 414,2426 414,958"/>
+            <TextEquiv>
+                <Unicode>König Heinrich der Vierte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="464,12 464,1260 541,1260 541,12"/>
+            <TextEquiv>
+                <Unicode>und nichts ergötzt wie ſeltnes Ueberraſchen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="535,10 535,1197 613,1197 613,10"/>
+            <TextEquiv>
+                <Unicode>Werf&#39; ich drum dieſes lockre Weſen ab,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="600,5 600,1486 684,1486 684,5"/>
+            <TextEquiv>
+                <Unicode>und zahle Schuld, zu der mich nichts verpflichtet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="675,9 675,1284 748,1284 748,9"/>
+            <TextEquiv>
+                <Unicode>So bin ich ſo viel beſſfer, denn mein Wort,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="742,14 742,1017 820,1017 820,14"/>
+            <TextEquiv>
+                <Unicode>Als ich der Leute Hoffen übertraf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="814,6 814,1368 889,1368 889,6"/>
+            <TextEquiv>
+                <Unicode>Gleich blendendem Metall auf mattem Grund,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="883,8 883,1320 961,1320 961,8"/>
+            <TextEquiv>
+                <Unicode>Glänzt meine Beſſrung über meiner Schuld,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="953,6 953,1394 1032,1394 1032,6"/>
+            <TextEquiv>
+                <Unicode>Zeigt frömmer ſich, und lockt mehr Augen an,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1023,3 1023,1426 1101,1426 1101,3"/>
+            <TextEquiv>
+                <Unicode>Als das, was ſich durch Folie nicht hervorhebt;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1090,5 1090,1362 1167,1362 1167,5"/>
+            <TextEquiv>
+                <Unicode>So daß Verdienſt aus meinen Sünden ſprach,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1164,-1 1164,1571 1237,1571 1237,-1"/>
+            <TextEquiv>
+                <Unicode>Die Zeit verſöhnend, eh&#39; man&#39;s ahnen mag. (ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1314,484 1314,1183 1387,1183 1387,484"/>
+            <TextEquiv>
+                <Unicode>Dritter Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1414,199 1414,1487 1490,1487 1490,199"/>
+            <TextEquiv>
+                <Unicode>London. Ein anderes Gemach im Palaſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1511,30 1511,1718 1571,1718 1571,30"/>
+            <TextEquiv>
+                <Unicode>(König Heinrich, Northumberland, Worceſter,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1565,79 1565,1514 1627,1514 1627,79"/>
+            <TextEquiv>
+                <Unicode>Heißſporn, Walter Blunt u. A. treten auf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1646,49 1646,1551 1724,1551 1724,49"/>
+            <TextEquiv>
+                <Unicode>Kön. Mein Blut war zu gemäßigt und zu kalt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1719,5 1719,1080 1793,1080 1793,5"/>
+            <TextEquiv>
+                <Unicode>Unfähig zu erglühn ob dieſer Unbill.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1787,0 1787,1272 1862,1272 1862,0"/>
+            <TextEquiv>
+                <Unicode>Und ihr erforſchtet mich; denn dem zufolge</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1852,-3 1852,1428 1932,1428 1932,-3"/>
+            <TextEquiv>
+                <Unicode>erſtampft ihr die Geduld mir; doch ſeid ſicher,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1924,-7 1924,1554 2001,1554 2001,-7"/>
+            <TextEquiv>
+                <Unicode>Ich will fortan weit mehr ich ſelbſt, will mächt&#39;ger,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1998,3 1998,1108 2073,1108 2073,3"/>
+            <TextEquiv>
+                <Unicode>Gefürchteter als mein Charakter ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2066,-5 2066,1488 2138,1488 2138,-5"/>
+            <TextEquiv>
+                <Unicode>Der mild wie Oel war, ſanft wie junge Daunen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2135,-2 2135,1379 2208,1379 2208,-2"/>
+            <TextEquiv>
+                <Unicode>Und drum ſein Recht auf jene Achtung mißte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2209,0 2209,1179 2281,1179 2281,0"/>
+            <TextEquiv>
+                <Unicode>Die ſtolze Seele nur dem Stolzen zollt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2273,41 2273,1717 2350,1717 2350,41"/>
+            <TextEquiv>
+                <Unicode>Worc. Mein hoher Lehnsherr, unſer Haus verdient&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2346,404 2346,560 2419,560 2419,404"/>
+            <TextEquiv>
+                <Unicode>nicht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2412,-2 2412,1301 2489,1301 2489,-2"/>
+            <TextEquiv>
+                <Unicode>Daß ſich an ihm der Hoheit Geißel abnutzt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2483,0 2483,1213 2558,1213 2558,0"/>
+            <TextEquiv>
+                <Unicode>Und jener Hoheit, der mit unſrer Hand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2553,0 2553,1184 2628,1184 2628,0"/>
+            <TextEquiv>
+                <Unicode>Wir halfen, ſich ſo ſtattlich zu erheben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2623,61 2623,854 2697,854 2697,61"/>
+            <TextEquiv>
+                <Unicode>North. Mein König -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2686,40 2686,1558 2769,1558 2769,40"/>
+            <TextEquiv>
+                <Unicode>Kön. Hinweg, Worceſter, denn ich ſeh&#39; Gefahr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2763,-3 2763,1283 2837,1283 2837,-3"/>
+            <TextEquiv>
+                <Unicode>Und Ungehorſam dir im Aug&#39;! Ja, Herr,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2829,-1 2829,1214 2906,1214 2906,-1"/>
+            <TextEquiv>
+                <Unicode>Zu kühn, zu herriſch iſt mir eure Nähe,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2902,-3 2902,1272 2974,1272 2974,-3"/>
+            <TextEquiv>
+                <Unicode>Und Majeſtät mag&#39;s nimmermehr ertragen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2965,-4 2965,1357 3040,1357 3040,-4"/>
+            <TextEquiv>
+                <Unicode>Daß eines Dieners Stirn ſich mürriſch furcht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="3040,-7 3040,1344 3112,1344 3112,-7"/>
+            <TextEquiv>
+                <Unicode>Ihr habt Verlaub uns zu verlaſſen; brauchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3109,-4 3109,1283 3185,1283 3185,-4"/>
+            <TextEquiv>
+                <Unicode>Wir euch und euren Rath , ſo ſchicken wir.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3174,1069 3174,1584 3235,1584 3235,1069"/>
+            <TextEquiv>
+                <Unicode>(Worceſter ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3248,-4 3248,1253 3322,1253 3322,-4"/>
+            <TextEquiv>
+                <Unicode>(Zu Northumb.) Ihr wolltet reden -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3317,71 3317,296 3389,296 3389,71"/>
+            <TextEquiv>
+                <Unicode>North.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3316,1014 3316,1680 3392,1680 3392,1014"/>
+            <TextEquiv>
+                <Unicode>Ja, mein edler Herr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3384,-3 3384,1193 3459,1193 3459,-3"/>
+            <TextEquiv>
+                <Unicode>Gefangne, die mein König hat begehrt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3456,-6 3456,1300 3529,1300 3529,-6"/>
+            <TextEquiv>
+                <Unicode>Und die zu Holmedon Harry Perey machte:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3523,-5 3523,1358 3598,1358 3598,-5"/>
+            <TextEquiv>
+                <Unicode>Sie wurden, wie er ſagt, nicht gar ſo ſtreng</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3593,-4 3593,1231 3668,1231 3668,-4"/>
+            <TextEquiv>
+                <Unicode>Geweigert, als man euch es hinterbrachte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3662,-9 3662,1428 3736,1428 3736,-9"/>
+            <TextEquiv>
+                <Unicode>So iſt denn Neid, wenn nicht ein Misverſtand,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3730,-12 3730,1545 3809,1545 3809,-12"/>
+            <TextEquiv>
+                <Unicode>Doch nicht mein Sohn hier ſolchen Fehlers ſchuldig.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3804,38 3804,1707 3881,1707 3881,38"/>
+            <TextEquiv>
+                <Unicode>Heißsp. Nicht weigert&#39; ich, mein Lehnsherr, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3877,447 3877,778 3947,778 3947,447"/>
+            <TextEquiv>
+                <Unicode>Gefangnen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3936,-17 3936,1708 4018,1708 4018,-17"/>
+            <TextEquiv>
+                <Unicode>Doch weiß ich&#39;s noch, daß als die Schlacht gekämpft war,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="4009,-13 4009,1568 4085,1568 4085,-13"/>
+            <TextEquiv>
+                <Unicode>Und ich von Grimm und ſchweren Kampfmühn dürr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4080,-12 4080,1525 4152,1525 4152,-12"/>
+            <TextEquiv>
+                <Unicode>Und athemlos und matt aufs Schwerd mich ſtützte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4147,-5 4147,1234 4223,1234 4223,-5"/>
+            <TextEquiv>
+                <Unicode>Gewiſſer Herr nett aufgeputzt daher kam,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4217,-16 4217,1673 4294,1673 4294,-16"/>
+            <TextEquiv>
+                <Unicode>Schmuck wie ein Bräut&#39;gam, friſch gemäht ums Kinn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4287,-7 4287,1309 4365,1309 4365,-7"/>
+            <TextEquiv>
+                <Unicode>Wie&#39;n Stoppelfeld zur Zeit des Erndtefeſts;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4356,-7 4356,1304 4430,1304 4430,-7"/>
+            <TextEquiv>
+                <Unicode>Wohlriechend war er wie ein Salbenkrämer,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4429,-6 4429,1254 4502,1254 4502,-6"/>
+            <TextEquiv>
+                <Unicode>Und zwiſchen Daumen hielt und Finger er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4494,-8 4494,1389 4572,1389 4572,-8"/>
+            <TextEquiv>
+                <Unicode>Ein Moſchusbüchschen, das er dann und wann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4564,-3 4564,1185 4644,1185 4644,-3"/>
+            <TextEquiv>
+                <Unicode>Zur Naſe führt und wieder ſinken ließ,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4632,-5 4632,1251 4714,1251 4714,-5"/>
+            <TextEquiv>
+                <Unicode>Daß dieſe drob erzürnt zuletzt zu ſchnauben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4700,-14 4700,1592 4786,1592 4786,-14"/>
+            <TextEquiv>
+                <Unicode>Anfing - und dabei greint und ſchwatzt&#39; er raſtlos;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4776,-4 4776,1197 4846,1197 4846,-4"/>
+            <TextEquiv>
+                <Unicode>Und als die Söldner nun an ihm vorbei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4843,-6 4843,1283 4920,1283 4920,-6"/>
+            <TextEquiv>
+                <Unicode>Die Leichen trugen, ſchalt er ſie für plump</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4916,-7 4916,1301 4989,1301 4989,-7"/>
+            <TextEquiv>
+                <Unicode>Und unmanierlich, weil ſie garſt&#39;gen Körper</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4982,-8 4982,1367 5058,1367 5058,-8"/>
+            <TextEquiv>
+                <Unicode>Ihm zwiſchen Wind und ſeinen Adel brachten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5052,-11 5052,1467 5131,1467 5131,-11"/>
+            <TextEquiv>
+                <Unicode>Mit manchem Fei&#39;rtags, manchem Weiberſchnack</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5122,-5 5122,1244 5198,1244 5198,-5"/>
+            <TextEquiv>
+                <Unicode>Fiel er mir läſtig, und begehrt&#39; am End&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5191,-4 5191,1206 5268,1206 5268,-4"/>
+            <TextEquiv>
+                <Unicode>Jn euer Hoheit Nahmen die Gefangnen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5260,-11 5260,1483 5339,1483 5339,-11"/>
+            <TextEquiv>
+                <Unicode>Ich, ſchmerzvoll durch die kaltgewordnen Wunden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5331,-3 5331,1133 5407,1133 5407,-3"/>
+            <TextEquiv>
+                <Unicode>Und arg geplagt von ſolchem Papagei,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5397,-5 5397,1238 5475,1238 5475,-5"/>
+            <TextEquiv>
+                <Unicode>Gab, ſo von Weh wie Ungeduld gequält,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5466,-11 5466,1469 5546,1469 5546,-11"/>
+            <TextEquiv>
+                <Unicode>Nachläſſge Antwort - welche, weiß ich nicht -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5535,-18 5535,1747 5618,1747 5618,-18"/>
+            <TextEquiv>
+                <Unicode>Er ſollt - und ſollte nicht - denn toll machts mich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5608,-6 5608,1266 5684,1266 5684,-6"/>
+            <TextEquiv>
+                <Unicode>Wie er ſo blank ſchien und ſo ſüßlich roch,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="5683,1653 5683,1788 5741,1788 5741,1653"/>
+            <TextEquiv>
+                <Unicode>XX.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt l.
+König Heinrich der Vierte.
+und nichts ergötzt wie ſeltnes Ueberraſchen.
+Werf&#39; ich drum dieſes lockre Weſen ab,
+und zahle Schuld, zu der mich nichts verpflichtet,
+So bin ich ſo viel beſſfer, denn mein Wort,
+Als ich der Leute Hoffen übertraf.
+Gleich blendendem Metall auf mattem Grund,
+Glänzt meine Beſſrung über meiner Schuld,
+Zeigt frömmer ſich, und lockt mehr Augen an,
+Als das, was ſich durch Folie nicht hervorhebt;
+So daß Verdienſt aus meinen Sünden ſprach,
+Die Zeit verſöhnend, eh&#39; man&#39;s ahnen mag. (ab.)
+Dritter Auftritt.
+London. Ein anderes Gemach im Palaſt.
+(König Heinrich, Northumberland, Worceſter,
+Heißſporn, Walter Blunt u. A. treten auf.
+Kön. Mein Blut war zu gemäßigt und zu kalt,
+Unfähig zu erglühn ob dieſer Unbill.
+Und ihr erforſchtet mich; denn dem zufolge
+erſtampft ihr die Geduld mir; doch ſeid ſicher,
+Ich will fortan weit mehr ich ſelbſt, will mächt&#39;ger,
+Gefürchteter als mein Charakter ſein,
+Der mild wie Oel war, ſanft wie junge Daunen,
+Und drum ſein Recht auf jene Achtung mißte,
+Die ſtolze Seele nur dem Stolzen zollt.
+Worc. Mein hoher Lehnsherr, unſer Haus verdient&#39;s
+nicht,
+Daß ſich an ihm der Hoheit Geißel abnutzt,
+Und jener Hoheit, der mit unſrer Hand
+Wir halfen, ſich ſo ſtattlich zu erheben.
+North. Mein König -
+Kön. Hinweg, Worceſter, denn ich ſeh&#39; Gefahr
+Und Ungehorſam dir im Aug&#39;! Ja, Herr,
+Zu kühn, zu herriſch iſt mir eure Nähe,
+Und Majeſtät mag&#39;s nimmermehr ertragen,
+Daß eines Dieners Stirn ſich mürriſch furcht.
+Ihr habt Verlaub uns zu verlaſſen; brauchen
+Wir euch und euren Rath , ſo ſchicken wir.
+(Worceſter ab.)
+(Zu Northumb.) Ihr wolltet reden -
+North.
+Ja, mein edler Herr.
+Gefangne, die mein König hat begehrt,
+Und die zu Holmedon Harry Perey machte:
+Sie wurden, wie er ſagt, nicht gar ſo ſtreng
+Geweigert, als man euch es hinterbrachte.
+So iſt denn Neid, wenn nicht ein Misverſtand,
+Doch nicht mein Sohn hier ſolchen Fehlers ſchuldig.
+Heißsp. Nicht weigert&#39; ich, mein Lehnsherr, die
+Gefangnen.
+Doch weiß ich&#39;s noch, daß als die Schlacht gekämpft war,
+Und ich von Grimm und ſchweren Kampfmühn dürr
+Und athemlos und matt aufs Schwerd mich ſtützte,
+Gewiſſer Herr nett aufgeputzt daher kam,
+Schmuck wie ein Bräut&#39;gam, friſch gemäht ums Kinn,
+Wie&#39;n Stoppelfeld zur Zeit des Erndtefeſts;
+Wohlriechend war er wie ein Salbenkrämer,
+Und zwiſchen Daumen hielt und Finger er
+Ein Moſchusbüchschen, das er dann und wann
+Zur Naſe führt und wieder ſinken ließ,
+Daß dieſe drob erzürnt zuletzt zu ſchnauben
+Anfing - und dabei greint und ſchwatzt&#39; er raſtlos;
+Und als die Söldner nun an ihm vorbei
+Die Leichen trugen, ſchalt er ſie für plump
+Und unmanierlich, weil ſie garſt&#39;gen Körper
+Ihm zwiſchen Wind und ſeinen Adel brachten.
+Mit manchem Fei&#39;rtags, manchem Weiberſchnack
+Fiel er mir läſtig, und begehrt&#39; am End&#39;
+Jn euer Hoheit Nahmen die Gefangnen.
+Ich, ſchmerzvoll durch die kaltgewordnen Wunden
+Und arg geplagt von ſolchem Papagei,
+Gab, ſo von Weh wie Ungeduld gequält,
+Nachläſſge Antwort - welche, weiß ich nicht -
+Er ſollt - und ſollte nicht - denn toll machts mich,
+Wie er ſo blank ſchien und ſo ſüßlich roch,
+XX.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

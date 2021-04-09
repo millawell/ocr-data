@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6178" imageWidth="3744">
+    <PrintSpace>
+        <Coords points="0,0 0,3744 6178,3744 6178,3744"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3744 6178,3744 6178,3744"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="437,23 437,282 515,282 515,23"/>
+            <TextEquiv>
+                <Unicode>Att V.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="432,1004 432,2424 544,2424 544,1004"/>
+            <TextEquiv>
+                <Unicode>König Heinrich der Achte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="587,2 587,1270 662,1270 662,2"/>
+            <TextEquiv>
+                <Unicode>Am Bierfaßzapfloch liegt ihr hier, wo ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="657,-1 657,1606 733,1606 733,-1"/>
+            <TextEquiv>
+                <Unicode>Dienſt thun ſollt. Hört ihr die Drommeten klingen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="728,6 728,1234 800,1234 800,6"/>
+            <TextEquiv>
+                <Unicode>Sie kommen von der Taufe ſchon zurück.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="795,-8 795,1730 871,1730 871,-8"/>
+            <TextEquiv>
+                <Unicode>Auf! Brecht durch das Gedräng und bahnt den Weg, daß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="864,-5 864,1603 941,1603 941,-5"/>
+            <TextEquiv>
+                <Unicode>Der Zug frei durch kann; traun, ſonſt find&#39; ich euch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="934,1 934,1398 1010,1398 1010,1"/>
+            <TextEquiv>
+                <Unicode>Ein Hundeloch, zwei Monden drin zu ſpielen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="1004,57 1004,1567 1079,1567 1079,57"/>
+            <TextEquiv>
+                <Unicode>Thorw. Platz da, für die hohen Herrſchaften!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1072,53 1072,1733 1149,1733 1149,53"/>
+            <TextEquiv>
+                <Unicode>Knecht. Du großer Kerl, tritt auf die Seite, oder ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1143,15 1143,761 1217,761 1217,15"/>
+            <TextEquiv>
+                <Unicode>mache dir Kopfſchmerzen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1210,53 1210,1735 1288,1735 1288,53"/>
+            <TextEquiv>
+                <Unicode>Thorw. Du da im Kamelot! Aus dem Gehäg&#39;,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1280,0 1280,1489 1359,1489 1359,0"/>
+            <TextEquiv>
+                <Unicode>oder ich werfe dich kopflinks über das Pfahlwerk!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1487,422 1487,1218 1559,1218 1559,422"/>
+            <TextEquiv>
+                <Unicode>Bierter Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1584,559 1584,1157 1661,1157 1661,559"/>
+            <TextEquiv>
+                <Unicode>Greenwich - Palaſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1367,1353 1367,1601 1420,1601 1420,1353"/>
+            <TextEquiv>
+                <Unicode>(Alle ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1683,35 1683,1737 1743,1737 1743,35"/>
+            <TextEquiv>
+                <Unicode>(Blaſende Trompeter; dann zwei Aldermen, der Lord</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1734,85 1734,1735 1794,1735 1794,85"/>
+            <TextEquiv>
+                <Unicode>Mavor. Ein  Wappenkönig, Cranmer, der Her-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1782,83 1782,1735 1842,1735 1842,83"/>
+            <TextEquiv>
+                <Unicode>zog von Norfolk it dem Marſchallsſtade, der Herzog</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1836,84 1836,1735 1893,1735 1893,84"/>
+            <TextEquiv>
+                <Unicode>von Suffolk, zwei Edelleute, welche großie Trink-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1884,85 1884,1734 1946,1734 1946,85"/>
+            <TextEquiv>
+                <Unicode>ſchalen auf Fußgeſtellen, zur Aufnahme der Taufgeſchenke</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1935,87 1935,1736 1994,1736 1994,87"/>
+            <TextEquiv>
+                <Unicode>tragen; dann vier Edelleute, die einen Baldachin tragen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1983,87 1983,1735 2043,1735 2043,87"/>
+            <TextEquiv>
+                <Unicode>unter welchem die Herzogin von Norfolk, als Gevat-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2036,82 2036,1735 2092,1735 2092,82"/>
+            <TextEquiv>
+                <Unicode>terin, geht und das Kind trägt, das reich in herabhängenden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2084,84 2084,1737 2144,1737 2144,84"/>
+            <TextEquiv>
+                <Unicode>Mantel gekleidet iſt. Eine Edeldame trägt der Herzo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2134,-2 2134,1740 2192,1740 2192,-2"/>
+            <TextEquiv>
+                <Unicode>gin die Schleppe. Dann folgt die Marquiſe von Dorſet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2185,86 2185,1736 2244,1736 2244,86"/>
+            <TextEquiv>
+                <Unicode>als zweite Gevatterin. Der Zug umkreiſet die Bühne und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2237,103 2237,954 2293,954 2293,103"/>
+            <TextEquiv>
+                <Unicode>der Wappenkönig ſpricht:)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2310,56 2310,1736 2390,1736 2390,56"/>
+            <TextEquiv>
+                <Unicode>Wapp. Himmel, verleihe nach deiner unendlichen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2385,-5 2385,1741 2461,1741 2461,-5"/>
+            <TextEquiv>
+                <Unicode>Gnade glückſeliges, langes, und ſtets heilvolles Leben der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2454,-6 2454,1738 2532,1738 2532,-6"/>
+            <TextEquiv>
+                <Unicode>hohen und mächtigen Prinzeſſin von England, Eliſabeth!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2541,161 2541,1641 2601,1641 2601,161"/>
+            <TextEquiv>
+                <Unicode>Trompeten. Der König und Gefolg treten auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2609,54 2609,1740 2713,1740 2713,54"/>
+            <TextEquiv>
+                <Unicode>Cranm. (knieend) Und für euch, hoher Herr, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2680,435 2680,848 2754,848 2754,435"/>
+            <TextEquiv>
+                <Unicode>unſre Kön&#39;gin</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2749,3 2749,1268 2824,1268 2824,3"/>
+            <TextEquiv>
+                <Unicode>Flehn wir, die edlen Pathinnen und ich:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2795,0 2795,1436 2893,1436 2893,0"/>
+            <TextEquiv>
+                <Unicode>Allstündlich werd&#39; in disem theu&#39;rſten Kind&#39;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2889,9 2889,1183 2963,1183 2963,9"/>
+            <TextEquiv>
+                <Unicode>Euch jeder Troſt und jede Freude, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2929,-1 2929,1440 3033,1440 3033,-1"/>
+            <TextEquiv>
+                <Unicode>Der Himmel je beglückten Eltern schenkte!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3029,56 3029,1743 3105,1743 3105,56"/>
+            <TextEquiv>
+                <Unicode>K. Heinr. Nehmt unſern Dank, werther Lord Erz-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3097,444 3097,645 3168,645 3168,444"/>
+            <TextEquiv>
+                <Unicode>biſchof.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3168,19 3168,633 3238,633 3238,19"/>
+            <TextEquiv>
+                <Unicode>Wie iſt ihr Nahm?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3233,75 3233,930 3308,930 3308,75"/>
+            <TextEquiv>
+                <Unicode>Cranm. Eliſabeth.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3305,902 3305,1427 3376,1427 3376,902"/>
+            <TextEquiv>
+                <Unicode>Steht auf, Lord.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3307,90 3307,449 3380,449 3380,90"/>
+            <TextEquiv>
+                <Unicode>K. Heinr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3375,-6 3375,1749 3448,1749 3448,-6"/>
+            <TextEquiv>
+                <Unicode>(Indem er das Kind küßt.) Mit dieſem Kuß nimm meinen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3443,439 3443,933 3517,933 3517,439"/>
+            <TextEquiv>
+                <Unicode>Segen. Schütze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3511,2 3511,1209 3586,1209 3586,2"/>
+            <TextEquiv>
+                <Unicode>Dich Gott! In ſeine Hand dein Leben!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3587,91 3587,379 3644,379 3644,91"/>
+            <TextEquiv>
+                <Unicode>Cranm.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3582,1204 3582,1392 3642,1392 3642,1204"/>
+            <TextEquiv>
+                <Unicode>Amen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3650,56 3650,1746 3728,1746 3728,56"/>
+            <TextEquiv>
+                <Unicode>K. Heinr. Vieledle Pathen, ihr ſeid zu verſchwen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3718,451 3718,626 3795,626 3795,451"/>
+            <TextEquiv>
+                <Unicode>driſch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3787,0 3787,1470 3881,1470 3881,0"/>
+            <TextEquiv>
+                <Unicode>Ven Herzen Dank; ihn ſag&#39; auch die Prinzeſſin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3860,17 3860,841 3935,841 3935,17"/>
+            <TextEquiv>
+                <Unicode>Sobald ſie Engliſch ſpricht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="3926,832 3926,1729 4004,1729 4004,832"/>
+            <TextEquiv>
+                <Unicode>Gönnt mir das Wort, Sire.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="3935,94 3935,380 3992,380 3992,94"/>
+            <TextEquiv>
+                <Unicode>Cranm.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="3995,-1 3995,1531 4074,1531 4074,-1"/>
+            <TextEquiv>
+                <Unicode>Der Himmel heißt mich ſprechen, und mein Wort</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4065,1 4065,1544 4145,1544 4145,1"/>
+            <TextEquiv>
+                <Unicode>Sei Schmeichelei nicht; denn beſtät&#39;gen wird&#39;s ſich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4136,0 4136,1482 4214,1482 4214,0"/>
+            <TextEquiv>
+                <Unicode>Dies Königskind (der Himmel ſchirm es ſtets!)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4206,5 4206,1409 4305,1409 4305,5"/>
+            <TextEquiv>
+                <Unicode>Zwar in der Wiege noch, verheißet dennoch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4277,7 4277,1252 4351,1252 4351,7"/>
+            <TextEquiv>
+                <Unicode>Dem Lande tauſend, tauſend Segnungen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4344,2 4344,1457 4421,1457 4421,2"/>
+            <TextEquiv>
+                <Unicode>Zu reifen durch die Zeit. Ein Muſter wird ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4412,2 4412,1631 4490,1631 4490,2"/>
+            <TextEquiv>
+                <Unicode>(Wenn Wen&#39;g&#39; auch nur von uns dies Heil erleben,)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4485,14 4485,1036 4562,1036 4562,14"/>
+            <TextEquiv>
+                <Unicode>All ihren Fürſtenzeitgenoſſen ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4552,8 4552,1306 4630,1306 4630,8"/>
+            <TextEquiv>
+                <Unicode>Und allen die ihr folgen. Saba&#39;s Kön&#39;gin</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4621,2 4621,1543 4700,1543 4700,2"/>
+            <TextEquiv>
+                <Unicode>War durſt&#39;ger nie nach Weisheit und nach Tugend,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4695,10 4695,1236 4768,1236 4768,10"/>
+            <TextEquiv>
+                <Unicode>Als dieſe reine Seel es ſein wird. Alle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4763,8 4763,1373 4840,1373 4840,8"/>
+            <TextEquiv>
+                <Unicode>Fürſtliche Huld, die ſolch ein Kleinod adelt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4832,7 4832,1365 4911,1365 4911,7"/>
+            <TextEquiv>
+                <Unicode>Wird zwiefach in ihr ſein mit jeder Tugend,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="4903,10 4903,1201 4978,1201 4978,10"/>
+            <TextEquiv>
+                <Unicode>Womit ſich Edle ſchmücken. Wahrheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="4972,3 4972,1435 5046,1435 5046,3"/>
+            <TextEquiv>
+                <Unicode>Wird Amm&#39; ihr ſein, fromm-heiliger Gedanke</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5041,6 5041,1381 5119,1381 5119,6"/>
+            <TextEquiv>
+                <Unicode>Stets Rath ihr geben. Lieben wird man ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5111,3 5111,1449 5188,1449 5188,3"/>
+            <TextEquiv>
+                <Unicode>Und fürchten. Segnen werden ſie die Jhr&#39;gen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Att V.
+König Heinrich der Achte.
+Am Bierfaßzapfloch liegt ihr hier, wo ihr
+Dienſt thun ſollt. Hört ihr die Drommeten klingen?
+Sie kommen von der Taufe ſchon zurück.
+Auf! Brecht durch das Gedräng und bahnt den Weg, daß
+Der Zug frei durch kann; traun, ſonſt find&#39; ich euch
+Ein Hundeloch, zwei Monden drin zu ſpielen!
+Thorw. Platz da, für die hohen Herrſchaften!
+Knecht. Du großer Kerl, tritt auf die Seite, oder ich
+mache dir Kopfſchmerzen!
+Thorw. Du da im Kamelot! Aus dem Gehäg&#39;,
+oder ich werfe dich kopflinks über das Pfahlwerk!
+Bierter Auftritt.
+Greenwich - Palaſt.
+(Alle ab.)
+(Blaſende Trompeter; dann zwei Aldermen, der Lord
+Mavor. Ein  Wappenkönig, Cranmer, der Her-
+zog von Norfolk it dem Marſchallsſtade, der Herzog
+von Suffolk, zwei Edelleute, welche großie Trink-
+ſchalen auf Fußgeſtellen, zur Aufnahme der Taufgeſchenke
+tragen; dann vier Edelleute, die einen Baldachin tragen,
+unter welchem die Herzogin von Norfolk, als Gevat-
+terin, geht und das Kind trägt, das reich in herabhängenden
+Mantel gekleidet iſt. Eine Edeldame trägt der Herzo-
+gin die Schleppe. Dann folgt die Marquiſe von Dorſet
+als zweite Gevatterin. Der Zug umkreiſet die Bühne und
+der Wappenkönig ſpricht:)
+Wapp. Himmel, verleihe nach deiner unendlichen
+Gnade glückſeliges, langes, und ſtets heilvolles Leben der
+hohen und mächtigen Prinzeſſin von England, Eliſabeth!
+Trompeten. Der König und Gefolg treten auf.)
+Cranm. (knieend) Und für euch, hoher Herr, und
+unſre Kön&#39;gin
+Flehn wir, die edlen Pathinnen und ich:
+Allstündlich werd&#39; in disem theu&#39;rſten Kind&#39;
+Euch jeder Troſt und jede Freude, die
+Der Himmel je beglückten Eltern schenkte!
+K. Heinr. Nehmt unſern Dank, werther Lord Erz-
+biſchof.
+Wie iſt ihr Nahm?
+Cranm. Eliſabeth.
+Steht auf, Lord.
+K. Heinr.
+(Indem er das Kind küßt.) Mit dieſem Kuß nimm meinen
+Segen. Schütze
+Dich Gott! In ſeine Hand dein Leben!
+Cranm.
+Amen.
+K. Heinr. Vieledle Pathen, ihr ſeid zu verſchwen-
+driſch.
+Ven Herzen Dank; ihn ſag&#39; auch die Prinzeſſin,
+Sobald ſie Engliſch ſpricht.
+Gönnt mir das Wort, Sire.
+Cranm.
+Der Himmel heißt mich ſprechen, und mein Wort
+Sei Schmeichelei nicht; denn beſtät&#39;gen wird&#39;s ſich.
+Dies Königskind (der Himmel ſchirm es ſtets!)
+Zwar in der Wiege noch, verheißet dennoch
+Dem Lande tauſend, tauſend Segnungen,
+Zu reifen durch die Zeit. Ein Muſter wird ſie
+(Wenn Wen&#39;g&#39; auch nur von uns dies Heil erleben,)
+All ihren Fürſtenzeitgenoſſen ſein,
+Und allen die ihr folgen. Saba&#39;s Kön&#39;gin
+War durſt&#39;ger nie nach Weisheit und nach Tugend,
+Als dieſe reine Seel es ſein wird. Alle
+Fürſtliche Huld, die ſolch ein Kleinod adelt,
+Wird zwiefach in ihr ſein mit jeder Tugend,
+Womit ſich Edle ſchmücken. Wahrheit
+Wird Amm&#39; ihr ſein, fromm-heiliger Gedanke
+Stets Rath ihr geben. Lieben wird man ſie
+Und fürchten. Segnen werden ſie die Jhr&#39;gen;</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6189" imageWidth="3779">
+    <PrintSpace>
+        <Coords points="0,0 0,3779 6189,3779 6189,3779"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3779 6189,3779 6189,3779"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="345,309 345,452 417,452 417,309"/>
+            <TextEquiv>
+                <Unicode>178</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="322,1434 322,2559 425,2559 425,1434"/>
+            <TextEquiv>
+                <Unicode>Verlorne Liebesmühe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="497,327 497,2001 576,2001 576,327"/>
+            <TextEquiv>
+                <Unicode>Boyet. Ins Schwarz&#39; - o merkt&#39;s! Ins Schwarze!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="564,742 564,1447 641,1447 641,742"/>
+            <TextEquiv>
+                <Unicode>Das kitzelte ſie höchlich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="630,261 630,1970 711,1970 711,261"/>
+            <TextEquiv>
+                <Unicode>Steckt einen Stift hinein und meßt es aus wo möglich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="705,336 705,2004 782,2004 782,336"/>
+            <TextEquiv>
+                <Unicode>Mar. Weit ab! O, weit gefehlt! Ihr zielt wahrhaf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="775,758 775,1091 852,1091 852,758"/>
+            <TextEquiv>
+                <Unicode>tig ſchlecht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="842,330 842,2007 925,2007 925,330"/>
+            <TextEquiv>
+                <Unicode>Plump. Ja, grad aus muß er ſchießen, ſonſt trifft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="913,751 913,1246 987,1246 987,751"/>
+            <TextEquiv>
+                <Unicode>er nimmer recht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="983,330 983,2007 1061,2007 1061,330"/>
+            <TextEquiv>
+                <Unicode>Boyet. Hab&#39; ich das Ziel verfehlt, ſteckt ihr wohl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1054,750 1054,1225 1114,1225 1114,750"/>
+            <TextEquiv>
+                <Unicode>mitten drinnen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1123,328 1123,2010 1200,2010 1200,328"/>
+            <TextEquiv>
+                <Unicode>Plump. Sie ſpaltet dann den Stift und wir den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1194,750 1194,1233 1267,1233 1267,750"/>
+            <TextEquiv>
+                <Unicode>Preis gewinnen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1260,333 1260,2010 1336,2010 1336,333"/>
+            <TextEquiv>
+                <Unicode>Mar. Beſudelt nicht den Mund euch. Sprecht nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1331,747 1331,1468 1406,1468 1406,747"/>
+            <TextEquiv>
+                <Unicode>ſo frech, habt Acht!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1397,329 1397,2013 1478,2013 1478,329"/>
+            <TextEquiv>
+                <Unicode>Plump. Für&#39;n Stift iſt ſie zu ſpröd&#39; euch, auf Ku-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1472,752 1472,1263 1546,1263 1546,752"/>
+            <TextEquiv>
+                <Unicode>geln ſeid bedacht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1537,334 1537,2012 1615,2012 1615,334"/>
+            <TextEquiv>
+                <Unicode>Boyet. Ich fürchte mich vor Reibung. Du Eul-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1608,751 1608,1301 1685,1301 1685,751"/>
+            <TextEquiv>
+                <Unicode>chen, gute Nacht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1674,989 1674,1895 1733,1895 1733,989"/>
+            <TextEquiv>
+                <Unicode>(Bonet und Maria gehen ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1746,334 1746,2012 1823,2012 1823,334"/>
+            <TextEquiv>
+                <Unicode>Plump. Mein Sir, ein grober Kerl, ein Bauern-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1818,751 1818,1318 1891,1318 1891,751"/>
+            <TextEquiv>
+                <Unicode>klotz, ein Lümmel!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1881,265 1881,2011 1959,2011 1959,265"/>
+            <TextEquiv>
+                <Unicode>Wie wiſchten ihn die Damen, wie ich ihn an - o Himmel!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1953,267 1953,2008 2032,2008 2032,267"/>
+            <TextEquiv>
+                <Unicode>Wahrhaftig, leckre Späßchen, durchtriebner Pöbelwitz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2024,268 2024,2013 2101,2013 2101,268"/>
+            <TextEquiv>
+                <Unicode>Recht fließend, glatt und ſchlüpfrig und paſſend - ei,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2099,756 2099,1136 2173,1136 2173,756"/>
+            <TextEquiv>
+                <Unicode>potz Blitz!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2160,272 2160,1839 2235,1839 2235,272"/>
+            <TextEquiv>
+                <Unicode>Und einerſeits Armado - ein allerliebſter Schächer,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2227,268 2227,2013 2309,2013 2309,268"/>
+            <TextEquiv>
+                <Unicode>Geht vor der Dam&#39; er her und trägt ihr ihren Fächer;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2300,272 2300,1940 2377,1940 2377,272"/>
+            <TextEquiv>
+                <Unicode>Zu ſehen, wie er ſchwört und ihr das Händchen küßt!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2371,269 2371,2010 2451,2010 2451,269"/>
+            <TextEquiv>
+                <Unicode>Und andrerſeits ſein Page, der&#39;n Stück von Witzbold iſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2440,274 2440,1821 2516,1821 2516,274"/>
+            <TextEquiv>
+                <Unicode>O Himmel! was iſt das für&#39;n pathetiſches Geniſt!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2512,265 2512,2016 2586,2016 2586,265"/>
+            <TextEquiv>
+                <Unicode>(Man hört von außen ſchießen). Holla! Holla! (Er läuft ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2645,798 2645,1491 2723,1491 2723,798"/>
+            <TextEquiv>
+                <Unicode>Zweiter Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2743,688 2743,1591 2823,1591 2823,688"/>
+            <TextEquiv>
+                <Unicode>Ein anderer Theil des Parks.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2835,396 2835,1888 2906,1888 2906,396"/>
+            <TextEquiv>
+                <Unicode>(Holofernes, Nathanael und Toll treten auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2920,337 2920,2014 3011,2014 3011,337"/>
+            <TextEquiv>
+                <Unicode>Nath. Höchſt ehrenwerthes Waidwerk, fürwahr; und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2991,272 2991,1830 3075,1830 3075,272"/>
+            <TextEquiv>
+                <Unicode>betrieben unter dem Zeugnis eines guten Gewiſſens.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="3062,339 3062,2013 3144,2013 3144,339"/>
+            <TextEquiv>
+                <Unicode>Hol. Das Reh war, wie ihr wiſſet, in sanguis, in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3129,268 3129,2018 3217,2018 3217,268"/>
+            <TextEquiv>
+                <Unicode>Blut; reif wie ein Paradiesapfel, der zuerſt wie ein Ju-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3200,269 3200,2015 3284,2015 3284,269"/>
+            <TextEquiv>
+                <Unicode>wel im Ohre des coeli, der Luftregion, des Firmamentes,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3268,271 3268,2017 3356,2017 3356,271"/>
+            <TextEquiv>
+                <Unicode>des Himmels hängt, und dann wie ein Holzapfel nieder-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3337,271 3337,2017 3425,2017 3425,271"/>
+            <TextEquiv>
+                <Unicode>fällt auf das Antlitz der terra, des Bodens, des Ackers,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3410,307 3410,589 3468,589 3468,307"/>
+            <TextEquiv>
+                <Unicode>der Erde.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3475,344 3475,2016 3564,2016 3564,344"/>
+            <TextEquiv>
+                <Unicode>Nath. Richtig, Meiſter Holofernes; die Epitheta va-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3547,272 3547,2020 3626,2020 3626,272"/>
+            <TextEquiv>
+                <Unicode>riiren allerliebſt, mindeſtens ſo gut, wie bei einem Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3618,272 3618,2019 3701,2019 3701,272"/>
+            <TextEquiv>
+                <Unicode>lehrten. Aber, Herr, ich verſichere euch, es war ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3685,299 3685,932 3760,932 3760,299"/>
+            <TextEquiv>
+                <Unicode>fünfjähriger Rehbock.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3757,353 3757,1498 3831,1498 3831,353"/>
+            <TextEquiv>
+                <Unicode>Hol. Herr Nathanael, haud credo.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3826,342 3826,2016 3909,2016 3909,342"/>
+            <TextEquiv>
+                <Unicode>Toll. Es war kein haud credo, es war ein Spießhirſch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3896,345 3896,2017 3977,2017 3977,345"/>
+            <TextEquiv>
+                <Unicode>Hol. Barbariſche Intimation, dennoch eine Art von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3966,273 3966,2021 4048,2021 4048,273"/>
+            <TextEquiv>
+                <Unicode>Inſinuation, gewiſſermaaßen in via, d. i. auf dem Wege</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="4036,273 4036,2020 4118,2020 4118,273"/>
+            <TextEquiv>
+                <Unicode>der Explication facere oder gemacht; gleichſam eine re</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="4106,278 4106,2021 4187,2021 4187,278"/>
+            <TextEquiv>
+                <Unicode>plicato, oder vielmehr ein ostentare, d. i. zur Schau</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4176,278 4176,2020 4257,2020 4257,278"/>
+            <TextEquiv>
+                <Unicode>tragen, und zwar ſeine Inclination - nach ſeiner unge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4245,277 4245,2023 4327,2023 4327,277"/>
+            <TextEquiv>
+                <Unicode>hobelten, unpolirten, unerzogenen, unbeſchnittenen, unge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4315,275 4315,2022 4396,2022 4396,275"/>
+            <TextEquiv>
+                <Unicode>bildeten, oder vielmehr ungelehrten, oder am vielmeiſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4383,276 4383,2025 4466,2025 4466,276"/>
+            <TextEquiv>
+                <Unicode>unhaltbaren Weiſe, um mein haud credo für einen Spieß-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4450,306 4450,831 4526,831 4526,306"/>
+            <TextEquiv>
+                <Unicode>hirſch auszugeben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4522,347 4522,2021 4603,2021 4603,347"/>
+            <TextEquiv>
+                <Unicode>Toll. Jch ſagte, der Rehbock wäre kein haud credo,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4594,298 4594,1159 4665,1159 4665,298"/>
+            <TextEquiv>
+                <Unicode>ſondern er war ein Spießer.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4663,347 4663,2022 4741,2022 4741,347"/>
+            <TextEquiv>
+                <Unicode>Hol. Zweifach geſottene Einfalt , bis coctus! O, du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4732,280 4732,2021 4807,2021 4807,280"/>
+            <TextEquiv>
+                <Unicode>Ungeheuer von Unwiſſenheit, wie ungeſtaltet ſiehſt du aus!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4802,349 4802,2021 4883,2021 4883,349"/>
+            <TextEquiv>
+                <Unicode>Nath. Herr, er hat ſich nie mit den Leckerbißlein ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4867,280 4867,2023 4953,2023 4953,280"/>
+            <TextEquiv>
+                <Unicode>füttert, die da in Büchern bereitet ſind; er hat kein Pa-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4940,244 4940,2023 5026,2023 5026,244"/>
+            <TextEquiv>
+                <Unicode>pier gefreſſen, hat gleichſam niemahls Dinte getrunken;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="5009,244 5009,2024 5090,2024 5090,244"/>
+            <TextEquiv>
+                <Unicode>ſeine Geiſteskraft iſt nicht ausgequollen; er iſt nur ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="5072,234 5072,1841 5165,1841 5165,234"/>
+            <TextEquiv>
+                <Unicode>Thier, nur an ſeinen tolleren Theilen empfindlich;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5145,230 5145,2025 5246,2025 5246,230"/>
+            <TextEquiv>
+                <Unicode>und ſolche dürre Pflanzen ſtehn vor uns, die wir Ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5219,759 5219,1570 5298,1570 5298,759"/>
+            <TextEquiv>
+                <Unicode>ſchmack und Gefühl haben,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5255,243 5255,2025 5387,2025 5387,243"/>
+            <TextEquiv>
+                <Unicode>Damit wir Gott danken, der mehr als ihm uns ſchenkte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5358,764 5358,1396 5441,1396 5441,764"/>
+            <TextEquiv>
+                <Unicode>fruchtreichere Gaben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5386,231 5386,2026 5523,2026 5523,231"/>
+            <TextEquiv>
+                <Unicode>Denn wär&#39; ich eitel und vorlaut und närriſch, würd&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5497,769 5497,1260 5574,1260 5574,769"/>
+            <TextEquiv>
+                <Unicode>übel mir ſtehen:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5525,229 5525,2024 5651,2024 5651,229"/>
+            <TextEquiv>
+                <Unicode>So auch wär&#39; es Pasquill auf Gelahrtheit, würd&#39; ihn in</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5640,760 5640,1439 5720,1439 5720,760"/>
+            <TextEquiv>
+                <Unicode>der Schule man ſehen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>178
+Verlorne Liebesmühe.
+Boyet. Ins Schwarz&#39; - o merkt&#39;s! Ins Schwarze!
+Das kitzelte ſie höchlich.
+Steckt einen Stift hinein und meßt es aus wo möglich.
+Mar. Weit ab! O, weit gefehlt! Ihr zielt wahrhaf-
+tig ſchlecht.
+Plump. Ja, grad aus muß er ſchießen, ſonſt trifft
+er nimmer recht.
+Boyet. Hab&#39; ich das Ziel verfehlt, ſteckt ihr wohl
+mitten drinnen?
+Plump. Sie ſpaltet dann den Stift und wir den
+Preis gewinnen.
+Mar. Beſudelt nicht den Mund euch. Sprecht nicht
+ſo frech, habt Acht!
+Plump. Für&#39;n Stift iſt ſie zu ſpröd&#39; euch, auf Ku-
+geln ſeid bedacht.
+Boyet. Ich fürchte mich vor Reibung. Du Eul-
+chen, gute Nacht
+(Bonet und Maria gehen ab.)
+Plump. Mein Sir, ein grober Kerl, ein Bauern-
+klotz, ein Lümmel!
+Wie wiſchten ihn die Damen, wie ich ihn an - o Himmel!
+Wahrhaftig, leckre Späßchen, durchtriebner Pöbelwitz
+Recht fließend, glatt und ſchlüpfrig und paſſend - ei,
+potz Blitz!
+Und einerſeits Armado - ein allerliebſter Schächer,
+Geht vor der Dam&#39; er her und trägt ihr ihren Fächer;
+Zu ſehen, wie er ſchwört und ihr das Händchen küßt!
+Und andrerſeits ſein Page, der&#39;n Stück von Witzbold iſt.
+O Himmel! was iſt das für&#39;n pathetiſches Geniſt!
+(Man hört von außen ſchießen). Holla! Holla! (Er läuft ab.)
+Zweiter Auftritt.
+Ein anderer Theil des Parks.
+(Holofernes, Nathanael und Toll treten auf.)
+Nath. Höchſt ehrenwerthes Waidwerk, fürwahr; und
+betrieben unter dem Zeugnis eines guten Gewiſſens.
+Hol. Das Reh war, wie ihr wiſſet, in sanguis, in
+Blut; reif wie ein Paradiesapfel, der zuerſt wie ein Ju-
+wel im Ohre des coeli, der Luftregion, des Firmamentes,
+des Himmels hängt, und dann wie ein Holzapfel nieder-
+fällt auf das Antlitz der terra, des Bodens, des Ackers,
+der Erde.
+Nath. Richtig, Meiſter Holofernes; die Epitheta va-
+riiren allerliebſt, mindeſtens ſo gut, wie bei einem Ge-
+lehrten. Aber, Herr, ich verſichere euch, es war ein
+fünfjähriger Rehbock.
+Hol. Herr Nathanael, haud credo.
+Toll. Es war kein haud credo, es war ein Spießhirſch.
+Hol. Barbariſche Intimation, dennoch eine Art von
+Inſinuation, gewiſſermaaßen in via, d. i. auf dem Wege
+der Explication facere oder gemacht; gleichſam eine re
+plicato, oder vielmehr ein ostentare, d. i. zur Schau
+tragen, und zwar ſeine Inclination - nach ſeiner unge-
+hobelten, unpolirten, unerzogenen, unbeſchnittenen, unge-
+bildeten, oder vielmehr ungelehrten, oder am vielmeiſten
+unhaltbaren Weiſe, um mein haud credo für einen Spieß-
+hirſch auszugeben.
+Toll. Jch ſagte, der Rehbock wäre kein haud credo,
+ſondern er war ein Spießer.
+Hol. Zweifach geſottene Einfalt , bis coctus! O, du
+Ungeheuer von Unwiſſenheit, wie ungeſtaltet ſiehſt du aus!
+Nath. Herr, er hat ſich nie mit den Leckerbißlein ge-
+füttert, die da in Büchern bereitet ſind; er hat kein Pa-
+pier gefreſſen, hat gleichſam niemahls Dinte getrunken;
+ſeine Geiſteskraft iſt nicht ausgequollen; er iſt nur ein
+Thier, nur an ſeinen tolleren Theilen empfindlich;
+und ſolche dürre Pflanzen ſtehn vor uns, die wir Ge-
+ſchmack und Gefühl haben,
+Damit wir Gott danken, der mehr als ihm uns ſchenkte
+fruchtreichere Gaben
+Denn wär&#39; ich eitel und vorlaut und närriſch, würd&#39;s
+übel mir ſtehen:
+So auch wär&#39; es Pasquill auf Gelahrtheit, würd&#39; ihn in
+der Schule man ſehen.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

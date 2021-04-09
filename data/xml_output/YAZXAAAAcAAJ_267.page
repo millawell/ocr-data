@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6120" imageWidth="3748">
+    <PrintSpace>
+        <Coords points="0,0 0,3748 6120,3748 6120,3748"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3748 6120,3748 6120,3748"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="304,345 304,498 376,498 376,345"/>
+            <TextEquiv>
+                <Unicode>248</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="293,1459 293,2617 398,2617 398,1459"/>
+            <TextEquiv>
+                <Unicode>Ende gut, Alles gut.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="463,387 463,1474 537,1474 537,387"/>
+            <TextEquiv>
+                <Unicode>Erſt. Edelm. Ganz vortrefflich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="532,374 532,2046 607,2046 607,374"/>
+            <TextEquiv>
+                <Unicode>Sold. (leſend). „Diana, der Graf iſt ein Narr und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="601,332 601,899 678,899 678,332"/>
+            <TextEquiv>
+                <Unicode>ſchwer von Gold.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="668,380 668,2049 747,2049 747,380"/>
+            <TextEquiv>
+                <Unicode>Par. Das iſt nicht des Herzogs Brief, Herr, das iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="738,309 738,2050 818,2050 818,309"/>
+            <TextEquiv>
+                <Unicode>eine Zuſchrift an ein gewiſſes Mädchen in Florenz, eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="808,308 808,2051 887,2051 887,308"/>
+            <TextEquiv>
+                <Unicode>gewiſſe Diana, ſich vor den Lockungen eines Grafen Rouſ-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="880,306 880,2050 956,2050 956,306"/>
+            <TextEquiv>
+                <Unicode>ſillon, eines albernen, eiteln Burſchen, der bei alldem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="949,310 949,2052 1027,2052 1027,310"/>
+            <TextEquiv>
+                <Unicode>höchſt geil iſt, zu hüten. Ich bitte euch, ſteckt mir das</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1019,329 1019,1277 1094,1277 1094,329"/>
+            <TextEquiv>
+                <Unicode>Schreiben wieder in die Taſche.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1088,391 1088,1549 1161,1549 1161,391"/>
+            <TextEquiv>
+                <Unicode>Sold. Nein, erſt will ich ihn leſen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1156,379 1156,2051 1237,2051 1237,379"/>
+            <TextEquiv>
+                <Unicode>Par. Meine Abſicht dabei war, ſag&#39; ich, höchſt red-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1226,310 1226,2053 1309,2053 1309,310"/>
+            <TextEquiv>
+                <Unicode>lich in Abſicht auf das Mädchen; denn ich weiß, daß der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1296,309 1296,2050 1376,2050 1376,309"/>
+            <TextEquiv>
+                <Unicode>junge Graf ein gefährlicher und ausſchweifender Geſell,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1368,311 1368,2053 1444,2053 1444,311"/>
+            <TextEquiv>
+                <Unicode>ein wahrer Haifiſch der Jungfraunſchaft iſt, der alle Fiſch-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1438,330 1438,1251 1513,1251 1513,330"/>
+            <TextEquiv>
+                <Unicode>brut verſchlingt, die er ſindet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1507,383 1507,2049 1583,2049 1583,383"/>
+            <TextEquiv>
+                <Unicode>Bert. Verdammenswerther, doppelzüngiger Schurke!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1574,382 1574,2053 1653,2053 1653,382"/>
+            <TextEquiv>
+                <Unicode>Sold. (leſend). „Schwört er, ſo fordre Geld von ihm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1648,799 1648,1230 1721,1230 1721,799"/>
+            <TextEquiv>
+                <Unicode>und nimm es;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1712,319 1712,1732 1796,1732 1796,319"/>
+            <TextEquiv>
+                <Unicode>„Ankreiden läßt er, zahlt doch nie die Kreide;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1785,312 1785,2054 1867,2054 1867,312"/>
+            <TextEquiv>
+                <Unicode>„Sei klug beim Handel drum, ſonſt wird dir Schlimmes,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1853,316 1853,1943 1935,1943 1935,316"/>
+            <TextEquiv>
+                <Unicode>„Gemachte Schuld nicht zahlen, macht ihm Freude.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1923,317 1923,1880 2003,1880 2003,317"/>
+            <TextEquiv>
+                <Unicode>„Dann, Diana, ſprich, wie wir&#39;s gerathen haben:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1994,314 1994,1982 2073,1982 2073,314"/>
+            <TextEquiv>
+                <Unicode>„Die Männer küßt man wohl, doch nicht die Knaben!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2065,316 2065,1896 2145,1896 2145,316"/>
+            <TextEquiv>
+                <Unicode>„Glaub mir, ein Narr iſt dieſer Graf, ich ſchwör&#39;,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2131,322 2131,1675 2212,1675 2212,322"/>
+            <TextEquiv>
+                <Unicode>„Er zahlt voraus, doch niemahls hinterher.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2204,412 2204,2056 2282,2056 2282,412"/>
+            <TextEquiv>
+                <Unicode>„Dein, wie ich dirs ins Ohr gelobt - Paroles.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2273,382 2273,2060 2354,2060 2354,382"/>
+            <TextEquiv>
+                <Unicode>Bert. Er ſoll durch die Armee gepeitſcht werden, mit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2344,331 2344,1201 2418,1201 2418,331"/>
+            <TextEquiv>
+                <Unicode>dieſen Reimen an der Stirn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2412,385 2412,2058 2495,2058 2495,385"/>
+            <TextEquiv>
+                <Unicode>Zweit. Edelm. Das iſt euer treuergebener Freund,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2484,313 2484,2063 2564,2063 2564,313"/>
+            <TextEquiv>
+                <Unicode>Herr Graf, der gewandte Sprachkenner, der waffentüch-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2555,346 2555,730 2630,730 2630,346"/>
+            <TextEquiv>
+                <Unicode>tige Krieger!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2620,386 2620,2060 2702,2060 2702,386"/>
+            <TextEquiv>
+                <Unicode>Bert. Alles konnte ich bisher ertragen, nur keine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2692,333 2692,1339 2767,1339 2767,333"/>
+            <TextEquiv>
+                <Unicode>Katze, jetzt iſt er mir eine Katze.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2763,388 2763,2058 2844,2058 2844,388"/>
+            <TextEquiv>
+                <Unicode>Sold. Aus den Blicken des Generals nehme ich ab,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2831,315 2831,1606 2910,1606 2910,315"/>
+            <TextEquiv>
+                <Unicode>daß wir euch wohl werden hängen müſſen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2902,387 2902,2059 2979,2059 2979,387"/>
+            <TextEquiv>
+                <Unicode>Par. Um mein Leben bitt&#39; ich, Herr, und das jeden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2970,315 2970,2063 3054,2063 3054,315"/>
+            <TextEquiv>
+                <Unicode>Falles. Nicht daß ich mich vor dem Tode fürchte; aber</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3041,319 3041,2063 3118,2063 3118,319"/>
+            <TextEquiv>
+                <Unicode>meiner Sünden ſind viele, ich möchte den Reſt meines</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3113,318 3113,2059 3189,2059 3189,318"/>
+            <TextEquiv>
+                <Unicode>Lebens dazu verwenden, ſie zu bereuen. Laßt mich leben,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3182,316 3182,2062 3260,2062 3260,316"/>
+            <TextEquiv>
+                <Unicode>Herr - im Kerker, im Stock oder ſonſt wo - wenn ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3252,353 3252,624 3315,624 3315,353"/>
+            <TextEquiv>
+                <Unicode>nur lebe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3321,388 3321,2063 3398,2063 3398,388"/>
+            <TextEquiv>
+                <Unicode>Sold. Wir wollen ſehen, was ſich thun läßt, wenn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3390,318 3390,2067 3468,2067 3468,318"/>
+            <TextEquiv>
+                <Unicode>ihr freimüthig bekennt. Darum fragt man nochmahls hin-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3461,319 3461,2065 3538,2065 3538,319"/>
+            <TextEquiv>
+                <Unicode>ſichtlich des Hauptmanns Dumain. Jn Betreff ſeiner Tap-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3531,321 3531,2065 3607,2065 3607,321"/>
+            <TextEquiv>
+                <Unicode>ferkeit und ſeines Anſehens bei dem Herzoge habt ihr geant-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3602,321 3602,1977 3679,1977 3679,321"/>
+            <TextEquiv>
+                <Unicode>wortet - „Wie ſieht es mit ſeiner Redlichkeit aus?“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3670,389 3670,2066 3748,2066 3748,389"/>
+            <TextEquiv>
+                <Unicode>Par. Er wird euch ein Ei aus einem Kloſter ſteh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3741,320 3741,2066 3815,2066 3815,320"/>
+            <TextEquiv>
+                <Unicode>len, Herr; denn im Rauben und Mädchenentführen kommt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3810,321 3810,2065 3900,2065 3900,321"/>
+            <TextEquiv>
+                <Unicode>er dem Neſus gleich. Er macht kein Geſchäft daraus,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3880,320 3880,2069 3954,2069 3954,320"/>
+            <TextEquiv>
+                <Unicode>ſeine Schwüre zu halten, allein im Brechen derſelben iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3949,323 3949,2070 4030,2070 4030,323"/>
+            <TextEquiv>
+                <Unicode>er ſtärker als Herkules. Er wird mit ſolcher Zungenge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4019,321 4019,2068 4097,2068 4097,321"/>
+            <TextEquiv>
+                <Unicode>läufigkeit lügen, Herr, daß ihr glauben möchtet, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4088,322 4088,2072 4164,2072 4164,322"/>
+            <TextEquiv>
+                <Unicode>Wahrheit ſei eine Närrin; Trunkenheit iſt ſeine beſte Tu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4159,322 4159,2072 4237,2072 4237,322"/>
+            <TextEquiv>
+                <Unicode>gend; denn er iſt ſaubetrunken; und im Schlafe thut er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4229,322 4229,2069 4306,2069 4306,322"/>
+            <TextEquiv>
+                <Unicode>am wenigſten Jemandem etwas zu Leide, außer ſeinen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4298,321 4298,2069 4377,2069 4377,321"/>
+            <TextEquiv>
+                <Unicode>Betttüchern. Allein man kennt ſeine Zuſtände und legt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4365,322 4365,2073 4447,2073 4447,322"/>
+            <TextEquiv>
+                <Unicode>ihn daher auf Stroh. Jch habe wenig mehr von ſeiner</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4438,323 4438,2071 4516,2071 4516,323"/>
+            <TextEquiv>
+                <Unicode>Rechtſchaffenheit zu ſagen, Herr; er beſitzt Alles, was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4507,324 4507,2071 4588,2071 4588,324"/>
+            <TextEquiv>
+                <Unicode>ein rechtſchaffener Mann nicht beſitzen ſollte; von dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4575,324 4575,2072 4656,2072 4656,324"/>
+            <TextEquiv>
+                <Unicode>aber, was ein rechtſchaffener Mann beſitzen ſollte, beſitzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4644,363 4644,640 4718,640 4718,363"/>
+            <TextEquiv>
+                <Unicode>er nichts.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4711,399 4711,2074 4793,2074 4793,399"/>
+            <TextEquiv>
+                <Unicode>Erſt. Edelm. Jch fange an, ihn um dieſer Aeuße-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4785,349 4785,1179 4857,1179 4857,349"/>
+            <TextEquiv>
+                <Unicode>rung willen liebzugewinnen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4852,404 4852,2076 4934,2076 4934,404"/>
+            <TextEquiv>
+                <Unicode>Bert. Um dieſer Beſchreibung deiner Rechtſchaffenheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4924,327 4924,2077 5006,2077 5006,327"/>
+            <TextEquiv>
+                <Unicode>willen? Die Peſt über ihn von meinetwegen; mir gilt er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4994,348 4994,1326 5069,1326 5069,348"/>
+            <TextEquiv>
+                <Unicode>nur um ſo mehr für eine Katze!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5064,401 5064,2074 5144,2074 5144,401"/>
+            <TextEquiv>
+                <Unicode>Sold. Was ſagt ihr von ſeiner Erfahrung im Kriegs-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5133,367 5133,587 5202,587 5202,367"/>
+            <TextEquiv>
+                <Unicode>dienſte?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5199,403 5199,2075 5285,2075 5285,403"/>
+            <TextEquiv>
+                <Unicode>Par. Fürwahr, Herr, er hat vor den engländiſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5272,329 5272,2078 5351,2078 5351,329"/>
+            <TextEquiv>
+                <Unicode>Tragödienſpielern die Trommel her getragen - belügen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5343,329 5343,2080 5419,2080 5419,329"/>
+            <TextEquiv>
+                <Unicode>will ich ihn nicht - und mehr weiß ich nicht von ſeinem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5412,330 5412,2080 5491,2080 5491,330"/>
+            <TextEquiv>
+                <Unicode>Soldatenthum, ausgenommen daß er in jenem Lande, Eng-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5483,331 5483,2083 5561,2083 5561,331"/>
+            <TextEquiv>
+                <Unicode>land, die Ehre hatte, an einem Orte, Meilenend ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5551,331 5551,2081 5631,2081 5631,331"/>
+            <TextEquiv>
+                <Unicode>nannt, Offizier zu ſein, und im Bilden doppelter Reihen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="5619,330 5619,2082 5699,2082 5699,330"/>
+            <TextEquiv>
+                <Unicode>Unterricht zu geben. Gern möchte ich dem Mann alle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="265,3415 265,3740 422,3740 422,3415"/>
+            <TextEquiv>
+                <Unicode>Akt IV.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="443,2019 443,3774 552,3774 552,2019"/>
+            <TextEquiv>
+                <Unicode>ihm gebührende Ehre erweiſen, aber über dieſen Umſtand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="529,2040 529,2907 603,2907 603,2040"/>
+            <TextEquiv>
+                <Unicode>bin ich nicht genau berichtet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="593,2091 593,3777 725,3777 725,2091"/>
+            <TextEquiv>
+                <Unicode>Erst. Edelm. Er hat die Spitzbüberei ſo ausgelernt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="669,2034 669,3254 743,3254 743,2034"/>
+            <TextEquiv>
+                <Unicode>daß die Seltenheit ihn wieder losſpricht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="722,2092 722,3777 822,3777 822,2092"/>
+            <TextEquiv>
+                <Unicode>Bert. Die Peſt über ihn; er hat doch eine Katzenatur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="808,2091 808,3776 891,3776 891,2091"/>
+            <TextEquiv>
+                <Unicode>Sold. Da ſeine Eigenſchaften in ſo ärmlichem Preſe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_84">
+        
+            <Coords points="873,2022 873,3776 985,3776 985,2022"/>
+            <TextEquiv>
+                <Unicode>ſtehen, ſo brauche ich euch nicht zu fragen, ob Gold ohn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_85">
+        
+            <Coords points="947,2038 947,2964 1022,2964 1022,2038"/>
+            <TextEquiv>
+                <Unicode>zur Empörung beſtechen kann?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_86">
+        
+            <Coords points="998,2088 998,3775 1096,3775 1096,2088"/>
+            <TextEquiv>
+                <Unicode>Par. Herr, für einen Viertel-Kronthaler wird er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_87">
+        
+            <Coords points="1085,2021 1085,3776 1163,3776 1163,2021"/>
+            <TextEquiv>
+                <Unicode>das Freilehn ſeiner Erlöſung, das Erbrecht derſelben ver</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_88">
+        
+            <Coords points="1154,2021 1154,3776 1234,3776 1234,2021"/>
+            <TextEquiv>
+                <Unicode>kaufen, und alle ſeine Nachkommen des Erbrechts und der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_89">
+        
+            <Coords points="1227,2046 1227,2828 1300,2828 1300,2046"/>
+            <TextEquiv>
+                <Unicode>ewigen Erbfolge berauben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_90">
+        
+            <Coords points="1368,2049 1368,2654 1439,2654 1439,2049"/>
+            <TextEquiv>
+                <Unicode>der zweite Dumain?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_91">
+        
+            <Coords points="1401,2099 1401,3775 1533,3775 1533,2099"/>
+            <TextEquiv>
+                <Unicode>Zweit. Edelm. Warum fragt er ihn nach mir?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_92">
+        
+            <Coords points="1506,2110 1506,3211 1579,3211 1579,2110"/>
+            <TextEquiv>
+                <Unicode>Sold. Was für ein Mann iſt er?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_93">
+        
+            <Coords points="1552,2101 1552,3775 1653,3775 1653,2101"/>
+            <TextEquiv>
+                <Unicode>Par. Eine Krähe aus demſeiben Neſte, im Guten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_94">
+        
+            <Coords points="1644,2024 1644,3777 1722,3777 1722,2024"/>
+            <TextEquiv>
+                <Unicode>nicht ſo groß als Jener, aber im Schlechten einen großen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_95">
+        
+            <Coords points="1715,2026 1715,3777 1791,3777 1791,2026"/>
+            <TextEquiv>
+                <Unicode>Theil größer. Als Feigling übertrifft er ſeinen Bruder,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_96">
+        
+            <Coords points="1785,2025 1785,3780 1861,3780 1861,2025"/>
+            <TextEquiv>
+                <Unicode>wiewohl dieſer für ein Muſter von der Sorte gilt. Beim</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_97">
+        
+            <Coords points="1852,2026 1852,3780 1931,3780 1931,2026"/>
+            <TextEquiv>
+                <Unicode>Rückzuge läßt er jeden Schnellläufer hinter ſich, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_98">
+        
+            <Coords points="1924,2026 1924,3780 1998,3780 1998,2026"/>
+            <TextEquiv>
+                <Unicode>wenn&#39;s ans Vorrücken geht, bekommt er den Krampf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_99">
+        
+            <Coords points="1992,2097 1992,3779 2070,3779 2070,2097"/>
+            <TextEquiv>
+                <Unicode>Sold. Wenn eures Lebens geſchont wird, wollt ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_100">
+        
+            <Coords points="2065,2031 2065,3780 2141,3780 2141,2031"/>
+            <TextEquiv>
+                <Unicode>es dann unternehmen, den Florentiner Herzog zu verrathen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_101">
+        
+            <Coords points="2133,2100 2133,3777 2227,3777 2227,2100"/>
+            <TextEquiv>
+                <Unicode>Par. Ja, und den Oberbefehlshaber ſeiner Reiterei,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_102">
+        
+            <Coords points="2204,2047 2204,3061 2277,3061 2277,2047"/>
+            <TextEquiv>
+                <Unicode>den Grafen Rouſſillon, ebenfalls.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_103">
+        
+            <Coords points="2227,2102 2227,3778 2413,3778 2413,2102"/>
+            <TextEquiv>
+                <Unicode>Sold. Ich will leiſe mit dem General ſprechen und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_104">
+        
+            <Coords points="2343,2048 2343,2981 2417,2981 2417,2048"/>
+            <TextEquiv>
+                <Unicode>ſeine Willensmeinung erkunden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_105">
+        
+            <Coords points="2409,2099 2409,3777 2489,3777 2489,2099"/>
+            <TextEquiv>
+                <Unicode>Par. (beiſeit). Jch will nichts mehr von Trommelei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_106">
+        
+            <Coords points="2480,2029 2480,3779 2556,3779 2556,2029"/>
+            <TextEquiv>
+                <Unicode>wiſſen. Die Peſt über alle Trommeln! Nur um ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_107">
+        
+            <Coords points="2549,2030 2549,3779 2627,3779 2627,2030"/>
+            <TextEquiv>
+                <Unicode>dienſtlich zu ſcheinen, und um die Meinung jenes ausſchwei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_108">
+        
+            <Coords points="2621,2029 2621,3779 2700,3779 2700,2029"/>
+            <TextEquiv>
+                <Unicode>fenden Knaben, des Grafen, zu beſtechen, habe ich mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_109">
+        
+            <Coords points="2689,2031 2689,3759 2769,3759 2769,2031"/>
+            <TextEquiv>
+                <Unicode>in dieſe Gefahr geſtürzt. Wer hätte auch an einem Ort,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_110">
+        
+            <Coords points="2760,2032 2760,3709 2836,3709 2836,2032"/>
+            <TextEquiv>
+                <Unicode>wo man mich griff, einen Hinterhalt vermuthen ſollen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_111">
+        
+            <Coords points="2828,2104 2828,3760 2906,3760 2906,2104"/>
+            <TextEquiv>
+                <Unicode>Sold. Da iſt keine Rettung, Herr; ihr müßt ſter-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_112">
+        
+            <Coords points="2899,2030 2899,3763 2976,3763 2976,2030"/>
+            <TextEquiv>
+                <Unicode>ben. Der General ſagt, daß ihr, der ihr ſo verräthe-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_113">
+        
+            <Coords points="2969,2030 2969,3762 3047,3762 3047,2030"/>
+            <TextEquiv>
+                <Unicode>riſch die Geheimniſſe eures Heeres aufgedeckt, und ſolche</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_114">
+        
+            <Coords points="3038,2031 3038,3783 3115,3783 3115,2031"/>
+            <TextEquiv>
+                <Unicode>ſtinkenden Berichte über Männer, die im höchſten Anſehen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_115">
+        
+            <Coords points="3108,2032 3108,3783 3186,3783 3186,2032"/>
+            <TextEquiv>
+                <Unicode>ſtehen, abgegeben habt, der Welt durchaus keinen Nutzen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_116">
+        
+            <Coords points="3176,2033 3176,3783 3276,3783 3276,2033"/>
+            <TextEquiv>
+                <Unicode>schafen könnt; deswegen müßt ihr ſterben. Kom her,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_117">
+        
+            <Coords points="3250,2046 3250,3332 3325,3332 3325,2046"/>
+            <TextEquiv>
+                <Unicode>Scharfrichter, herunter mit ſeinem Kopfe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_118">
+        
+            <Coords points="3286,2103 3286,3781 3417,3781 3417,2103"/>
+            <TextEquiv>
+                <Unicode>Par.  O Gott, Herr! Laßt mich leben, oder laßt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_119">
+        
+            <Coords points="3391,2055 3391,2776 3466,2776 3466,2055"/>
+            <TextEquiv>
+                <Unicode>mich meinen Tod ſehen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_120">
+        
+            <Coords points="3433,2109 3433,3782 3537,3782 3537,2109"/>
+            <TextEquiv>
+                <Unicode>Sold. Das ſollt ihr, und ſollt Abſchied von allen eu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_121">
+        
+            <Coords points="3520,2033 3520,3784 3625,3784 3625,2033"/>
+            <TextEquiv>
+                <Unicode>ren Freunden nehmen. (Er ninmt ihm die Binde ab). So,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_122">
+        
+            <Coords points="3600,2046 3600,3289 3676,3289 3676,2046"/>
+            <TextEquiv>
+                <Unicode>ſeht euch um; kennt ihr hier Jemanden?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_123">
+        
+            <Coords points="3671,2110 3671,3562 3744,3562 3744,2110"/>
+            <TextEquiv>
+                <Unicode>Bert. Guten Morgen, wackerer Hauptmann.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_124">
+        
+            <Coords points="3715,2110 3715,3782 3816,3782 3816,2110"/>
+            <TextEquiv>
+                <Unicode>Zweit. Edelm. Gott ſegne euch, Capitain Paroles.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_125">
+        
+            <Coords points="3810,2115 3810,3671 3884,3671 3884,2115"/>
+            <TextEquiv>
+                <Unicode>Erſt. Edelm. Gott mit euch, braver Capitain.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_126">
+        
+            <Coords points="3878,2113 3878,3763 3954,3763 3954,2113"/>
+            <TextEquiv>
+                <Unicode>Zweit. Edelm. Capitain, welchen Gruß habt ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_127">
+        
+            <Coords points="3948,2038 3948,3765 4027,3765 4027,2038"/>
+            <TextEquiv>
+                <Unicode>an Herrn Le Feu zu beſtellen? Jch reiſe nach Frankreich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_128">
+        
+            <Coords points="4019,2115 4019,3763 4093,3763 4093,2115"/>
+            <TextEquiv>
+                <Unicode>Erſt. Edelm. Lieber Capitain, wollt ihr mir eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_129">
+        
+            <Coords points="4090,2040 4090,3765 4168,3765 4168,2040"/>
+            <TextEquiv>
+                <Unicode>Abſchrift von dem Sonnette zukommen laſſen, das ihr an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_130">
+        
+            <Coords points="4156,2041 4156,3769 4236,3769 4236,2041"/>
+            <TextEquiv>
+                <Unicode>jene Diana, zu Gunſten des Grafen Rouſſillon ſchriebt!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_131">
+        
+            <Coords points="4227,2041 4227,3767 4304,3767 4304,2041"/>
+            <TextEquiv>
+                <Unicode>Wenn ich nicht ein ſo arger Feigling wäre, würde ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_132">
+        
+            <Coords points="4301,2052 4301,3363 4379,3363 4379,2052"/>
+            <TextEquiv>
+                <Unicode>euch abzwingen; ſo aber, gehabt euch wohl.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_133">
+        
+            <Coords points="4381,2519 4381,3715 4439,3715 4439,2519"/>
+            <TextEquiv>
+                <Unicode>(Bertram und die Edelleute gehen ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_134">
+        
+            <Coords points="4450,2115 4450,3765 4532,3765 4532,2115"/>
+            <TextEquiv>
+                <Unicode>Sold. Jhr ſeid hier, Capitain; nur eure Schärpe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_135">
+        
+            <Coords points="4526,2051 4526,3422 4600,3422 4600,2051"/>
+            <TextEquiv>
+                <Unicode>iſt es noch nicht, die hat noch ihren Knoten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_136">
+        
+            <Coords points="4605,2117 4605,3655 4687,3655 4687,2117"/>
+            <TextEquiv>
+                <Unicode>Par. Wer müßte nicht einem Complott erliegen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_137">
+        
+            <Coords points="4693,2116 4693,3766 4772,3766 4772,2116"/>
+            <TextEquiv>
+                <Unicode>Sold. Wenn ihr ein Land ausfindig machen könntet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_138">
+        
+            <Coords points="4763,2044 4763,3770 4841,3770 4841,2044"/>
+            <TextEquiv>
+                <Unicode>worin Weiber wären, die nicht mehr Schaam hätten als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_139">
+        
+            <Coords points="4833,2045 4833,3767 4914,3767 4914,2045"/>
+            <TextEquiv>
+                <Unicode>ihr habt, ſo könntet ihr eine freche Nation heranbilden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_140">
+        
+            <Coords points="4900,2044 4900,3768 4986,3768 4986,2044"/>
+            <TextEquiv>
+                <Unicode>Gehabt euch wohl, Herr. Auch ich gehe nach Frankreich;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_141">
+        
+            <Coords points="4979,2064 4979,3025 5051,3025 5051,2064"/>
+            <TextEquiv>
+                <Unicode>dort wollen wir von euch reden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_142">
+        
+            <Coords points="4989,3542 4989,3650 5042,3650 5042,3542"/>
+            <TextEquiv>
+                <Unicode>(ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_143">
+        
+            <Coords points="5057,2114 5057,3764 5143,3764 5143,2114"/>
+            <TextEquiv>
+                <Unicode>Par. Doch dank&#39; ichs euch. Mir bräch&#39; das Herz darüber,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_144">
+        
+            <Coords points="5128,2046 5128,3764 5212,3764 5212,2046"/>
+            <TextEquiv>
+                <Unicode>Wenn&#39;s groß wär&#39;. Hauptmann will ich nicht mehr ſein;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_145">
+        
+            <Coords points="5205,2054 5205,3438 5283,3438 5283,2054"/>
+            <TextEquiv>
+                <Unicode>Doch eſſen, trinken, ruhig ſchlafen will ich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_146">
+        
+            <Coords points="5270,2051 5270,3632 5351,3632 5351,2051"/>
+            <TextEquiv>
+                <Unicode>Wie&#39;s nur ein Hauptmann kann; mein liedes Selbſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_147">
+        
+            <Coords points="5343,2054 5343,3558 5422,3558 5422,2054"/>
+            <TextEquiv>
+                <Unicode>Soll Lebenszweck mir ſein. Wer ſich als Prahler</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_148">
+        
+            <Coords points="5413,2055 5413,3546 5491,3546 5491,2055"/>
+            <TextEquiv>
+                <Unicode>Erkennt, der fürchte Gleiches, &#39;s iſt gegründet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_149">
+        
+            <Coords points="5483,2061 5483,3266 5561,3266 5561,2061"/>
+            <TextEquiv>
+                <Unicode>Daß jeder Prahler ſich als Eſel kündet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_150">
+        
+            <Coords points="5545,2052 5545,3766 5633,3766 5633,2052"/>
+            <TextEquiv>
+                <Unicode>Schwerd, roſte! Schaam verſchwind! Ich will mich freun</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_151">
+        
+            <Coords points="5622,2053 5622,3668 5702,3668 5702,2053"/>
+            <TextEquiv>
+                <Unicode>Der Schmach! Als Narr ſoll Narrheit mir gedeihn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_152">
+        
+            <Coords points="5716,2003 5716,2137 5770,2137 5770,2003"/>
+            <TextEquiv>
+                <Unicode>XII.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>248
+Ende gut, Alles gut.
+Erſt. Edelm. Ganz vortrefflich.
+Sold. (leſend). „Diana, der Graf iſt ein Narr und
+ſchwer von Gold.“
+Par. Das iſt nicht des Herzogs Brief, Herr, das iſt
+eine Zuſchrift an ein gewiſſes Mädchen in Florenz, eine
+gewiſſe Diana, ſich vor den Lockungen eines Grafen Rouſ-
+ſillon, eines albernen, eiteln Burſchen, der bei alldem
+höchſt geil iſt, zu hüten. Ich bitte euch, ſteckt mir das
+Schreiben wieder in die Taſche.
+Sold. Nein, erſt will ich ihn leſen.
+Par. Meine Abſicht dabei war, ſag&#39; ich, höchſt red-
+lich in Abſicht auf das Mädchen; denn ich weiß, daß der
+junge Graf ein gefährlicher und ausſchweifender Geſell,
+ein wahrer Haifiſch der Jungfraunſchaft iſt, der alle Fiſch-
+brut verſchlingt, die er ſindet.
+Bert. Verdammenswerther, doppelzüngiger Schurke!
+Sold. (leſend). „Schwört er, ſo fordre Geld von ihm
+und nimm es;
+„Ankreiden läßt er, zahlt doch nie die Kreide;
+„Sei klug beim Handel drum, ſonſt wird dir Schlimmes,
+„Gemachte Schuld nicht zahlen, macht ihm Freude.
+„Dann, Diana, ſprich, wie wir&#39;s gerathen haben:
+„Die Männer küßt man wohl, doch nicht die Knaben!
+„Glaub mir, ein Narr iſt dieſer Graf, ich ſchwör&#39;,
+„Er zahlt voraus, doch niemahls hinterher.
+„Dein, wie ich dirs ins Ohr gelobt - Paroles.“
+Bert. Er ſoll durch die Armee gepeitſcht werden, mit
+dieſen Reimen an der Stirn.
+Zweit. Edelm. Das iſt euer treuergebener Freund,
+Herr Graf, der gewandte Sprachkenner, der waffentüch-
+tige Krieger!
+Bert. Alles konnte ich bisher ertragen, nur keine
+Katze, jetzt iſt er mir eine Katze.
+Sold. Aus den Blicken des Generals nehme ich ab,
+daß wir euch wohl werden hängen müſſen.
+Par. Um mein Leben bitt&#39; ich, Herr, und das jeden
+Falles. Nicht daß ich mich vor dem Tode fürchte; aber
+meiner Sünden ſind viele, ich möchte den Reſt meines
+Lebens dazu verwenden, ſie zu bereuen. Laßt mich leben,
+Herr - im Kerker, im Stock oder ſonſt wo - wenn ich
+nur lebe.
+Sold. Wir wollen ſehen, was ſich thun läßt, wenn
+ihr freimüthig bekennt. Darum fragt man nochmahls hin-
+ſichtlich des Hauptmanns Dumain. Jn Betreff ſeiner Tap-
+ferkeit und ſeines Anſehens bei dem Herzoge habt ihr geant-
+wortet - „Wie ſieht es mit ſeiner Redlichkeit aus?“
+Par. Er wird euch ein Ei aus einem Kloſter ſteh-
+len, Herr; denn im Rauben und Mädchenentführen kommt
+er dem Neſus gleich. Er macht kein Geſchäft daraus,
+ſeine Schwüre zu halten, allein im Brechen derſelben iſt
+er ſtärker als Herkules. Er wird mit ſolcher Zungenge-
+läufigkeit lügen, Herr, daß ihr glauben möchtet, die
+Wahrheit ſei eine Närrin; Trunkenheit iſt ſeine beſte Tu-
+gend; denn er iſt ſaubetrunken; und im Schlafe thut er
+am wenigſten Jemandem etwas zu Leide, außer ſeinen
+Betttüchern. Allein man kennt ſeine Zuſtände und legt
+ihn daher auf Stroh. Jch habe wenig mehr von ſeiner
+Rechtſchaffenheit zu ſagen, Herr; er beſitzt Alles, was
+ein rechtſchaffener Mann nicht beſitzen ſollte; von dem
+aber, was ein rechtſchaffener Mann beſitzen ſollte, beſitzt
+er nichts.
+Erſt. Edelm. Jch fange an, ihn um dieſer Aeuße-
+rung willen liebzugewinnen.
+Bert. Um dieſer Beſchreibung deiner Rechtſchaffenheit
+willen? Die Peſt über ihn von meinetwegen; mir gilt er
+nur um ſo mehr für eine Katze!
+Sold. Was ſagt ihr von ſeiner Erfahrung im Kriegs-
+dienſte?
+Par. Fürwahr, Herr, er hat vor den engländiſchen
+Tragödienſpielern die Trommel her getragen - belügen
+will ich ihn nicht - und mehr weiß ich nicht von ſeinem
+Soldatenthum, ausgenommen daß er in jenem Lande, Eng-
+land, die Ehre hatte, an einem Orte, Meilenend ge-
+nannt, Offizier zu ſein, und im Bilden doppelter Reihen
+Unterricht zu geben. Gern möchte ich dem Mann alle
+Akt IV.
+ihm gebührende Ehre erweiſen, aber über dieſen Umſtand
+bin ich nicht genau berichtet.
+Erst. Edelm. Er hat die Spitzbüberei ſo ausgelernt,
+daß die Seltenheit ihn wieder losſpricht.
+Bert. Die Peſt über ihn; er hat doch eine Katzenatur
+Sold. Da ſeine Eigenſchaften in ſo ärmlichem Preſe
+ſtehen, ſo brauche ich euch nicht zu fragen, ob Gold ohn
+zur Empörung beſtechen kann?
+Par. Herr, für einen Viertel-Kronthaler wird er
+das Freilehn ſeiner Erlöſung, das Erbrecht derſelben ver
+kaufen, und alle ſeine Nachkommen des Erbrechts und der
+ewigen Erbfolge berauben.
+der zweite Dumain?
+Zweit. Edelm. Warum fragt er ihn nach mir?
+Sold. Was für ein Mann iſt er?
+Par. Eine Krähe aus demſeiben Neſte, im Guten
+nicht ſo groß als Jener, aber im Schlechten einen großen
+Theil größer. Als Feigling übertrifft er ſeinen Bruder,
+wiewohl dieſer für ein Muſter von der Sorte gilt. Beim
+Rückzuge läßt er jeden Schnellläufer hinter ſich, und
+wenn&#39;s ans Vorrücken geht, bekommt er den Krampf.
+Sold. Wenn eures Lebens geſchont wird, wollt ihr
+es dann unternehmen, den Florentiner Herzog zu verrathen!
+Par. Ja, und den Oberbefehlshaber ſeiner Reiterei,
+den Grafen Rouſſillon, ebenfalls.
+Sold. Ich will leiſe mit dem General ſprechen und
+ſeine Willensmeinung erkunden.
+Par. (beiſeit). Jch will nichts mehr von Trommelei
+wiſſen. Die Peſt über alle Trommeln! Nur um ver-
+dienſtlich zu ſcheinen, und um die Meinung jenes ausſchwei-
+fenden Knaben, des Grafen, zu beſtechen, habe ich mich
+in dieſe Gefahr geſtürzt. Wer hätte auch an einem Ort,
+wo man mich griff, einen Hinterhalt vermuthen ſollen?
+Sold. Da iſt keine Rettung, Herr; ihr müßt ſter-
+ben. Der General ſagt, daß ihr, der ihr ſo verräthe-
+riſch die Geheimniſſe eures Heeres aufgedeckt, und ſolche
+ſtinkenden Berichte über Männer, die im höchſten Anſehen
+ſtehen, abgegeben habt, der Welt durchaus keinen Nutzen
+schafen könnt; deswegen müßt ihr ſterben. Kom her,
+Scharfrichter, herunter mit ſeinem Kopfe
+Par.  O Gott, Herr! Laßt mich leben, oder laßt
+mich meinen Tod ſehen!
+Sold. Das ſollt ihr, und ſollt Abſchied von allen eu-
+ren Freunden nehmen. (Er ninmt ihm die Binde ab). So,
+ſeht euch um; kennt ihr hier Jemanden?
+Bert. Guten Morgen, wackerer Hauptmann.
+Zweit. Edelm. Gott ſegne euch, Capitain Paroles.
+Erſt. Edelm. Gott mit euch, braver Capitain.
+Zweit. Edelm. Capitain, welchen Gruß habt ihr
+an Herrn Le Feu zu beſtellen? Jch reiſe nach Frankreich.
+Erſt. Edelm. Lieber Capitain, wollt ihr mir eine
+Abſchrift von dem Sonnette zukommen laſſen, das ihr an
+jene Diana, zu Gunſten des Grafen Rouſſillon ſchriebt!
+Wenn ich nicht ein ſo arger Feigling wäre, würde ich
+euch abzwingen; ſo aber, gehabt euch wohl.
+(Bertram und die Edelleute gehen ab.)
+Sold. Jhr ſeid hier, Capitain; nur eure Schärpe
+iſt es noch nicht, die hat noch ihren Knoten.
+Par. Wer müßte nicht einem Complott erliegen?
+Sold. Wenn ihr ein Land ausfindig machen könntet,
+worin Weiber wären, die nicht mehr Schaam hätten als
+ihr habt, ſo könntet ihr eine freche Nation heranbilden.
+Gehabt euch wohl, Herr. Auch ich gehe nach Frankreich;
+dort wollen wir von euch reden.
+(ab.)
+Par. Doch dank&#39; ichs euch. Mir bräch&#39; das Herz darüber,
+Wenn&#39;s groß wär&#39;. Hauptmann will ich nicht mehr ſein;
+Doch eſſen, trinken, ruhig ſchlafen will ich,
+Wie&#39;s nur ein Hauptmann kann; mein liedes Selbſt
+Soll Lebenszweck mir ſein. Wer ſich als Prahler
+Erkennt, der fürchte Gleiches, &#39;s iſt gegründet,
+Daß jeder Prahler ſich als Eſel kündet.
+Schwerd, roſte! Schaam verſchwind! Ich will mich freun
+Der Schmach! Als Narr ſoll Narrheit mir gedeihn.
+XII.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

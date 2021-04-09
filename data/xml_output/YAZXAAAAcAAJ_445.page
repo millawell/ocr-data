@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6128" imageWidth="3756">
+    <PrintSpace>
+        <Coords points="0,0 0,3756 6128,3756 6128,3756"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3756 6128,3756 6128,3756"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="291,307 291,511 431,511 431,307"/>
+            <TextEquiv>
+                <Unicode>426</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="312,1327 312,2777 416,2777 416,1327"/>
+            <TextEquiv>
+                <Unicode>König Heinrich der Vierte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="444,276 444,2071 543,2071 543,276"/>
+            <TextEquiv>
+                <Unicode>dig ſein! Dieſer ſanguiniſche Feigling, dieſer Bettdrücker,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="536,280 536,2073 611,2073 611,280"/>
+            <TextEquiv>
+                <Unicode>dieſer Pferderückenbrecher, dieſer plumpe Fleiſchhügel - -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="604,280 604,2076 679,2076 679,280"/>
+            <TextEquiv>
+                <Unicode>Falſt. Hinweg mit dir, du Hungerleider, du Elfen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="669,281 669,2077 750,2077 750,281"/>
+            <TextEquiv>
+                <Unicode>fell, du gedorrte Rindszunge, du Ochſenziemer, du Stock-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="742,281 742,2073 818,2073 818,281"/>
+            <TextEquiv>
+                <Unicode>fiſch! - Uf! Der Athem fehlt mir um auszuſprechen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="815,321 815,2073 888,2073 888,321"/>
+            <TextEquiv>
+                <Unicode>was dir gleicht! Du Schneiderelle, du Scheide , du Bo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="887,325 887,1901 958,1901 958,325"/>
+            <TextEquiv>
+                <Unicode>genkapſel, du elender , abgenutzter Stoßdegen - -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="953,391 953,2074 1030,2074 1030,391"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Recht ſo; verſchnaufe ein Weilchen, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1025,322 1025,2077 1099,2077 1099,322"/>
+            <TextEquiv>
+                <Unicode>dann fange von neuem an; und wenn du dich in nieder-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1091,323 1091,2073 1167,2073 1167,323"/>
+            <TextEquiv>
+                <Unicode>trächtigen Vergleichungen erſchöpft haſt, ſo höre nur - -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1165,408 1165,1287 1236,1287 1236,408"/>
+            <TextEquiv>
+                <Unicode>Poins. Merk&#39; auf, Hans!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1230,391 1230,2076 1306,2076 1306,391"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Wir Beide ſahen euch Vier vier Ande-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1303,322 1303,2078 1377,2078 1377,322"/>
+            <TextEquiv>
+                <Unicode>re anfallen; ihr bandet ſie dann und wurdet Herren ihrer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1370,322 1370,2077 1445,2077 1445,322"/>
+            <TextEquiv>
+                <Unicode>Barſchaften. - Jetzt merke, wie ein Mährchen zunicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1442,322 1442,2074 1516,2074 1516,322"/>
+            <TextEquiv>
+                <Unicode>gemacht wird. Dann fielen wir Zwei euch Vier an; und,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1511,323 1511,2076 1583,2076 1583,323"/>
+            <TextEquiv>
+                <Unicode>mit einem Worte, jagten euch von eurer Beute fort, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1581,326 1581,2078 1657,2078 1657,326"/>
+            <TextEquiv>
+                <Unicode>haben ſie; ja, und können ſie zeigen, hier in dieſem Hau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1651,324 1651,2075 1723,2075 1723,324"/>
+            <TextEquiv>
+                <Unicode>ſe. Und, Falſtaff, du ſchleppteſt deine Panze ſo behende,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1720,323 1720,2076 1793,2076 1793,323"/>
+            <TextEquiv>
+                <Unicode>mit ſo hurtiger Behendigkeit hinweg, und heulteſt ſo um</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1790,324 1790,2078 1861,2078 1861,324"/>
+            <TextEquiv>
+                <Unicode>Erbarmen, und liefſt, und heulteſt, wie jemahls ein Bul-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1859,324 1859,2076 1930,2076 1930,324"/>
+            <TextEquiv>
+                <Unicode>lenkalb heulte. Elender Sklav, der du biſt, daß du dein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1929,322 1929,2077 2002,2077 2002,322"/>
+            <TextEquiv>
+                <Unicode>Schwerd zerhackteſt, und ſagteſt, es ſei im Kampfe ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1997,321 1997,2078 2072,2078 2072,321"/>
+            <TextEquiv>
+                <Unicode>ſchehen! Welchen Pfiff, welchen Kniff, welches Schlupf-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2067,322 2067,2082 2141,2082 2141,322"/>
+            <TextEquiv>
+                <Unicode>loch kannſt du jetzt ausfindig machen, um dich vor dieſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2137,326 2137,1906 2212,1906 2212,326"/>
+            <TextEquiv>
+                <Unicode>offenbaren und augenfälligen Schmach zu verbergen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2207,397 2207,2082 2281,2082 2281,397"/>
+            <TextEquiv>
+                <Unicode>Poins. Wohlan, laß hören, Hans! Welchen Pfiff</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2274,350 2274,907 2350,907 2350,350"/>
+            <TextEquiv>
+                <Unicode>haſt du vorräthig?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2342,393 2342,2077 2421,2077 2421,393"/>
+            <TextEquiv>
+                <Unicode>Falſt. Beim Himmel, ich kannte euch ſo gut wie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2415,323 2415,2078 2488,2078 2488,323"/>
+            <TextEquiv>
+                <Unicode>der, der euch machte. So hört denn, ihr Herrſchaften.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2485,320 2485,2077 2558,2077 2558,320"/>
+            <TextEquiv>
+                <Unicode>Was brächte es mir, den muthmaaßlichen Kronerben zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2554,323 2554,2082 2628,2082 2628,323"/>
+            <TextEquiv>
+                <Unicode>tödten? Sollte ich auf den wirklichen Prinzen losſchlagen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2624,321 2624,2079 2699,2079 2699,321"/>
+            <TextEquiv>
+                <Unicode>Nun, du weißt, ich bin ſo tapfer wie Herkules; aber be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2695,322 2695,2078 2767,2078 2767,322"/>
+            <TextEquiv>
+                <Unicode>denke den Inſtinkt. Der Löwe wird den echten Prinzen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2763,320 2763,2077 2840,2077 2840,320"/>
+            <TextEquiv>
+                <Unicode>nicht anfallen! Inſtinkt iſt ein großer Gegenſtand; ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2835,318 2835,2079 2905,2079 2905,318"/>
+            <TextEquiv>
+                <Unicode>war eine Memme aus Inſtinkt. Ich werde drob mei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2902,320 2902,2076 2977,2076 2977,320"/>
+            <TextEquiv>
+                <Unicode>ner und auch deiner lebenslänglich beſſer gedenken, an mich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2975,318 2975,2077 3049,2077 3049,318"/>
+            <TextEquiv>
+                <Unicode>als an den tapfern Löwen; an dich , als an den echten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3041,319 3041,2076 3118,2076 3118,319"/>
+            <TextEquiv>
+                <Unicode>Prinzen. Aber beim Himmel, Burſche, mich freut es,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3113,320 3113,2081 3188,2081 3188,320"/>
+            <TextEquiv>
+                <Unicode>daß ihr das Geld habt. - - Wirthin, ſchlagt die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3180,317 3180,2085 3258,2085 3258,317"/>
+            <TextEquiv>
+                <Unicode>Thüren zu, wacht über Nacht, betet morgen. - Ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3252,318 3252,2080 3327,2080 3327,318"/>
+            <TextEquiv>
+                <Unicode>Tapfern, ihr Burſche, ihr Jungen, goldherzige Jungen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3322,318 3322,2084 3397,2084 3397,318"/>
+            <TextEquiv>
+                <Unicode>alle Titel guter Kameradſchaft kommen euch zu! Sagt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3389,318 3389,2084 3466,2084 3466,318"/>
+            <TextEquiv>
+                <Unicode>an, wollen wir luſtig ſein? Soll uns ein Spielchen ex</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3464,349 3464,871 3534,871 3534,349"/>
+            <TextEquiv>
+                <Unicode>tempore werden?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3531,389 3531,2081 3605,2081 3605,389"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Es ſei - und den Inhalt deſſelben ſoll</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3602,343 3602,1136 3673,1136 3673,343"/>
+            <TextEquiv>
+                <Unicode>dein Davonlaufen abgeben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3668,386 3668,2076 3746,2076 3746,386"/>
+            <TextEquiv>
+                <Unicode>Falſt. Ei, nichts mehr davon, Heinechen, ſo du mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3742,354 3742,619 3815,619 3815,354"/>
+            <TextEquiv>
+                <Unicode>lieb haſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3806,834 3806,1574 3862,1574 3862,834"/>
+            <TextEquiv>
+                <Unicode>(Die Wirthin tritt auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3878,404 3878,1487 3953,1487 3953,404"/>
+            <TextEquiv>
+                <Unicode>Wirth. Mylord, mein Prinz -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3943,386 3943,2080 4023,2080 4023,386"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Was giebt&#39;s, Frau Wirthin? Was</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4020,345 4020,1049 4094,1049 4094,345"/>
+            <TextEquiv>
+                <Unicode>habt ihr mir zu ſagen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4080,390 4080,2079 4161,2079 4161,390"/>
+            <TextEquiv>
+                <Unicode>Wirth. Ei nu, Mylord, draußen iſt ein Herr vom</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4153,315 4153,2082 4233,2082 4233,315"/>
+            <TextEquiv>
+                <Unicode>Hofe, möcht&#39; mit euch ſprechen; er ſagl, er kommt von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4231,350 4231,750 4290,750 4290,350"/>
+            <TextEquiv>
+                <Unicode>euerm Vater.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4288,386 4288,2083 4372,2083 4372,386"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Gieb ihm ſo viel, daß ein königlicher</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4362,319 4362,2086 4442,2086 4442,319"/>
+            <TextEquiv>
+                <Unicode>Mann aus ihm wird, und ſchick ihn zu meiner Mutter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4438,354 4438,552 4514,552 4514,354"/>
+            <TextEquiv>
+                <Unicode>zurück.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4499,394 4499,1803 4582,1803 4582,394"/>
+            <TextEquiv>
+                <Unicode>Falſt. Was für eine Art von Mann iſt er?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4573,408 4573,1266 4647,1266 4647,408"/>
+            <TextEquiv>
+                <Unicode>Wirth. Ein alter Mann.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4636,389 4636,2089 4722,2089 4722,389"/>
+            <TextEquiv>
+                <Unicode>Falſt. Was thut die Gravität um Mitternacht außer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4709,334 4709,1757 4783,1757 4783,334"/>
+            <TextEquiv>
+                <Unicode>dem Bette? - Soll ich ihm Antwort geben?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4781,396 4781,1839 4861,1839 4861,396"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Ich bitte dich, Hans, thu&#39; es.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4845,390 4845,2009 4934,2009 4934,390"/>
+            <TextEquiv>
+                <Unicode>Falſt. Mein Seel, ich will ihm heimleuchten. (ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4919,390 4919,2076 5001,2076 5001,390"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Nun, ihr Herren, bei unſerer lieben Frau-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4988,321 4988,2085 5066,2085 5066,321"/>
+            <TextEquiv>
+                <Unicode>en! Ihr fochtet tapfer; ſo thatet ihr, Peto; ſo thatet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5056,322 5056,2083 5140,2083 5140,322"/>
+            <TextEquiv>
+                <Unicode>ihr, Bardolph. Jhr ſeid auch Löwen, denn ihr lauft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5126,320 5126,2080 5207,2080 5207,320"/>
+            <TextEquiv>
+                <Unicode>aus Inſtinkt davon, und wollt nicht Hand an den echten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5202,345 5202,1046 5280,1046 5280,345"/>
+            <TextEquiv>
+                <Unicode>Prinzen legen - pfui!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5264,397 5264,1863 5346,1863 5346,397"/>
+            <TextEquiv>
+                <Unicode>Bard. Ei, ich lief, als ich Andere laufen ſah.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5336,332 5336,2079 5419,2079 5419,332"/>
+            <TextEquiv>
+                <Unicode>Pr. Heinr. Sagt mir im Ernſt, wovon ward Fal-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5409,343 5409,1179 5488,1179 5488,343"/>
+            <TextEquiv>
+                <Unicode>ſtaffs Schwerd ſo zerhackt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5473,390 5473,2076 5559,2076 5559,390"/>
+            <TextEquiv>
+                <Unicode>Peto. Ei, er zerhackte es mit ſeinem Dolche und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5544,320 5544,2079 5626,2079 5626,320"/>
+            <TextEquiv>
+                <Unicode>ſagte, er wolle die Wahrheit zum Lande England hinaus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="5612,320 5612,2079 5704,2079 5704,320"/>
+            <TextEquiv>
+                <Unicode>ſchwören, wenn er euch nicht glauben machen würde, es</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>426
+König Heinrich der Vierte.
+dig ſein! Dieſer ſanguiniſche Feigling, dieſer Bettdrücker,
+dieſer Pferderückenbrecher, dieſer plumpe Fleiſchhügel - -
+Falſt. Hinweg mit dir, du Hungerleider, du Elfen-
+fell, du gedorrte Rindszunge, du Ochſenziemer, du Stock-
+fiſch! - Uf! Der Athem fehlt mir um auszuſprechen,
+was dir gleicht! Du Schneiderelle, du Scheide , du Bo-
+genkapſel, du elender , abgenutzter Stoßdegen - -
+Pr. Heinr. Recht ſo; verſchnaufe ein Weilchen, und
+dann fange von neuem an; und wenn du dich in nieder-
+trächtigen Vergleichungen erſchöpft haſt, ſo höre nur - -
+Poins. Merk&#39; auf, Hans!
+Pr. Heinr. Wir Beide ſahen euch Vier vier Ande-
+re anfallen; ihr bandet ſie dann und wurdet Herren ihrer
+Barſchaften. - Jetzt merke, wie ein Mährchen zunicht
+gemacht wird. Dann fielen wir Zwei euch Vier an; und,
+mit einem Worte, jagten euch von eurer Beute fort, und
+haben ſie; ja, und können ſie zeigen, hier in dieſem Hau-
+ſe. Und, Falſtaff, du ſchleppteſt deine Panze ſo behende,
+mit ſo hurtiger Behendigkeit hinweg, und heulteſt ſo um
+Erbarmen, und liefſt, und heulteſt, wie jemahls ein Bul-
+lenkalb heulte. Elender Sklav, der du biſt, daß du dein
+Schwerd zerhackteſt, und ſagteſt, es ſei im Kampfe ge-
+ſchehen! Welchen Pfiff, welchen Kniff, welches Schlupf-
+loch kannſt du jetzt ausfindig machen, um dich vor dieſer
+offenbaren und augenfälligen Schmach zu verbergen?
+Poins. Wohlan, laß hören, Hans! Welchen Pfiff
+haſt du vorräthig?
+Falſt. Beim Himmel, ich kannte euch ſo gut wie
+der, der euch machte. So hört denn, ihr Herrſchaften.
+Was brächte es mir, den muthmaaßlichen Kronerben zu
+tödten? Sollte ich auf den wirklichen Prinzen losſchlagen?
+Nun, du weißt, ich bin ſo tapfer wie Herkules; aber be-
+denke den Inſtinkt. Der Löwe wird den echten Prinzen
+nicht anfallen! Inſtinkt iſt ein großer Gegenſtand; ich
+war eine Memme aus Inſtinkt. Ich werde drob mei-
+ner und auch deiner lebenslänglich beſſer gedenken, an mich,
+als an den tapfern Löwen; an dich , als an den echten
+Prinzen. Aber beim Himmel, Burſche, mich freut es,
+daß ihr das Geld habt. - - Wirthin, ſchlagt die
+Thüren zu, wacht über Nacht, betet morgen. - Ihr
+Tapfern, ihr Burſche, ihr Jungen, goldherzige Jungen;
+alle Titel guter Kameradſchaft kommen euch zu! Sagt
+an, wollen wir luſtig ſein? Soll uns ein Spielchen ex
+tempore werden?
+Pr. Heinr. Es ſei - und den Inhalt deſſelben ſoll
+dein Davonlaufen abgeben.
+Falſt. Ei, nichts mehr davon, Heinechen, ſo du mich
+lieb haſt.
+(Die Wirthin tritt auf.)
+Wirth. Mylord, mein Prinz -
+Pr. Heinr. Was giebt&#39;s, Frau Wirthin? Was
+habt ihr mir zu ſagen?
+Wirth. Ei nu, Mylord, draußen iſt ein Herr vom
+Hofe, möcht&#39; mit euch ſprechen; er ſagl, er kommt von
+euerm Vater.
+Pr. Heinr. Gieb ihm ſo viel, daß ein königlicher
+Mann aus ihm wird, und ſchick ihn zu meiner Mutter
+zurück.
+Falſt. Was für eine Art von Mann iſt er?
+Wirth. Ein alter Mann.
+Falſt. Was thut die Gravität um Mitternacht außer
+dem Bette? - Soll ich ihm Antwort geben?
+Pr. Heinr. Ich bitte dich, Hans, thu&#39; es.
+Falſt. Mein Seel, ich will ihm heimleuchten. (ab.)
+Pr. Heinr. Nun, ihr Herren, bei unſerer lieben Frau-
+en! Ihr fochtet tapfer; ſo thatet ihr, Peto; ſo thatet
+ihr, Bardolph. Jhr ſeid auch Löwen, denn ihr lauft
+aus Inſtinkt davon, und wollt nicht Hand an den echten
+Prinzen legen - pfui!
+Bard. Ei, ich lief, als ich Andere laufen ſah.
+Pr. Heinr. Sagt mir im Ernſt, wovon ward Fal-
+ſtaffs Schwerd ſo zerhackt?
+Peto. Ei, er zerhackte es mit ſeinem Dolche und
+ſagte, er wolle die Wahrheit zum Lande England hinaus
+ſchwören, wenn er euch nicht glauben machen würde, es</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

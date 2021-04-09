@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6124" imageWidth="3798">
+    <PrintSpace>
+        <Coords points="0,0 0,3798 6124,3798 6124,3798"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3798 6124,3798 6124,3798"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="304,390 304,540 376,540 376,390"/>
+            <TextEquiv>
+                <Unicode>110</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="285,1382 285,2768 385,2768 385,1382"/>
+            <TextEquiv>
+                <Unicode>Johannis - Nachts - Traum.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="454,343 454,1803 533,1803 533,343"/>
+            <TextEquiv>
+                <Unicode>Doch hier, wo euch des Vaters Bill&#39;gung fehlt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="522,342 522,1807 600,1807 600,342"/>
+            <TextEquiv>
+                <Unicode>Muß euch der andre Mann für würd&#39;ger gelten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="592,402 592,2085 672,2085 672,402"/>
+            <TextEquiv>
+                <Unicode>Herm. O, ſäh&#39; mein Vater doch mit meinen Augen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="663,410 663,1905 741,1905 741,410"/>
+            <TextEquiv>
+                <Unicode>Theſ. Mit ſeinem Urtheil ſollt ihr billig ſehn!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="728,404 728,2080 811,2080 811,404"/>
+            <TextEquiv>
+                <Unicode>Herm. Ich fleh&#39; euch an, mein Fürſt, mir zu verzeihen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="799,339 799,1869 882,1869 882,339"/>
+            <TextEquiv>
+                <Unicode>Ich weiß nicht, welche Kraft ſo kühn mich macht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="868,342 868,1838 949,1838 949,342"/>
+            <TextEquiv>
+                <Unicode>Noch wie&#39;s zu meiner Keuſchheit ſtimmt, daß ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="936,347 936,1573 1017,1573 1017,347"/>
+            <TextEquiv>
+                <Unicode>Vor ſolchen Zeugen ſage, was ich denke.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1010,341 1010,1742 1088,1742 1088,341"/>
+            <TextEquiv>
+                <Unicode>Doch fleh&#39; ich eure Huld an, mir&#39;s zu nennen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1076,342 1076,1805 1155,1805 1155,342"/>
+            <TextEquiv>
+                <Unicode>Was Schlimmſtes mir begegnen kann, wenn ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1148,347 1148,1659 1222,1659 1222,347"/>
+            <TextEquiv>
+                <Unicode>Zum Weib mich dem Demetrius verweigre.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1216,410 1216,1849 1295,1849 1295,410"/>
+            <TextEquiv>
+                <Unicode>Theſ. Entweder Todes ſterben oder ſchwören,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1287,346 1287,1670 1362,1670 1362,346"/>
+            <TextEquiv>
+                <Unicode>Der Männer Umgang immerdar zu meiden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1352,346 1352,1774 1434,1774 1434,346"/>
+            <TextEquiv>
+                <Unicode>Erforſcht drum, ſchöne Hermia, eure Wünſche,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1425,349 1425,1550 1499,1550 1499,349"/>
+            <TextEquiv>
+                <Unicode>Denkt eurer Jugend, prüfet euer Blut,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1491,344 1491,1836 1571,1836 1571,344"/>
+            <TextEquiv>
+                <Unicode>Ob, wenn ihr nicht des Vaters Wahl euch fügt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1565,346 1565,1710 1642,1710 1642,346"/>
+            <TextEquiv>
+                <Unicode>Ihr das Gewand der Nonn&#39; ertragen könnt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1632,351 1632,1580 1710,1580 1710,351"/>
+            <TextEquiv>
+                <Unicode>Um, eingeſperrt in düſterm Kloſter, all</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1699,350 1699,1675 1777,1675 1777,350"/>
+            <TextEquiv>
+                <Unicode>Eur Lebenlang, als unfruchtbare Schweſter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1772,348 1772,1617 1846,1617 1846,348"/>
+            <TextEquiv>
+                <Unicode>Dürrkaltem Monde mattes Lied zu ſingen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1841,346 1841,1672 1917,1672 1917,346"/>
+            <TextEquiv>
+                <Unicode>Heil dreifach denen, die ihr Blut bezähmen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1909,348 1909,1689 1989,1689 1989,348"/>
+            <TextEquiv>
+                <Unicode>Solch jungfräulichem Wandel ſich zu weihn;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1978,347 1978,1609 2060,1609 2060,347"/>
+            <TextEquiv>
+                <Unicode>Doch iſt gepflückte Roſ&#39; irdiſch beglückter,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2049,343 2049,1834 2124,1834 2124,343"/>
+            <TextEquiv>
+                <Unicode>Als die, an jungfräulichem Strauch verwitternd,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2117,348 2117,1613 2192,1613 2192,348"/>
+            <TextEquiv>
+                <Unicode>Im Cölibatsheil wächſet, lebt und ſtirbt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2186,408 2186,2081 2264,2081 2264,408"/>
+            <TextEquiv>
+                <Unicode>Herm. So will ich wachſen, leben, Herr, und ſterben,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2257,351 2257,1799 2334,1799 2334,351"/>
+            <TextEquiv>
+                <Unicode>Eh meinen Jungfern Freibrief einem Herrn ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2324,355 2324,1437 2404,1437 2404,355"/>
+            <TextEquiv>
+                <Unicode>Hingebe, deſſen unerwünſchtem Joch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2395,350 2395,1715 2471,1715 2471,350"/>
+            <TextEquiv>
+                <Unicode>Mein Herz die Oberherrſchaft nicht bewilligt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2461,415 2461,2086 2544,2086 2544,415"/>
+            <TextEquiv>
+                <Unicode>Theſ. Nehmt euch Bedenkzeit; auf den nächſten Neu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2538,841 2538,1014 2608,1014 2608,841"/>
+            <TextEquiv>
+                <Unicode>mond,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2602,349 2602,1765 2677,1765 2677,349"/>
+            <TextEquiv>
+                <Unicode>Den Tag der zwiſchen mir und meiner Liebſten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2673,350 2673,1711 2746,1711 2746,350"/>
+            <TextEquiv>
+                <Unicode>Das Bündnis ew&#39;ger Treu beſiegeln wird -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2740,351 2740,1704 2829,1704 2829,351"/>
+            <TextEquiv>
+                <Unicode>Auf dieſen Tag bereitet euch zu ſterben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2810,355 2810,1460 2888,1460 2888,355"/>
+            <TextEquiv>
+                <Unicode>Für euern Ungehorſam, oder eh&#39;licht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2883,355 2883,1471 2953,1471 2953,355"/>
+            <TextEquiv>
+                <Unicode>Demetrius nach Vaters Willen, oder</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2951,354 2951,1625 3026,1625 3026,354"/>
+            <TextEquiv>
+                <Unicode>Schwört auf Dianens Weihaltar auf ewig</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3021,361 3021,1408 3095,1408 3095,361"/>
+            <TextEquiv>
+                <Unicode>Enthaltſamkeit und eheloſen Stand.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3087,412 3087,2029 3165,2029 3165,412"/>
+            <TextEquiv>
+                <Unicode>Dem. Füg, ſchöne Hermia, dich; Lyſander, opfre</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3158,350 3158,1688 3233,1688 3233,350"/>
+            <TextEquiv>
+                <Unicode>Dein albern Wünſchen meinem guten Recht!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3244,423 3244,1837 3322,1837 3322,423"/>
+            <TextEquiv>
+                <Unicode>Lyſ. Demetrius, du haſt des Vaters Liebe;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3316,350 3316,1768 3390,1768 3390,350"/>
+            <TextEquiv>
+                <Unicode>Laß Hermia&#39;s Liebe mir; nimm ihn zum Weib.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3396,415 3396,1946 3473,1946 3473,415"/>
+            <TextEquiv>
+                <Unicode>Aeg. Spottſüchtiger Lyſander Ja, ich lieb&#39; ihn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3466,344 3466,1947 3546,1947 3546,344"/>
+            <TextEquiv>
+                <Unicode>Und All&#39;, was mein, ſoll meine Lieb ihm reichen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3534,352 3534,1715 3610,1715 3610,352"/>
+            <TextEquiv>
+                <Unicode>Und ſie iſt mein, und all mein Recht auf ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3603,361 3603,1383 3678,1383 3678,361"/>
+            <TextEquiv>
+                <Unicode>Will an Demetrius ich überlaſſen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3687,422 3687,2051 3769,2051 3769,422"/>
+            <TextEquiv>
+                <Unicode>Luſ. Ich bin, mein Fürſt, ſo edlen Stamms als er,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3758,357 3758,1597 3838,1597 3838,357"/>
+            <TextEquiv>
+                <Unicode>So reich begütert, reicher noch an Liebe;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3827,349 3827,1882 3906,1882 3906,349"/>
+            <TextEquiv>
+                <Unicode>Mein Glücksſtand wohl beſtellt, wenn er nicht gar</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3895,365 3895,1438 3974,1438 3974,365"/>
+            <TextEquiv>
+                <Unicode>Den des Demetrius noch übertrifft;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3965,349 3965,1979 4043,1979 4043,349"/>
+            <TextEquiv>
+                <Unicode>Und - was viel mehr denn all dies Rühmen gilt -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4035,353 4035,1769 4112,1769 4112,353"/>
+            <TextEquiv>
+                <Unicode>Ich weiß geliebt mich von der ſchönen Hermia.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4103,349 4103,1915 4182,1915 4182,349"/>
+            <TextEquiv>
+                <Unicode>Weshalb ſollt&#39; ich mein Recht denn nicht verfolgen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4173,360 4173,1504 4248,1504 4248,360"/>
+            <TextEquiv>
+                <Unicode>Demetrius, ich ſag&#39;s ihm ins Geſicht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4244,355 4244,1751 4320,1751 4320,355"/>
+            <TextEquiv>
+                <Unicode>Buhlt&#39; einſt um Nedar&#39;s Tochter, Helena, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4314,353 4314,1827 4391,1827 4391,353"/>
+            <TextEquiv>
+                <Unicode>Gewann ihr Herz, und ſie, die Holde, ſchwärmt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4382,364 4382,1333 4457,1333 4457,364"/>
+            <TextEquiv>
+                <Unicode>Andächtiglich, ja mit Abgötterei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4452,358 4452,1559 4528,1559 4528,358"/>
+            <TextEquiv>
+                <Unicode>Für dieſen boshaft unbeſtänd&#39;gen Mann.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4539,423 4539,1890 4625,1890 4625,423"/>
+            <TextEquiv>
+                <Unicode>Theſ. Geſtehen muß ich, daß ich davon hörte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4611,359 4611,1527 4687,1527 4687,359"/>
+            <TextEquiv>
+                <Unicode>Und mit Demetrius drob reden wollte;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4677,357 4677,1583 4755,1583 4755,357"/>
+            <TextEquiv>
+                <Unicode>Doch, überhäuft von eigenen Geſchäften,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4748,360 4748,1588 4826,1588 4826,360"/>
+            <TextEquiv>
+                <Unicode>Vergaß ich&#39;s. Aber komm, Demetrius,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4820,353 4820,1883 4902,1883 4902,353"/>
+            <TextEquiv>
+                <Unicode>Auch du komm, Aegeus; ihr ſollt mit mir gehn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4886,358 4886,1624 4963,1624 4963,358"/>
+            <TextEquiv>
+                <Unicode>Mit Beiden hab&#39; ich in Geheim zu reden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4956,357 4956,1673 5034,1673 5034,357"/>
+            <TextEquiv>
+                <Unicode>Jhr, ſchöne Hermia, waffnet euch, daß ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5026,361 5026,1527 5101,1527 5101,361"/>
+            <TextEquiv>
+                <Unicode>In Vaters Willen eure Grillen füget.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5094,362 5094,1528 5169,1528 5169,362"/>
+            <TextEquiv>
+                <Unicode>Wo nicht, ſo übergiebt Athen&#39;s Geſetz,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5165,356 5165,1722 5245,1722 5245,356"/>
+            <TextEquiv>
+                <Unicode>Deß Kraft wir keineswcgs vernichten können,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5233,363 5233,1495 5308,1495 5308,363"/>
+            <TextEquiv>
+                <Unicode>Dem Tod&#39; euch oder eheloſem Stand.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5303,355 5303,1777 5377,1777 5377,355"/>
+            <TextEquiv>
+                <Unicode>Hippolyta, wie geht&#39;s, mein Liebchen? Komm!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5373,360 5373,1592 5448,1592 5448,360"/>
+            <TextEquiv>
+                <Unicode>Demetrius und Aegeus, folgt uns nach:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5440,359 5440,1691 5524,1691 5524,359"/>
+            <TextEquiv>
+                <Unicode>Zu unſerm Hochzeitfeſt hab ein Geſchäft ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5508,366 5508,1484 5589,1484 5589,366"/>
+            <TextEquiv>
+                <Unicode>Euch aufzutragen und ob Wichtigem,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5582,356 5582,1748 5661,1748 5661,356"/>
+            <TextEquiv>
+                <Unicode>Das euch betrifft, mit euch mich zu berathen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>110
+Johannis - Nachts - Traum.
+Doch hier, wo euch des Vaters Bill&#39;gung fehlt,
+Muß euch der andre Mann für würd&#39;ger gelten.
+Herm. O, ſäh&#39; mein Vater doch mit meinen Augen
+Theſ. Mit ſeinem Urtheil ſollt ihr billig ſehn!
+Herm. Ich fleh&#39; euch an, mein Fürſt, mir zu verzeihen.
+Ich weiß nicht, welche Kraft ſo kühn mich macht,
+Noch wie&#39;s zu meiner Keuſchheit ſtimmt, daß ich
+Vor ſolchen Zeugen ſage, was ich denke.
+Doch fleh&#39; ich eure Huld an, mir&#39;s zu nennen,
+Was Schlimmſtes mir begegnen kann, wenn ich
+Zum Weib mich dem Demetrius verweigre.
+Theſ. Entweder Todes ſterben oder ſchwören,
+Der Männer Umgang immerdar zu meiden.
+Erforſcht drum, ſchöne Hermia, eure Wünſche,
+Denkt eurer Jugend, prüfet euer Blut,
+Ob, wenn ihr nicht des Vaters Wahl euch fügt,
+Ihr das Gewand der Nonn&#39; ertragen könnt,
+Um, eingeſperrt in düſterm Kloſter, all
+Eur Lebenlang, als unfruchtbare Schweſter
+Dürrkaltem Monde mattes Lied zu ſingen.
+Heil dreifach denen, die ihr Blut bezähmen,
+Solch jungfräulichem Wandel ſich zu weihn;
+Doch iſt gepflückte Roſ&#39; irdiſch beglückter,
+Als die, an jungfräulichem Strauch verwitternd,
+Im Cölibatsheil wächſet, lebt und ſtirbt.
+Herm. So will ich wachſen, leben, Herr, und ſterben,
+Eh meinen Jungfern Freibrief einem Herrn ich
+Hingebe, deſſen unerwünſchtem Joch
+Mein Herz die Oberherrſchaft nicht bewilligt.
+Theſ. Nehmt euch Bedenkzeit; auf den nächſten Neu-
+mond,
+Den Tag der zwiſchen mir und meiner Liebſten
+Das Bündnis ew&#39;ger Treu beſiegeln wird -
+Auf dieſen Tag bereitet euch zu ſterben
+Für euern Ungehorſam, oder eh&#39;licht
+Demetrius nach Vaters Willen, oder
+Schwört auf Dianens Weihaltar auf ewig
+Enthaltſamkeit und eheloſen Stand.
+Dem. Füg, ſchöne Hermia, dich; Lyſander, opfre
+Dein albern Wünſchen meinem guten Recht!
+Lyſ. Demetrius, du haſt des Vaters Liebe;
+Laß Hermia&#39;s Liebe mir; nimm ihn zum Weib.
+Aeg. Spottſüchtiger Lyſander Ja, ich lieb&#39; ihn,
+Und All&#39;, was mein, ſoll meine Lieb ihm reichen;
+Und ſie iſt mein, und all mein Recht auf ſie
+Will an Demetrius ich überlaſſen.
+Luſ. Ich bin, mein Fürſt, ſo edlen Stamms als er,
+So reich begütert, reicher noch an Liebe;
+Mein Glücksſtand wohl beſtellt, wenn er nicht gar
+Den des Demetrius noch übertrifft;
+Und - was viel mehr denn all dies Rühmen gilt -
+Ich weiß geliebt mich von der ſchönen Hermia.
+Weshalb ſollt&#39; ich mein Recht denn nicht verfolgen?
+Demetrius, ich ſag&#39;s ihm ins Geſicht,
+Buhlt&#39; einſt um Nedar&#39;s Tochter, Helena, und
+Gewann ihr Herz, und ſie, die Holde, ſchwärmt
+Andächtiglich, ja mit Abgötterei
+Für dieſen boshaft unbeſtänd&#39;gen Mann.
+Theſ. Geſtehen muß ich, daß ich davon hörte,
+Und mit Demetrius drob reden wollte;
+Doch, überhäuft von eigenen Geſchäften,
+Vergaß ich&#39;s. Aber komm, Demetrius,
+Auch du komm, Aegeus; ihr ſollt mit mir gehn,
+Mit Beiden hab&#39; ich in Geheim zu reden.
+Jhr, ſchöne Hermia, waffnet euch, daß ihr
+In Vaters Willen eure Grillen füget.
+Wo nicht, ſo übergiebt Athen&#39;s Geſetz,
+Deß Kraft wir keineswcgs vernichten können,
+Dem Tod&#39; euch oder eheloſem Stand.
+Hippolyta, wie geht&#39;s, mein Liebchen? Komm!
+Demetrius und Aegeus, folgt uns nach:
+Zu unſerm Hochzeitfeſt hab ein Geſchäft ich
+Euch aufzutragen und ob Wichtigem,
+Das euch betrifft, mit euch mich zu berathen.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

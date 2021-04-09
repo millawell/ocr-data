@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6133" imageWidth="3756">
+    <PrintSpace>
+        <Coords points="0,0 0,3756 6133,3756 6133,3756"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3756 6133,3756 6133,3756"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="317,19 317,268 397,268 397,19"/>
+            <TextEquiv>
+                <Unicode>Akt V.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="305,1098 305,2241 414,2241 414,1098"/>
+            <TextEquiv>
+                <Unicode>Verlorne Liebesmühe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="474,23 474,1688 535,1688 535,23"/>
+            <TextEquiv>
+                <Unicode>(Der König. Biron, Longueville und Dumain</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="525,65 525,1687 584,1687 584,65"/>
+            <TextEquiv>
+                <Unicode>in ruſſiſcher Kleidung, treten maskirt auf. Motte, Muſi-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="578,90 578,568 635,568 635,90"/>
+            <TextEquiv>
+                <Unicode>ker, Gefolge.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="641,34 641,1685 719,1685 719,34"/>
+            <TextEquiv>
+                <Unicode>Motte (begrüßend). „Heil ſei den ſchönſten Schönen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="713,428 713,853 785,853 785,428"/>
+            <TextEquiv>
+                <Unicode>dieſer Erde!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="779,40 779,1681 856,1681 856,40"/>
+            <TextEquiv>
+                <Unicode>Boyet. Nicht ſchöner als ihr ſchöner Maskentaffent.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="854,36 854,1684 927,1684 927,36"/>
+            <TextEquiv>
+                <Unicode>Motte. (fortfahrend). „Der heil&#39;gen Gruppe wunder-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="924,431 924,872 998,872 998,431"/>
+            <TextEquiv>
+                <Unicode>holder Frauen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="988,-7 988,1459 1065,1459 1065,-7"/>
+            <TextEquiv>
+                <Unicode>„Die Männern je - den Rücken - zugekehrt!“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1057,-12 1057,1682 1136,1682 1136,-12"/>
+            <TextEquiv>
+                <Unicode>Bir. (heimlich zu ihm). „Die Blicke,“ Schlingel ſprich:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1132,428 1132,907 1203,907 1203,428"/>
+            <TextEquiv>
+                <Unicode>„die Blicke -“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1197,39 1197,1686 1276,1686 1276,39"/>
+            <TextEquiv>
+                <Unicode>Motte. (fortatrend). „Die Männern je die Blicke zu-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1269,433 1269,666 1343,666 1343,433"/>
+            <TextEquiv>
+                <Unicode>gekehrt!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1342,26 1342,247 1410,247 1410,26"/>
+            <TextEquiv>
+                <Unicode>„Aus -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1405,45 1405,1395 1482,1395 1482,45"/>
+            <TextEquiv>
+                <Unicode>Boyet. Richtig! Aus ſeis, in der That!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1477,39 1477,1682 1551,1682 1551,39"/>
+            <TextEquiv>
+                <Unicode>Motte. (fortfahrend). „Aus Gunſtverwill&#39;ung, Himm-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1545,429 1545,878 1622,878 1622,429"/>
+            <TextEquiv>
+                <Unicode>liſche, gewährt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1616,16 1616,734 1691,734 1691,16"/>
+            <TextEquiv>
+                <Unicode>„Nicht, anzuſchaun -“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1684,51 1684,1288 1761,1288 1761,51"/>
+            <TextEquiv>
+                <Unicode>Bir. „Doch, anzuſchaun,“ du Tölpel!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1755,43 1755,1684 1831,1684 1831,43"/>
+            <TextEquiv>
+                <Unicode>Motte. (fortfahrend). ,Doch, anzuſchaun mit ſonnen-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1825,419 1825,1084 1899,1084 1899,419"/>
+            <TextEquiv>
+                <Unicode>gleichen Augen - -“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1895,11 1895,1046 1970,1046 1970,11"/>
+            <TextEquiv>
+                <Unicode>„Mit ſonnengleichen Augen - -“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1960,46 1960,1588 2040,1588 2040,46"/>
+            <TextEquiv>
+                <Unicode>Boyet. Sie wollen auf dies Epithet nicht hören;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2035,4 2035,1325 2109,1325 2109,4"/>
+            <TextEquiv>
+                <Unicode>Sprecht alſo nur: „„mit evagleichen Augen.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2313,5 2313,1340 2387,1340 2387,5"/>
+            <TextEquiv>
+                <Unicode>Verſtehn ſie unſre Sprach&#39;, iſt&#39;s unſer Wille,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2384,7 2384,1251 2460,1251 2460,7"/>
+            <TextEquiv>
+                <Unicode>Daß Einer ſchlicht uns ihre Meinung ſage.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2455,25 2455,650 2526,650 2526,25"/>
+            <TextEquiv>
+                <Unicode>Fragt, was ſie wollen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2520,624 2520,1670 2598,1670 2598,624"/>
+            <TextEquiv>
+                <Unicode>Was begehrt ihr von der Fürſtin?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2524,82 2524,283 2592,283 2592,82"/>
+            <TextEquiv>
+                <Unicode>Boyet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2591,51 2591,1547 2668,1547 2668,51"/>
+            <TextEquiv>
+                <Unicode>Bir. Nur Friedliches und freundlichen Empfang.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2663,59 2663,1249 2735,1249 2735,59"/>
+            <TextEquiv>
+                <Unicode>Roſ. Was ſagen ſie? Was wollen ſie?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="3007,11 3007,1277 3085,1277 3085,11"/>
+            <TextEquiv>
+                <Unicode>Mit ihr Maſurka auf dem Gras zu tanzen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="3079,56 3079,1447 3155,1447 3155,56"/>
+            <TextEquiv>
+                <Unicode>Bonet. Sie ſagen, viele Meilen maaßen ſie,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="3147,11 3147,1294 3224,1294 3224,11"/>
+            <TextEquiv>
+                <Unicode>Mit euch Maſurka auf dem Gras zu tanzen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="3219,54 3219,1681 3294,1681 3294,54"/>
+            <TextEquiv>
+                <Unicode>Roſ. Das iſt nicht wahr. Fragt ſie, wie viele Zoll</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="3285,8 3285,1327 3368,1327 3368,8"/>
+            <TextEquiv>
+                <Unicode>Die Meile hält; wenn ſie denn viele maaßen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3354,11 3354,1239 3433,1239 3433,11"/>
+            <TextEquiv>
+                <Unicode>Iſt&#39;s Maaß von einer Meile leicht gezählt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3426,51 3426,1678 3504,1678 3504,51"/>
+            <TextEquiv>
+                <Unicode>Boyet. Wenn herzukommen, ihr viel Meilen maaßet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3493,13 3493,1291 3575,1291 3575,13"/>
+            <TextEquiv>
+                <Unicode>So heißt euch die Prinzeſſin, mir zu ſagen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3565,18 3565,1050 3642,1050 3642,18"/>
+            <TextEquiv>
+                <Unicode>Wie viele Zoll auf eine Meile gehn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3635,53 3635,1681 3714,1681 3714,53"/>
+            <TextEquiv>
+                <Unicode>Bir. Sagt ihr, wir maaßen ſie mühſel&#39;gen Schrittes.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3705,71 3705,964 3784,964 3784,71"/>
+            <TextEquiv>
+                <Unicode>Boyet. Sie hört euch ſelbſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3775,88 3775,214 3847,214 3847,88"/>
+            <TextEquiv>
+                <Unicode>Roſ.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3774,768 3774,1667 3852,1667 3852,768"/>
+            <TextEquiv>
+                <Unicode>Wie viel mühſel&#39;ge Schritte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3842,16 3842,1199 3923,1199 3923,16"/>
+            <TextEquiv>
+                <Unicode>Rühſel&#39;ger Meilen, die zurück ihr legtet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3911,24 3911,1032 3993,1032 3993,24"/>
+            <TextEquiv>
+                <Unicode>Zählt die zurückgelegte Meile denn?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3981,55 3981,1681 4063,1681 4063,55"/>
+            <TextEquiv>
+                <Unicode>Bir. Wir zählen nicht, was wir für euch verthun;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="4049,21 4049,1183 4132,1183 4132,21"/>
+            <TextEquiv>
+                <Unicode>So reich iſt, ſo unendlich unſre Pflicht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="4120,21 4120,1099 4201,1099 4201,21"/>
+            <TextEquiv>
+                <Unicode>Daß wir ſie ohne nachzurechnen üben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="4190,19 4190,1230 4267,1230 4267,19"/>
+            <TextEquiv>
+                <Unicode>Gewährt uns eures Anblicks Sonnenſchein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="4259,20 4259,1217 4339,1217 4339,20"/>
+            <TextEquiv>
+                <Unicode>Daß wir wie Wilde knieend ihn verehren.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4330,57 4330,1682 4408,1682 4408,57"/>
+            <TextEquiv>
+                <Unicode>Roſ. Umwölkter Mondſchein wär&#39;s, wenn ich mich wieſe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4401,57 4401,1604 4481,1604 4481,57"/>
+            <TextEquiv>
+                <Unicode>Kön. Heil Wolken, die ſo wolkig ſind, wie dieſe!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4464,14 4464,1595 4552,1595 4552,14"/>
+            <TextEquiv>
+                <Unicode>Schein uns, o Mond, laß deine Stern&#39; auch ſcheinen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4535,22 4535,1279 4621,1279 4621,22"/>
+            <TextEquiv>
+                <Unicode>So wolkenleer auf unſer Aug&#39; voll Weinen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4672,16 4672,1366 4769,1366 4769,16"/>
+            <TextEquiv>
+                <Unicode>Ihr fleht ja nur um Mondenſchein im Waſſer.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4749,58 4749,1676 4830,1676 4830,58"/>
+            <TextEquiv>
+                <Unicode>Kön. Nun, ſo gewährt ein kurzes Tänzchen endlich!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4811,16 4811,1353 4901,1353 4901,16"/>
+            <TextEquiv>
+                <Unicode>Ich ſollte flehn  dies Flehen iſt verſtändlich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4888,56 4888,1677 4969,1677 4969,56"/>
+            <TextEquiv>
+                <Unicode>Roſ. Auf denn, Muſik! Doch hurtig! Nichts geſchont!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4963,594 4963,1031 5018,1031 5018,594"/>
+            <TextEquiv>
+                <Unicode>(Muſik erklingt)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="5000,8 5000,1679 5090,1679 5090,8"/>
+            <TextEquiv>
+                <Unicode>Nicht doch! Kein Tanz!  So wechſl&#39; ich wie der Mond.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="5076,50 5076,1683 5160,1683 5160,50"/>
+            <TextEquiv>
+                <Unicode>Kön. Wie? Doch kein Tanz? Tragt ihr den Spott</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="5155,435 5155,779 5215,779 5215,435"/>
+            <TextEquiv>
+                <Unicode>im Gürtel?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="5213,53 5213,1679 5301,1679 5301,53"/>
+            <TextEquiv>
+                <Unicode>Roſ. Der Mond war voll; jetzt ſteht er flugs im Viertel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="5284,51 5284,1682 5366,1682 5366,51"/>
+            <TextEquiv>
+                <Unicode>Kön. Doch blieb er Mond, und ich der Mann im Mond.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5348,16 5348,1137 5440,1137 5440,16"/>
+            <TextEquiv>
+                <Unicode>Muſik erklingt! Verleihet uns Gehör</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5422,69 5422,969 5511,969 5511,69"/>
+            <TextEquiv>
+                <Unicode>Roſ. Mein Ohr thut&#39;s ſchon.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5493,85 5493,230 5554,230 5554,85"/>
+            <TextEquiv>
+                <Unicode>Kön.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5497,852 5497,1661 5574,1661 5574,852"/>
+            <TextEquiv>
+                <Unicode>Thät&#39;s euer Fuß vielmehr!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5562,49 5562,1683 5646,1683 5646,49"/>
+            <TextEquiv>
+                <Unicode>Roſ. Fremd ſeid ihr und durch Zufall hier, da kann&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5624,3 5624,1678 5717,1678 5717,3"/>
+            <TextEquiv>
+                <Unicode>Geſchehn -  hier meine Hand - - Nein, nein, kein Tanz!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5623,1664 5623,2950 5709,2950 5709,1664"/>
+            <TextEquiv>
+                <Unicode>Der Biron war ganz außer Takt gebracht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5723,1631 5723,1732 5780,1732 5780,1631"/>
+            <TextEquiv>
+                <Unicode>lX.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt V.
+Verlorne Liebesmühe.
+(Der König. Biron, Longueville und Dumain
+in ruſſiſcher Kleidung, treten maskirt auf. Motte, Muſi-
+ker, Gefolge.)
+Motte (begrüßend). „Heil ſei den ſchönſten Schönen
+dieſer Erde!“
+Boyet. Nicht ſchöner als ihr ſchöner Maskentaffent.
+Motte. (fortfahrend). „Der heil&#39;gen Gruppe wunder-
+holder Frauen,
+„Die Männern je - den Rücken - zugekehrt!“
+Bir. (heimlich zu ihm). „Die Blicke,“ Schlingel ſprich:
+„die Blicke -“
+Motte. (fortatrend). „Die Männern je die Blicke zu-
+gekehrt!
+„Aus -
+Boyet. Richtig! Aus ſeis, in der That!
+Motte. (fortfahrend). „Aus Gunſtverwill&#39;ung, Himm-
+liſche, gewährt
+„Nicht, anzuſchaun -“
+Bir. „Doch, anzuſchaun,“ du Tölpel!
+Motte. (fortfahrend). ,Doch, anzuſchaun mit ſonnen-
+gleichen Augen - -“
+„Mit ſonnengleichen Augen - -“
+Boyet. Sie wollen auf dies Epithet nicht hören;
+Sprecht alſo nur: „„mit evagleichen Augen.“
+Verſtehn ſie unſre Sprach&#39;, iſt&#39;s unſer Wille,
+Daß Einer ſchlicht uns ihre Meinung ſage.
+Fragt, was ſie wollen.
+Was begehrt ihr von der Fürſtin?
+Boyet.
+Bir. Nur Friedliches und freundlichen Empfang.
+Roſ. Was ſagen ſie? Was wollen ſie?
+Mit ihr Maſurka auf dem Gras zu tanzen.
+Bonet. Sie ſagen, viele Meilen maaßen ſie,
+Mit euch Maſurka auf dem Gras zu tanzen.
+Roſ. Das iſt nicht wahr. Fragt ſie, wie viele Zoll
+Die Meile hält; wenn ſie denn viele maaßen,
+Iſt&#39;s Maaß von einer Meile leicht gezählt.
+Boyet. Wenn herzukommen, ihr viel Meilen maaßet,
+So heißt euch die Prinzeſſin, mir zu ſagen,
+Wie viele Zoll auf eine Meile gehn.
+Bir. Sagt ihr, wir maaßen ſie mühſel&#39;gen Schrittes.
+Boyet. Sie hört euch ſelbſt.
+Roſ.
+Wie viel mühſel&#39;ge Schritte
+Rühſel&#39;ger Meilen, die zurück ihr legtet,
+Zählt die zurückgelegte Meile denn?
+Bir. Wir zählen nicht, was wir für euch verthun;
+So reich iſt, ſo unendlich unſre Pflicht,
+Daß wir ſie ohne nachzurechnen üben.
+Gewährt uns eures Anblicks Sonnenſchein,
+Daß wir wie Wilde knieend ihn verehren.
+Roſ. Umwölkter Mondſchein wär&#39;s, wenn ich mich wieſe.
+Kön. Heil Wolken, die ſo wolkig ſind, wie dieſe!
+Schein uns, o Mond, laß deine Stern&#39; auch ſcheinen
+So wolkenleer auf unſer Aug&#39; voll Weinen!
+Ihr fleht ja nur um Mondenſchein im Waſſer.
+Kön. Nun, ſo gewährt ein kurzes Tänzchen endlich!
+Ich ſollte flehn  dies Flehen iſt verſtändlich.
+Roſ. Auf denn, Muſik! Doch hurtig! Nichts geſchont!
+(Muſik erklingt)
+Nicht doch! Kein Tanz!  So wechſl&#39; ich wie der Mond.
+Kön. Wie? Doch kein Tanz? Tragt ihr den Spott
+im Gürtel?
+Roſ. Der Mond war voll; jetzt ſteht er flugs im Viertel.
+Kön. Doch blieb er Mond, und ich der Mann im Mond.
+Muſik erklingt! Verleihet uns Gehör
+Roſ. Mein Ohr thut&#39;s ſchon.
+Kön.
+Thät&#39;s euer Fuß vielmehr!
+Roſ. Fremd ſeid ihr und durch Zufall hier, da kann&#39;s
+Geſchehn -  hier meine Hand - - Nein, nein, kein Tanz!
+Der Biron war ganz außer Takt gebracht.
+lX.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

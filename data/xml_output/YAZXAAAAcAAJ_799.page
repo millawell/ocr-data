@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6189" imageWidth="3781">
+    <PrintSpace>
+        <Coords points="0,0 0,3781 6189,3781 6189,3781"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3781 6189,3781 6189,3781"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="374,371 374,522 443,522 443,371"/>
+            <TextEquiv>
+                <Unicode>778</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="359,1571 359,2550 443,2550 443,1571"/>
+            <TextEquiv>
+                <Unicode>Titus Andronicus.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="512,369 512,3296 586,3296 586,369"/>
+            <TextEquiv>
+                <Unicode>Bauer. Ja wohl, ſobald eure Frauenſchaft kaiſerlich iſt. Den Gothen dieſen Lucius zu entreißen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="580,368 580,3318 656,3318 656,368"/>
+            <TextEquiv>
+                <Unicode>Tam. Die Kaiſrin bin ich, doch iſt dort der Kaiſer. Jetzt, holder Kaiſer, blicke wieder froh;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="368,3468 368,3714 445,3714 445,3468"/>
+            <TextEquiv>
+                <Unicode>Akt V.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="651,368 651,3387 727,3387 727,368"/>
+            <TextEquiv>
+                <Unicode>Bauer. Er iſt&#39;s. Gott und Sankt Stephan mögen Begrabe deine Furcht in meinem Anſchlag.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="718,291 718,3732 820,3732 820,291"/>
+            <TextEquiv>
+                <Unicode>euch einen guten Abend verleihen! Ich habe euch hier Sat. So geh denn hin, und überred ihn glücklich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="789,3401 789,3643 845,3643 845,3401"/>
+            <TextEquiv>
+                <Unicode>(Alle ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="789,329 789,2102 865,2102 865,329"/>
+            <TextEquiv>
+                <Unicode>ein Schreiben und auch ein Paar Tauben zu bringen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="928,763 928,1610 1001,1610 1001,763"/>
+            <TextEquiv>
+                <Unicode>und henkt ihn augenblicklich!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="999,408 999,1634 1069,1634 1069,408"/>
+            <TextEquiv>
+                <Unicode>Bauer. Wie viel Geld ſoll ich haben?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="975,2455 975,3377 1071,3377 1071,2455"/>
+            <TextEquiv>
+                <Unicode>Fünfter Aufzug.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1066,404 1066,1788 1138,1788 1138,404"/>
+            <TextEquiv>
+                <Unicode>Tam. Ei was, Burſch! Du wirſt gehenkt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1192,285 1192,3777 1311,3777 1311,285"/>
+            <TextEquiv>
+                <Unicode>ich meinen Hals zu einem schönen Endchen heranwachſen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1274,1019 1274,1584 1334,1584 1334,1019"/>
+            <TextEquiv>
+                <Unicode>(Er wird abgefülrt.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1284,366 1284,550 1350,550 1350,366"/>
+            <TextEquiv>
+                <Unicode>laſſen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1299,2015 1299,3603 1404,3603 1404,2015"/>
+            <TextEquiv>
+                <Unicode>Luc. Erprobte Krieger und mir treue Freunde!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1416,343 1416,1451 1486,1451 1486,343"/>
+            <TextEquiv>
+                <Unicode>Erduld ich dieſe ungeheure Bosheit?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1463,2023 1463,3404 1541,3404 1541,2023"/>
+            <TextEquiv>
+                <Unicode>Sie melden, wie das Volk den Kaiſer haßt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1485,335 1485,1683 1561,1683 1561,335"/>
+            <TextEquiv>
+                <Unicode>Ich weiß, von wannen dieſer Anſchlag kam;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1554,335 1554,1705 1628,1705 1628,335"/>
+            <TextEquiv>
+                <Unicode>Iſt&#39;s auszuhalten? - Gleich als wären ſeine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1624,343 1624,1432 1694,1432 1694,343"/>
+            <TextEquiv>
+                <Unicode>Verrätherſöhne, die geſetzlich ſtarben</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1690,332 1690,1825 1765,1825 1765,332"/>
+            <TextEquiv>
+                <Unicode>Als Mörder unſers Bruders, ſonder Rechtsſpruch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1532,2023 1532,3369 1607,3369 1607,2023"/>
+            <TextEquiv>
+                <Unicode>Und wie es ſich nach unſerm Anblick ſehnt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1600,2016 1600,3663 1681,3663 1681,2016"/>
+            <TextEquiv>
+                <Unicode>Drum, edle Mannen, ſeid, wie&#39;s euer Ruhm heiſcht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1672,2024 1672,3365 1750,3365 1750,2024"/>
+            <TextEquiv>
+                <Unicode>Gebietriſch und empſindlich gegen Schmach:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1740,2023 1740,3388 1819,3388 1819,2023"/>
+            <TextEquiv>
+                <Unicode>Und wo euch Rom allweg hat Leids gethan,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="1765,338 1765,1651 1836,1651 1836,338"/>
+            <TextEquiv>
+                <Unicode>Geſchlachtet! Bei den Haaren ſchleppt mir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="1886,2014 1886,3738 1960,3738 1960,2014"/>
+            <TextEquiv>
+                <Unicode>ſ1. Gothe. Vieltapfrer Sproß des großen Andronicus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="1902,337 1902,1700 1978,1700 1978,337"/>
+            <TextEquiv>
+                <Unicode>Dergleichen ſchützen! Für dies ſtolze Höhnen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="1973,331 1973,1859 2046,1859 2046,331"/>
+            <TextEquiv>
+                <Unicode>Will ich dein Henker werden, Schlauwahnwitz&#39;ger,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2042,333 2042,1838 2116,1838 2116,333"/>
+            <TextEquiv>
+                <Unicode>Der du mich groß zu machen halfſt , in Hoffnung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2113,343 2113,1360 2187,1360 2187,343"/>
+            <TextEquiv>
+                <Unicode>Rom und mich ſelber zu regieren.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2251,431 2251,601 2309,601 2309,431"/>
+            <TextEquiv>
+                <Unicode>Sat.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2194,878 2194,1521 2249,1521 2249,878"/>
+            <TextEquiv>
+                <Unicode>(Aemilius tritt auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2247,1430 2247,1603 2306,1603 2306,1430"/>
+            <TextEquiv>
+                <Unicode>Nun?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="1934,2015 1934,3737 2029,3737 2029,2015"/>
+            <TextEquiv>
+                <Unicode>Deß Nahm&#39; uns Graun einſt war und jetzt uns Troſt ist</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2018,2025 2018,3353 2097,3353 2097,2025"/>
+            <TextEquiv>
+                <Unicode>Deß Kriegerruhm und ehrenwerthe Thaten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2089,2024 2089,3428 2168,3428 2168,2024"/>
+            <TextEquiv>
+                <Unicode>Rom mit Verachtung und mit Undank lohnt;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2153,2020 2153,3506 2242,3506 2242,2020"/>
+            <TextEquiv>
+                <Unicode>Sei kühn in uns; wir folgen dir, dem Führer,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2227,2020 2227,3455 2307,3455 2307,2020"/>
+            <TextEquiv>
+                <Unicode>Wie Stachelbienen, die in Sommers Schwüle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2299,2028 2299,3291 2377,3291 2377,2028"/>
+            <TextEquiv>
+                <Unicode>Der Weiſel leitet durch die Blumenflur!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2315,349 2315,1080 2393,1080 2393,349"/>
+            <TextEquiv>
+                <Unicode>Was giebts, Aemilius?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2369,373 2369,3357 2464,3357 2464,373"/>
+            <TextEquiv>
+                <Unicode>Aeim. Bewaffnet euch! Nie hatte Rom mehr Urſach. Gerächt ſei an Tamora, der Verfluchten!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2440,284 2440,3781 2551,3781 2551,284"/>
+            <TextEquiv>
+                <Unicode>Die Gothen ſchaarten ſich. Mit einer Sreitmacht Die Gothen. Und wie er ſprach, ſo ſprechen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="2512,2499 2512,2773 2578,2773 2578,2499"/>
+            <TextEquiv>
+                <Unicode>hier Alle.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="2527,334 2527,1710 2599,1710 2599,334"/>
+            <TextEquiv>
+                <Unicode>Tollkühner, raubgewohnter Mannen ziehn ſie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="2594,335 2594,1695 2666,1695 2666,335"/>
+            <TextEquiv>
+                <Unicode>Zu uns heran, und Luius, Sohn des alten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="2661,335 2661,1700 2740,1700 2740,335"/>
+            <TextEquiv>
+                <Unicode>Ehmahl&#39;gen Feldherrn Andronicus, führt ſie,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="2736,340 2736,1514 2808,1514 2808,340"/>
+            <TextEquiv>
+                <Unicode>Und droht im Laufe ſeiner Rache mehr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="2549,2012 2549,3737 2655,3737 2655,2012"/>
+            <TextEquiv>
+                <Unicode>Luc. Jch dno is oemuth ihm, und dank euch Allen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="2640,2013 2640,3683 2728,3683 2728,2013"/>
+            <TextEquiv>
+                <Unicode>Doch wer kommt hier, geführt von muntrem Gothen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="2722,2011 2722,3738 2794,3738 2794,2011"/>
+            <TextEquiv>
+                <Unicode>(Ein Gothe tritt mit Aaron auf, der ſein Kind im Arm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="2784,2044 2784,2352 2846,2352 2846,2044"/>
+            <TextEquiv>
+                <Unicode>trägt.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>778
+Titus Andronicus.
+Bauer. Ja wohl, ſobald eure Frauenſchaft kaiſerlich iſt. Den Gothen dieſen Lucius zu entreißen.
+Tam. Die Kaiſrin bin ich, doch iſt dort der Kaiſer. Jetzt, holder Kaiſer, blicke wieder froh;
+Akt V.
+Bauer. Er iſt&#39;s. Gott und Sankt Stephan mögen Begrabe deine Furcht in meinem Anſchlag.
+euch einen guten Abend verleihen! Ich habe euch hier Sat. So geh denn hin, und überred ihn glücklich
+(Alle ab.)
+ein Schreiben und auch ein Paar Tauben zu bringen.
+und henkt ihn augenblicklich!
+Bauer. Wie viel Geld ſoll ich haben?
+Fünfter Aufzug.
+Tam. Ei was, Burſch! Du wirſt gehenkt.
+ich meinen Hals zu einem schönen Endchen heranwachſen
+(Er wird abgefülrt.)
+laſſen!
+Luc. Erprobte Krieger und mir treue Freunde!
+Erduld ich dieſe ungeheure Bosheit?
+Sie melden, wie das Volk den Kaiſer haßt,
+Ich weiß, von wannen dieſer Anſchlag kam;
+Iſt&#39;s auszuhalten? - Gleich als wären ſeine
+Verrätherſöhne, die geſetzlich ſtarben
+Als Mörder unſers Bruders, ſonder Rechtsſpruch
+Und wie es ſich nach unſerm Anblick ſehnt.
+Drum, edle Mannen, ſeid, wie&#39;s euer Ruhm heiſcht,
+Gebietriſch und empſindlich gegen Schmach:
+Und wo euch Rom allweg hat Leids gethan,
+Geſchlachtet! Bei den Haaren ſchleppt mir
+ſ1. Gothe. Vieltapfrer Sproß des großen Andronicus
+Dergleichen ſchützen! Für dies ſtolze Höhnen
+Will ich dein Henker werden, Schlauwahnwitz&#39;ger,
+Der du mich groß zu machen halfſt , in Hoffnung
+Rom und mich ſelber zu regieren.
+Sat.
+(Aemilius tritt auf.)
+Nun?
+Deß Nahm&#39; uns Graun einſt war und jetzt uns Troſt ist
+Deß Kriegerruhm und ehrenwerthe Thaten
+Rom mit Verachtung und mit Undank lohnt;
+Sei kühn in uns; wir folgen dir, dem Führer,
+Wie Stachelbienen, die in Sommers Schwüle
+Der Weiſel leitet durch die Blumenflur!
+Was giebts, Aemilius?
+Aeim. Bewaffnet euch! Nie hatte Rom mehr Urſach. Gerächt ſei an Tamora, der Verfluchten!
+Die Gothen ſchaarten ſich. Mit einer Sreitmacht Die Gothen. Und wie er ſprach, ſo ſprechen
+hier Alle.
+Tollkühner, raubgewohnter Mannen ziehn ſie
+Zu uns heran, und Luius, Sohn des alten
+Ehmahl&#39;gen Feldherrn Andronicus, führt ſie,
+Und droht im Laufe ſeiner Rache mehr
+Luc. Jch dno is oemuth ihm, und dank euch Allen
+Doch wer kommt hier, geführt von muntrem Gothen.
+(Ein Gothe tritt mit Aaron auf, der ſein Kind im Arm
+trägt.)</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

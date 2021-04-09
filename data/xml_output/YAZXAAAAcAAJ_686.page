@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6120" imageWidth="3728">
+    <PrintSpace>
+        <Coords points="0,0 0,3728 6120,3728 6120,3728"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3728 6120,3728 6120,3728"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="347,12 347,284 421,284 421,12"/>
+            <TextEquiv>
+                <Unicode>Akt II.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="336,1137 336,2292 445,2292 445,1137"/>
+            <TextEquiv>
+                <Unicode>Prinz von Dänemark.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="492,-23 492,1726 567,1726 567,-23"/>
+            <TextEquiv>
+                <Unicode>wie zur Zeit, als ich die Stadt verließ? Haben ſie noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="565,6 565,528 634,528 634,6"/>
+            <TextEquiv>
+                <Unicode>denſelben Zulauf?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="630,52 630,1509 705,1509 705,52"/>
+            <TextEquiv>
+                <Unicode>Roſ. Nein, in der That, den haben ſie nicht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="703,47 703,1472 776,1472 776,47"/>
+            <TextEquiv>
+                <Unicode>Haml. Wie kommt das? Werden ſie roſtig?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="770,42 770,1727 843,1727 843,42"/>
+            <TextEquiv>
+                <Unicode>Roſ. O nein, ihr Bemühen hält noch den gewohn-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="840,-22 840,1724 917,1724 917,-22"/>
+            <TextEquiv>
+                <Unicode>ten Schritt; aber ſeht nur, Prinz, da iſt ein Neſt von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="910,-26 910,1724 983,1724 983,-26"/>
+            <TextEquiv>
+                <Unicode>Kindern, von kleinen Aufſchößlingen, welche ſchreien, als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="979,-24 979,1726 1051,1726 1051,-24"/>
+            <TextEquiv>
+                <Unicode>ob ſie am Spieße ſteckten, und die werden raſend be-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1049,-25 1049,1723 1124,1723 1124,-25"/>
+            <TextEquiv>
+                <Unicode>klatſcht. Dieſe ſind jetzt Mode, und rumoren auf den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1120,-23 1120,1725 1191,1725 1191,-23"/>
+            <TextEquiv>
+                <Unicode>Volkstheatern - ſo nennen ſie ſie - dergeſtalt herum,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1187,-23 1187,1727 1262,1727 1262,-23"/>
+            <TextEquiv>
+                <Unicode>daß Viele, obſchon ſie Degen tragen, ſich vor Gänſekie-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1259,-13 1259,1314 1330,1314 1330,-13"/>
+            <TextEquiv>
+                <Unicode>len fürchten, und ſich kaum dorthin wagen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1326,38 1326,1726 1400,1726 1400,38"/>
+            <TextEquiv>
+                <Unicode>Haml. Was? Kinder ſind es? Wer erhält ſie? Wie</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1397,-25 1397,1726 1466,1726 1466,-25"/>
+            <TextEquiv>
+                <Unicode>werden ſie beſoldet? Wollen ſie ihrem Gewerbe nicht län-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1467,-24 1467,1724 1539,1724 1539,-24"/>
+            <TextEquiv>
+                <Unicode>ger nachgehen, als ſie ſingen konnen? Wollen ſie, im</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1534,-25 1534,1722 1611,1722 1611,-25"/>
+            <TextEquiv>
+                <Unicode>Fall ſie zu Volksſchauſpielern heranwachſen, (welches doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1605,-24 1605,1726 1679,1726 1679,-24"/>
+            <TextEquiv>
+                <Unicode>wahrſcheinlich iſt, ſobald ihre Mittel ſich nicht verbeſſern,)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1676,-24 1676,1724 1749,1724 1749,-24"/>
+            <TextEquiv>
+                <Unicode>nicht ſpäterhin ſagen, die Schauſpieldichter thun ihnen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1747,-23 1747,1725 1820,1725 1820,-23"/>
+            <TextEquiv>
+                <Unicode>Unrecht, ſie gegen ihr eigenes Fortkommen ſchreien zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1817,13 1817,202 1889,202 1889,13"/>
+            <TextEquiv>
+                <Unicode>laſſen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1883,38 1883,1725 1956,1725 1956,38"/>
+            <TextEquiv>
+                <Unicode>Roſ. Traun, es hat vielen Lärm auf beiden Seiten</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1951,-25 1951,1726 2026,1726 2026,-25"/>
+            <TextEquiv>
+                <Unicode>geſetzt, und das Volk hält&#39;s für keine Sünde, ſie zum</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2021,-24 2021,1728 2095,1728 2095,-24"/>
+            <TextEquiv>
+                <Unicode>Streit gegen einander zu zerren. Für ein Stück war</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2090,-23 2090,1726 2165,1726 2165,-23"/>
+            <TextEquiv>
+                <Unicode>längere Zeit hindurch kein Geld zu bekommen, wenn Poet</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2161,-21 2161,1617 2236,1617 2236,-21"/>
+            <TextEquiv>
+                <Unicode>und Schauſpieler einander nicht in den Haaren lagen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2230,61 2230,833 2304,833 2304,61"/>
+            <TextEquiv>
+                <Unicode>Haml. Iſt es möglich?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2300,40 2300,1655 2375,1655 2375,40"/>
+            <TextEquiv>
+                <Unicode>Gyld. O, es hat gewaltige Wortgefechte gegeben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2372,42 2372,1483 2443,1483 2443,42"/>
+            <TextEquiv>
+                <Unicode>Haml. Tragen die Kinder den Sieg davon?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2441,42 2441,1727 2517,1727 2517,42"/>
+            <TextEquiv>
+                <Unicode>Roſ. Wirklich, Herr; und den Herkules ſammt ſei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2511,2 2511,570 2580,570 2580,2"/>
+            <TextEquiv>
+                <Unicode>ner Laſt obendrein.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2577,38 2577,1725 2654,1725 2654,38"/>
+            <TextEquiv>
+                <Unicode>Haml. Das iſt nichts Außerordentliches; denn mein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2648,-17 2648,1728 2721,1728 2721,-17"/>
+            <TextEquiv>
+                <Unicode>Oheim iſt König von Dänemark, und Diejenigen, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2717,-23 2717,1724 2791,1724 2791,-23"/>
+            <TextEquiv>
+                <Unicode>ihm ſchiefe Mäuler machten, als mein Vater noch lebte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2789,-23 2789,1728 2861,1728 2861,-23"/>
+            <TextEquiv>
+                <Unicode>geben jetzt zwanzig, vierzig, funfzig, ja, hundert Gold-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2858,-21 2858,1729 2928,1729 2928,-21"/>
+            <TextEquiv>
+                <Unicode>ſtücke für ſein Bildnis im Kleinen. Zum Wetter, es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2927,-22 2927,1729 3002,1729 3002,-22"/>
+            <TextEquiv>
+                <Unicode>ſteckt hierin etwas mehr als Natürliches, wenn Philoſo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2997,-5 2997,975 3070,975 3070,-5"/>
+            <TextEquiv>
+                <Unicode>phie es nur herausfinden könnte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3093,487 3093,1201 3150,1201 3150,487"/>
+            <TextEquiv>
+                <Unicode>(Trompeten von außen.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3163,55 3163,1105 3237,1105 3237,55"/>
+            <TextEquiv>
+                <Unicode>Gyld. Da ſind die Schauſpieler.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3235,44 3235,1724 3307,1724 3307,44"/>
+            <TextEquiv>
+                <Unicode>Haml. Ihr Herren, ſeid willkommen in Helſingoer.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3304,-20 3304,1724 3376,1724 3376,-20"/>
+            <TextEquiv>
+                <Unicode>Eure Hände! Kommt! Der Zubehör des Willkommens</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3373,-21 3373,1724 3447,1724 3447,-21"/>
+            <TextEquiv>
+                <Unicode>iſt Mode und Förmlichkeit. Laßt mich euch auf dieſe Weiſe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3443,-21 3443,1719 3517,1719 3517,-21"/>
+            <TextEquiv>
+                <Unicode>begrüßen, damit mein Benehmen gegen die Schauſpieler,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3511,-23 3511,1723 3587,1723 3587,-23"/>
+            <TextEquiv>
+                <Unicode>welches, ſog&#39; ich euch, doch ein ſtattliches Aeußeres zei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3581,-23 3581,1723 3657,1723 3657,-23"/>
+            <TextEquiv>
+                <Unicode>gen muß, euch nicht beſſerer Empfang bedünke, als der,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3653,-22 3653,1724 3725,1724 3725,-22"/>
+            <TextEquiv>
+                <Unicode>welchen ich euch bot. Ihr ſeid willkommen; aber mein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3723,-22 3723,1728 3798,1728 3798,-22"/>
+            <TextEquiv>
+                <Unicode>Ohm Vater und meine Muhme Mutter haben ſich ge-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3791,15 3791,216 3861,216 3861,15"/>
+            <TextEquiv>
+                <Unicode>täuſcht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3860,56 3860,1083 3932,1083 3932,56"/>
+            <TextEquiv>
+                <Unicode>Gyld. Inwiefern, mein Prinz?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3930,38 3930,1727 4008,1727 4008,38"/>
+            <TextEquiv>
+                <Unicode>Haml. Ich bin nur toll bei Nord-Nord-Weſt; ſo-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3998,-23 3998,1726 4074,1726 4074,-23"/>
+            <TextEquiv>
+                <Unicode>bald der Wind ſüdlich iſt, unterſcheide ich einen Eſel von</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4067,5 4067,635 4142,635 4142,5"/>
+            <TextEquiv>
+                <Unicode>einem Lautenſchläger.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4174,499 4174,1195 4230,1195 4230,499"/>
+            <TextEquiv>
+                <Unicode>(Polonius tritt auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4242,59 4242,1013 4316,1013 4316,59"/>
+            <TextEquiv>
+                <Unicode>Pol. Heil euch, ihr Herren!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4308,-15 4308,1726 4388,1726 4388,-15"/>
+            <TextEquiv>
+                <Unicode>Haml. Hört, Gyldenſtiern - und auch ihr - an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4382,-22 4382,1757 4460,1757 4460,-22"/>
+            <TextEquiv>
+                <Unicode>jedem Ohr ein Hörer: das große Kindlein, das ihr dort</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4453,-16 4453,1535 4525,1535 4525,-16"/>
+            <TextEquiv>
+                <Unicode>ſeht, iſt noch nicht aus ſeinen Windeln gekommen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="331,3253 331,3446 446,3446 446,3253"/>
+            <TextEquiv>
+                <Unicode>665</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="5706,1613 5706,1832 5775,1832 5775,1613"/>
+            <TextEquiv>
+                <Unicode>aXXIX</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt II.
+Prinz von Dänemark.
+wie zur Zeit, als ich die Stadt verließ? Haben ſie noch
+denſelben Zulauf?
+Roſ. Nein, in der That, den haben ſie nicht.
+Haml. Wie kommt das? Werden ſie roſtig?
+Roſ. O nein, ihr Bemühen hält noch den gewohn-
+ten Schritt; aber ſeht nur, Prinz, da iſt ein Neſt von
+Kindern, von kleinen Aufſchößlingen, welche ſchreien, als
+ob ſie am Spieße ſteckten, und die werden raſend be-
+klatſcht. Dieſe ſind jetzt Mode, und rumoren auf den
+Volkstheatern - ſo nennen ſie ſie - dergeſtalt herum,
+daß Viele, obſchon ſie Degen tragen, ſich vor Gänſekie-
+len fürchten, und ſich kaum dorthin wagen.
+Haml. Was? Kinder ſind es? Wer erhält ſie? Wie
+werden ſie beſoldet? Wollen ſie ihrem Gewerbe nicht län-
+ger nachgehen, als ſie ſingen konnen? Wollen ſie, im
+Fall ſie zu Volksſchauſpielern heranwachſen, (welches doch
+wahrſcheinlich iſt, ſobald ihre Mittel ſich nicht verbeſſern,)
+nicht ſpäterhin ſagen, die Schauſpieldichter thun ihnen
+Unrecht, ſie gegen ihr eigenes Fortkommen ſchreien zu
+laſſen?
+Roſ. Traun, es hat vielen Lärm auf beiden Seiten
+geſetzt, und das Volk hält&#39;s für keine Sünde, ſie zum
+Streit gegen einander zu zerren. Für ein Stück war
+längere Zeit hindurch kein Geld zu bekommen, wenn Poet
+und Schauſpieler einander nicht in den Haaren lagen.
+Haml. Iſt es möglich?
+Gyld. O, es hat gewaltige Wortgefechte gegeben.
+Haml. Tragen die Kinder den Sieg davon?
+Roſ. Wirklich, Herr; und den Herkules ſammt ſei-
+ner Laſt obendrein.
+Haml. Das iſt nichts Außerordentliches; denn mein
+Oheim iſt König von Dänemark, und Diejenigen, die
+ihm ſchiefe Mäuler machten, als mein Vater noch lebte,
+geben jetzt zwanzig, vierzig, funfzig, ja, hundert Gold-
+ſtücke für ſein Bildnis im Kleinen. Zum Wetter, es
+ſteckt hierin etwas mehr als Natürliches, wenn Philoſo-
+phie es nur herausfinden könnte.
+(Trompeten von außen.)
+Gyld. Da ſind die Schauſpieler.
+Haml. Ihr Herren, ſeid willkommen in Helſingoer.
+Eure Hände! Kommt! Der Zubehör des Willkommens
+iſt Mode und Förmlichkeit. Laßt mich euch auf dieſe Weiſe
+begrüßen, damit mein Benehmen gegen die Schauſpieler,
+welches, ſog&#39; ich euch, doch ein ſtattliches Aeußeres zei-
+gen muß, euch nicht beſſerer Empfang bedünke, als der,
+welchen ich euch bot. Ihr ſeid willkommen; aber mein
+Ohm Vater und meine Muhme Mutter haben ſich ge-
+täuſcht.
+Gyld. Inwiefern, mein Prinz?
+Haml. Ich bin nur toll bei Nord-Nord-Weſt; ſo-
+bald der Wind ſüdlich iſt, unterſcheide ich einen Eſel von
+einem Lautenſchläger.
+(Polonius tritt auf.)
+Pol. Heil euch, ihr Herren!
+Haml. Hört, Gyldenſtiern - und auch ihr - an
+jedem Ohr ein Hörer: das große Kindlein, das ihr dort
+ſeht, iſt noch nicht aus ſeinen Windeln gekommen.
+665
+aXXIX</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

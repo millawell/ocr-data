@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6113" imageWidth="3744">
+    <PrintSpace>
+        <Coords points="0,0 0,3744 6113,3744 6113,3744"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3744 6113,3744 6113,3744"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="333,10 333,256 415,256 415,10"/>
+            <TextEquiv>
+                <Unicode>Akt V.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="321,701 321,2627 432,2627 432,701"/>
+            <TextEquiv>
+                <Unicode>König Heinrich der Vierte. II. Theil.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="494,469 494,1159 567,1159 567,469"/>
+            <TextEquiv>
+                <Unicode>Dritter Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="591,133 591,1507 670,1507 670,133"/>
+            <TextEquiv>
+                <Unicode>Gloſterſhire. Garten hinter Flach&#39;s Hauſe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="686,17 686,1691 755,1691 755,17"/>
+            <TextEquiv>
+                <Unicode>(Falſtaff, Flach, Stille, Bardolph, Page und Da-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="741,90 741,506 796,506 796,90"/>
+            <TextEquiv>
+                <Unicode>vid treten auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="808,31 808,1690 891,1690 891,31"/>
+            <TextEquiv>
+                <Unicode>Flach. Ei was, ihr ſollt meinen Obſtgarten beſehen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="881,-27 881,1695 956,1695 956,-27"/>
+            <TextEquiv>
+                <Unicode>wo wir in einer Laube einen Pippinapfel von voriger</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="946,-25 946,1692 1025,1692 1025,-25"/>
+            <TextEquiv>
+                <Unicode>Erndte und von einem Baume eſſen wollen, den ich ſelbſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="1019,-28 1019,1695 1099,1695 1099,-28"/>
+            <TextEquiv>
+                <Unicode>gepfropft habe; dazu eine Schüſſel voll Gebackenes, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1087,-29 1087,1694 1167,1694 1167,-29"/>
+            <TextEquiv>
+                <Unicode>ſo weiter. Komm, Better Stille - und dann zu Bett.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1156,28 1156,1693 1238,1693 1238,28"/>
+            <TextEquiv>
+                <Unicode>Falſt. Wahrhaftig; ihr habt hier eine ſtattliche Woh-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1231,-4 1231,715 1306,715 1306,-4"/>
+            <TextEquiv>
+                <Unicode>nung, und eine köſtliche.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1295,28 1295,1689 1375,1689 1375,28"/>
+            <TextEquiv>
+                <Unicode>Flach. Aermlich, ärmlich, ärmlich; Bettler Alle,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1366,-26 1366,1693 1442,1693 1442,-26"/>
+            <TextEquiv>
+                <Unicode>Bettler Alle, Sir John! Die Luft freilich iſt gut. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1436,-31 1436,1691 1515,1691 1515,-31"/>
+            <TextEquiv>
+                <Unicode>Deck auf, David; deck auf, David! Gut ſo, David!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1503,26 1503,1691 1585,1691 1585,26"/>
+            <TextEquiv>
+                <Unicode>Falſt. Dieſer David leiſtet euch gute Dienſte. Er iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1575,-15 1575,1047 1650,1047 1650,-15"/>
+            <TextEquiv>
+                <Unicode>euer Diener und euer Wirthſchafter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1643,26 1643,1693 1721,1693 1721,26"/>
+            <TextEquiv>
+                <Unicode>Flach. Ein guter Kerl, ein guter Kerl, ein guter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1713,-34 1713,1695 1792,1695 1792,-34"/>
+            <TextEquiv>
+                <Unicode>Kerl, Sir John. - Beim Meßbuche, ich habe zu viel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1785,-32 1785,1694 1861,1694 1861,-32"/>
+            <TextEquiv>
+                <Unicode>Sekt beim Efſen getrunken! - - Ein guter Kerl. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1852,-24 1852,1387 1929,1387 1929,-24"/>
+            <TextEquiv>
+                <Unicode>Nun ſetzt euch, ſetzt euch. - Kommt, Vetter.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1924,-3 1924,1589 2006,1589 2006,-3"/>
+            <TextEquiv>
+                <Unicode>Stille. Daß dich alle Tauſend! Wir wollen -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2008,628 2008,967 2068,967 2068,628"/>
+            <TextEquiv>
+                <Unicode>(Er ſingt.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2074,95 2074,1458 2151,1458 2151,95"/>
+            <TextEquiv>
+                <Unicode>Nichts thun als eſſen und trinken, fürwahr!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2146,95 2146,1413 2220,1413 2220,95"/>
+            <TextEquiv>
+                <Unicode>Und den Himmel preiſen fürs luſtige Jahr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2211,83 2211,1690 2290,1690 2290,83"/>
+            <TextEquiv>
+                <Unicode>Wenns Fleiſch iſt wohlfeil, wenn&#39;s Mägdlein iſt rar,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2285,94 2285,1266 2360,1266 2360,94"/>
+            <TextEquiv>
+                <Unicode>Schwärmen luſtige Burſchen immerdar</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2355,295 2355,696 2429,696 2429,295"/>
+            <TextEquiv>
+                <Unicode>So luſtiglich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2421,98 2421,1045 2499,1045 2499,98"/>
+            <TextEquiv>
+                <Unicode>Und immer herum ſo luſtiglich!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2508,21 2508,1693 2585,1693 2585,21"/>
+            <TextEquiv>
+                <Unicode>Falſt. Das nenn&#39; ich ein fröhliches Gemüth! Guter</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2579,-34 2579,1692 2653,1692 2653,-34"/>
+            <TextEquiv>
+                <Unicode>Herr Stille, dafür muß ich gleich eure Geſundheit trinken.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2650,24 2650,1549 2724,1549 2724,24"/>
+            <TextEquiv>
+                <Unicode>Flach. Gieb Wein an Herrn Bardolph, David.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2721,22 2721,1690 2791,1690 2791,22"/>
+            <TextEquiv>
+                <Unicode>Dav. Werther Herr, ſetzt euch. (Bardolpb und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2787,-32 2787,1693 2860,1693 2860,-32"/>
+            <TextEquiv>
+                <Unicode>der Page ſetzen ſich an einen andern Tiſch.) Gleich bin ich bei</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2855,-32 2855,1693 2932,1693 2932,-32"/>
+            <TextEquiv>
+                <Unicode>euch. - Wertheſter Herr, ſetzt euch, Herr Edelknecht;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2924,-31 2924,1693 2999,1693 2999,-31"/>
+            <TextEquiv>
+                <Unicode>werther Herr Edelknecht, ſetzt euch - Proſit Was euch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2994,-32 2994,1696 3068,1696 3068,-32"/>
+            <TextEquiv>
+                <Unicode>an Speiſen fehlt, ſollt ihr in Getränk bekommen. Ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3063,-30 3063,1694 3139,1694 3139,-30"/>
+            <TextEquiv>
+                <Unicode>müßt fürlieb nehmen; Alles kommt auf die Geſinnung an.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3136,1486 3136,1626 3192,1626 3192,1486"/>
+            <TextEquiv>
+                <Unicode>(ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3180,20 3180,1696 3259,1696 3259,20"/>
+            <TextEquiv>
+                <Unicode>Falſt. Seid luſtig, guter Bardolph - und ihr, mein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3252,-10 3252,928 3327,928 3327,-10"/>
+            <TextEquiv>
+                <Unicode>kleiner Kriegsmann, ſeid luſtig!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3318,26 3318,1695 3395,1695 3395,26"/>
+            <TextEquiv>
+                <Unicode>Stille (ſingend.) Juchhe! Wie All, iſt mein Weib</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3391,442 3391,670 3463,670 3463,442"/>
+            <TextEquiv>
+                <Unicode>zumahl,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3455,89 3455,1594 3538,1594 3538,89"/>
+            <TextEquiv>
+                <Unicode>Denn Weiber ſind zänkiſch, ob breit oder ſchmal;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3528,92 3528,1594 3604,1594 3604,92"/>
+            <TextEquiv>
+                <Unicode>Wo Bärt&#39; oben drauf ſind, iſt&#39;s luſtig im Saal,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3599,225 3599,1328 3673,1328 3673,225"/>
+            <TextEquiv>
+                <Unicode>Willkommen, und luſtige Faſtnacht!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3668,238 3668,798 3739,798 3739,238"/>
+            <TextEquiv>
+                <Unicode>Juchhe! u. ſ. w.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3733,24 3733,1695 3813,1695 3813,24"/>
+            <TextEquiv>
+                <Unicode>Falſt. Ich hätte nicht gedacht, daß Herr Stille ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3804,-10 3804,921 3881,921 3881,-10"/>
+            <TextEquiv>
+                <Unicode>Mann von ſolchem Feuer wäre.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3870,28 3870,1696 3953,1696 3953,28"/>
+            <TextEquiv>
+                <Unicode>Stille. Wer? Ich? Ei, bin ich wohl ehedem ſchon</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3943,-19 3943,1269 4022,1269 4022,-19"/>
+            <TextEquiv>
+                <Unicode>zweimahl und noch einmahl luſtig geweſen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="4028,457 4028,1210 4087,1210 4087,457"/>
+            <TextEquiv>
+                <Unicode>(David tritt wieder auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4094,31 4094,1608 4176,1608 4176,31"/>
+            <TextEquiv>
+                <Unicode>Dav. Hier iſt ein Teller mit Pelzäpfeln für euch.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4162,468 4162,1639 4224,1639 4224,468"/>
+            <TextEquiv>
+                <Unicode>(Er ſtellt die Schuſſel vor Bardolph hin.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4221,56 4221,544 4295,544 4295,56"/>
+            <TextEquiv>
+                <Unicode>Flach. David!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4264,28 4264,1697 4360,1697 4360,28"/>
+            <TextEquiv>
+                <Unicode>Dav. (zu Bardolph.) Euer Geſtrengen? Gleich bin ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4357,-10 4357,1128 4431,1128 4431,-10"/>
+            <TextEquiv>
+                <Unicode>bei euch. Einen Becher Wein, Herr?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4423,32 4423,1693 4496,1693 4496,32"/>
+            <TextEquiv>
+                <Unicode>Stille (ſingend.) &#39;nen Becher Wein, der feurig und fein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4494,99 4494,1329 4569,1329 4569,99"/>
+            <TextEquiv>
+                <Unicode>Trink&#39; ich aufs Wohl der Liebſten mein;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4567,167 4567,1103 4639,1103 4639,167"/>
+            <TextEquiv>
+                <Unicode>Und fröhliches Herz lebt lange.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4635,46 4635,1078 4712,1078 4712,46"/>
+            <TextEquiv>
+                <Unicode>Falſt. Gut geſagt, Herr Stille.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4699,37 4699,1700 4777,1700 4777,37"/>
+            <TextEquiv>
+                <Unicode>Stille. Und wir wollen luſtig ſein - nun bricht die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4775,6 4775,564 4849,564 4849,6"/>
+            <TextEquiv>
+                <Unicode>holde Nacht herein.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4842,34 4842,1573 4922,1573 4922,34"/>
+            <TextEquiv>
+                <Unicode>Falſt. Heil euch und langes Leben, Herr Stille!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4911,37 4911,1582 4985,1582 4985,37"/>
+            <TextEquiv>
+                <Unicode>Stille (ſingend.) Den Becher füllet mir, ich leere</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4980,129 4980,1691 5060,1691 5060,129"/>
+            <TextEquiv>
+                <Unicode>Ihn bis zum Grund, wenn&#39;s auch ne Meile wäre!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5052,33 5052,1695 5130,1695 5130,33"/>
+            <TextEquiv>
+                <Unicode>Flach. Ehrlicher Bardolph, ſeid willkommen Wenn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5119,-20 5119,1695 5198,1695 5198,-20"/>
+            <TextEquiv>
+                <Unicode>dir etwas abgeht und du forderſt nicht, ſo verwünſche dein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5190,-20 5190,1697 5267,1697 5267,-20"/>
+            <TextEquiv>
+                <Unicode>Herz. - Willkommen, mein kleiner winziger Schelm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5260,-14 5260,1700 5331,1700 5331,-14"/>
+            <TextEquiv>
+                <Unicode>zum Pagen) - und willkommen alle Beide! - Ich trink&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5329,-17 5329,1695 5406,1695 5406,-17"/>
+            <TextEquiv>
+                <Unicode>Herrn Bardolph und allen Cavalieren in und um London zu!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5396,41 5396,1628 5476,1628 5476,41"/>
+            <TextEquiv>
+                <Unicode>Dav. Ich hoffe London zu ſehen, bevor ich ſterbe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5467,42 5467,1699 5545,1699 5545,42"/>
+            <TextEquiv>
+                <Unicode>Bard. Und ich möchte dich in London ſehen, David.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt V.
+König Heinrich der Vierte. II. Theil.
+Dritter Auftritt.
+Gloſterſhire. Garten hinter Flach&#39;s Hauſe.
+(Falſtaff, Flach, Stille, Bardolph, Page und Da-
+vid treten auf.)
+Flach. Ei was, ihr ſollt meinen Obſtgarten beſehen,
+wo wir in einer Laube einen Pippinapfel von voriger
+Erndte und von einem Baume eſſen wollen, den ich ſelbſt
+gepfropft habe; dazu eine Schüſſel voll Gebackenes, und
+ſo weiter. Komm, Better Stille - und dann zu Bett.
+Falſt. Wahrhaftig; ihr habt hier eine ſtattliche Woh-
+nung, und eine köſtliche.
+Flach. Aermlich, ärmlich, ärmlich; Bettler Alle,
+Bettler Alle, Sir John! Die Luft freilich iſt gut. -
+Deck auf, David; deck auf, David! Gut ſo, David!
+Falſt. Dieſer David leiſtet euch gute Dienſte. Er iſt
+euer Diener und euer Wirthſchafter.
+Flach. Ein guter Kerl, ein guter Kerl, ein guter
+Kerl, Sir John. - Beim Meßbuche, ich habe zu viel
+Sekt beim Efſen getrunken! - - Ein guter Kerl. -
+Nun ſetzt euch, ſetzt euch. - Kommt, Vetter.
+Stille. Daß dich alle Tauſend! Wir wollen -
+(Er ſingt.)
+Nichts thun als eſſen und trinken, fürwahr!
+Und den Himmel preiſen fürs luſtige Jahr.
+Wenns Fleiſch iſt wohlfeil, wenn&#39;s Mägdlein iſt rar,
+Schwärmen luſtige Burſchen immerdar
+So luſtiglich,
+Und immer herum ſo luſtiglich!
+Falſt. Das nenn&#39; ich ein fröhliches Gemüth! Guter
+Herr Stille, dafür muß ich gleich eure Geſundheit trinken.
+Flach. Gieb Wein an Herrn Bardolph, David.
+Dav. Werther Herr, ſetzt euch. (Bardolpb und
+der Page ſetzen ſich an einen andern Tiſch.) Gleich bin ich bei
+euch. - Wertheſter Herr, ſetzt euch, Herr Edelknecht;
+werther Herr Edelknecht, ſetzt euch - Proſit Was euch
+an Speiſen fehlt, ſollt ihr in Getränk bekommen. Ihr
+müßt fürlieb nehmen; Alles kommt auf die Geſinnung an.
+(ab.)
+Falſt. Seid luſtig, guter Bardolph - und ihr, mein
+kleiner Kriegsmann, ſeid luſtig!
+Stille (ſingend.) Juchhe! Wie All, iſt mein Weib
+zumahl,
+Denn Weiber ſind zänkiſch, ob breit oder ſchmal;
+Wo Bärt&#39; oben drauf ſind, iſt&#39;s luſtig im Saal,
+Willkommen, und luſtige Faſtnacht!
+Juchhe! u. ſ. w.
+Falſt. Ich hätte nicht gedacht, daß Herr Stille ein
+Mann von ſolchem Feuer wäre.
+Stille. Wer? Ich? Ei, bin ich wohl ehedem ſchon
+zweimahl und noch einmahl luſtig geweſen!
+(David tritt wieder auf.)
+Dav. Hier iſt ein Teller mit Pelzäpfeln für euch.
+(Er ſtellt die Schuſſel vor Bardolph hin.)
+Flach. David!
+Dav. (zu Bardolph.) Euer Geſtrengen? Gleich bin ich
+bei euch. Einen Becher Wein, Herr?
+Stille (ſingend.) &#39;nen Becher Wein, der feurig und fein,
+Trink&#39; ich aufs Wohl der Liebſten mein;
+Und fröhliches Herz lebt lange.
+Falſt. Gut geſagt, Herr Stille.
+Stille. Und wir wollen luſtig ſein - nun bricht die
+holde Nacht herein.
+Falſt. Heil euch und langes Leben, Herr Stille!
+Stille (ſingend.) Den Becher füllet mir, ich leere
+Ihn bis zum Grund, wenn&#39;s auch ne Meile wäre!
+Flach. Ehrlicher Bardolph, ſeid willkommen Wenn
+dir etwas abgeht und du forderſt nicht, ſo verwünſche dein
+Herz. - Willkommen, mein kleiner winziger Schelm
+zum Pagen) - und willkommen alle Beide! - Ich trink&#39;s
+Herrn Bardolph und allen Cavalieren in und um London zu!
+Dav. Ich hoffe London zu ſehen, bevor ich ſterbe.
+Bard. Und ich möchte dich in London ſehen, David.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

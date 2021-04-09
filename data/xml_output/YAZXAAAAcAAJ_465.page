@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6129" imageWidth="3754">
+    <PrintSpace>
+        <Coords points="0,0 0,3754 6129,3754 6129,3754"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3754 6129,3754 6129,3754"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="322,258 322,414 389,414 389,258"/>
+            <TextEquiv>
+                <Unicode>446</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="300,965 300,2912 410,2912 410,965"/>
+            <TextEquiv>
+                <Unicode>König Heinrich der Vierte. II. Theil.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="460,231 460,1523 535,1523 535,231"/>
+            <TextEquiv>
+                <Unicode>So müſſen wir des Baues Koſten ſchätzen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="530,230 530,1477 604,1477 604,230"/>
+            <TextEquiv>
+                <Unicode>Wenn die nun unſern Beutel überſteigen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="600,228 600,1556 672,1556 672,228"/>
+            <TextEquiv>
+                <Unicode>Was thun wir dann, als einen andern Riß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="672,233 672,1525 743,1525 743,233"/>
+            <TextEquiv>
+                <Unicode>Von mindrem Umfang zeichen, oder ganz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="735,223 735,1787 812,1787 812,223"/>
+            <TextEquiv>
+                <Unicode>Den Bau nachlaſſen? Mehr bei unſrem Werk noch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="807,227 807,1685 880,1685 880,227"/>
+            <TextEquiv>
+                <Unicode>- Das faſt ein Reich darnieder reißen iſt, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="878,224 878,1904 951,1904 951,224"/>
+            <TextEquiv>
+                <Unicode>Ein andres baun - geziemt&#39;s uns, recht den Bauplatz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="949,235 949,1541 1023,1541 1023,235"/>
+            <TextEquiv>
+                <Unicode>Und das Modell des Aufbaus zu beſchaun,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1017,228 1017,1716 1091,1716 1091,228"/>
+            <TextEquiv>
+                <Unicode>Auch wegen ſichren Grunds uns wohl zu ein&#39;gen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1088,232 1088,1562 1163,1562 1163,232"/>
+            <TextEquiv>
+                <Unicode>Kenner zu Rath zu ziehen; unſern Zuſtand</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1157,235 1157,1599 1229,1599 1229,235"/>
+            <TextEquiv>
+                <Unicode>Zu kennen, ob zu ſolchem Werk wir tüchtig,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1226,234 1226,1638 1302,1638 1302,234"/>
+            <TextEquiv>
+                <Unicode>Ob wir dem Gegner Wage halten; ſonſt ſind</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1298,234 1298,1545 1370,1545 1370,234"/>
+            <TextEquiv>
+                <Unicode>Wir ſtark nur auf Papier und in Figuren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1360,230 1360,1774 1436,1774 1436,230"/>
+            <TextEquiv>
+                <Unicode>Und brauchen Menſchennahmen nur ſtatt Menſchen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1437,232 1437,1747 1506,1747 1506,232"/>
+            <TextEquiv>
+                <Unicode>Gleich dem, der Riß von einem Bau macht, den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1504,237 1504,1603 1577,1603 1577,237"/>
+            <TextEquiv>
+                <Unicode>Er nicht vollführen kann; den halb vollführt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1573,235 1573,1716 1647,1716 1647,235"/>
+            <TextEquiv>
+                <Unicode>Er aufgiebt, und das Halbvollend&#39;te preis giebt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1645,234 1645,1698 1716,1698 1716,234"/>
+            <TextEquiv>
+                <Unicode>Als nacktes Ding, den thränenſchweren Wolken,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1712,237 1712,1615 1785,1615 1785,237"/>
+            <TextEquiv>
+                <Unicode>Als Raub für ſchurk&#39;ſchen Winters Tyrannei.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1781,308 1781,1798 1856,1798 1856,308"/>
+            <TextEquiv>
+                <Unicode>Haſt. Käm&#39; unſer Hoffen (das ſo ſchön in der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1851,234 1851,1709 1926,1709 1926,234"/>
+            <TextEquiv>
+                <Unicode>Geburt ſteht,) todt zur Welt auch, hätten wir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1925,239 1925,1596 1994,1596 1994,239"/>
+            <TextEquiv>
+                <Unicode>Den letzten Mann von unſerm Harren ſchon,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1990,240 1990,1661 2065,1661 2065,240"/>
+            <TextEquiv>
+                <Unicode>So mein ich doch, wir ſind ſtreitkräftig gnug,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2202,684 2202,897 2272,897 2272,684"/>
+            <TextEquiv>
+                <Unicode>König?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2265,302 2265,1986 2347,1986 2347,302"/>
+            <TextEquiv>
+                <Unicode>Haſt. Für uns nicht mehr; ja, nicht ſo viel, Mylord.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2341,242 2341,1608 2411,1608 2411,242"/>
+            <TextEquiv>
+                <Unicode>Denn ſeine Schaar, ſo wie die Zeiten toben,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2402,239 2402,1845 2484,1845 2484,239"/>
+            <TextEquiv>
+                <Unicode>Muß dreifach ſein; Ein Heer muß gegen Frankreich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2480,243 2480,1651 2553,1651 2553,243"/>
+            <TextEquiv>
+                <Unicode>Eins gegen Glendower; mit Noth ein Drittes</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2546,242 2546,1685 2630,1685 2630,242"/>
+            <TextEquiv>
+                <Unicode>Ge&#39;n uns ſtehn, und ſo iſt der ſchwache König</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2620,245 2620,1522 2693,1522 2693,245"/>
+            <TextEquiv>
+                <Unicode>In drei getheilt, und ſeine Koffer klingen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2686,254 2686,1378 2760,1378 2760,254"/>
+            <TextEquiv>
+                <Unicode>Von hohler Dürftigkeit und Leerheit.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2752,318 2752,1834 2833,1834 2833,318"/>
+            <TextEquiv>
+                <Unicode>Erzb. Daß ſeine Streitkräft er zuſammenzieh&#39;,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2826,248 2826,1453 2901,1453 2901,248"/>
+            <TextEquiv>
+                <Unicode>Und mit vereinter Macht uns überfalle,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2896,261 2896,994 2972,994 2972,261"/>
+            <TextEquiv>
+                <Unicode>Steht nicht zu fürchten.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2966,341 2966,522 3039,522 3039,341"/>
+            <TextEquiv>
+                <Unicode>Haſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2960,1076 2960,1938 3037,1938 3037,1076"/>
+            <TextEquiv>
+                <Unicode>Wenn ers thäte, wär ihm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3035,246 3035,1713 3112,1713 3112,246"/>
+            <TextEquiv>
+                <Unicode>Der Rücken ungedeckt; Franzos und Walesmann</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3102,246 3102,1840 3179,1840 3179,246"/>
+            <TextEquiv>
+                <Unicode>Bellt ſeinen Ferſen nach dann - fürchtet das nicht!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3186,312 3186,1994 3265,1994 3265,312"/>
+            <TextEquiv>
+                <Unicode>L. Bard. Wer führt wohl gegen uns die Macht des</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3261,692 3261,937 3332,937 3332,692"/>
+            <TextEquiv>
+                <Unicode>Königs?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3328,316 3328,1887 3403,1887 3403,316"/>
+            <TextEquiv>
+                <Unicode>Haſt. Herzog von Lancaſter, und Weſtmoreland;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3400,250 3400,1687 3477,1687 3477,250"/>
+            <TextEquiv>
+                <Unicode>Er ſelbſt und Harry Monmouth gegen Wales;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3470,252 3470,1608 3543,1608 3543,252"/>
+            <TextEquiv>
+                <Unicode>Doch wer&#39;s mit Frankreich auſzunehmen hat,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3539,259 3539,1265 3613,1265 3613,259"/>
+            <TextEquiv>
+                <Unicode>Ward mir nicht zuverläſſig kund.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3609,1283 3609,1716 3682,1716 3682,1283"/>
+            <TextEquiv>
+                <Unicode>Laßt fort uns,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3610,353 3610,548 3683,548 3683,353"/>
+            <TextEquiv>
+                <Unicode>Erzb.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3675,252 3675,1593 3747,1593 3747,252"/>
+            <TextEquiv>
+                <Unicode>Und unſres Aufſtands Anlaß uns verkünden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3747,250 3747,1672 3821,1672 3821,250"/>
+            <TextEquiv>
+                <Unicode>Der Staat liegt krank an ſeiner eig&#39;nen Wahl,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3816,256 3816,1499 3890,1499 3890,256"/>
+            <TextEquiv>
+                <Unicode>Zu vollgeſtopft hat übergier&#39;ge Lieb ihn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3886,259 3886,1443 3960,1443 3960,259"/>
+            <TextEquiv>
+                <Unicode>Ein ſchwindelhohes und unſichres Haus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3956,253 3956,1590 4029,1590 4029,253"/>
+            <TextEquiv>
+                <Unicode>Hat der, der auf des Pöbels Herzen bauet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4023,250 4023,1787 4100,1787 4100,250"/>
+            <TextEquiv>
+                <Unicode>Vielköpfig Thier! Welch lauten Beiſall ſchrieſt du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4095,254 4095,1671 4168,1671 4168,254"/>
+            <TextEquiv>
+                <Unicode>Zum Himmel auf, den Bolingbroke zu ſegnen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4166,256 4166,1582 4238,1582 4238,256"/>
+            <TextEquiv>
+                <Unicode>Eh er das war, was er dir werden ſollte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4234,254 4234,1611 4308,1611 4308,254"/>
+            <TextEquiv>
+                <Unicode>Und jetzt, da dein Verlangen ihn geſchmückt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4304,255 4304,1670 4378,1670 4378,255"/>
+            <TextEquiv>
+                <Unicode>Biſt, vieh&#39;ſcher Vielfraß, du ſo voll von ihm,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4373,257 4373,1552 4448,1552 4448,257"/>
+            <TextEquiv>
+                <Unicode>Daß du dich ſelber mahnſt ihn auszuſpein.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4442,260 4442,1498 4521,1498 4521,260"/>
+            <TextEquiv>
+                <Unicode>So, du gemeiner Hund, entwürgteſt du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4509,254 4509,1695 4587,1695 4587,254"/>
+            <TextEquiv>
+                <Unicode>Dem eignen Freßſchlund deinen König Richard,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4582,257 4582,1550 4654,1550 4654,257"/>
+            <TextEquiv>
+                <Unicode>Und fräßeſt jetzt gern ausgeſpienen Todten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4651,251 4651,1863 4727,1863 4727,251"/>
+            <TextEquiv>
+                <Unicode>Nach dem du heulſt. Hat dieſe Zeit noch Glauben?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4719,255 4719,1702 4797,1702 4797,255"/>
+            <TextEquiv>
+                <Unicode>Die, welche Richard&#39;s Tod, als Richard lebte,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4789,257 4789,1746 4863,1746 4863,257"/>
+            <TextEquiv>
+                <Unicode>Gewünſcht, ſind jetzt verliebt in Richard&#39;s Grab.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4860,254 4860,1850 4935,1850 4935,254"/>
+            <TextEquiv>
+                <Unicode>Du, der du Staub warfſt auf ſein frommes Haupt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4931,262 4931,1456 5004,1456 5004,262"/>
+            <TextEquiv>
+                <Unicode>Als ſeufzend durch das ſtolze London er</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5000,261 5000,1573 5074,1573 5074,261"/>
+            <TextEquiv>
+                <Unicode>Geprieſ&#39;nen Bolingbroke&#39;s Fußtritt nachzog,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5346,325 5346,2003 5425,2003 5425,325"/>
+            <TextEquiv>
+                <Unicode>Haſt. Wir ſind der Zeit Lohnknechte; ſie führts</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5417,710 5417,892 5475,892 5475,710"/>
+            <TextEquiv>
+                <Unicode>Wort.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>446
+König Heinrich der Vierte. II. Theil.
+So müſſen wir des Baues Koſten ſchätzen.
+Wenn die nun unſern Beutel überſteigen,
+Was thun wir dann, als einen andern Riß
+Von mindrem Umfang zeichen, oder ganz
+Den Bau nachlaſſen? Mehr bei unſrem Werk noch
+- Das faſt ein Reich darnieder reißen iſt, und
+Ein andres baun - geziemt&#39;s uns, recht den Bauplatz
+Und das Modell des Aufbaus zu beſchaun,
+Auch wegen ſichren Grunds uns wohl zu ein&#39;gen,
+Kenner zu Rath zu ziehen; unſern Zuſtand
+Zu kennen, ob zu ſolchem Werk wir tüchtig,
+Ob wir dem Gegner Wage halten; ſonſt ſind
+Wir ſtark nur auf Papier und in Figuren,
+Und brauchen Menſchennahmen nur ſtatt Menſchen,
+Gleich dem, der Riß von einem Bau macht, den
+Er nicht vollführen kann; den halb vollführt
+Er aufgiebt, und das Halbvollend&#39;te preis giebt,
+Als nacktes Ding, den thränenſchweren Wolken,
+Als Raub für ſchurk&#39;ſchen Winters Tyrannei.
+Haſt. Käm&#39; unſer Hoffen (das ſo ſchön in der
+Geburt ſteht,) todt zur Welt auch, hätten wir
+Den letzten Mann von unſerm Harren ſchon,
+So mein ich doch, wir ſind ſtreitkräftig gnug,
+König?
+Haſt. Für uns nicht mehr; ja, nicht ſo viel, Mylord.
+Denn ſeine Schaar, ſo wie die Zeiten toben,
+Muß dreifach ſein; Ein Heer muß gegen Frankreich,
+Eins gegen Glendower; mit Noth ein Drittes
+Ge&#39;n uns ſtehn, und ſo iſt der ſchwache König
+In drei getheilt, und ſeine Koffer klingen
+Von hohler Dürftigkeit und Leerheit.
+Erzb. Daß ſeine Streitkräft er zuſammenzieh&#39;,
+Und mit vereinter Macht uns überfalle,
+Steht nicht zu fürchten.
+Haſt.
+Wenn ers thäte, wär ihm
+Der Rücken ungedeckt; Franzos und Walesmann
+Bellt ſeinen Ferſen nach dann - fürchtet das nicht!
+L. Bard. Wer führt wohl gegen uns die Macht des
+Königs?
+Haſt. Herzog von Lancaſter, und Weſtmoreland;
+Er ſelbſt und Harry Monmouth gegen Wales;
+Doch wer&#39;s mit Frankreich auſzunehmen hat,
+Ward mir nicht zuverläſſig kund.
+Laßt fort uns,
+Erzb.
+Und unſres Aufſtands Anlaß uns verkünden.
+Der Staat liegt krank an ſeiner eig&#39;nen Wahl,
+Zu vollgeſtopft hat übergier&#39;ge Lieb ihn.
+Ein ſchwindelhohes und unſichres Haus
+Hat der, der auf des Pöbels Herzen bauet.
+Vielköpfig Thier! Welch lauten Beiſall ſchrieſt du
+Zum Himmel auf, den Bolingbroke zu ſegnen,
+Eh er das war, was er dir werden ſollte
+Und jetzt, da dein Verlangen ihn geſchmückt,
+Biſt, vieh&#39;ſcher Vielfraß, du ſo voll von ihm,
+Daß du dich ſelber mahnſt ihn auszuſpein.
+So, du gemeiner Hund, entwürgteſt du
+Dem eignen Freßſchlund deinen König Richard,
+Und fräßeſt jetzt gern ausgeſpienen Todten,
+Nach dem du heulſt. Hat dieſe Zeit noch Glauben?
+Die, welche Richard&#39;s Tod, als Richard lebte,
+Gewünſcht, ſind jetzt verliebt in Richard&#39;s Grab.
+Du, der du Staub warfſt auf ſein frommes Haupt,
+Als ſeufzend durch das ſtolze London er
+Geprieſ&#39;nen Bolingbroke&#39;s Fußtritt nachzog,
+Haſt. Wir ſind der Zeit Lohnknechte; ſie führts
+Wort.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

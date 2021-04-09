@@ -9,7 +9,8 @@
     <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
 </Metadata>
 
-<Page imageFilename="pixel" imageHeight="3092" imageWidth="2106">
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="3092" imageWidth="2106">
     <PrintSpace>
         <Coords points="0,0 0,2106 3092,2106 3092,2106"/>
     </PrintSpace>

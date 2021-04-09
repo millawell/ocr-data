@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6138" imageWidth="3773">
+    <PrintSpace>
+        <Coords points="0,0 0,3773 6138,3773 6138,3773"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3773 6138,3773 6138,3773"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="288,24 288,288 433,288 433,24"/>
+            <TextEquiv>
+                <Unicode>AKT I.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="310,1037 310,2452 414,2452 414,1037"/>
+            <TextEquiv>
+                <Unicode>König Heinrich der Achte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="465,888 465,1446 531,1446 531,888"/>
+            <TextEquiv>
+                <Unicode>Aus ſeinen Blicken</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="433,25 433,306 539,306 539,25"/>
+            <TextEquiv>
+                <Unicode>Buck</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="530,-6 530,1600 607,1600 607,-6"/>
+            <TextEquiv>
+                <Unicode>Glotzt&#39; Unheil gegen mich. Sein Aug verwarf mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="601,6 601,1175 676,1175 676,6"/>
+            <TextEquiv>
+                <Unicode>Als ſeines Abſcheus Objekt: eben jetzt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="672,0 672,1460 748,1460 748,0"/>
+            <TextEquiv>
+                <Unicode>Zielt liſtig er nach mir. Er ging zum König;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="743,10 743,986 817,986 817,10"/>
+            <TextEquiv>
+                <Unicode>Ich folg&#39; ihm, ihn zu hindern.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="833,118 833,322 898,322 898,118"/>
+            <TextEquiv>
+                <Unicode>Norf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="825,1009 825,1509 896,1509 896,1009"/>
+            <TextEquiv>
+                <Unicode>Bleibt, Mylord,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="895,16 895,1525 967,1525 967,16"/>
+            <TextEquiv>
+                <Unicode>Und laßt Vernunft ſich mit dem Zorn beſprechen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="966,19 966,1467 1039,1467 1039,19"/>
+            <TextEquiv>
+                <Unicode>Was ihr jetzt vorhabt: ſteile Höhn erklimmen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1034,16 1034,1556 1111,1556 1111,16"/>
+            <TextEquiv>
+                <Unicode>Kann langſam nur geſchehn. Es gleicht der Zorn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1104,25 1104,1233 1180,1233 1180,25"/>
+            <TextEquiv>
+                <Unicode>Dem wilden Roß, das ungebändigt ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1171,21 1171,1372 1251,1372 1251,21"/>
+            <TextEquiv>
+                <Unicode>Durch eigne Kraft ermüdet. - Keiner räth</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1244,20 1244,1409 1320,1409 1320,20"/>
+            <TextEquiv>
+                <Unicode>In England mir wie ihr; ſo ſeid euch ſelbſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1317,32 1317,879 1389,879 1389,32"/>
+            <TextEquiv>
+                <Unicode>Was ihr dem Freunde ſeid.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1397,878 1397,1522 1475,1522 1475,878"/>
+            <TextEquiv>
+                <Unicode>Ich will zum König;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1403,116 1403,303 1461,303 1461,116"/>
+            <TextEquiv>
+                <Unicode>Buck.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1469,22 1469,1381 1541,1381 1541,22"/>
+            <TextEquiv>
+                <Unicode>Der Ehre Mund ſoll dieſen frechen Burſchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1536,16 1536,1555 1614,1555 1614,16"/>
+            <TextEquiv>
+                <Unicode>Aus Ipswich ganz zu Boden ſchrein, ſoll künden:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1610,28 1610,1177 1684,1177 1684,28"/>
+            <TextEquiv>
+                <Unicode>Nicht Unterſchied der Leute giebt&#39;s -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1692,1209 1692,1737 1767,1737 1767,1209"/>
+            <TextEquiv>
+                <Unicode>Nehmt Rath an:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1700,116 1700,326 1771,326 1771,116"/>
+            <TextEquiv>
+                <Unicode>Norf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1761,21 1761,1377 1840,1377 1840,21"/>
+            <TextEquiv>
+                <Unicode>Heizt für den Feind den Ofen nicht ſo glüh,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1831,22 1831,1431 1907,1431 1907,22"/>
+            <TextEquiv>
+                <Unicode>Daß er euch ſelbſt verſengt. Durch Haſtigkeit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1901,16 1901,1735 1972,1735 1972,16"/>
+            <TextEquiv>
+                <Unicode>Rennt man vorbei am Ziel, nach dem man rennt, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="1968,23 1968,1457 2047,1457 2047,23"/>
+            <TextEquiv>
+                <Unicode>Verfehlts durch Ueberrennen. Wißt ihr nicht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2041,19 2041,1493 2115,1493 2115,19"/>
+            <TextEquiv>
+                <Unicode>Daß Gluth, die&#39;s Waſſer durch das Ueberſieden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2110,14 2110,1768 2185,1768 2185,14"/>
+            <TextEquiv>
+                <Unicode>Zu mehren ſcheint, es mindert? Drum nehmt Rath an.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2182,21 2182,1491 2256,1491 2256,21"/>
+            <TextEquiv>
+                <Unicode>Ich ſag&#39; es nochmahls: keine Seel in England</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2251,27 2251,1317 2326,1317 2326,27"/>
+            <TextEquiv>
+                <Unicode>Kann kräftiger euch lenken, als ihr ſelbſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2317,19 2317,1570 2396,1570 2396,19"/>
+            <TextEquiv>
+                <Unicode>Löſcht , oder dämpft zum mindſten, mit dem Saft</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2391,33 2391,1131 2465,1131 2465,33"/>
+            <TextEquiv>
+                <Unicode>Der Ueberlegung eure Zorngluth -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2481,116 2481,312 2540,312 2540,116"/>
+            <TextEquiv>
+                <Unicode>Buck.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2475,1190 2475,1318 2544,1318 2544,1190"/>
+            <TextEquiv>
+                <Unicode>Sir,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2546,23 2546,1437 2619,1437 2619,23"/>
+            <TextEquiv>
+                <Unicode>Ich bin euch dankbar, und will eure Weiſung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2615,33 2615,1110 2692,1110 2692,33"/>
+            <TextEquiv>
+                <Unicode>Befolgen; doch iſt dieſer Ueberſtolze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2682,25 2682,1503 2760,1503 2760,25"/>
+            <TextEquiv>
+                <Unicode>(Nicht nenn ich ihn im Aerger ſo; nein, nein!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2754,25 2754,1488 2828,1488 2828,25"/>
+            <TextEquiv>
+                <Unicode>Aus edler Regung!) mir durch ſichre Warnung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2822,21 2822,1524 2897,1524 2897,21"/>
+            <TextEquiv>
+                <Unicode>Und durch Beweis, ſo klar wie&#39;n Bach im Juli,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2889,25 2889,1386 2965,1386 2965,25"/>
+            <TextEquiv>
+                <Unicode>Worin man jeden Kieſel ſieht, als ſchändlich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2963,40 2963,834 3036,834 3036,40"/>
+            <TextEquiv>
+                <Unicode>Und als verräthriſch kund.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3025,868 3025,1674 3103,1674 3103,868"/>
+            <TextEquiv>
+                <Unicode>Nicht ſagt „verräthriſch.“</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3039,122 3039,326 3105,326 3105,122"/>
+            <TextEquiv>
+                <Unicode>Norf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3098,86 3098,1774 3176,1774 3176,86"/>
+            <TextEquiv>
+                <Unicode>Buc. Dem König ſag&#39; ich&#39;s; und mein Wort ſoll</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3172,466 3172,734 3242,734 3242,466"/>
+            <TextEquiv>
+                <Unicode>ſtark ſein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3236,23 3236,1498 3319,1498 3319,23"/>
+            <TextEquiv>
+                <Unicode>Wie Felſenſtrand! Hört. Dieſer heilge Fuchs,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3307,25 3307,1439 3390,1439 3390,25"/>
+            <TextEquiv>
+                <Unicode>Fuchs oder Wolf - wohl Beides (denn er iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3376,32 3376,1332 3455,1332 3455,32"/>
+            <TextEquiv>
+                <Unicode>So ſchlau wie gierig, ſo geneigt wie fähig</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3448,28 3448,1450 3526,1450 3526,28"/>
+            <TextEquiv>
+                <Unicode>Zum Böſesthun; bei dem ſich Seel und Amt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3517,27 3517,1435 3596,1435 3596,27"/>
+            <TextEquiv>
+                <Unicode>Einander gegenſeits vergiften,) wißt, er hat,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3586,30 3586,1332 3665,1332 3665,30"/>
+            <TextEquiv>
+                <Unicode>Um ſeinen Pomp in Frankreich wie daheim</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="3656,30 3656,1323 3737,1323 3737,30"/>
+            <TextEquiv>
+                <Unicode>Zu zeigen, unſern Herrn, den König, zu</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="3726,26 3726,1470 3807,1470 3807,26"/>
+            <TextEquiv>
+                <Unicode>Dem theuren Bündnis, dem Vertrag gerathen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="3798,28 3798,1433 3873,1433 3873,28"/>
+            <TextEquiv>
+                <Unicode>Der ſo viel Schätze ſchlang und wie ein Glas</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="3866,37 3866,967 3947,967 3947,37"/>
+            <TextEquiv>
+                <Unicode>Zerbrach, indem man&#39;s ſpülte.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="3929,983 3929,1561 3998,1561 3998,983"/>
+            <TextEquiv>
+                <Unicode>Traun! Es brach.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="3942,120 3942,332 4012,332 4012,120"/>
+            <TextEquiv>
+                <Unicode>Norf.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4001,93 4001,1567 4082,1567 4082,93"/>
+            <TextEquiv>
+                <Unicode>Buck. Hört weiter, Sir: der liſtge Kardinal</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4074,35 4074,1328 4153,1328 4153,35"/>
+            <TextEquiv>
+                <Unicode>Entwarf die Punkte dieſes Friedensbundes,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4140,28 4140,1527 4221,1527 4221,28"/>
+            <TextEquiv>
+                <Unicode>Wie&#39;s ihm genehm war, und beſtätigt wurden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4205,27 4205,1772 4294,1772 4294,27"/>
+            <TextEquiv>
+                <Unicode>Sie, als er ſchrie: „So ſei&#39;s“ War&#39;s juſt ſo viel doch,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4279,37 4279,1198 4352,1198 4352,37"/>
+            <TextEquiv>
+                <Unicode>Als einem Todten eine Krücke reichen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4348,31 4348,1482 4437,1482 4437,31"/>
+            <TextEquiv>
+                <Unicode>Doch that&#39;s der Kardinal, und drum iſt&#39;s gut;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4418,30 4418,1567 4504,1567 4504,30"/>
+            <TextEquiv>
+                <Unicode>Hochwürden Wolſey irrt ja nie! Was folgt nun</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4489,33 4489,1523 4569,1523 4569,33"/>
+            <TextEquiv>
+                <Unicode>Wie mich dünkt, eine Art von Würfling für die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4562,43 4562,1108 4641,1108 4641,43"/>
+            <TextEquiv>
+                <Unicode>Here Verrätherei: der Kaiſer Karl</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="4627,34 4627,1452 4713,1452 4713,34"/>
+            <TextEquiv>
+                <Unicode>kommt zum Beſuch hieher, als wollt&#39; er bloß</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="4696,38 4696,1401 4780,1401 4780,38"/>
+            <TextEquiv>
+                <Unicode>Die Köngin, ſeine Muhme ſehn (doch iſt&#39;s</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="4767,34 4767,1506 4846,1506 4846,34"/>
+            <TextEquiv>
+                <Unicode>Nur Vorwand, ſich mit Wolſey zu beſprechen):</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="4830,34 4830,1560 4921,1560 4921,34"/>
+            <TextEquiv>
+                <Unicode>Er fürchtet, daß das Bündnis zwiſchen Frankreich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="4908,37 4908,1402 4991,1402 4991,37"/>
+            <TextEquiv>
+                <Unicode>Und England ihm nachtheilig werden könnte;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="4976,37 4976,1400 5060,1400 5060,37"/>
+            <TextEquiv>
+                <Unicode>Aus Beider Freundſchaft ſchaut&#39; ihm drohend</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5048,39 5048,1369 5129,1369 5129,39"/>
+            <TextEquiv>
+                <Unicode>Unheil heraus, drum treibt er&#39;s in Geheim</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5117,41 5117,1286 5198,1286 5198,41"/>
+            <TextEquiv>
+                <Unicode>Mit unſerm Kardinal; und ich vermuthe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="5184,33 5184,1634 5267,1634 5267,33"/>
+            <TextEquiv>
+                <Unicode>- Und zwar mit Recht, denn ſicher hat der Kaiſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="5254,44 5254,1383 5343,1383 5343,44"/>
+            <TextEquiv>
+                <Unicode>Gezahlt, eh&#39; er verſprach, ſo daß man ihm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="5331,48 5331,1215 5408,1215 5408,48"/>
+            <TextEquiv>
+                <Unicode>Genügt, bevor er forderte - als nun</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="5393,44 5393,1427 5477,1427 5477,44"/>
+            <TextEquiv>
+                <Unicode>Der Weg mit Gold gepflaſtert war, begehrte</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="5465,53 5465,1293 5545,1293 5545,53"/>
+            <TextEquiv>
+                <Unicode>Der Kaiſer, daß der Kardinal den Sinn</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="5529,25 5529,1355 5617,1355 5617,25"/>
+            <TextEquiv>
+                <Unicode>Des Königs lenk und jenen Frieden breche.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="5595,19 5595,1579 5714,1579 5714,19"/>
+            <TextEquiv>
+                <Unicode>Der König wiſſe dies, und bald - durch mich -</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>AKT I.
+König Heinrich der Achte.
+Aus ſeinen Blicken
+Buck
+Glotzt&#39; Unheil gegen mich. Sein Aug verwarf mich
+Als ſeines Abſcheus Objekt: eben jetzt
+Zielt liſtig er nach mir. Er ging zum König;
+Ich folg&#39; ihm, ihn zu hindern.
+Norf.
+Bleibt, Mylord,
+Und laßt Vernunft ſich mit dem Zorn beſprechen,
+Was ihr jetzt vorhabt: ſteile Höhn erklimmen,
+Kann langſam nur geſchehn. Es gleicht der Zorn
+Dem wilden Roß, das ungebändigt ſich
+Durch eigne Kraft ermüdet. - Keiner räth
+In England mir wie ihr; ſo ſeid euch ſelbſt,
+Was ihr dem Freunde ſeid.
+Ich will zum König;
+Buck.
+Der Ehre Mund ſoll dieſen frechen Burſchen
+Aus Ipswich ganz zu Boden ſchrein, ſoll künden:
+Nicht Unterſchied der Leute giebt&#39;s -
+Nehmt Rath an:
+Norf.
+Heizt für den Feind den Ofen nicht ſo glüh,
+Daß er euch ſelbſt verſengt. Durch Haſtigkeit
+Rennt man vorbei am Ziel, nach dem man rennt, und
+Verfehlts durch Ueberrennen. Wißt ihr nicht,
+Daß Gluth, die&#39;s Waſſer durch das Ueberſieden
+Zu mehren ſcheint, es mindert? Drum nehmt Rath an.
+Ich ſag&#39; es nochmahls: keine Seel in England
+Kann kräftiger euch lenken, als ihr ſelbſt.
+Löſcht , oder dämpft zum mindſten, mit dem Saft
+Der Ueberlegung eure Zorngluth -
+Buck.
+Sir,
+Ich bin euch dankbar, und will eure Weiſung
+Befolgen; doch iſt dieſer Ueberſtolze
+(Nicht nenn ich ihn im Aerger ſo; nein, nein!
+Aus edler Regung!) mir durch ſichre Warnung
+Und durch Beweis, ſo klar wie&#39;n Bach im Juli,
+Worin man jeden Kieſel ſieht, als ſchändlich
+Und als verräthriſch kund.
+Nicht ſagt „verräthriſch.“
+Norf.
+Buc. Dem König ſag&#39; ich&#39;s; und mein Wort ſoll
+ſtark ſein
+Wie Felſenſtrand! Hört. Dieſer heilge Fuchs,
+Fuchs oder Wolf - wohl Beides (denn er iſt
+So ſchlau wie gierig, ſo geneigt wie fähig
+Zum Böſesthun; bei dem ſich Seel und Amt
+Einander gegenſeits vergiften,) wißt, er hat,
+Um ſeinen Pomp in Frankreich wie daheim
+Zu zeigen, unſern Herrn, den König, zu
+Dem theuren Bündnis, dem Vertrag gerathen,
+Der ſo viel Schätze ſchlang und wie ein Glas
+Zerbrach, indem man&#39;s ſpülte.
+Traun! Es brach.
+Norf.
+Buck. Hört weiter, Sir: der liſtge Kardinal
+Entwarf die Punkte dieſes Friedensbundes,
+Wie&#39;s ihm genehm war, und beſtätigt wurden
+Sie, als er ſchrie: „So ſei&#39;s“ War&#39;s juſt ſo viel doch,
+Als einem Todten eine Krücke reichen!
+Doch that&#39;s der Kardinal, und drum iſt&#39;s gut;
+Hochwürden Wolſey irrt ja nie! Was folgt nun
+Wie mich dünkt, eine Art von Würfling für die
+Here Verrätherei: der Kaiſer Karl
+kommt zum Beſuch hieher, als wollt&#39; er bloß
+Die Köngin, ſeine Muhme ſehn (doch iſt&#39;s
+Nur Vorwand, ſich mit Wolſey zu beſprechen):
+Er fürchtet, daß das Bündnis zwiſchen Frankreich
+Und England ihm nachtheilig werden könnte;
+Aus Beider Freundſchaft ſchaut&#39; ihm drohend
+Unheil heraus, drum treibt er&#39;s in Geheim
+Mit unſerm Kardinal; und ich vermuthe
+- Und zwar mit Recht, denn ſicher hat der Kaiſer
+Gezahlt, eh&#39; er verſprach, ſo daß man ihm
+Genügt, bevor er forderte - als nun
+Der Weg mit Gold gepflaſtert war, begehrte
+Der Kaiſer, daß der Kardinal den Sinn
+Des Königs lenk und jenen Frieden breche.
+Der König wiſſe dies, und bald - durch mich -</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

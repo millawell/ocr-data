@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6150" imageWidth="3725">
+    <PrintSpace>
+        <Coords points="0,0 0,3725 6150,3725 6150,3725"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3725 6150,3725 6150,3725"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="317,373 317,524 385,524 385,373"/>
+            <TextEquiv>
+                <Unicode>822</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="297,1839 297,2421 406,2421 406,1839"/>
+            <TextEquiv>
+                <Unicode>Perikles,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="451,336 451,1890 533,1890 533,336"/>
+            <TextEquiv>
+                <Unicode>Auf ſchwankem Schiff; o, fördre du die Wehn der</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="309,3423 309,3689 386,3689 386,3423"/>
+            <TextEquiv>
+                <Unicode>Akt III.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="441,2022 441,3597 529,3597 529,2022"/>
+            <TextEquiv>
+                <Unicode>2. Matr. Wir ſind in der Nähe von Tharſus.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="517,2031 517,3226 600,3226 600,2031"/>
+            <TextEquiv>
+                <Unicode>Per. Dorthin, Freund Seemann;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="522,341 522,1619 600,1619 600,341"/>
+            <TextEquiv>
+                <Unicode>Kreiſenden Kön&#39;gin! - Nun, Lychorida?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="584,396 584,3620 670,3620 670,396"/>
+            <TextEquiv>
+                <Unicode>(Luchorida tritt mit einem neugebornen Kinde auf. Lent ab von Tyrus. Wann kannſt dus erreichen?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="663,2126 663,3729 742,3729 742,2126"/>
+            <TextEquiv>
+                <Unicode>2. Matr. Mit Tageeanbruch, ſo der Wind ſich legt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="867,343 867,1725 935,1725 935,343"/>
+            <TextEquiv>
+                <Unicode>Umarmt dies Stück von eurer todten Gattin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="938,423 938,1363 1016,1363 1016,423"/>
+            <TextEquiv>
+                <Unicode>Per. Wie? Wie, Lychorida?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1001,408 1001,2080 1087,2080 1087,408"/>
+            <TextEquiv>
+                <Unicode>Lych. Geduld, Herr! Wollt dem Sturm nicht Bei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1079,785 1079,1163 1149,1163 1149,785"/>
+            <TextEquiv>
+                <Unicode>ſtand leiſten!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1144,344 1144,1576 1224,1576 1224,344"/>
+            <TextEquiv>
+                <Unicode>Hier all was lebt von eurer Königin -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1216,349 1216,1489 1294,1489 1294,349"/>
+            <TextEquiv>
+                <Unicode>Ein Töchterchen; um ihretwillen zeigt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1286,356 1286,1262 1362,1262 1362,356"/>
+            <TextEquiv>
+                <Unicode>Euch männlich und getröſtet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1352,1250 1352,1730 1427,1730 1427,1250"/>
+            <TextEquiv>
+                <Unicode>O, ihr Götter!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1365,443 1365,601 1432,601 1432,443"/>
+            <TextEquiv>
+                <Unicode>Per.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1426,343 1426,1677 1498,1677 1498,343"/>
+            <TextEquiv>
+                <Unicode>Was macht ihr eure Gaben erſt uns werth,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1493,340 1493,1832 1569,1832 1569,340"/>
+            <TextEquiv>
+                <Unicode>Und nehmt ſie dann uns plötzlich? Wir hienieden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1564,346 1564,1570 1642,1570 1642,346"/>
+            <TextEquiv>
+                <Unicode>Begehren, was wir geben, nicht zurück,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1636,348 1636,1506 1712,1506 1712,348"/>
+            <TextEquiv>
+                <Unicode>Und nehmen&#39;s ſo mit eurer Ehr&#39; auf!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1707,439 1707,609 1780,609 1780,439"/>
+            <TextEquiv>
+                <Unicode>Lych.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1776,362 1776,944 1839,944 1839,362"/>
+            <TextEquiv>
+                <Unicode>Des Kindes willen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1703,1520 1703,1911 1779,1911 1779,1520"/>
+            <TextEquiv>
+                <Unicode>Still, Herr;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1842,982 1842,1784 1918,1784 1918,982"/>
+            <TextEquiv>
+                <Unicode>Nun, ſei mild dein Leben,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="1851,440 1851,595 1921,595 1921,440"/>
+            <TextEquiv>
+                <Unicode>Per.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="1911,338 1911,1870 1986,1870 1986,338"/>
+            <TextEquiv>
+                <Unicode>Denn ſtürm&#39;ſcher ward noch nie ein Kind geboren.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="1980,339 1980,1879 2058,1879 2058,339"/>
+            <TextEquiv>
+                <Unicode>Mild ſei und friedſam von Gemüth! Denn rauher</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2050,342 2050,1743 2126,1743 2126,342"/>
+            <TextEquiv>
+                <Unicode>Ward von der Welt kein Fürſtenkind begrüßt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2120,339 2120,1875 2197,1875 2197,339"/>
+            <TextEquiv>
+                <Unicode>Was nun noch folgt, ſei Glück! So polternd als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2191,342 2191,1762 2268,1762 2268,342"/>
+            <TextEquiv>
+                <Unicode>Luft, Erde, Feu&#39;r und Waſſer es nur können,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2261,347 2261,1643 2335,1643 2335,347"/>
+            <TextEquiv>
+                <Unicode>Aus dem Gebärſchooß dich herauszukunden,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2328,341 2328,1924 2407,1924 2407,341"/>
+            <TextEquiv>
+                <Unicode>Stellt ſich dein Horoſtop dir. Schon beim Eintritt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2397,346 2397,1659 2475,1659 2475,346"/>
+            <TextEquiv>
+                <Unicode>Verlorſt du mehr, als jemahls Hafenglück</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2469,342 2469,1743 2547,1743 2547,342"/>
+            <TextEquiv>
+                <Unicode>Dir hier gewähren kann. Ihr guten Götter!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2540,348 2540,1569 2619,1569 2619,348"/>
+            <TextEquiv>
+                <Unicode>Vollgnädig blickt fortan auf dieſes Kind.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2623,770 2623,1650 2682,1650 2682,770"/>
+            <TextEquiv>
+                <Unicode>(Zwei Matroſen treten auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2674,415 2674,2085 2758,2085 2758,415"/>
+            <TextEquiv>
+                <Unicode>1. Matr. Wie ſteht&#39;s um den Muth, Herr? Gott</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2751,368 2751,769 2827,769 2827,368"/>
+            <TextEquiv>
+                <Unicode>beſchütz&#39; euch!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2809,414 2809,2084 2898,2084 2898,414"/>
+            <TextEquiv>
+                <Unicode>Per. Wohl um den Muth! Ich fürchte nicht den</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2890,798 2890,1039 2960,1039 2960,798"/>
+            <TextEquiv>
+                <Unicode>Sturm;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2953,345 2953,1822 3031,1822 3031,345"/>
+            <TextEquiv>
+                <Unicode>Er that mir Schlimmſtes an. Jedoch aus Liebe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3026,354 3026,1545 3103,1545 3103,354"/>
+            <TextEquiv>
+                <Unicode>Zu dieſem armen Töchterlein, zu dieſer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3091,350 3091,1606 3174,1606 3174,350"/>
+            <TextEquiv>
+                <Unicode>Neuangelangten Schiffrin, wollt&#39; ich doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3165,364 3165,1066 3242,1066 3242,364"/>
+            <TextEquiv>
+                <Unicode>Es ſtürmte nicht mehr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3228,415 3228,2084 3307,2084 3307,415"/>
+            <TextEquiv>
+                <Unicode>1. Matr. Laßt&#39;s Boiſeil los! Du willſt nicht? Willſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3309,364 3309,1097 3382,1097 3382,364"/>
+            <TextEquiv>
+                <Unicode>du? Blaſ&#39; und zerplatze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3367,410 3367,2083 3446,2083 3446,410"/>
+            <TextEquiv>
+                <Unicode>2. Matr. Nur hohe See, und die ſalzige und trübe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3437,340 3437,1989 3526,1989 3526,340"/>
+            <TextEquiv>
+                <Unicode>Woge mag den Mond küſſen; mich kümmert es nicht!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3509,414 3509,2082 3591,2082 3591,414"/>
+            <TextEquiv>
+                <Unicode>1. Matr. Herr, eure Gemahlin muß über Bord</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3580,341 3580,2085 3663,2085 3663,341"/>
+            <TextEquiv>
+                <Unicode>die See geht hoch, der Wind raſ&#39;t und Beide geben ſich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3649,339 3649,2086 3731,2086 3731,339"/>
+            <TextEquiv>
+                <Unicode>nicht eher zur Ruh&#39;, als bis das Schiff von dem Leichnam</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="3731,368 3731,894 3805,894 3805,368"/>
+            <TextEquiv>
+                <Unicode>geſäubert worden.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="3789,428 3789,1410 3873,1410 3873,428"/>
+            <TextEquiv>
+                <Unicode>Per. Das iſt eu&#39;r Aberglaube.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="3858,413 3858,2082 3937,2082 3937,413"/>
+            <TextEquiv>
+                <Unicode>1. Matr. Verzeiht uns, Herr; bei uns auf dem</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="3928,339 3928,2084 4007,2084 4007,339"/>
+            <TextEquiv>
+                <Unicode>Meere iſt dem ſtets nachgelebt worden, und wir beſtehen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="3996,342 3996,2087 4079,2087 4079,342"/>
+            <TextEquiv>
+                <Unicode>darauf in allem Ernſte. Drum machts kurz und gebt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4066,345 4066,1967 4152,1967 4152,345"/>
+            <TextEquiv>
+                <Unicode>die Leiche heraus; ſie muß ohne Weiteres über Bord.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4135,415 4135,2088 4223,2088 4223,415"/>
+            <TextEquiv>
+                <Unicode>Per. Seis, wie&#39;s euch recht dünkt. - Jammerns-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4206,790 4206,1255 4283,1255 4283,790"/>
+            <TextEquiv>
+                <Unicode>werthe Gattin!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4280,433 4280,1318 4358,1318 4358,433"/>
+            <TextEquiv>
+                <Unicode>Lych. Dort liegt ſie, Herr.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4342,420 4342,1935 4430,1935 4430,420"/>
+            <TextEquiv>
+                <Unicode>Per. Entſetzlich Kindbett hatteſt du, o Theure!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4417,352 4417,1678 4500,1678 4500,352"/>
+            <TextEquiv>
+                <Unicode>Nicht Licht, nicht Feur; unholde Elemente</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4481,351 4481,1815 4570,1815 4570,351"/>
+            <TextEquiv>
+                <Unicode>Vergaßen deiner ganz, und mir wird Friſt nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4556,355 4556,1589 4637,1589 4637,355"/>
+            <TextEquiv>
+                <Unicode>Dich ſtandesmäßig zu beſtatten; hurtig,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4626,353 4626,1661 4706,1661 4706,353"/>
+            <TextEquiv>
+                <Unicode>Kaum eingeſargt, ſollſt du hinab zur Tiefe,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4694,348 4694,1926 4776,1926 4776,348"/>
+            <TextEquiv>
+                <Unicode>Wo ſtatt des Denkſteins über deinem Leichnam, und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="4763,354 4763,1668 4845,1668 4845,354"/>
+            <TextEquiv>
+                <Unicode>Statt ew&#39;gen Lampenlichts der Haifiſch und</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="4835,353 4835,1663 4908,1663 4908,353"/>
+            <TextEquiv>
+                <Unicode>Des Meers Gebrauſe dein Gebein umtoſen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="4902,356 4902,1594 4990,1594 4990,356"/>
+            <TextEquiv>
+                <Unicode>Wo du bei Muſcheln liegſt - Lychorida,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="4974,354 4974,1807 5057,1807 5057,354"/>
+            <TextEquiv>
+                <Unicode>Gewürz, Dint&#39; und Papier ſoll Neſtor bringen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5044,357 5044,1649 5126,1649 5126,357"/>
+            <TextEquiv>
+                <Unicode>Auch mein Juwelenkäſtchen, und Nikander</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5114,360 5114,1553 5193,1553 5193,360"/>
+            <TextEquiv>
+                <Unicode>Die Seidenkiſte; leg&#39; das Kindlein auf</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5180,356 5180,1773 5263,1773 5263,356"/>
+            <TextEquiv>
+                <Unicode>Den Pfühl. Beeil dich, während ich von ihr</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5254,356 5254,1790 5335,1790 5335,356"/>
+            <TextEquiv>
+                <Unicode>Prieſterlich Abſchied nehme. - Hurtig, Weib</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="5323,1469 5323,1958 5377,1958 5377,1469"/>
+            <TextEquiv>
+                <Unicode>(Lvchorida ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="5389,424 5389,2092 5464,2092 5464,424"/>
+            <TextEquiv>
+                <Unicode>2. Matr. Herr, wir haben eine verkeilte und ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="5461,369 5461,1354 5538,1354 5538,369"/>
+            <TextEquiv>
+                <Unicode>pichte Kiſte unterm Deck ſtehen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="5527,427 5527,2095 5605,2095 5605,427"/>
+            <TextEquiv>
+                <Unicode>Per. Dank dir. Matros, was für ein Strand iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="5598,806 5598,952 5657,952 5657,806"/>
+            <TextEquiv>
+                <Unicode>dies?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="729,2142 729,3111 804,3111 804,2142"/>
+            <TextEquiv>
+                <Unicode>Per. Geſchwind gen Tharſus!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="870,2063 870,3430 946,3430 946,2063"/>
+            <TextEquiv>
+                <Unicode>Hält es das Kind nicht aus. Jn gute Pflege</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>822
+Perikles,
+Auf ſchwankem Schiff; o, fördre du die Wehn der
+Akt III.
+2. Matr. Wir ſind in der Nähe von Tharſus.
+Per. Dorthin, Freund Seemann;
+Kreiſenden Kön&#39;gin! - Nun, Lychorida?
+(Luchorida tritt mit einem neugebornen Kinde auf. Lent ab von Tyrus. Wann kannſt dus erreichen?
+2. Matr. Mit Tageeanbruch, ſo der Wind ſich legt.
+Umarmt dies Stück von eurer todten Gattin.
+Per. Wie? Wie, Lychorida?
+Lych. Geduld, Herr! Wollt dem Sturm nicht Bei-
+ſtand leiſten!
+Hier all was lebt von eurer Königin -
+Ein Töchterchen; um ihretwillen zeigt
+Euch männlich und getröſtet.
+O, ihr Götter!
+Per.
+Was macht ihr eure Gaben erſt uns werth,
+Und nehmt ſie dann uns plötzlich? Wir hienieden
+Begehren, was wir geben, nicht zurück,
+Und nehmen&#39;s ſo mit eurer Ehr&#39; auf!
+Lych.
+Des Kindes willen!
+Still, Herr;
+Nun, ſei mild dein Leben,
+Per.
+Denn ſtürm&#39;ſcher ward noch nie ein Kind geboren.
+Mild ſei und friedſam von Gemüth! Denn rauher
+Ward von der Welt kein Fürſtenkind begrüßt.
+Was nun noch folgt, ſei Glück! So polternd als
+Luft, Erde, Feu&#39;r und Waſſer es nur können,
+Aus dem Gebärſchooß dich herauszukunden,
+Stellt ſich dein Horoſtop dir. Schon beim Eintritt
+Verlorſt du mehr, als jemahls Hafenglück
+Dir hier gewähren kann. Ihr guten Götter!
+Vollgnädig blickt fortan auf dieſes Kind.
+(Zwei Matroſen treten auf.)
+1. Matr. Wie ſteht&#39;s um den Muth, Herr? Gott
+beſchütz&#39; euch!
+Per. Wohl um den Muth! Ich fürchte nicht den
+Sturm;
+Er that mir Schlimmſtes an. Jedoch aus Liebe
+Zu dieſem armen Töchterlein, zu dieſer
+Neuangelangten Schiffrin, wollt&#39; ich doch
+Es ſtürmte nicht mehr.
+1. Matr. Laßt&#39;s Boiſeil los! Du willſt nicht? Willſt
+du? Blaſ&#39; und zerplatze
+2. Matr. Nur hohe See, und die ſalzige und trübe
+Woge mag den Mond küſſen; mich kümmert es nicht!
+1. Matr. Herr, eure Gemahlin muß über Bord
+die See geht hoch, der Wind raſ&#39;t und Beide geben ſich
+nicht eher zur Ruh&#39;, als bis das Schiff von dem Leichnam
+geſäubert worden.
+Per. Das iſt eu&#39;r Aberglaube.
+1. Matr. Verzeiht uns, Herr; bei uns auf dem
+Meere iſt dem ſtets nachgelebt worden, und wir beſtehen
+darauf in allem Ernſte. Drum machts kurz und gebt
+die Leiche heraus; ſie muß ohne Weiteres über Bord.
+Per. Seis, wie&#39;s euch recht dünkt. - Jammerns-
+werthe Gattin!
+Lych. Dort liegt ſie, Herr.
+Per. Entſetzlich Kindbett hatteſt du, o Theure!
+Nicht Licht, nicht Feur; unholde Elemente
+Vergaßen deiner ganz, und mir wird Friſt nicht
+Dich ſtandesmäßig zu beſtatten; hurtig,
+Kaum eingeſargt, ſollſt du hinab zur Tiefe,
+Wo ſtatt des Denkſteins über deinem Leichnam, und
+Statt ew&#39;gen Lampenlichts der Haifiſch und
+Des Meers Gebrauſe dein Gebein umtoſen,
+Wo du bei Muſcheln liegſt - Lychorida,
+Gewürz, Dint&#39; und Papier ſoll Neſtor bringen,
+Auch mein Juwelenkäſtchen, und Nikander
+Die Seidenkiſte; leg&#39; das Kindlein auf
+Den Pfühl. Beeil dich, während ich von ihr
+Prieſterlich Abſchied nehme. - Hurtig, Weib
+(Lvchorida ab.)
+2. Matr. Herr, wir haben eine verkeilte und ver-
+pichte Kiſte unterm Deck ſtehen.
+Per. Dank dir. Matros, was für ein Strand iſt
+dies?
+Per. Geſchwind gen Tharſus!
+Hält es das Kind nicht aus. Jn gute Pflege</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

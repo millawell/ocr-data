@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6127" imageWidth="3757">
+    <PrintSpace>
+        <Coords points="0,0 0,3757 6127,3757 6127,3757"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3757 6127,3757 6127,3757"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="292,72 292,398 443,398 443,72"/>
+            <TextEquiv>
+                <Unicode>Akt II.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="312,1310 312,2314 420,2314 420,1310"/>
+            <TextEquiv>
+                <Unicode>Winter- Mährchen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="452,26 452,1829 593,1829 593,26"/>
+            <TextEquiv>
+                <Unicode>Erst. Hofh. Ich wollt&#39;, er fehlt in dieſem Punkt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="557,576 557,867 629,867 629,576"/>
+            <TextEquiv>
+                <Unicode>mehr euch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="590,29 590,1825 704,1825 704,29"/>
+            <TextEquiv>
+                <Unicode>As mir, mein Fürſt, und mehr noch würd&#39;s mich freuen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="692,38 692,1434 771,1434 771,38"/>
+            <TextEquiv>
+                <Unicode>Wär ihre Unſchuld klar wie euer Argwohn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="762,47 762,1129 840,1129 840,47"/>
+            <TextEquiv>
+                <Unicode>Treff&#39; euch verdienter Tadel drob!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="832,1136 832,1556 908,1556 908,1136"/>
+            <TextEquiv>
+                <Unicode>Was brauchen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="835,63 835,416 901,416 901,63"/>
+            <TextEquiv>
+                <Unicode>Leont.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="896,36 896,1466 979,1466 979,36"/>
+            <TextEquiv>
+                <Unicode>Mit euch wir drob zu ſchwatzen? Folgen wir</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="971,37 971,1452 1047,1452 1047,37"/>
+            <TextEquiv>
+                <Unicode>Dem eignen mächt&#39;gen Antrieb! Unſer Recht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1040,37 1040,1472 1117,1472 1117,37"/>
+            <TextEquiv>
+                <Unicode>Verlangt nicht euren Rath, nur unſre Milde</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1108,37 1108,1461 1185,1461 1185,37"/>
+            <TextEquiv>
+                <Unicode>Vertraut euch Alles. Seid ihr ſo verdummt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1179,34 1179,1582 1256,1582 1256,34"/>
+            <TextEquiv>
+                <Unicode>So liſtig wohl, daß ihr gleich uns die Wahrheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1247,33 1247,1625 1327,1625 1327,33"/>
+            <TextEquiv>
+                <Unicode>Nicht einſehn köonnt, nicht wollt: ſo forſchet nach.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1317,35 1317,1469 1396,1469 1396,35"/>
+            <TextEquiv>
+                <Unicode>Wir wollen ferner euren Rath nicht. Sache,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1388,33 1388,1556 1465,1556 1465,33"/>
+            <TextEquiv>
+                <Unicode>Verluſt, Gewinn, Anordnung drob, geht Alles</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1457,58 1457,500 1533,500 1533,58"/>
+            <TextEquiv>
+                <Unicode>Nur uns an.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1527,35 1527,1458 1604,1458 1604,35"/>
+            <TextEquiv>
+                <Unicode>Antig. Hättet ihr, mein König, nur</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1595,36 1595,1397 1673,1397 1673,36"/>
+            <TextEquiv>
+                <Unicode>Eu&#39;r Urtheil ſchweigend erſt geprüft, bevor</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1665,63 1665,798 1748,798 1748,63"/>
+            <TextEquiv>
+                <Unicode>Ihr&#39;s laut verkündetet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1733,806 1733,1507 1811,1507 1811,806"/>
+            <TextEquiv>
+                <Unicode>Wie wär&#39; das möglich?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1742,72 1742,415 1807,415 1807,72"/>
+            <TextEquiv>
+                <Unicode>Leont.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1802,49 1802,1356 1882,1356 1882,49"/>
+            <TextEquiv>
+                <Unicode>Einfältig macht das Alter dich, wo nicht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1873,37 1873,1415 1951,1415 1951,37"/>
+            <TextEquiv>
+                <Unicode>Biſt du&#39;n geborner Narr. Camillo&#39;s Flucht</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1945,39 1945,1331 2018,1331 2018,39"/>
+            <TextEquiv>
+                <Unicode>Und die Vertraulichkeit der Beiden, (die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2012,32 2012,1603 2090,1603 2090,32"/>
+            <TextEquiv>
+                <Unicode>So plump war, wie ſich&#39;s Argwohn denken kann,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2081,31 2081,1603 2158,1603 2158,31"/>
+            <TextEquiv>
+                <Unicode>Dem nichts fehlt als Beweis, als nur das Sehn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2150,38 2150,1310 2226,1310 2226,38"/>
+            <TextEquiv>
+                <Unicode>Weil jeder andre Umſtand von der That</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2221,33 2221,1513 2299,1513 2299,33"/>
+            <TextEquiv>
+                <Unicode>Ein Zeugnis ablegt,) ſprechen für mein Thun.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2290,35 2290,1479 2371,1479 2371,35"/>
+            <TextEquiv>
+                <Unicode>Doch hab&#39; ich, zu vollkommnerer Beſtät&#39;gung,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2361,36 2361,1494 2437,1494 2437,36"/>
+            <TextEquiv>
+                <Unicode>(Denn wild zu ſein in ſolch gewicht&#39;gem Falle,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2428,37 2428,1442 2507,1442 2507,37"/>
+            <TextEquiv>
+                <Unicode>Wär&#39; unbarmherzig,) als gewicht&#39;ge Männer</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2502,43 2502,1202 2577,1202 2577,43"/>
+            <TextEquiv>
+                <Unicode>Kleomenes und Dion, die ihr kennt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2570,37 2570,1434 2645,1434 2645,37"/>
+            <TextEquiv>
+                <Unicode>Zum heil&#39;gen Delphos, zu Apollon&#39;s Tempel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2639,52 2639,1391 2714,1391 2714,52"/>
+            <TextEquiv>
+                <Unicode>Schnell abgeſandt, daß Kunde vom Orakel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2703,40 2703,1428 2787,1428 2787,40"/>
+            <TextEquiv>
+                <Unicode>Durch ſie mir wird, und jener Gotterſpruch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2775,34 2775,1707 2856,1707 2856,34"/>
+            <TextEquiv>
+                <Unicode>Hemm&#39; oder ſporne mich. That ich nicht wohl dran?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2847,40 2847,1419 2925,1419 2925,40"/>
+            <TextEquiv>
+                <Unicode>Erſt. Hofh. Sehr wohl, mein König!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2914,29 2914,1814 2994,1814 2994,29"/>
+            <TextEquiv>
+                <Unicode>Leont. Obgleich ich überzeugt bin, nichts bedarf mehr,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2983,40 2983,1381 3062,1381 3062,40"/>
+            <TextEquiv>
+                <Unicode>Als was ich weiß, ſoll dennoch das Orakel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3055,38 3055,1404 3133,1404 3133,38"/>
+            <TextEquiv>
+                <Unicode>Die Stimmung Anderer beſchwicht&#39;gen, die</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3122,36 3122,1567 3202,1567 3202,36"/>
+            <TextEquiv>
+                <Unicode>Durch glaubenloſen Starrſinn nicht zur Wahrheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3196,44 3196,1258 3273,1258 3273,44"/>
+            <TextEquiv>
+                <Unicode>Gelangen. Alſo hielten wir&#39;s für gut,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3264,42 3264,1305 3341,1305 3341,42"/>
+            <TextEquiv>
+                <Unicode>Aus unſrer freien Näh&#39; ſie zu entfernen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3333,41 3333,1423 3411,1423 3411,41"/>
+            <TextEquiv>
+                <Unicode>Damit ſie den Verrath der beiden Flücht&#39;gen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3404,35 3404,1591 3480,1591 3480,35"/>
+            <TextEquiv>
+                <Unicode>Ins Werk nicht richte. Kommt, und folget uns.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3474,41 3474,1376 3550,1376 3550,41"/>
+            <TextEquiv>
+                <Unicode>Wir reden laut davon, weil dies uns Alle</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3542,60 3542,623 3619,623 3619,60"/>
+            <TextEquiv>
+                <Unicode>Aufregen muß -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3610,635 3610,1570 3685,1570 3685,635"/>
+            <TextEquiv>
+                <Unicode>Zum Lachen, ſollt&#39; ich meinen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3613,63 3613,414 3688,414 3688,63"/>
+            <TextEquiv>
+                <Unicode>Antig.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3677,30 3677,1770 3776,1770 3776,30"/>
+            <TextEquiv>
+                <Unicode>Wenn reine Wahrheit kund hier wäre. (Alle ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3800,600 3800,1292 3874,1292 3874,600"/>
+            <TextEquiv>
+                <Unicode>Zweiter Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="3897,322 3897,1575 3979,1575 3979,322"/>
+            <TextEquiv>
+                <Unicode>Sicilien. Vorhalle eines Gefängniſſes.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="3999,261 3999,1622 4059,1622 4059,261"/>
+            <TextEquiv>
+                <Unicode>(Paulina und Begleiterinnen treten auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4133,1033 4133,1766 4194,1766 4194,1033"/>
+            <TextEquiv>
+                <Unicode>(Eine Begleiterin ad.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4163,30 4163,1745 4265,1745 4265,30"/>
+            <TextEquiv>
+                <Unicode>Gebt kund ihn, wer ich bin. - Hochherz&#39;ge Kön&#39;gin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4256,41 4256,1271 4334,1271 4334,41"/>
+            <TextEquiv>
+                <Unicode>Kein Hof Europa&#39;s iſt zu gut für dich,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4325,30 4325,1816 4430,1816 4430,30"/>
+            <TextEquiv>
+                <Unicode>Was thuſt du denn im Kerker? - (Zum Kerkermei-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4394,537 4394,1731 4467,1731 4467,537"/>
+            <TextEquiv>
+                <Unicode>ſter, der auftrit.) Nun, mein Freund,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4431,50 4431,982 4547,982 4547,50"/>
+            <TextEquiv>
+                <Unicode>Ihr kennt mich? Oder nicht?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4537,64 4537,378 4607,378 4607,64"/>
+            <TextEquiv>
+                <Unicode>Kerk.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4600,52 4600,858 4680,858 4680,52"/>
+            <TextEquiv>
+                <Unicode>Die ich gar hoch verehre.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4674,64 4674,389 4749,389 4749,64"/>
+            <TextEquiv>
+                <Unicode>Paul.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4531,999 4531,1592 4606,1592 4606,999"/>
+            <TextEquiv>
+                <Unicode>Als würd&#39;ge Dame,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4666,860 4666,1451 4746,1451 4746,860"/>
+            <TextEquiv>
+                <Unicode>Wohl, ſo bitt&#39; ich:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4736,51 4736,831 4824,831 4824,51"/>
+            <TextEquiv>
+                <Unicode>Führt mich zur Königin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4811,28 4811,1736 4889,1736 4889,28"/>
+            <TextEquiv>
+                <Unicode>Kerk. Jch darf nicht, edle Frau; zum Gegentheil</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="4878,46 4878,976 4958,976 4958,46"/>
+            <TextEquiv>
+                <Unicode>Ward mir gemeſſener Befehl.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="4949,985 4949,1425 5025,1425 5025,985"/>
+            <TextEquiv>
+                <Unicode>So gilt&#39;s hier,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="4953,60 4953,387 5028,387 5028,60"/>
+            <TextEquiv>
+                <Unicode>Paul.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5015,40 5015,1202 5098,1202 5098,40"/>
+            <TextEquiv>
+                <Unicode>Vor zartem Zuſpruch Unbeſcholtenheit</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5089,32 5089,1510 5167,1510 5167,32"/>
+            <TextEquiv>
+                <Unicode>Und Ehre zu verſchließen? - - Iſt&#39;s erlaubt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5157,31 5157,1557 5237,1557 5237,31"/>
+            <TextEquiv>
+                <Unicode>Mit ihren Frau&#39;n zu ſprechen? Nur mit Einer?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5230,60 5230,374 5306,374 5306,60"/>
+            <TextEquiv>
+                <Unicode>Emilien</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5292,37 5292,1321 5374,1321 5374,37"/>
+            <TextEquiv>
+                <Unicode>Kerk. Gefall&#39;s euch, gnäd&#39;ge Frau,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="5366,35 5366,1257 5442,1257 5442,35"/>
+            <TextEquiv>
+                <Unicode>Die Dienerinnen zu entfernen, und ich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="5437,48 5437,760 5513,760 5513,48"/>
+            <TextEquiv>
+                <Unicode>Ruf euch Emilia her.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="5501,790 5501,1469 5578,1469 5578,790"/>
+            <TextEquiv>
+                <Unicode>Ich bitt&#39; euch, thut&#39;s.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="5508,54 5508,386 5583,386 5583,54"/>
+            <TextEquiv>
+                <Unicode>Paul.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="5572,30 5572,1253 5658,1253 5658,30"/>
+            <TextEquiv>
+                <Unicode>(zu den Begleiterinnen.) Enthebt euch!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="5640,914 5640,1735 5699,1735 5699,914"/>
+            <TextEquiv>
+                <Unicode>(Die Begleiterinnen ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt II.
+Winter- Mährchen.
+Erst. Hofh. Ich wollt&#39;, er fehlt in dieſem Punkt
+mehr euch
+As mir, mein Fürſt, und mehr noch würd&#39;s mich freuen,
+Wär ihre Unſchuld klar wie euer Argwohn.
+Treff&#39; euch verdienter Tadel drob!
+Was brauchen
+Leont.
+Mit euch wir drob zu ſchwatzen? Folgen wir
+Dem eignen mächt&#39;gen Antrieb! Unſer Recht
+Verlangt nicht euren Rath, nur unſre Milde
+Vertraut euch Alles. Seid ihr ſo verdummt,
+So liſtig wohl, daß ihr gleich uns die Wahrheit
+Nicht einſehn köonnt, nicht wollt: ſo forſchet nach.
+Wir wollen ferner euren Rath nicht. Sache,
+Verluſt, Gewinn, Anordnung drob, geht Alles
+Nur uns an.
+Antig. Hättet ihr, mein König, nur
+Eu&#39;r Urtheil ſchweigend erſt geprüft, bevor
+Ihr&#39;s laut verkündetet.
+Wie wär&#39; das möglich?
+Leont.
+Einfältig macht das Alter dich, wo nicht
+Biſt du&#39;n geborner Narr. Camillo&#39;s Flucht
+Und die Vertraulichkeit der Beiden, (die
+So plump war, wie ſich&#39;s Argwohn denken kann,
+Dem nichts fehlt als Beweis, als nur das Sehn,
+Weil jeder andre Umſtand von der That
+Ein Zeugnis ablegt,) ſprechen für mein Thun.
+Doch hab&#39; ich, zu vollkommnerer Beſtät&#39;gung,
+(Denn wild zu ſein in ſolch gewicht&#39;gem Falle,
+Wär&#39; unbarmherzig,) als gewicht&#39;ge Männer
+Kleomenes und Dion, die ihr kennt,
+Zum heil&#39;gen Delphos, zu Apollon&#39;s Tempel
+Schnell abgeſandt, daß Kunde vom Orakel
+Durch ſie mir wird, und jener Gotterſpruch
+Hemm&#39; oder ſporne mich. That ich nicht wohl dran?
+Erſt. Hofh. Sehr wohl, mein König!
+Leont. Obgleich ich überzeugt bin, nichts bedarf mehr,
+Als was ich weiß, ſoll dennoch das Orakel
+Die Stimmung Anderer beſchwicht&#39;gen, die
+Durch glaubenloſen Starrſinn nicht zur Wahrheit
+Gelangen. Alſo hielten wir&#39;s für gut,
+Aus unſrer freien Näh&#39; ſie zu entfernen,
+Damit ſie den Verrath der beiden Flücht&#39;gen
+Ins Werk nicht richte. Kommt, und folget uns.
+Wir reden laut davon, weil dies uns Alle
+Aufregen muß -
+Zum Lachen, ſollt&#39; ich meinen,
+Antig.
+Wenn reine Wahrheit kund hier wäre. (Alle ab.)
+Zweiter Auftritt.
+Sicilien. Vorhalle eines Gefängniſſes.
+(Paulina und Begleiterinnen treten auf.)
+(Eine Begleiterin ad.)
+Gebt kund ihn, wer ich bin. - Hochherz&#39;ge Kön&#39;gin,
+Kein Hof Europa&#39;s iſt zu gut für dich,
+Was thuſt du denn im Kerker? - (Zum Kerkermei-
+ſter, der auftrit.) Nun, mein Freund,
+Ihr kennt mich? Oder nicht?
+Kerk.
+Die ich gar hoch verehre.
+Paul.
+Als würd&#39;ge Dame,
+Wohl, ſo bitt&#39; ich:
+Führt mich zur Königin.
+Kerk. Jch darf nicht, edle Frau; zum Gegentheil
+Ward mir gemeſſener Befehl.
+So gilt&#39;s hier,
+Paul.
+Vor zartem Zuſpruch Unbeſcholtenheit
+Und Ehre zu verſchließen? - - Iſt&#39;s erlaubt,
+Mit ihren Frau&#39;n zu ſprechen? Nur mit Einer?
+Emilien
+Kerk. Gefall&#39;s euch, gnäd&#39;ge Frau,
+Die Dienerinnen zu entfernen, und ich
+Ruf euch Emilia her.
+Ich bitt&#39; euch, thut&#39;s.
+Paul.
+(zu den Begleiterinnen.) Enthebt euch!
+(Die Begleiterinnen ab.)</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

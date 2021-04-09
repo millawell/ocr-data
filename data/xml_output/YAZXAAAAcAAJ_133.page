@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6176" imageWidth="3839">
+    <PrintSpace>
+        <Coords points="0,0 0,3839 6176,3839 6176,3839"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3839 6176,3839 6176,3839"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="365,379 365,532 441,532 441,379"/>
+            <TextEquiv>
+                <Unicode>114</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="356,1366 356,2746 461,2746 461,1366"/>
+            <TextEquiv>
+                <Unicode>Johannis - Nachts - Traum.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="528,398 528,2082 606,2082 606,398"/>
+            <TextEquiv>
+                <Unicode>Ober. Fahr wohl, du Nymph&#39;! Eh&#39; er verläßt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="599,823 599,1114 670,1114 670,823"/>
+            <TextEquiv>
+                <Unicode>den Hain,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="666,338 666,1743 744,1743 744,338"/>
+            <TextEquiv>
+                <Unicode>Solſt du ihn fliehn, und er dir Liebe weihn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="732,870 732,1544 793,1544 793,870"/>
+            <TextEquiv>
+                <Unicode>(Zu Puck, der auftritt.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="786,332 786,1902 865,1902 865,332"/>
+            <TextEquiv>
+                <Unicode>Haſt du die Blume? Sei willkommen, Spukgeiſt!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="856,421 856,1416 934,1416 934,421"/>
+            <TextEquiv>
+                <Unicode>Hütch. Seht her, hier iſt ſie.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="928,437 928,687 998,687 998,437"/>
+            <TextEquiv>
+                <Unicode>Ober.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="922,1463 922,2051 1003,2051 1003,1463"/>
+            <TextEquiv>
+                <Unicode>Gieb, ich bitte dich!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="999,337 999,1788 1075,1788 1075,337"/>
+            <TextEquiv>
+                <Unicode>Jch weiß den Raſen, wo man Quendel findet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1068,338 1068,1760 1146,1760 1146,338"/>
+            <TextEquiv>
+                <Unicode>Wo Maaßlieb ſich und nickend Veilchen kündet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1139,338 1139,1762 1217,1762 1217,338"/>
+            <TextEquiv>
+                <Unicode>Dicht überwölbt von üpp&#39;gen Geisblattzweigen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1209,334 1209,1920 1319,1920 1319,334"/>
+            <TextEquiv>
+                <Unicode>Durch die sich Bisamroſ&#39; und Hagdorn beugen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1279,339 1279,1703 1357,1703 1357,339"/>
+            <TextEquiv>
+                <Unicode>Titania ſchlummert dort auf Blumenpracht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1351,334 1351,1941 1430,1941 1430,334"/>
+            <TextEquiv>
+                <Unicode>Durch Spiel und Tanz in Schlaf gelullt, zu Nacht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1422,340 1422,1707 1495,1707 1495,340"/>
+            <TextEquiv>
+                <Unicode>Die Schlange ſtreift die bunte Haut dort ab,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1489,339 1489,1747 1567,1747 1567,339"/>
+            <TextEquiv>
+                <Unicode>Die iſt für&#39;n Elfenkleidchen nicht zu knapp. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1560,342 1560,1655 1636,1655 1636,342"/>
+            <TextEquiv>
+                <Unicode>Mit dieſem Saft netz&#39; ich Titania&#39;s Augen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1629,343 1629,1682 1707,1682 1707,343"/>
+            <TextEquiv>
+                <Unicode>So wird ſie ſchnöde Grillen in ſich ſaugen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1699,340 1699,1741 1774,1741 1774,340"/>
+            <TextEquiv>
+                <Unicode>Nimm auch davon, und ſuche dann im Hain,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1766,345 1766,1657 1844,1657 1844,345"/>
+            <TextEquiv>
+                <Unicode>Ein hold atheniſch Mädchen liebt voll Pein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1838,342 1838,1737 1915,1737 1915,342"/>
+            <TextEquiv>
+                <Unicode>&#39;nen ſpröden Jüngling; netz ihm ſeine Augen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1906,337 1906,1728 1984,1728 1984,337"/>
+            <TextEquiv>
+                <Unicode>Doch ſo, daß, was zunächſt ſie in ſich ſaugen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1977,337 1977,1799 2051,1799 2051,337"/>
+            <TextEquiv>
+                <Unicode>Das Mädchen ſei. Leicht kenneſt du den Mann,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2049,345 2049,1525 2122,1525 2122,345"/>
+            <TextEquiv>
+                <Unicode>Denn der Athener Kleidung hat er an.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2116,340 2116,1804 2193,1804 2193,340"/>
+            <TextEquiv>
+                <Unicode>Behutſam ſei, daß mit noch brünſt&#39;germ Triebe,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2395,835 2395,1073 2471,1073 2471,835"/>
+            <TextEquiv>
+                <Unicode>verſteht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2552,868 2552,1560 2624,1560 2624,868"/>
+            <TextEquiv>
+                <Unicode>Dritter Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2652,788 2652,1641 2728,1641 2728,788"/>
+            <TextEquiv>
+                <Unicode>Eine andere Waldgegend.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2410,1707 2410,2006 2469,2006 2469,1707"/>
+            <TextEquiv>
+                <Unicode>(Beide ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2749,657 2749,1768 2810,1768 2810,657"/>
+            <TextEquiv>
+                <Unicode>(Titania mit ihrem Gefolge tritt auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2832,408 2832,2085 2908,2085 2908,408"/>
+            <TextEquiv>
+                <Unicode>Tit. Kommt! Einen Rundtanz, und dann Elfenſang;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2904,344 2904,1722 2978,1722 2978,344"/>
+            <TextEquiv>
+                <Unicode>Nach einem Drittheil &#39;ner Minute fort dann!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2974,344 2974,1617 3049,1617 3049,344"/>
+            <TextEquiv>
+                <Unicode>Ihr tödtet Spinnen in den Roſenknoſpen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="3039,340 3039,1763 3118,1763 3118,340"/>
+            <TextEquiv>
+                <Unicode>Ihr ſchlagt die Flugmaus todt, ihr Lederflügel</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="3112,343 3112,1747 3189,1747 3189,343"/>
+            <TextEquiv>
+                <Unicode>Giebt Elfenröckchen; ihr verſcheucht die Eule,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="3181,335 3181,2015 3255,2015 3255,335"/>
+            <TextEquiv>
+                <Unicode>Die nächtlich lärmend kreiſcht, und mit Verwundrung</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3246,339 3246,1907 3327,1907 3327,339"/>
+            <TextEquiv>
+                <Unicode>Auf unſre ſchmucken Geiſter glotzt. Jezt ſingt mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3318,335 3318,2013 3401,2013 3401,335"/>
+            <TextEquiv>
+                <Unicode>Jn Schlaf dann geht ans Werk und laßt mich ruhn.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3424,1007 3424,1420 3498,1420 3498,1007"/>
+            <TextEquiv>
+                <Unicode>Geſang.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3509,412 3509,1933 3586,1933 3586,412"/>
+            <TextEquiv>
+                <Unicode>Erſter Elfe. Schlangen bunt mit Gabelzungen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3579,819 3579,1685 3654,1685 3654,819"/>
+            <TextEquiv>
+                <Unicode>Stacheligel, fort von hier!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3649,751 3649,1911 3724,1911 3724,751"/>
+            <TextEquiv>
+                <Unicode>Eidechs, Blindwurm - nicht gedrungen</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3720,818 3720,1542 3794,1542 3794,818"/>
+            <TextEquiv>
+                <Unicode>In der Königin Revier!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3808,273 3808,1799 3885,1799 3885,273"/>
+            <TextEquiv>
+                <Unicode>Chor der Elfen. Nachtigall mit Melodei,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3878,817 3878,1632 3952,1632 3952,817"/>
+            <TextEquiv>
+                <Unicode>Sing uns ſüßlieb Lullabei;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3946,479 3946,1937 4022,1937 4022,479"/>
+            <TextEquiv>
+                <Unicode>Lulla, Lulla, Lullabei Lulla, Lulla, Lullabei!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="4015,805 4015,1969 4093,1969 4093,805"/>
+            <TextEquiv>
+                <Unicode>Daß nicht Harm, noch Zauberſchwarm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="4087,817 4087,1579 4161,1579 4161,817"/>
+            <TextEquiv>
+                <Unicode>Holder Kön&#39;gin nahe ſei;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="4156,816 4156,1694 4230,1694 4230,816"/>
+            <TextEquiv>
+                <Unicode>So gut&#39; Nacht mit Lullabei!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="4242,410 4242,2023 4324,2023 4324,410"/>
+            <TextEquiv>
+                <Unicode>Zweiter Elfe. Webeſpinnen, laßt euch ſcheuchen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="4315,720 4315,1678 4388,1678 4388,720"/>
+            <TextEquiv>
+                <Unicode>Langbebeinte Spinner, fort!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4381,749 4381,1955 4465,1955 4465,749"/>
+            <TextEquiv>
+                <Unicode>Wurm und Schnecke, wollt entweichen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4452,812 4452,1823 4528,1823 4528,812"/>
+            <TextEquiv>
+                <Unicode>Schwarze Käfer, flieht den Ort!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4538,414 4538,1814 4619,1814 4619,414"/>
+            <TextEquiv>
+                <Unicode>Chor der Elfen. Nachtigal voll Melodei,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4609,823 4609,1631 4690,1631 4690,823"/>
+            <TextEquiv>
+                <Unicode>Sing uns ſüßlieb Lullabei,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4681,483 4681,1935 4757,1935 4757,483"/>
+            <TextEquiv>
+                <Unicode>Lulla, Lulla, Lulabei! Lulla, Lulla, Lullabei!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4746,812 4746,1955 4829,1955 4829,812"/>
+            <TextEquiv>
+                <Unicode>Daß nicht Harm, noch Zauberſchwarm</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4819,819 4819,1596 4898,1596 4898,819"/>
+            <TextEquiv>
+                <Unicode>Holder Kön&#39;gin nahe ſei;,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4889,822 4889,1688 4963,1688 4963,822"/>
+            <TextEquiv>
+                <Unicode>So gut&#39; Nacht mit Lullabei!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4978,414 4978,1982 5060,1982 5060,414"/>
+            <TextEquiv>
+                <Unicode>Zweiter Elfe. Alles wohl! Ietzt laßt uns gehn;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="5048,814 5048,1932 5126,1932 5126,814"/>
+            <TextEquiv>
+                <Unicode>Einer, auf, muß Schildwacht ſtehn!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="5133,1030 5133,2023 5195,2023 5195,1030"/>
+            <TextEquiv>
+                <Unicode>(Die Elfen ab; Titania ſchläft.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="5215,405 5215,2087 5275,2087 5275,405"/>
+            <TextEquiv>
+                <Unicode>(Oberon tritt auf und quetſcht die Blume über Titaniens</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="5266,583 5266,911 5323,911 5323,583"/>
+            <TextEquiv>
+                <Unicode>Angen aus.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="5335,402 5335,1513 5413,1513 5413,402"/>
+            <TextEquiv>
+                <Unicode>Was du ſiehſt, wenn du erwachteſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5407,353 5407,1534 5482,1534 5482,353"/>
+            <TextEquiv>
+                <Unicode>Sei der Schatz, nach dem du trachteſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5477,352 5477,1544 5551,1544 5551,352"/>
+            <TextEquiv>
+                <Unicode>Den du liebſt, für den du ſchmachteſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5547,352 5547,1579 5623,1579 5623,352"/>
+            <TextEquiv>
+                <Unicode>Luchs mag&#39;s, Kater, borſt&#39;ges Schwein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5619,358 5619,1254 5692,1254 5692,358"/>
+            <TextEquiv>
+                <Unicode>Bär nun, oder Panther ſein.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5686,357 5686,1318 5763,1318 5763,357"/>
+            <TextEquiv>
+                <Unicode>Was dein Aug&#39; erwachend ſah,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="529,2071 529,3051 603,3051 603,2071"/>
+            <TextEquiv>
+                <Unicode>Soll dein Liebchen ſein, ja, ja!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="598,2068 598,3157 672,3157 672,2068"/>
+            <TextEquiv>
+                <Unicode>Wär&#39; recht Garſtges dann doch da!</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>114
+Johannis - Nachts - Traum.
+Ober. Fahr wohl, du Nymph&#39;! Eh&#39; er verläßt
+den Hain,
+Solſt du ihn fliehn, und er dir Liebe weihn.
+(Zu Puck, der auftritt.)
+Haſt du die Blume? Sei willkommen, Spukgeiſt!
+Hütch. Seht her, hier iſt ſie.
+Ober.
+Gieb, ich bitte dich!
+Jch weiß den Raſen, wo man Quendel findet,
+Wo Maaßlieb ſich und nickend Veilchen kündet,
+Dicht überwölbt von üpp&#39;gen Geisblattzweigen,
+Durch die sich Bisamroſ&#39; und Hagdorn beugen;
+Titania ſchlummert dort auf Blumenpracht,
+Durch Spiel und Tanz in Schlaf gelullt, zu Nacht.
+Die Schlange ſtreift die bunte Haut dort ab,
+Die iſt für&#39;n Elfenkleidchen nicht zu knapp. -
+Mit dieſem Saft netz&#39; ich Titania&#39;s Augen,
+So wird ſie ſchnöde Grillen in ſich ſaugen;
+Nimm auch davon, und ſuche dann im Hain,
+Ein hold atheniſch Mädchen liebt voll Pein
+&#39;nen ſpröden Jüngling; netz ihm ſeine Augen,
+Doch ſo, daß, was zunächſt ſie in ſich ſaugen,
+Das Mädchen ſei. Leicht kenneſt du den Mann,
+Denn der Athener Kleidung hat er an.
+Behutſam ſei, daß mit noch brünſt&#39;germ Triebe,
+verſteht.
+Dritter Auftritt.
+Eine andere Waldgegend.
+(Beide ab.)
+(Titania mit ihrem Gefolge tritt auf.)
+Tit. Kommt! Einen Rundtanz, und dann Elfenſang;
+Nach einem Drittheil &#39;ner Minute fort dann!
+Ihr tödtet Spinnen in den Roſenknoſpen;
+Ihr ſchlagt die Flugmaus todt, ihr Lederflügel
+Giebt Elfenröckchen; ihr verſcheucht die Eule,
+Die nächtlich lärmend kreiſcht, und mit Verwundrung
+Auf unſre ſchmucken Geiſter glotzt. Jezt ſingt mich
+Jn Schlaf dann geht ans Werk und laßt mich ruhn.
+Geſang.
+Erſter Elfe. Schlangen bunt mit Gabelzungen,
+Stacheligel, fort von hier!
+Eidechs, Blindwurm - nicht gedrungen
+In der Königin Revier!
+Chor der Elfen. Nachtigall mit Melodei,
+Sing uns ſüßlieb Lullabei;
+Lulla, Lulla, Lullabei Lulla, Lulla, Lullabei!
+Daß nicht Harm, noch Zauberſchwarm
+Holder Kön&#39;gin nahe ſei;
+So gut&#39; Nacht mit Lullabei!
+Zweiter Elfe. Webeſpinnen, laßt euch ſcheuchen;
+Langbebeinte Spinner, fort!
+Wurm und Schnecke, wollt entweichen;
+Schwarze Käfer, flieht den Ort!
+Chor der Elfen. Nachtigal voll Melodei,
+Sing uns ſüßlieb Lullabei,
+Lulla, Lulla, Lulabei! Lulla, Lulla, Lullabei!
+Daß nicht Harm, noch Zauberſchwarm
+Holder Kön&#39;gin nahe ſei;,
+So gut&#39; Nacht mit Lullabei!
+Zweiter Elfe. Alles wohl! Ietzt laßt uns gehn;
+Einer, auf, muß Schildwacht ſtehn!
+(Die Elfen ab; Titania ſchläft.)
+(Oberon tritt auf und quetſcht die Blume über Titaniens
+Angen aus.)
+Was du ſiehſt, wenn du erwachteſt,
+Sei der Schatz, nach dem du trachteſt,
+Den du liebſt, für den du ſchmachteſt,
+Luchs mag&#39;s, Kater, borſt&#39;ges Schwein,
+Bär nun, oder Panther ſein.
+Was dein Aug&#39; erwachend ſah,
+Soll dein Liebchen ſein, ja, ja!
+Wär&#39; recht Garſtges dann doch da!</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

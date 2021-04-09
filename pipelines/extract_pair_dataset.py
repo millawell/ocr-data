@@ -33,7 +33,7 @@ def extract_page(page_el, image):
     page_image_size = points_to_bbox(image_size)[2:]
     
     image = image.resize(page_image_size)
-
+    
     for line in lines:
         
         coords = line.find( 
@@ -67,7 +67,7 @@ def main(pdf_path):
     xml_files = rerouted_files
 
     images = extract_images(pdf_path)
-    
+
     file_id = 0
     for xml_file, image in zip(xml_files, images):
         if xml_file.exists():
@@ -77,7 +77,7 @@ def main(pdf_path):
 
             out_dir = Path(f"../data/pair_output/")
             out_dir.mkdir(exist_ok=True)
-
+            
             for iimage, page_el in enumerate(image_pages):
                 image = images[iimage][1]
                 for text, crop in extract_page(page_el, image):

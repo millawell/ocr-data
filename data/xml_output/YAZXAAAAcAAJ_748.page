@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6193" imageWidth="3762">
+    <PrintSpace>
+        <Coords points="0,0 0,3762 6193,3762 6193,3762"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3762 6193,3762 6193,3762"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="417,67 417,310 505,310 505,67"/>
+            <TextEquiv>
+                <Unicode>Akt V.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="407,1131 407,2312 489,2312 489,1131"/>
+            <TextEquiv>
+                <Unicode>Troilus und Kreſſida</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="558,91 558,1705 631,1705 631,91"/>
+            <TextEquiv>
+                <Unicode>Troil. Soll ich dir, Herr, ſo ſehr verbunden ſein,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="628,39 628,1413 705,1413 705,39"/>
+            <TextEquiv>
+                <Unicode>Daß du, wenn wir von Agamemnon ſcheiden,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="700,61 700,504 775,504 775,61"/>
+            <TextEquiv>
+                <Unicode>Mich hinführſt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="763,518 763,1377 839,1377 839,518"/>
+            <TextEquiv>
+                <Unicode>Zu befehlen haſt du, Prinz.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="775,132 775,333 842,333 842,132"/>
+            <TextEquiv>
+                <Unicode>Ulyſſ.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="834,38 834,1547 912,1547 912,38"/>
+            <TextEquiv>
+                <Unicode>Gleich freundlich mir, ſag&#39; mir, in welchem Rufe</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="905,45 905,1241 978,1241 978,45"/>
+            <TextEquiv>
+                <Unicode>Stand Kreſſida zu Troja? Lebt ihr kein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="974,42 974,1333 1046,1333 1046,42"/>
+            <TextEquiv>
+                <Unicode>Geliebter dort, der um ihr Fernſein klagt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="1044,91 1044,1757 1118,1757 1118,91"/>
+            <TextEquiv>
+                <Unicode>Troil. Spott werde denen, Herr, die ihre Wunden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1113,38 1113,1492 1192,1492 1192,38"/>
+            <TextEquiv>
+                <Unicode>So prunkend zeigen! Willſt du jetzt vorangehn?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1183,38 1183,1538 1258,1538 1258,38"/>
+            <TextEquiv>
+                <Unicode>Sie liebt&#39; , und liebt; ſie ward und wird geliebt:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1251,40 1251,1416 1337,1416 1337,40"/>
+            <TextEquiv>
+                <Unicode>Dem Schickſalezahn ſtets Liebe Nahrung giebt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1333,1291 1333,1627 1388,1627 1388,1291"/>
+            <TextEquiv>
+                <Unicode>(Beide ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1547,413 1547,1346 1643,1346 1643,413"/>
+            <TextEquiv>
+                <Unicode>Fünfter Aufzug.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1685,558 1685,1202 1758,1202 1758,558"/>
+            <TextEquiv>
+                <Unicode>Erſter Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1783,120 1783,1647 1861,1647 1861,120"/>
+            <TextEquiv>
+                <Unicode>Das griechiſche Lager. Vor dem Zelt Achill&#39;s.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1883,261 1883,1515 1939,1515 1939,261"/>
+            <TextEquiv>
+                <Unicode>(Alchilles und Patroklos treten auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1964,89 1964,1758 2041,1758 2041,89"/>
+            <TextEquiv>
+                <Unicode>Achill. Heut Nacht ſoll griech&#39;ſcher Wein ſein Blut</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="2037,461 2037,705 2110,705 2110,461"/>
+            <TextEquiv>
+                <Unicode>erhitzen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="2104,37 2104,1691 2181,1691 2181,37"/>
+            <TextEquiv>
+                <Unicode>Ich kühls ihm morgen dann mit meinem Schwerd. -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="2175,47 2175,1304 2252,1304 2252,47"/>
+            <TextEquiv>
+                <Unicode>Patrotlos, laß uns köſtlich ihn bewirthen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="2261,105 2261,1052 2334,1052 2334,105"/>
+            <TextEquiv>
+                <Unicode>Patr. Hier kommt Therſites.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="2363,523 2363,1249 2422,1249 2422,523"/>
+            <TextEquiv>
+                <Unicode>(Tderſites tritt auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="2433,117 2433,347 2506,347 2506,117"/>
+            <TextEquiv>
+                <Unicode>Achill.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2431,996 2431,1742 2509,1742 2509,996"/>
+            <TextEquiv>
+                <Unicode>Nun, du Neidgeſchwür?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2499,47 2499,1353 2579,1353 2579,47"/>
+            <TextEquiv>
+                <Unicode>Du kruſtiges Naturgemächt - was Neues?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2573,82 2573,1758 2645,1758 2645,82"/>
+            <TextEquiv>
+                <Unicode>Therſ. Da, du Abbild von dem was du ſcheinſt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2641,37 2641,1762 2716,1762 2716,37"/>
+            <TextEquiv>
+                <Unicode>Du Idol einfältiger Verehrer: da iſt ein Schreiben an</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2714,77 2714,172 2780,172 2780,77"/>
+            <TextEquiv>
+                <Unicode>Dich.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2778,98 2778,1288 2854,1288 2854,98"/>
+            <TextEquiv>
+                <Unicode>Achill. Von wannen, du Fragment?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2845,92 2845,1514 2924,1514 2924,92"/>
+            <TextEquiv>
+                <Unicode>Therſ. Von Troja, du voue Narrenſchüſſel.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2918,98 2918,1251 2993,1251 2993,98"/>
+            <TextEquiv>
+                <Unicode>Patr. Wer hält Wache vorm Zelt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2989,93 2989,1336 3062,1336 3062,93"/>
+            <TextEquiv>
+                <Unicode>Therſ. Leinwand und Stricke thun es.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="3054,85 3054,1762 3132,1762 3132,85"/>
+            <TextEquiv>
+                <Unicode>Patr. Wohl geſprochen, Scheuſal Wozu dieſe Al-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="3129,75 3129,367 3198,367 3198,75"/>
+            <TextEquiv>
+                <Unicode>bernheiten?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="3192,88 3192,1766 3270,1766 3270,88"/>
+            <TextEquiv>
+                <Unicode>Therſ. Ich bitte dich, ſchweig, Kerl! Ich kann aus</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="3263,41 3263,1768 3339,1768 3339,41"/>
+            <TextEquiv>
+                <Unicode>einem Gewäſche nichts lernen. Man hält dich für eine</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="3335,62 3335,919 3409,919 3409,62"/>
+            <TextEquiv>
+                <Unicode>männliche Bedienung Achill&#39;s.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="3402,81 3402,1769 3479,1769 3479,81"/>
+            <TextEquiv>
+                <Unicode>Patr. Männliche Bedienung, du Schuft? Was heißt das?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="3474,83 3474,1767 3546,1767 3546,83"/>
+            <TextEquiv>
+                <Unicode>Therſ. Nun, ſeine männliche Hure. Möchten doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="3541,42 3541,1768 3616,1768 3616,42"/>
+            <TextEquiv>
+                <Unicode>alle faulen Seuchen des Südens, darmkneipende Brüche,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="3614,43 3614,1769 3688,1769 3688,43"/>
+            <TextEquiv>
+                <Unicode>Katarrhe, Rückenmarkezehrungen, Schlafſucht, kalte Schlag-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="3684,43 3684,1769 3756,1769 3756,43"/>
+            <TextEquiv>
+                <Unicode>lüſſe, Triefaugen, verſchleimte Lebern, keuchende Lungen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3753,43 3753,1770 3825,1770 3825,43"/>
+            <TextEquiv>
+                <Unicode>itervolle Blattern, der Wurm in der Flachhand, unheil-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3819,49 3819,1771 3895,1771 3895,49"/>
+            <TextEquiv>
+                <Unicode>barer Knochenfraß und das juckende Freilehn der Krätze</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3892,45 3892,1765 3964,1765 3964,45"/>
+            <TextEquiv>
+                <Unicode>lche ſodomitiſche Aufdeckereien holen und abermahls holen!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3961,78 3961,1766 4035,1766 4035,78"/>
+            <TextEquiv>
+                <Unicode>Patr. Ei, du verdammenswerthe Neidbüchſe, du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="4032,62 4032,1100 4105,1100 4105,62"/>
+            <TextEquiv>
+                <Unicode>Was ſoll dies Verfluchen bedeuten?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="4101,98 4101,1060 4176,1060 4176,98"/>
+            <TextEquiv>
+                <Unicode>Therſ. Verfluch&#39; ich dich?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="4163,79 4163,1769 4244,1769 4244,79"/>
+            <TextEquiv>
+                <Unicode>Patr. Das nicht, du zertrümmerte Bütte, du er-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="4236,58 4236,1406 4314,1406 4314,58"/>
+            <TextEquiv>
+                <Unicode>urter, ununterſcheidbarer Hund Das nicht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="4306,78 4306,1768 4382,1768 4382,78"/>
+            <TextEquiv>
+                <Unicode>Tberſ. Nicht? Warum ergrimmſt du denn, du</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="4376,47 4376,1772 4458,1772 4458,47"/>
+            <TextEquiv>
+                <Unicode>nichtsnutige, ſtoffloſe Flockſeide! Du grüner Sarſinetlap-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="4446,49 4446,1767 4522,1767 4522,49"/>
+            <TextEquiv>
+                <Unicode>pen für ein krankes Auge! Du Quaſt an eines Ver-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="4516,48 4516,1767 4587,1767 4587,48"/>
+            <TextEquiv>
+                <Unicode>bwenders Geldbeutel, du? Ach! Wie wird die arme</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="4584,48 4584,1768 4662,1768 4662,48"/>
+            <TextEquiv>
+                <Unicode>Zelt durch ſolche Waſſerfliegen, durch ſolche Naturwin-</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="4657,78 4657,661 4734,661 4734,78"/>
+            <TextEquiv>
+                <Unicode>gkeiten heimgeſucht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="4727,103 4727,856 4801,856 4801,103"/>
+            <TextEquiv>
+                <Unicode>Patr. Hinaus, Galle!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4798,101 4798,789 4871,789 4871,101"/>
+            <TextEquiv>
+                <Unicode>Therſ. Finken Ei!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4860,76 4860,1768 4943,1768 4943,76"/>
+            <TextEquiv>
+                <Unicode>Achill. Patrokles, Freund, gehemmt iſt ſchier mein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4939,470 4939,672 5007,672 5007,470"/>
+            <TextEquiv>
+                <Unicode>Vorſatz</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4998,62 4998,1356 5079,1356 5079,62"/>
+            <TextEquiv>
+                <Unicode>u großen Thaten morgen in der Schlacht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="5071,60 5071,1428 5148,1428 5148,60"/>
+            <TextEquiv>
+                <Unicode>in Schreiben hier von Hekuba, der Kön&#39;gin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="5140,61 5140,1355 5215,1355 5215,61"/>
+            <TextEquiv>
+                <Unicode>nd ein Geſchenk von ihrer holden Tochter:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="5212,64 5212,1268 5283,1268 5283,64"/>
+            <TextEquiv>
+                <Unicode>die tadeln Beide mich und mahnen mich</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="5279,64 5279,1378 5353,1378 5353,64"/>
+            <TextEquiv>
+                <Unicode>n meinen Eid. Nicht brechen will ich ihn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="5349,60 5349,1483 5427,1483 5427,60"/>
+            <TextEquiv>
+                <Unicode>allt, Griechen! Schwinde, Ruhm! Du Ehre,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="5417,60 5417,1453 5494,1453 5494,60"/>
+            <TextEquiv>
+                <Unicode>eh oder bleib! Hier liegt mein Hauptgelübd;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="5485,53 5485,1771 5568,1771 5568,53"/>
+            <TextEquiv>
+                <Unicode>hm folg&#39; ich. (Zu Tverſites.) Du, richt ein mein Zelt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="5557,468 5557,832 5629,832 5629,468"/>
+            <TextEquiv>
+                <Unicode>mit Pracht;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="5621,68 5621,1386 5705,1386 5705,68"/>
+            <TextEquiv>
+                <Unicode>ie ganze Nacht ſei im Bankett durchwacht.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="5698,987 5698,1657 5753,1657 5753,987"/>
+            <TextEquiv>
+                <Unicode>(Ab mit Patroklos.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5699,86 5699,711 5774,711 5774,86"/>
+            <TextEquiv>
+                <Unicode>ehn wir, Patroklos.</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>Akt V.
+Troilus und Kreſſida
+Troil. Soll ich dir, Herr, ſo ſehr verbunden ſein,
+Daß du, wenn wir von Agamemnon ſcheiden,
+Mich hinführſt?
+Zu befehlen haſt du, Prinz.
+Ulyſſ.
+Gleich freundlich mir, ſag&#39; mir, in welchem Rufe
+Stand Kreſſida zu Troja? Lebt ihr kein
+Geliebter dort, der um ihr Fernſein klagt?
+Troil. Spott werde denen, Herr, die ihre Wunden
+So prunkend zeigen! Willſt du jetzt vorangehn?
+Sie liebt&#39; , und liebt; ſie ward und wird geliebt:
+Dem Schickſalezahn ſtets Liebe Nahrung giebt.
+(Beide ab.)
+Fünfter Aufzug.
+Erſter Auftritt.
+Das griechiſche Lager. Vor dem Zelt Achill&#39;s.
+(Alchilles und Patroklos treten auf.)
+Achill. Heut Nacht ſoll griech&#39;ſcher Wein ſein Blut
+erhitzen;
+Ich kühls ihm morgen dann mit meinem Schwerd. -
+Patrotlos, laß uns köſtlich ihn bewirthen.
+Patr. Hier kommt Therſites.
+(Tderſites tritt auf.)
+Achill.
+Nun, du Neidgeſchwür?
+Du kruſtiges Naturgemächt - was Neues?
+Therſ. Da, du Abbild von dem was du ſcheinſt,
+Du Idol einfältiger Verehrer: da iſt ein Schreiben an
+Dich.
+Achill. Von wannen, du Fragment?
+Therſ. Von Troja, du voue Narrenſchüſſel.
+Patr. Wer hält Wache vorm Zelt?
+Therſ. Leinwand und Stricke thun es.
+Patr. Wohl geſprochen, Scheuſal Wozu dieſe Al-
+bernheiten?
+Therſ. Ich bitte dich, ſchweig, Kerl! Ich kann aus
+einem Gewäſche nichts lernen. Man hält dich für eine
+männliche Bedienung Achill&#39;s.
+Patr. Männliche Bedienung, du Schuft? Was heißt das?
+Therſ. Nun, ſeine männliche Hure. Möchten doch
+alle faulen Seuchen des Südens, darmkneipende Brüche,
+Katarrhe, Rückenmarkezehrungen, Schlafſucht, kalte Schlag-
+lüſſe, Triefaugen, verſchleimte Lebern, keuchende Lungen,
+itervolle Blattern, der Wurm in der Flachhand, unheil-
+barer Knochenfraß und das juckende Freilehn der Krätze
+lche ſodomitiſche Aufdeckereien holen und abermahls holen!
+Patr. Ei, du verdammenswerthe Neidbüchſe, du
+Was ſoll dies Verfluchen bedeuten?
+Therſ. Verfluch&#39; ich dich?
+Patr. Das nicht, du zertrümmerte Bütte, du er-
+urter, ununterſcheidbarer Hund Das nicht.
+Tberſ. Nicht? Warum ergrimmſt du denn, du
+nichtsnutige, ſtoffloſe Flockſeide! Du grüner Sarſinetlap-
+pen für ein krankes Auge! Du Quaſt an eines Ver-
+bwenders Geldbeutel, du? Ach! Wie wird die arme
+Zelt durch ſolche Waſſerfliegen, durch ſolche Naturwin-
+gkeiten heimgeſucht.
+Patr. Hinaus, Galle!
+Therſ. Finken Ei!
+Achill. Patrokles, Freund, gehemmt iſt ſchier mein
+Vorſatz
+u großen Thaten morgen in der Schlacht.
+in Schreiben hier von Hekuba, der Kön&#39;gin,
+nd ein Geſchenk von ihrer holden Tochter:
+die tadeln Beide mich und mahnen mich
+n meinen Eid. Nicht brechen will ich ihn,
+allt, Griechen! Schwinde, Ruhm! Du Ehre,
+eh oder bleib! Hier liegt mein Hauptgelübd;
+hm folg&#39; ich. (Zu Tverſites.) Du, richt ein mein Zelt
+mit Pracht;
+ie ganze Nacht ſei im Bankett durchwacht.
+(Ab mit Patroklos.)
+ehn wir, Patroklos.</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>

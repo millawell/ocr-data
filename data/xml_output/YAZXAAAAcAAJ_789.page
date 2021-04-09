@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
+       pcGtsId="page118"
+       xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+    <Creator>David Lassner</Creator>
+    <Created>2021-02-09T09:00:00.000000+01:00</Created>
+    <LastChange>2021-02-09T09:00:00.000000+01:00</LastChange>
+</Metadata>
+
+#TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
+<Page imageFilename="" imageHeight="6169" imageWidth="3756">
+    <PrintSpace>
+        <Coords points="0,0 0,3756 6169,3756 6169,3756"/>
+    </PrintSpace>
+    <TextRegion id="textblock_0">
+        <Coords points="0,0 0,3756 6169,3756 6169,3756"/>
+        
+            <TextLine id="textline_0">
+        
+            <Coords points="368,327 368,483 443,483 443,327"/>
+            <TextEquiv>
+                <Unicode>768</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_1">
+        
+            <Coords points="513,301 513,1565 590,1565 590,301"/>
+            <TextEquiv>
+                <Unicode>Wie ſie in Rom wild und unbändig ſind,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_2">
+        
+            <Coords points="585,305 585,1413 650,1413 650,305"/>
+            <TextEquiv>
+                <Unicode>Und keine Liebesmitbewerber dulden?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_3">
+        
+            <Coords points="357,1520 357,2536 446,2536 446,1520"/>
+            <TextEquiv>
+                <Unicode>Titus Anronicus.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_4">
+        
+            <Coords points="651,298 651,1697 731,1697 731,298"/>
+            <TextEquiv>
+                <Unicode>Ich ſag&#39; euch, Prinzen, dieſer Anſchlag führt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_5">
+        
+            <Coords points="728,319 728,936 796,936 796,319"/>
+            <TextEquiv>
+                <Unicode>Nur euren Tod her.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_6">
+        
+            <Coords points="793,995 793,1650 864,1650 864,995"/>
+            <TextEquiv>
+                <Unicode>Aaron, tauſend Tode</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_7">
+        
+            <Coords points="799,396 799,594 867,594 867,396"/>
+            <TextEquiv>
+                <Unicode>Chir.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_8">
+        
+            <Coords points="861,302 861,1722 939,1722 939,302"/>
+            <TextEquiv>
+                <Unicode>Stürb&#39; ich, erräng ich ſie nur, die ich liebe.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_9">
+        
+            <Coords points="932,386 932,1120 1008,1120 1008,386"/>
+            <TextEquiv>
+                <Unicode>Aar. Erränge? Wie?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_10">
+        
+            <Coords points="999,1029 999,2039 1073,2039 1073,1029"/>
+            <TextEquiv>
+                <Unicode>Was machſt du das ſo ſeltſam?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_11">
+        
+            <Coords points="1010,397 1010,587 1069,587 1069,397"/>
+            <TextEquiv>
+                <Unicode>Dem.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_12">
+        
+            <Coords points="1071,294 1071,1910 1149,1910 1149,294"/>
+            <TextEquiv>
+                <Unicode>Sie iſt ein Weib, drum kann man um ſie werben;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_13">
+        
+            <Coords points="1142,300 1142,1792 1218,1792 1218,300"/>
+            <TextEquiv>
+                <Unicode>Sie iſt ein Weib, drum kann man ſie erringen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_14">
+        
+            <Coords points="1209,302 1209,1582 1286,1582 1286,302"/>
+            <TextEquiv>
+                <Unicode>Sie iſt Lavinia, drum muß ich ſie lieben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_15">
+        
+            <Coords points="1278,295 1278,1864 1358,1864 1358,295"/>
+            <TextEquiv>
+                <Unicode>Menſch, mehr des Waſſers, als der Müller weiß,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_16">
+        
+            <Coords points="1349,293 1349,1970 1426,1970 1426,293"/>
+            <TextEquiv>
+                <Unicode>Schlüpft an der Mühle hin; und leicht, wir wiſſen&#39;s,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_17">
+        
+            <Coords points="1419,297 1419,1828 1497,1828 1497,297"/>
+            <TextEquiv>
+                <Unicode>Stiehlt man von angeſchnittnem Brot ein Stück.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_18">
+        
+            <Coords points="1489,299 1489,1820 1566,1820 1566,299"/>
+            <TextEquiv>
+                <Unicode>Sei auch Baſſian des Kaiſers Bruder, trug doch</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_19">
+        
+            <Coords points="1560,304 1560,1855 1638,1855 1638,304"/>
+            <TextEquiv>
+                <Unicode>Manch Beſſrer ſchon das Brandmaal des Vulkan.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_20">
+        
+            <Coords points="1626,364 1626,2049 1703,2049 1703,364"/>
+            <TextEquiv>
+                <Unicode>Aar. (beiſeit.) Ja, und ſo gut, als Saturnin es trägt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_21">
+        
+            <Coords points="1701,367 1701,1930 1772,1930 1772,367"/>
+            <TextEquiv>
+                <Unicode>Dem. Wie ſollte der verzagen, der mit Worten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_22">
+        
+            <Coords points="1770,303 1770,1700 1842,1700 1842,303"/>
+            <TextEquiv>
+                <Unicode>Mit Gluthblick und Geſchenk zu buhlen weiß?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_23">
+        
+            <Coords points="1840,303 1840,1672 1918,1672 1918,303"/>
+            <TextEquiv>
+                <Unicode>Haſt du nicht oft ein Reh erlegt und keck es</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_24">
+        
+            <Coords points="1909,305 1909,1598 1981,1598 1981,305"/>
+            <TextEquiv>
+                <Unicode>Vor des Waldhüthers Naſe weggeſchleppt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_25">
+        
+            <Coords points="1976,368 1976,1859 2053,1859 2053,368"/>
+            <TextEquiv>
+                <Unicode>Aar. Aha! Ein Kniffchen, oder ſo dergleichen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_26">
+        
+            <Coords points="2051,318 2051,1125 2126,1125 2126,318"/>
+            <TextEquiv>
+                <Unicode>Scheint euch hier rathſam.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_27">
+        
+            <Coords points="2117,1166 2117,1816 2191,1816 2191,1166"/>
+            <TextEquiv>
+                <Unicode>Rathſam, allerdings.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_28">
+        
+            <Coords points="2124,399 2124,595 2196,595 2196,399"/>
+            <TextEquiv>
+                <Unicode>Chir.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_29">
+        
+            <Coords points="2187,385 2187,1243 2262,1243 2262,385"/>
+            <TextEquiv>
+                <Unicode>Dem. Aaron, du trafſts.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_30">
+        
+            <Coords points="2226,1105 2226,2029 2334,2029 2334,1105"/>
+            <TextEquiv>
+                <Unicode>Ich wollt&#39;, ihr hättets ſchon,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_31">
+        
+            <Coords points="2266,402 2266,562 2322,562 2322,402"/>
+            <TextEquiv>
+                <Unicode>Aar.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_32">
+        
+            <Coords points="2325,308 2325,1509 2397,1509 2397,308"/>
+            <TextEquiv>
+                <Unicode>So wären des Gelärms wir überhoben.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_33">
+        
+            <Coords points="2392,296 2392,1955 2474,1955 2474,296"/>
+            <TextEquiv>
+                <Unicode>Doch hört! Hört mich! Seid ihr denn ſolche Thoren,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_34">
+        
+            <Coords points="2465,303 2465,1639 2545,1639 2545,303"/>
+            <TextEquiv>
+                <Unicode>Darob zu hadern? Nehmt ihr Anſtoß dran,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_35">
+        
+            <Coords points="2536,318 2536,1009 2612,1009 2612,318"/>
+            <TextEquiv>
+                <Unicode>Wenn&#39;s Beiden glückt?</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_36">
+        
+            <Coords points="2613,401 2613,593 2685,593 2685,401"/>
+            <TextEquiv>
+                <Unicode>Chir.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_37">
+        
+            <Coords points="2602,1067 2602,1691 2680,1691 2680,1067"/>
+            <TextEquiv>
+                <Unicode>Ich nicht, fürwahr!</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_38">
+        
+            <Coords points="2685,400 2685,585 2742,585 2742,400"/>
+            <TextEquiv>
+                <Unicode>Dem.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_39">
+        
+            <Coords points="2718,308 2718,1321 2826,1321 2826,308"/>
+            <TextEquiv>
+                <Unicode>So ich von Beiden Einer bin.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_40">
+        
+            <Coords points="2824,400 2824,563 2880,563 2880,400"/>
+            <TextEquiv>
+                <Unicode>Aar.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_41">
+        
+            <Coords points="2671,1567 2671,2020 2748,2020 2748,1567"/>
+            <TextEquiv>
+                <Unicode>Ich auch nicht,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_42">
+        
+            <Coords points="2811,1303 2811,1802 2888,1802 2888,1303"/>
+            <TextEquiv>
+                <Unicode>So ſchämt euch,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_43">
+        
+            <Coords points="2884,297 2884,1779 2965,1779 2965,297"/>
+            <TextEquiv>
+                <Unicode>Seid Freund&#39; und werdet Eins zu eurem Zweck.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_44">
+        
+            <Coords points="2952,300 2952,1615 3028,1615 3028,300"/>
+            <TextEquiv>
+                <Unicode>Liſt und Gewandtheit müſſen das bewirken,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_45">
+        
+            <Coords points="3022,295 3022,1835 3102,1835 3102,295"/>
+            <TextEquiv>
+                <Unicode>Was ihr erſtrebt; und drum müßt ihr beſchließen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_46">
+        
+            <Coords points="3092,295 3092,1860 3172,1860 3172,295"/>
+            <TextEquiv>
+                <Unicode>Das, was ihr nicht nach Wunſch vollführen könnt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_47">
+        
+            <Coords points="3165,297 3165,1763 3240,1763 3240,297"/>
+            <TextEquiv>
+                <Unicode>Gewaltſam, wie&#39;s denn gehn will, zu bewirken.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_48">
+        
+            <Coords points="3233,298 3233,1665 3309,1665 3309,298"/>
+            <TextEquiv>
+                <Unicode>Wißt aber: keuſcher war Lukrezia nicht, als</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_49">
+        
+            <Coords points="3303,303 3303,1433 3382,1433 3382,303"/>
+            <TextEquiv>
+                <Unicode>Lavinia, die Geliebte des Baſſian iſt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_50">
+        
+            <Coords points="3371,302 3371,1615 3451,1615 3451,302"/>
+            <TextEquiv>
+                <Unicode>Ein ſchnellrer Lauf als zögernd Sehnen iſt</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_51">
+        
+            <Coords points="3442,295 3442,1754 3523,1754 3523,295"/>
+            <TextEquiv>
+                <Unicode>Hier zu betreiben, und ich fand die Bahn aus.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_52">
+        
+            <Coords points="3511,300 3511,1662 3591,1662 3591,300"/>
+            <TextEquiv>
+                <Unicode>Ein feſtlich Jagen, Prinzen, ſteht im Werk,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_53">
+        
+            <Coords points="3581,301 3581,1605 3658,1605 3658,301"/>
+            <TextEquiv>
+                <Unicode>Zu dem die röm&#39;ſchen Schönen ſich geſellen.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_54">
+        
+            <Coords points="3650,296 3650,1667 3734,1667 3734,296"/>
+            <TextEquiv>
+                <Unicode>Der Forſt dehnt weit ſich und geräumig aus,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_55">
+        
+            <Coords points="3721,297 3721,1644 3798,1644 3798,297"/>
+            <TextEquiv>
+                <Unicode>Und in ihm giebt&#39;s viel unbeſuchte Stellen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_56">
+        
+            <Coords points="3791,297 3791,1690 3867,1690 3867,297"/>
+            <TextEquiv>
+                <Unicode>Zu Raub und Nothzucht von Natur geeignet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_57">
+        
+            <Coords points="3864,302 3864,1495 3940,1495 3940,302"/>
+            <TextEquiv>
+                <Unicode>Dahin verlockt denn dieſe zarte Hindin,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_58">
+        
+            <Coords points="3926,289 3926,2042 4014,2042 4014,289"/>
+            <TextEquiv>
+                <Unicode>Und zwingt&#39;s, wenn nicht durch Wort, ihr durch Gewalt ab;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_59">
+        
+            <Coords points="3999,293 3999,1817 4078,1817 4078,293"/>
+            <TextEquiv>
+                <Unicode>So nur, nicht anders, blüht euch Hoffnung hier.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_60">
+        
+            <Coords points="4069,286 4069,2042 4149,2042 4149,286"/>
+            <TextEquiv>
+                <Unicode>Kommt, kommt zur Kaiſrin, ihrem gift&#39;gen Scharfſinn,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_61">
+        
+            <Coords points="4140,297 4140,1614 4215,1614 4215,297"/>
+            <TextEquiv>
+                <Unicode>Der Bosheit und der Rachgier Heiligthum,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_62">
+        
+            <Coords points="4208,291 4208,1770 4284,1770 4284,291"/>
+            <TextEquiv>
+                <Unicode>Werd&#39; Alles kund, was wir im Schilde führen;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_63">
+        
+            <Coords points="4276,291 4276,1901 4357,1901 4357,291"/>
+            <TextEquiv>
+                <Unicode>Sie ſoll die Werkzeug&#39; uns durch Rathſchlag glätten,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_64">
+        
+            <Coords points="4348,293 4348,1721 4423,1721 4423,293"/>
+            <TextEquiv>
+                <Unicode>Der nimmer dulden wird, daß ihr euch zankt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_65">
+        
+            <Coords points="4420,296 4420,1672 4498,1672 4498,296"/>
+            <TextEquiv>
+                <Unicode>Der euch vielmehr zu Wunſches Gipfel leitet.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_66">
+        
+            <Coords points="4492,296 4492,1628 4564,1628 4564,296"/>
+            <TextEquiv>
+                <Unicode>Des Kaiſers Hof iſt gleich der Fama Haus,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_67">
+        
+            <Coords points="4560,293 4560,1723 4636,1723 4636,293"/>
+            <TextEquiv>
+                <Unicode>Voll ſein Palaſt von Zungen, Augen, Ohren;</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_68">
+        
+            <Coords points="4625,287 4625,2043 4711,2043 4711,287"/>
+            <TextEquiv>
+                <Unicode>Der Forſt iſt grauſam, furchtbar, taub und ſchweigſam:</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_69">
+        
+            <Coords points="4698,289 4698,1956 4779,1956 4779,289"/>
+            <TextEquiv>
+                <Unicode>Dort, muntre Burſche, ſprecht und trefft und bübelt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_70">
+        
+            <Coords points="4767,288 4767,1911 4846,1911 4846,288"/>
+            <TextEquiv>
+                <Unicode>Dort fröhnt der Luſt, vorm Himmelsaug&#39; beſchattet,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_71">
+        
+            <Coords points="4837,303 4837,1442 4917,1442 4917,303"/>
+            <TextEquiv>
+                <Unicode>Und ſchwelget in Laviniens Schatz -</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_72">
+        
+            <Coords points="4907,357 4907,2039 4989,2039 4989,357"/>
+            <TextEquiv>
+                <Unicode>Chir. Dein Rath, Geſell, läßt nichts von Feigheit wittern.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_73">
+        
+            <Coords points="4977,362 4977,1992 5052,1992 5052,362"/>
+            <TextEquiv>
+                <Unicode>Dem. Sit ſas aut nefas, bis den Strom ich finde,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_74">
+        
+            <Coords points="5048,290 5048,1960 5124,1960 5124,290"/>
+            <TextEquiv>
+                <Unicode>Der dieſe Gluth kühlt, Zauber, der die Brunſt ſtillt,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_75">
+        
+            <Coords points="5119,308 5119,1240 5197,1240 5197,308"/>
+            <TextEquiv>
+                <Unicode>Per Styga, per manes vehor.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_76">
+        
+            <Coords points="5234,727 5234,1604 5308,1604 5308,727"/>
+            <TextEquiv>
+                <Unicode>Zweit er Auftritt.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_77">
+        
+            <Coords points="5133,1703 5133,1959 5191,1959 5191,1703"/>
+            <TextEquiv>
+                <Unicode>(Alle ab.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_78">
+        
+            <Coords points="5321,290 5321,2043 5409,2043 5409,290"/>
+            <TextEquiv>
+                <Unicode>Ein Forſt unweit Roms. In der Ferne ſieht man ein</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_79">
+        
+            <Coords points="5394,409 5394,1924 5476,1924 5476,409"/>
+            <TextEquiv>
+                <Unicode>Jägerhaus. Hörnerſchall und Hundegebell werden</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_80">
+        
+            <Coords points="5463,1058 5463,1259 5539,1259 5539,1058"/>
+            <TextEquiv>
+                <Unicode>gehört.</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_81">
+        
+            <Coords points="5544,339 5544,2045 5612,2045 5612,339"/>
+            <TextEquiv>
+                <Unicode>(Titus Andronicus, mit Jägern u. ſ. w., Marcus,</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_82">
+        
+            <Coords points="5595,397 5595,1808 5658,1808 5658,397"/>
+            <TextEquiv>
+                <Unicode>Lucius, Quintus und Martius treten auf.)</Unicode>
+            </TextEquiv>
+            </TextLine>
+            <TextLine id="textline_83">
+        
+            <Coords points="5663,361 5663,2038 5742,2038 5742,361"/>
+            <TextEquiv>
+                <Unicode>Tit. Die Jagd iſt los, hell iſt und grau der Morgen,</Unicode>
+            </TextEquiv>
+            </TextLine>
+        <TextEquiv>
+            <Unicode>768
+Wie ſie in Rom wild und unbändig ſind,
+Und keine Liebesmitbewerber dulden?
+Titus Anronicus.
+Ich ſag&#39; euch, Prinzen, dieſer Anſchlag führt
+Nur euren Tod her.
+Aaron, tauſend Tode
+Chir.
+Stürb&#39; ich, erräng ich ſie nur, die ich liebe.
+Aar. Erränge? Wie?
+Was machſt du das ſo ſeltſam?
+Dem.
+Sie iſt ein Weib, drum kann man um ſie werben;
+Sie iſt ein Weib, drum kann man ſie erringen;
+Sie iſt Lavinia, drum muß ich ſie lieben.
+Menſch, mehr des Waſſers, als der Müller weiß,
+Schlüpft an der Mühle hin; und leicht, wir wiſſen&#39;s,
+Stiehlt man von angeſchnittnem Brot ein Stück.
+Sei auch Baſſian des Kaiſers Bruder, trug doch
+Manch Beſſrer ſchon das Brandmaal des Vulkan.
+Aar. (beiſeit.) Ja, und ſo gut, als Saturnin es trägt.
+Dem. Wie ſollte der verzagen, der mit Worten,
+Mit Gluthblick und Geſchenk zu buhlen weiß?
+Haſt du nicht oft ein Reh erlegt und keck es
+Vor des Waldhüthers Naſe weggeſchleppt?
+Aar. Aha! Ein Kniffchen, oder ſo dergleichen,
+Scheint euch hier rathſam.
+Rathſam, allerdings.
+Chir.
+Dem. Aaron, du trafſts.
+Ich wollt&#39;, ihr hättets ſchon,
+Aar.
+So wären des Gelärms wir überhoben.
+Doch hört! Hört mich! Seid ihr denn ſolche Thoren,
+Darob zu hadern? Nehmt ihr Anſtoß dran,
+Wenn&#39;s Beiden glückt?
+Chir.
+Ich nicht, fürwahr!
+Dem.
+So ich von Beiden Einer bin.
+Aar.
+Ich auch nicht,
+So ſchämt euch,
+Seid Freund&#39; und werdet Eins zu eurem Zweck.
+Liſt und Gewandtheit müſſen das bewirken,
+Was ihr erſtrebt; und drum müßt ihr beſchließen,
+Das, was ihr nicht nach Wunſch vollführen könnt,
+Gewaltſam, wie&#39;s denn gehn will, zu bewirken.
+Wißt aber: keuſcher war Lukrezia nicht, als
+Lavinia, die Geliebte des Baſſian iſt.
+Ein ſchnellrer Lauf als zögernd Sehnen iſt
+Hier zu betreiben, und ich fand die Bahn aus.
+Ein feſtlich Jagen, Prinzen, ſteht im Werk,
+Zu dem die röm&#39;ſchen Schönen ſich geſellen.
+Der Forſt dehnt weit ſich und geräumig aus,
+Und in ihm giebt&#39;s viel unbeſuchte Stellen,
+Zu Raub und Nothzucht von Natur geeignet.
+Dahin verlockt denn dieſe zarte Hindin,
+Und zwingt&#39;s, wenn nicht durch Wort, ihr durch Gewalt ab;
+So nur, nicht anders, blüht euch Hoffnung hier.
+Kommt, kommt zur Kaiſrin, ihrem gift&#39;gen Scharfſinn,
+Der Bosheit und der Rachgier Heiligthum,
+Werd&#39; Alles kund, was wir im Schilde führen;
+Sie ſoll die Werkzeug&#39; uns durch Rathſchlag glätten,
+Der nimmer dulden wird, daß ihr euch zankt,
+Der euch vielmehr zu Wunſches Gipfel leitet.
+Des Kaiſers Hof iſt gleich der Fama Haus,
+Voll ſein Palaſt von Zungen, Augen, Ohren;
+Der Forſt iſt grauſam, furchtbar, taub und ſchweigſam:
+Dort, muntre Burſche, ſprecht und trefft und bübelt,
+Dort fröhnt der Luſt, vorm Himmelsaug&#39; beſchattet,
+Und ſchwelget in Laviniens Schatz -
+Chir. Dein Rath, Geſell, läßt nichts von Feigheit wittern.
+Dem. Sit ſas aut nefas, bis den Strom ich finde,
+Der dieſe Gluth kühlt, Zauber, der die Brunſt ſtillt,
+Per Styga, per manes vehor.
+Zweit er Auftritt.
+(Alle ab.)
+Ein Forſt unweit Roms. In der Ferne ſieht man ein
+Jägerhaus. Hörnerſchall und Hundegebell werden
+gehört.
+(Titus Andronicus, mit Jägern u. ſ. w., Marcus,
+Lucius, Quintus und Martius treten auf.)
+Tit. Die Jagd iſt los, hell iſt und grau der Morgen,</Unicode>
+        </TextEquiv>
+    </TextRegion>
+</Page>
+</PcGts>
