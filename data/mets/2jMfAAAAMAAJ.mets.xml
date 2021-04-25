@@ -46,13 +46,13 @@
                 <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_28.page"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_103" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_3103xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_103.page"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_226" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_3226xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_226.page"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_132" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_3132xml"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_132.page"/>
             </mets:file>
             <mets:file ID="gt_2jMfAAAAMAAJ_84" MIMETYPE="text/xml">
                 <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/2jMfAAAAMAAJ_84.page"/>

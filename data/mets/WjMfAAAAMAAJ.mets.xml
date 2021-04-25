@@ -53,7 +53,7 @@
                 <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_137.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_97" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ977.page"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_97.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_519" MIMETYPE="text/xml">
                 <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_519.page"/>
@@ -62,7 +62,7 @@
                 <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_375.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_30" MIMETYPE="text/xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ307.page"/>
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_30.page"/>
             </mets:file>
             <mets:file ID="gt_WjMfAAAAMAAJ_363" MIMETYPE="text/xml">
                 <mets:FLocat LOCTYPE="URL" xlink:href="data/xml_output/WjMfAAAAMAAJ_363.page"/>
