@@ -2,41 +2,39 @@
     
 	<!-- METS header: Metadaten darüber, von wem und wie die Daten erzeugt wurden -->
 	<mets:metsHdr CREATEDATE="2021-02-09T21:18:00">
-        <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
-            <mets:name>https://github.com/millawell/ocr-data</mets:name>
+        <mets:agent OTHERTYPE="???" ROLE="CREATOR" TYPE="OTHER">
+            <mets:name>OCR - Data</mets:name>
         </mets:agent>
     </mets:metsHdr>
 
 	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
     <dmdSec ID="dmd001">
 		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
-            <dc:title content="$$$$$$$$$$$$"/> 
-            <dc:language content="$$$$$$$$$"/>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" content="Guy Mannering, Or, The Astrologer, Band 3"/> 
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" content="en"/>
 		</mdWrap>
 	</dmdSec>
-	
+    
 	<!-- File Section: Ab hier wird es erst richtig relevant, an dieser Stelle werden alle zum Objekt (in unserem Fall würde ich sagen 1 Objekt - 1 Titel - 1 METS Datei) gehörigen Daten referenziert -->
     <mets:fileSec>
         <mets:fileGrp USE="IMG">
-            <mets:file ID="pdf_$$$$$$$$" MIMETYPE="application/pdf">
-                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=$$$$$$$$"/>
+            <mets:file ID="pdf_Fy4JAAAAQAAJ_312" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=Fy4JAAAAQAAJ#page=312"/>
             </mets:file>
- 
         </mets:fileGrp>
 		<mets:fileGrp USE="GT">
 		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
-            <mets:file ID="gt_$$$$$$$$" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/$$$$$$$$.page"/>
+            <mets:file ID="gt_Fy4JAAAAQAAJ_312" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/Fy4JAAAAQAAJ_312.page"/>
             </mets:file>
- 
         </mets:fileGrp>
     </mets:fileSec>
 	
-	<!-- Structural Map: Diese section ist ggf. etwas umständlich, kann aber auch gerne dabei unterstützen. Hier wird nur erneut durch gegenseitige Referenzierung der Konnex von Image und GT Dateien hergestellt, also quasi eine Map -->
+	<!-- Structural Map: Hier wird nur erneut durch gegenseitige Referenzierung der Konnex von Image und GT Dateien hergestellt, also quasi eine Map -->
     <mets:structMap>
-        <mets:div ID="map_$$$$$$$$">
-            <mets:fptr FILEID="gt_$$$$$$$$"/>
-            <mets:fptr FILEID="pdf_$$$$$$$$"/>
+        <mets:div ID="map_001">
+            <mets:fptr FILEID="gt_Fy4JAAAAQAAJ_312"/>
+            <mets:fptr FILEID="pdf_Fy4JAAAAQAAJ_312"/>
         </mets:div>
     </mets:structMap>
 </mets:mets>

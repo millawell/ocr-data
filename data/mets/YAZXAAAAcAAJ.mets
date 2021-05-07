@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?> <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+	<!-- METS header: Metadaten darüber, von wem und wie die Daten erzeugt wurden -->
+	<mets:metsHdr CREATEDATE="2021-02-09T21:18:00">
+        <mets:agent OTHERTYPE="???" ROLE="CREATOR" TYPE="OTHER">
+            <mets:name>OCR - Data</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+
+
+	<!-- Descriptive Metadata: Hier können die beschreibenden Metadaten für einen Titel integriert werden bspw. auch direkt als DC -->
+    <dmdSec ID="dmd001">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="DC" LABEL="Dublin Core Metadata">
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" content="W. Shakspeare's Sämmtliche Werke in einem Bande."/> 
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" content="de"/>
+		</mdWrap>
+	</dmdSec>
+    
+	<!-- File Section: Ab hier wird es erst richtig relevant, an dieser Stelle werden alle zum Objekt (in unserem Fall würde ich sagen 1 Objekt - 1 Titel - 1 METS Datei) gehörigen Daten referenziert -->
+    <mets:fileSec>
+        <mets:fileGrp USE="IMG">
+            <mets:file ID="pdf_YAZXAAAAcAAJ_465" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=465"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_484" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=484"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_737" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=737"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_748" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=748"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_752" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=752"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_679" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=679"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_686" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=686"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_692" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=692"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_789" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=789"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_799" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=799"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_800" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=800"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_145" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=145"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_151" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=151"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_158" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=158"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_297" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=297"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_302" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=302"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_307" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=307"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_129" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=129"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_133" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=133"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_142" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=142"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_256" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=256"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_267" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=267"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_269" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=269"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_624" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=624"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_638" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=638"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_646" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=646"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_843" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=843"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_845" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=845"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_848" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=848"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_197" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=197"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_204" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=204"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_207" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=207"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_438" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=438"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_445" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=445"/>
+            </mets:file>
+            <mets:file ID="pdf_YAZXAAAAcAAJ_447" MIMETYPE="application/pdf">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://books.google.com/books?id=YAZXAAAAcAAJ#page=447"/>
+            </mets:file>
+
+        </mets:fileGrp>
+		<mets:fileGrp USE="GT">
+		<!-- bspw. kann hier eine weitere Section kommen in der die GT Dateien referenziert werden --> 
+            <mets:file ID="gt_YAZXAAAAcAAJ_465" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_465.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_484" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_484.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_737" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_737.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_748" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_748.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_752" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_752.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_679" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_679.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_686" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_686.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_692" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_692.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_789" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_789.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_799" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_799.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_800" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_800.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_145" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_145.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_151" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_151.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_158" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_158.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_297" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_297.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_302" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_302.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_307" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_307.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_129" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_129.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_133" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_133.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_142" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_142.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_256" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_256.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_267" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_267.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_269" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_269.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_624" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_624.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_638" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_638.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_646" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_646.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_843" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_843.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_845" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_845.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_848" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_848.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_197" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_197.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_204" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_204.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_207" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_207.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_438" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_438.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_445" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_445.page"/>
+            </mets:file>
+            <mets:file ID="gt_YAZXAAAAcAAJ_447" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="data/page_xml/YAZXAAAAcAAJ_447.page"/>
+            </mets:file>
+
+        </mets:fileGrp>
+    </mets:fileSec>
+	
+	<!-- Structural Map: Hier wird nur erneut durch gegenseitige Referenzierung der Konnex von Image und GT Dateien hergestellt, also quasi eine Map -->
+    <mets:structMap>
+        <mets:div ID="map_001">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_465"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_465"/>
+        </mets:div>
+        <mets:div ID="map_002">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_484"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_484"/>
+        </mets:div>
+        <mets:div ID="map_003">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_737"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_737"/>
+        </mets:div>
+        <mets:div ID="map_004">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_748"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_748"/>
+        </mets:div>
+        <mets:div ID="map_005">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_752"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_752"/>
+        </mets:div>
+        <mets:div ID="map_006">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_679"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_679"/>
+        </mets:div>
+        <mets:div ID="map_007">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_686"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_686"/>
+        </mets:div>
+        <mets:div ID="map_008">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_692"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_692"/>
+        </mets:div>
+        <mets:div ID="map_009">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_789"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_789"/>
+        </mets:div>
+        <mets:div ID="map_010">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_799"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_799"/>
+        </mets:div>
+        <mets:div ID="map_011">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_800"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_800"/>
+        </mets:div>
+        <mets:div ID="map_012">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_145"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_145"/>
+        </mets:div>
+        <mets:div ID="map_013">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_151"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_151"/>
+        </mets:div>
+        <mets:div ID="map_014">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_158"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_158"/>
+        </mets:div>
+        <mets:div ID="map_015">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_297"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_297"/>
+        </mets:div>
+        <mets:div ID="map_016">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_302"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_302"/>
+        </mets:div>
+        <mets:div ID="map_017">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_307"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_307"/>
+        </mets:div>
+        <mets:div ID="map_018">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_129"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_129"/>
+        </mets:div>
+        <mets:div ID="map_019">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_133"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_133"/>
+        </mets:div>
+        <mets:div ID="map_020">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_142"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_142"/>
+        </mets:div>
+        <mets:div ID="map_021">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_256"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_256"/>
+        </mets:div>
+        <mets:div ID="map_022">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_267"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_267"/>
+        </mets:div>
+        <mets:div ID="map_023">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_269"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_269"/>
+        </mets:div>
+        <mets:div ID="map_024">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_624"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_624"/>
+        </mets:div>
+        <mets:div ID="map_025">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_638"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_638"/>
+        </mets:div>
+        <mets:div ID="map_026">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_646"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_646"/>
+        </mets:div>
+        <mets:div ID="map_027">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_843"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_843"/>
+        </mets:div>
+        <mets:div ID="map_028">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_845"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_845"/>
+        </mets:div>
+        <mets:div ID="map_029">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_848"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_848"/>
+        </mets:div>
+        <mets:div ID="map_030">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_197"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_197"/>
+        </mets:div>
+        <mets:div ID="map_031">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_204"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_204"/>
+        </mets:div>
+        <mets:div ID="map_032">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_207"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_207"/>
+        </mets:div>
+        <mets:div ID="map_033">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_438"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_438"/>
+        </mets:div>
+        <mets:div ID="map_034">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_445"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_445"/>
+        </mets:div>
+        <mets:div ID="map_035">
+            <mets:fptr FILEID="gt_YAZXAAAAcAAJ_447"/>
+            <mets:fptr FILEID="pdf_YAZXAAAAcAAJ_447"/>
+        </mets:div>
+
+    </mets:structMap>
+</mets:mets>

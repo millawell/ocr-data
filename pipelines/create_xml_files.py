@@ -79,7 +79,7 @@ def main(pdf_path):
                 mets_record['language']
             )
 
-            output_path = Path(f"../data/xml_output/{identifier}_{page_nr}")
+            output_path = Path(f"../data/page_xml/{identifier}_{page_nr}")
             output_path = output_path.with_suffix(".page")
             with open(output_path, "w") as fout:
                 fout.write(serialized_page)

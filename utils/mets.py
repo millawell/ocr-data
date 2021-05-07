@@ -13,7 +13,7 @@ def el_list_to_id_indexed_dict(el_list):
 def parse_mets(pdf_name):
 
     path_to_mets = Path("../data/mets/") / pdf_name
-    path_to_mets = path_to_mets.with_suffix(".mets.xml")
+    path_to_mets = path_to_mets.with_suffix(".mets")
     raw_file_contents = open(path_to_mets).read().encode('utf-8')
     tree = etree.fromstring(raw_file_contents)
 
