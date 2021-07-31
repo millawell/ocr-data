@@ -4,7 +4,7 @@ from pathlib import Path
 from lxml import  etree
 import sys
 sys.path.append("../utils/")
-from sheet import get_sheet_record
+from mets import parse_mets
 import tempfile
 from shutil import copy2
 from sklearn.model_selection import train_test_split
@@ -21,23 +21,29 @@ def extract_accuracy(str_):
 
 
 @click.command()
-@click.option('--pdf_path')
-def main(pdf_path):
+@click.option('--pdf_paths', multiple=True)
+def main(pdf_paths):
+    
+    pdf_file_names = []
+    identifiers = []
+    sheet_records = []
+    for pdf_path in pdf_paths:
+        pdf_file_names.append(Path(pdf_path).name)
+        identifiers.append(Path(pdf_path).stem)
+        sheet_records.append(parse_mets(pdf_file_names[-1]))
 
-    pdf_file_name = Path(pdf_path).name
-    identifier = Path(pdf_path).stem
+    languages = list(set([sr["language"] for sr in sheet_records]))
+    assert len(languages) == 1, "you provided pdfs with different languages."
 
-    sheet_record = get_sheet_record(pdf_file_name)
-
-    if sheet_record.language == "en":
+    if languages[0] == "en":
         baseline_model = '../data/baseline_models/en_best.mlmodel'
-    elif sheet_record.language == "de":
+    elif languages[0] == "de":
         baseline_model = '../data/baseline_models/fraktur_1_best.mlmodel'
 
     with tempfile.TemporaryDirectory() as tmp_dir:
         files = []
         for fn in Path("../data/pair_output/").iterdir():
-            if fn.stem.startswith(identifier):
+            if any(fn.stem.startswith(id_) for id_ in identifiers):
                 if fn.suffix =='.png':
                     copy2(fn, tmp_dir)
                     files.append(Path(tmp_dir) / fn.name)
@@ -59,26 +65,26 @@ def main(pdf_path):
         test_manifest_path = Path(tmp_dir) / 'test_manifest.txt'
         with open(test_manifest_path, "w") as fout:
             fout.write("\n".join(map(str, test_files)))
-
+        import pdb; pdb.set_trace()
         command = f"ketos test -m {baseline_model} --evaluation-files {test_manifest_path}"
-        baseline_stdout = Path(f"../models/baseline_{identifier}.txt")
+        baseline_stdout = Path(f"../models/baseline_{'-'.join(identifiers)}.txt")
         with open(baseline_stdout, "w") as fout:
             subprocess.call(command, shell=True, stdout=fout, stderr=fout)
 
-        command = f"OMP_NUM_THREADS=1 ketos train --output ../models/model_{identifier} --resize add --epochs 4 -i {baseline_model} --training-files {train_manifest_path} --evaluation-files {eval_manifest_path}"
+        command = f"OMP_NUM_THREADS=1 ketos train --output ../models/model_{'-'.join(identifiers)} --resize add --epochs 4 -i {baseline_model} --training-files {train_manifest_path} --evaluation-files {eval_manifest_path}"
         subprocess.call(command, shell=True)
 
-        best_model_name = Path(f"../models/model_{identifier}_best.mlmodel")
+        best_model_name = Path(f"../models/model_{'-'.join(identifiers)}_best.mlmodel")
         
         command = f"ketos test -m {best_model_name} --evaluation-files {test_manifest_path}"
-        fine_tuned_stdout = Path(f"../models/fine_tuned_{identifier}.txt")
+        fine_tuned_stdout = Path(f"../models/fine_tuned_{'-'.join(identifiers)}.txt")
         with open(fine_tuned_stdout, "w") as fout:
             subprocess.call(command, shell=True, stdout=fout, stderr=fout)
 
-        fname_ds_description = Path(f"../models/dataset_description_{identifier}.txt")
+        fname_ds_description = Path(f"../models/dataset_description_{'-'.join(identifiers)}.txt")
 
         description = [{
-            "identifier": identifier,
+            "identifier": '-'.join(identifiers),
             "train_num_lines": len(train_files), 
             "test_num_lines": len(test_files), 
             "train_num_chars": sum(len((
