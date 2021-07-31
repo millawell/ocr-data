@@ -65,7 +65,7 @@ def main(pdf_paths):
         test_manifest_path = Path(tmp_dir) / 'test_manifest.txt'
         with open(test_manifest_path, "w") as fout:
             fout.write("\n".join(map(str, test_files)))
-        import pdb; pdb.set_trace()
+
         command = f"ketos test -m {baseline_model} --evaluation-files {test_manifest_path}"
         baseline_stdout = Path(f"../models/baseline_{'-'.join(identifiers)}.txt")
         with open(baseline_stdout, "w") as fout:
