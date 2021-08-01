@@ -66,25 +66,30 @@ def main(pdf_paths):
         with open(test_manifest_path, "w") as fout:
             fout.write("\n".join(map(str, test_files)))
 
+        if len(identifiers)>1:
+            joined_identifier = '-'.join([ide[:3] for ide in identifiers])
+        else:
+            joined_identifier = identifiers[0]
+
         command = f"ketos test -m {baseline_model} --evaluation-files {test_manifest_path}"
-        baseline_stdout = Path(f"../models/baseline_{'-'.join(identifiers)}.txt")
+        baseline_stdout = Path(f"../models/baseline_{joined_identifier}.txt")
         with open(baseline_stdout, "w") as fout:
             subprocess.call(command, shell=True, stdout=fout, stderr=fout)
 
-        command = f"OMP_NUM_THREADS=1 ketos train --output ../models/model_{'-'.join(identifiers)} --resize add --epochs 4 -i {baseline_model} --training-files {train_manifest_path} --evaluation-files {eval_manifest_path}"
+        command = f"OMP_NUM_THREADS=1 ketos train --output ../models/model_{joined_identifier} --resize add --epochs 4 -i {baseline_model} --training-files {train_manifest_path} --evaluation-files {eval_manifest_path}"
         subprocess.call(command, shell=True)
 
-        best_model_name = Path(f"../models/model_{'-'.join(identifiers)}_best.mlmodel")
+        best_model_name = Path(f"../models/model_{joined_identifier}_best.mlmodel")
         
         command = f"ketos test -m {best_model_name} --evaluation-files {test_manifest_path}"
-        fine_tuned_stdout = Path(f"../models/fine_tuned_{'-'.join(identifiers)}.txt")
+        fine_tuned_stdout = Path(f"../models/fine_tuned_{joined_identifier}.txt")
         with open(fine_tuned_stdout, "w") as fout:
             subprocess.call(command, shell=True, stdout=fout, stderr=fout)
 
-        fname_ds_description = Path(f"../models/dataset_description_{'-'.join(identifiers)}.txt")
+        fname_ds_description = Path(f"../models/dataset_description_{joined_identifier}.txt")
 
         description = [{
-            "identifier": '-'.join(identifiers),
+            "identifier": joined_identifier,
             "train_num_lines": len(train_files), 
             "test_num_lines": len(test_files), 
             "train_num_chars": sum(len((
