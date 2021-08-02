@@ -22,7 +22,8 @@ def extract_accuracy(str_):
 
 @click.command()
 @click.option('--pdf_paths', multiple=True)
-def main(pdf_paths):
+@click.option('--baseline_model')
+def main(pdf_paths, baseline_model):
     
     pdf_file_names = []
     identifiers = []
@@ -32,13 +33,14 @@ def main(pdf_paths):
         identifiers.append(Path(pdf_path).stem)
         sheet_records.append(parse_mets(pdf_file_names[-1]))
 
-    languages = list(set([sr["language"] for sr in sheet_records]))
-    assert len(languages) == 1, "you provided pdfs with different languages."
+    if baseline_model is None:
+        languages = list(set([sr["language"] for sr in sheet_records]))
+        assert len(languages) == 1, "you provided pdfs with different languages."
 
-    if languages[0] == "en":
-        baseline_model = '../data/baseline_models/en_best.mlmodel'
-    elif languages[0] == "de":
-        baseline_model = '../data/baseline_models/fraktur_1_best.mlmodel'
+        if languages[0] == "en":
+            baseline_model = '../data/baseline_models/en_best.mlmodel'
+        elif languages[0] == "de":
+            baseline_model = '../data/baseline_models/fraktur_1_best.mlmodel'
 
     with tempfile.TemporaryDirectory() as tmp_dir:
         files = []
