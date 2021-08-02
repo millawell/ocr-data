@@ -10,226 +10,226 @@
 </Metadata>
 
 #TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
-<Page imageFilename="" imageHeight="3704" imageWidth="2588">
+<Page imageFilename="" imageHeight="3409" imageWidth="2472">
     <PrintSpace>
-        <Coords points="0,0 0,2588 3704,2588 3704,2588"/>
+        <Coords points="0,0 0,2472 3409,2472 3409,2472"/>
     </PrintSpace>
     <TextRegion id="textblock_0">
-        <Coords points="0,0 0,2588 3704,2588 3704,2588"/>
+        <Coords points="0,0 0,2472 3409,2472 3409,2472"/>
         
             <TextLine id="textline_0">
         
-            <Coords points="424,1249 424,1379 486,1379 486,1249"/>
+            <Coords points="290,1142 290,1272 351,1272 351,1142"/>
             <TextEquiv>
                 <Unicode>134</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_1">
         
-            <Coords points="618,468 618,2282 696,2282 696,468"/>
+            <Coords points="484,360 484,2172 562,2172 562,360"/>
             <TextEquiv>
                 <Unicode>„Nun, wenn ich das Geheimniß beſäße,“ ſagte der Bettler,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_2">
         
-            <Coords points="705,328 705,2282 781,2282 781,328"/>
+            <Coords points="570,219 570,2172 646,2172 646,219"/>
             <TextEquiv>
                 <Unicode>„ſo würde ich auf der Hälfte beſtehen; denn ſehen Sie, obwohl ich</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_3">
         
-            <Coords points="789,328 789,2279 870,2279 870,328"/>
+            <Coords points="655,220 655,2171 735,2171 735,220"/>
             <TextEquiv>
                 <Unicode>ein zerlumpter armer Kerl bin und Silber oder Gold nicht verkau-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_4">
         
-            <Coords points="874,325 874,2279 950,2279 950,325"/>
+            <Coords points="740,217 740,2172 815,2172 815,217"/>
             <TextEquiv>
                 <Unicode>fen dürfte, aus Furcht, aufgehangen zu werden, ſo könnt ich doch</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_5">
         
-            <Coords points="961,327 961,2280 1036,2280 1036,327"/>
+            <Coords points="826,219 826,2172 902,2172 902,219"/>
             <TextEquiv>
                 <Unicode>Leute finden, die es mir mit beſſerm Profite abnähmen, als Sie es</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_6">
         
-            <Coords points="1046,361 1046,890 1120,890 1120,361"/>
+            <Coords points="912,252 912,782 985,782 985,252"/>
             <TextEquiv>
                 <Unicode>im Sinne haben.“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_7">
         
-            <Coords points="1146,466 1146,2276 1223,2276 1223,466"/>
+            <Coords points="1012,357 1012,2168 1088,2168 1088,357"/>
             <TextEquiv>
                 <Unicode>„Ach, Himmel! - mein guter Freund, was hab&#39; ich denn ge-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_8">
         
-            <Coords points="1229,322 1229,2281 1312,2281 1312,322"/>
+            <Coords points="1095,215 1095,2173 1178,2173 1178,215"/>
             <TextEquiv>
                 <Unicode>ſagt - ich wollte ſagen, Sie ſollten dreiviertel, ſtatt die Hälfte</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_9">
         
-            <Coords points="1316,314 1316,1891 1393,1891 1393,314"/>
+            <Coords points="1182,207 1182,1784 1258,1784 1258,207"/>
             <TextEquiv>
                 <Unicode>haben, und für mich wollt&#39; ich nur das eine Viertel.“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_10">
         
-            <Coords points="1415,464 1415,2272 1495,2272 1495,464"/>
+            <Coords points="1281,356 1281,2164 1359,2164 1359,356"/>
             <TextEquiv>
                 <Unicode>„Nein, nein, Mr. Doufterswivel, wir wollen gleich theilen,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_11">
         
-            <Coords points="1504,322 1504,2277 1578,2277 1578,322"/>
+            <Coords points="1370,215 1370,2169 1444,2169 1444,215"/>
             <TextEquiv>
                 <Unicode>was wir finden, gleich, wie Brüder. Nun beſehn Sie den Deckel</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_12">
         
-            <Coords points="1588,323 1588,2276 1664,2276 1664,323"/>
+            <Coords points="1454,215 1454,2168 1529,2168 1529,215"/>
             <TextEquiv>
                 <Unicode>da, den ich aus dem Wege warf in den finſtern Winkel, während</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_13">
         
-            <Coords points="1673,319 1673,2395 1747,2395 1747,319"/>
+            <Coords points="1539,211 1539,2287 1613,2287 1613,211"/>
             <TextEquiv>
                 <Unicode>Monkbarns dort das Silber unterſuchte. Ich war froh, daß er</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_14">
         
-            <Coords points="1758,319 1758,2375 1834,2375 1834,319"/>
+            <Coords points="1624,210 1624,2270 1700,2270 1700,210"/>
             <TextEquiv>
                 <Unicode>dies nicht zu ſehen bekam. Er hat ein ſcharfes Auge. Sie werden</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_15">
         
-            <Coords points="1839,319 1839,2275 1919,2275 1919,319"/>
+            <Coords points="1705,211 1705,2167 1785,2167 1785,211"/>
             <TextEquiv>
                 <Unicode>die Schrift beſſer leſen können als ich - ich bin kein Bücherleſer,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_16">
         
-            <Coords points="1928,343 1928,1349 2018,1349 2018,343"/>
+            <Coords points="1794,235 1794,1243 1884,1243 1884,235"/>
             <TextEquiv>
                 <Unicode>wenigſtens hab ich keine Uebung.“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_17">
         
-            <Coords points="2028,462 2028,2268 2106,2268 2106,462"/>
+            <Coords points="1894,354 1894,2160 1971,2160 1971,354"/>
             <TextEquiv>
                 <Unicode>Mit dieſer beſcheidenen Erklärung ſeiner Unkunde, brachte</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_18">
         
-            <Coords points="2115,317 2115,2272 2192,2272 2192,317"/>
+            <Coords points="1981,209 1981,2163 2058,2163 2058,209"/>
             <TextEquiv>
                 <Unicode>Ochiltree hinter einem Pfeiler den Deckel des Silberkaſtens hervor,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_19">
         
-            <Coords points="2201,317 2201,2271 2277,2271 2277,317"/>
+            <Coords points="2067,209 2067,2163 2143,2163 2143,209"/>
             <TextEquiv>
                 <Unicode>der, nachdem er abgelöſt worden, während der gierigen Unter-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_20">
         
-            <Coords points="2285,316 2285,2269 2361,2269 2361,316"/>
+            <Coords points="2151,209 2151,2161 2229,2161 2229,209"/>
             <TextEquiv>
                 <Unicode>ſuchung deſſen, was er barg, nachläſſig bei Seite geworfen wor-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_21">
         
-            <Coords points="2370,316 2370,2271 2447,2271 2447,316"/>
+            <Coords points="2236,208 2236,2162 2312,2162 2312,208"/>
             <TextEquiv>
                 <Unicode>den war, und den der Bettler ſodann, wie es ſchien, verſteckt hatte.</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_22">
         
-            <Coords points="2456,316 2456,2274 2532,2274 2532,316"/>
+            <Coords points="2322,208 2322,2165 2397,2165 2397,208"/>
             <TextEquiv>
                 <Unicode>Es ſtand ein Wort und eine Ziffer auf dem Brete, und der Bettler</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_23">
         
-            <Coords points="2538,315 2538,2270 2618,2270 2618,315"/>
+            <Coords points="2404,206 2404,2161 2483,2161 2483,206"/>
             <TextEquiv>
                 <Unicode>machte dies deutlicher, indem er auf ſein zerlumptes blaues Taſchen-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_24">
         
-            <Coords points="2624,313 2624,2270 2701,2270 2701,313"/>
+            <Coords points="2490,205 2490,2161 2566,2161 2566,205"/>
             <TextEquiv>
                 <Unicode>tuch ſpuckte und damit den Staub, der die Inſchrift verdunkelte,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_25">
         
-            <Coords points="2709,319 2709,2142 2787,2142 2787,319"/>
+            <Coords points="2575,210 2575,2034 2653,2034 2653,210"/>
             <TextEquiv>
                 <Unicode>abwiſchte. Sie war mit gewöhnlichen Buchſtaben geſchrieben.</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_26">
         
-            <Coords points="2813,456 2813,2172 2889,2172 2889,456"/>
+            <Coords points="2679,348 2679,2064 2755,2064 2755,348"/>
             <TextEquiv>
-                <Unicode>„Können Sie&#39;s herausbringen,  ſagte Edie zum Adepten.</Unicode>
+                <Unicode>„Können Sie&#39;s herausbringen, ſagte Edie zum Adepten.</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_27">
         
-            <Coords points="2914,452 2914,2269 2990,2269 2990,452"/>
+            <Coords points="2780,344 2780,2160 2855,2160 2855,344"/>
             <TextEquiv>
-                <Unicode>„S,“   ſagte der Philoſoph, indem er wie ein Kind in der</Unicode>
+                <Unicode>„S,“ ſagte der Philoſoph, indem er wie ein Kind in der</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_28">
         
-            <Coords points="2997,302 2997,2265 3076,2265 3076,302"/>
+            <Coords points="2862,193 2862,2185 2950,2185 2950,193"/>
             <TextEquiv>
                 <Unicode>Schule buchſtabirte; „S, T, A, R, C, H, - Starch - das</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_29">
         
-            <Coords points="3082,312 3082,2267 3161,2267 3161,312"/>
+            <Coords points="2948,203 2948,2157 3027,2157 3027,203"/>
             <TextEquiv>
                 <Unicode>iſt, was die Waſchweiber zu Halstüchern und Hemdkragen</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_30">
         
-            <Coords points="3167,351 3167,667 3240,667 3240,351"/>
+            <Coords points="3034,243 3034,559 3105,559 3105,243"/>
             <TextEquiv>
                 <Unicode>brauchen.“</Unicode>
             </TextEquiv>
@@ -261,8 +261,8 @@ Es ſtand ein Wort und eine Ziffer auf dem Brete, und der Bettler
 machte dies deutlicher, indem er auf ſein zerlumptes blaues Taſchen-
 tuch ſpuckte und damit den Staub, der die Inſchrift verdunkelte,
 abwiſchte. Sie war mit gewöhnlichen Buchſtaben geſchrieben.
-„Können Sie&#39;s herausbringen,  ſagte Edie zum Adepten.
-„S,“   ſagte der Philoſoph, indem er wie ein Kind in der
+„Können Sie&#39;s herausbringen, ſagte Edie zum Adepten.
+„S,“ ſagte der Philoſoph, indem er wie ein Kind in der
 Schule buchſtabirte; „S, T, A, R, C, H, - Starch - das
 iſt, was die Waſchweiber zu Halstüchern und Hemdkragen
 brauchen.“</Unicode>

@@ -46,7 +46,21 @@ def extract_page(page_el, image):
             './/pc:Unicode',
             namespaces=pc
         ).text
-        
+        # import matplotlib.pyplot as plt
+        # import matplotlib.patches as patches
+        # from PIL import Image
+        # import numpy as np
+        # fimage = np.array(Image.open("/Users/davidlassner/code/ocr-data/data/transcriptions/zviTtwEACAAJ/1047.png"))
+        # _, (ax0, ax1) = plt.subplots(ncols=2)
+        # ax0.imshow(image, cmap='gray')
+        # rect = patches.Rectangle((coords[0], coords[1]), coords[2]-coords[0], coords[3]-coords[1], linewidth=1, edgecolor='r')
+        # ax0.add_patch(rect)
+        # ax1.imshow(fimage, cmap='gray')
+        # rect = patches.Rectangle((coords[0], coords[1]), coords[2]-coords[0], coords[3]-coords[1], linewidth=1, edgecolor='r')
+        # ax1.add_patch(rect)
+        # plt.show()
+        # import pdb; pdb.set_trace()
+        ###
         yield (
             text.strip(),
             image.crop(coords)
@@ -67,7 +81,7 @@ def main(pdf_path):
     xml_files = rerouted_files
 
     images = extract_images(pdf_path)
-
+    # import pdb; pdb.set_trace()
     file_id = 0
     for xml_file, image in zip(xml_files, images):
         if xml_file.exists():
@@ -79,8 +93,9 @@ def main(pdf_path):
             out_dir.mkdir(exist_ok=True)
             
             for iimage, page_el in enumerate(image_pages):
-                image = images[iimage][1]
-                for text, crop in extract_page(page_el, image):
+                # image = images[iimage][1]
+                # import pdb; pdb.set_trace()
+                for text, crop in extract_page(page_el, image[1]):
 
                     txt_filename = out_dir / f"{Path(pdf_path).stem}_{file_id:08d}.txt"
                     img_filename = out_dir / f"{Path(pdf_path).stem}_{file_id:08d}.png"

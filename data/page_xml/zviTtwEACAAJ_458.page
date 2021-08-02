@@ -10,156 +10,156 @@
 </Metadata>
 
 #TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
-<Page imageFilename="" imageHeight="3670" imageWidth="2526">
+<Page imageFilename="" imageHeight="3446" imageWidth="2458">
     <PrintSpace>
-        <Coords points="0,0 0,2526 3670,2526 3670,2526"/>
+        <Coords points="0,0 0,2458 3446,2458 3446,2458"/>
     </PrintSpace>
     <TextRegion id="textblock_0">
-        <Coords points="0,0 0,2526 3670,2526 3670,2526"/>
+        <Coords points="0,0 0,2458 3446,2458 3446,2458"/>
         
             <TextLine id="textline_0">
         
-            <Coords points="1141,635 1141,1719 1244,1719 1244,635"/>
+            <Coords points="1072,631 1072,1716 1151,1716 1151,631"/>
             <TextEquiv>
                 <Unicode>D r i t t e s  K a p i t e l.</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_1">
         
-            <Coords points="1346,856 1346,1500 1442,1500 1442,856"/>
+            <Coords points="1254,861 1254,1496 1350,1496 1350,861"/>
             <TextEquiv>
                 <Unicode>-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_2">
         
-            <Coords points="1522,855 1522,2101 1617,2101 1617,855"/>
+            <Coords points="1430,850 1430,2119 1526,2119 1526,850"/>
             <TextEquiv>
                 <Unicode>Wie heißt die Schuld, die nie geſtandne That,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_3">
         
-            <Coords points="1611,857 1611,1996 1681,1996 1681,857"/>
+            <Coords points="1520,852 1520,1991 1589,1991 1589,852"/>
             <TextEquiv>
                 <Unicode>Die niemand kennt, die keine Buße ſühnt</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_4">
         
-            <Coords points="1683,853 1683,2040 1752,2040 1752,853"/>
+            <Coords points="1592,848 1592,2034 1659,2034 1659,848"/>
             <TextEquiv>
                 <Unicode>- - - - Feſt bleibt ein jeder Muskel</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_5">
         
-            <Coords points="1752,857 1752,1965 1821,1965 1821,857"/>
+            <Coords points="1662,852 1662,1961 1729,1961 1729,852"/>
             <TextEquiv>
                 <Unicode>An ſeiner Stelle, feſt, doch nicht erſtarrt;</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_6">
         
-            <Coords points="1816,852 1816,2107 1885,2107 1885,852"/>
+            <Coords points="1724,847 1724,2102 1794,2102 1794,847"/>
             <TextEquiv>
                 <Unicode>Kein ſchnell Erröthen und kein Lippenbeben. -</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_7">
         
-            <Coords points="1901,1016 1901,2122 1996,2122 1996,1016"/>
+            <Coords points="1810,1011 1810,2117 1904,2117 1904,1011"/>
             <TextEquiv>
                 <Unicode>Die geheimnißvolle Mutter.</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_8">
         
-            <Coords points="2053,218 2053,2158 2129,2158 2129,218"/>
+            <Coords points="1935,339 1935,2150 2038,2150 2038,339"/>
             <TextEquiv>
                 <Unicode>Der Sarg hatte die Stelle verlaſſen, wo er erſt ſtand. Die</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_9">
         
-            <Coords points="2137,189 2137,2324 2214,2324 2214,189"/>
+            <Coords points="2045,186 2045,2319 2123,2319 2123,186"/>
             <TextEquiv>
                 <Unicode>eidtragenden waren der Reihe nach, wie es ihr Rang oder der</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_10">
         
-            <Coords points="2222,201 2222,2156 2299,2156 2299,201"/>
+            <Coords points="2131,199 2131,2151 2208,2151 2208,199"/>
             <TextEquiv>
                 <Unicode>Grad der Verwandtſchaft mit dem Verſtorbenen mit ſich brachte,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_11">
         
-            <Coords points="2308,194 2308,2156 2390,2156 2390,194"/>
+            <Coords points="2217,193 2217,2152 2299,2152 2299,193"/>
             <TextEquiv>
                 <Unicode>aus der Hütte gegangen, während die jüngern männlichen Ge-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_12">
         
-            <Coords points="2393,196 2393,2160 2472,2160 2472,196"/>
+            <Coords points="2300,193 2300,2155 2380,2155 2380,193"/>
             <TextEquiv>
                 <Unicode>ſchwiſter der Bahre ihres Bruders nachgeführt wurden, um mit</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_13">
         
-            <Coords points="2481,203 2481,2158 2557,2158 2557,203"/>
+            <Coords points="2389,199 2389,2154 2465,2154 2465,199"/>
             <TextEquiv>
                 <Unicode>Verwunderung eine Ceremonie zu betrachten, die ſie kaum begrei-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_14">
         
-            <Coords points="2565,195 2565,2156 2641,2156 2641,195"/>
+            <Coords points="2473,191 2473,2151 2549,2151 2549,191"/>
             <TextEquiv>
                 <Unicode>fen konnten. Dann erhoben ſich zunächſt die weiblichen Verwand-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_15">
         
-            <Coords points="2650,201 2650,2160 2727,2160 2727,201"/>
+            <Coords points="2559,189 2559,2154 2636,2154 2636,189"/>
             <TextEquiv>
                 <Unicode>ten und nahmen, in Betracht der Lage der Aeltern, die Mädchen</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_16">
         
-            <Coords points="2737,197 2737,2162 2812,2162 2812,197"/>
+            <Coords points="2644,193 2644,2156 2721,2156 2721,193"/>
             <TextEquiv>
                 <Unicode>der Familie mit, um dem unglücklichen Paare Zeit und Gelegenheit</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_17">
         
-            <Coords points="2821,205 2821,2158 2898,2158 2898,205"/>
+            <Coords points="2729,200 2729,2152 2807,2152 2807,200"/>
             <TextEquiv>
                 <Unicode>zu geben, ihre Herzen gegenſeitig aufzuſchließen und durch Mit-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_18">
         
-            <Coords points="2906,195 2906,2161 2984,2161 2984,195"/>
+            <Coords points="2814,189 2814,2156 2892,2156 2892,189"/>
             <TextEquiv>
                 <Unicode>theilung ihren Gram zu mildern. Aber ihre freundliche Abſicht war</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_19">
         
-            <Coords points="2993,197 2993,2156 3069,2156 3069,197"/>
+            <Coords points="2902,196 2902,2151 2976,2151 2976,196"/>
             <TextEquiv>
                 <Unicode>ohne Nutzen. Kaum hatte die letzte Perſon die Hütte verlaſſen und</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_20">
         
-            <Coords points="3073,197 3073,2158 3172,2158 3172,197"/>
+            <Coords points="2982,191 2982,2153 3082,2153 3082,191"/>
             <TextEquiv>
                 <Unicode>die Thür leiſe hinter ſich zugemacht, als der Vater, nachdem er</Unicode>
             </TextEquiv>

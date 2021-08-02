@@ -10,226 +10,226 @@
 </Metadata>
 
 #TODO: insert PDF identifier (+ page number?) as PAGE-XML @imageFilename
-<Page imageFilename="" imageHeight="3676" imageWidth="2560">
+<Page imageFilename="" imageHeight="3444" imageWidth="2518">
     <PrintSpace>
-        <Coords points="0,0 0,2560 3676,2560 3676,2560"/>
+        <Coords points="0,0 0,2518 3444,2518 3444,2518"/>
     </PrintSpace>
     <TextRegion id="textblock_0">
-        <Coords points="0,0 0,2560 3676,2560 3676,2560"/>
+        <Coords points="0,0 0,2518 3444,2518 3444,2518"/>
         
             <TextLine id="textline_0">
         
-            <Coords points="340,1225 340,1347 401,1347 401,1225"/>
+            <Coords points="236,1238 236,1359 296,1359 296,1238"/>
             <TextEquiv>
                 <Unicode>189</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_1">
         
-            <Coords points="525,302 525,2335 613,2335 613,302"/>
+            <Coords points="423,313 423,2348 507,2348 507,313"/>
             <TextEquiv>
                 <Unicode>laufen, und es heißt, ſie ſei von einer franzöſiſchen Flotte geiagt</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_2">
         
-            <Coords points="623,345 623,620 680,620 680,345"/>
+            <Coords points="518,357 518,632 576,632 576,357"/>
             <TextEquiv>
                 <Unicode>worden.“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_3">
         
-            <Coords points="720,446 720,2246 801,2246 801,446"/>
+            <Coords points="616,458 616,2258 697,2258 697,458"/>
             <TextEquiv>
                 <Unicode>„Die Search!““ ſagte Oldbuck, einen Augenblick nachſinnend</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_4">
         
-            <Coords points="810,343 810,699 883,699 883,343"/>
+            <Coords points="705,354 705,711 778,711 778,354"/>
             <TextEquiv>
                 <Unicode>-„Oho!“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_5">
         
-            <Coords points="911,453 911,1950 986,1950 986,453"/>
+            <Coords points="807,465 807,1962 882,1962 882,465"/>
             <TextEquiv>
                 <Unicode>„Ja, ja! Capitain Taffrils Brigg, die Search.“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_6">
         
-            <Coords points="1006,444 1006,2246 1096,2246 1096,444"/>
+            <Coords points="902,456 902,2258 992,2258 992,456"/>
             <TextEquiv>
                 <Unicode>„Wie! iſt die verwandt mit: Search No.2.?“ ſagte Old-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_7">
         
-            <Coords points="1090,303 1090,2252 1176,2252 1176,303"/>
+            <Coords points="986,314 986,2264 1072,2264 1072,314"/>
             <TextEquiv>
                 <Unicode>buck, indem er den Lichtſtrahl aufſing, den der Name des Fahr</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_8">
         
-            <Coords points="1181,314 1181,1886 1273,1886 1273,314"/>
+            <Coords points="1077,325 1077,1899 1170,1899 1170,325"/>
             <TextEquiv>
                 <Unicode>zeuges auf die räthſelhafte Schatzkiſte zu werfen ſchien.</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_9">
         
-            <Coords points="1285,446 1285,2252 1362,2252 1362,446"/>
+            <Coords points="1180,454 1180,2417 1257,2417 1257,454"/>
             <TextEquiv>
                 <Unicode>Der Bettler hielt ſich, wie ein Menſch, den man auf einer</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_10">
         
-            <Coords points="1372,307 1372,2253 1447,2253 1447,307"/>
+            <Coords points="1267,318 1267,2265 1342,2265 1342,318"/>
             <TextEquiv>
                 <Unicode>Schelmerei ertappt, die Mütze vors Geſicht, konnte aber doch</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_11">
         
-            <Coords points="1456,305 1456,2253 1533,2253 1533,305"/>
+            <Coords points="1352,316 1352,2264 1428,2264 1428,316"/>
             <TextEquiv>
                 <Unicode>nicht umhin, herzlich zu lachen. „Jn Ihnen ſitzt der Teufel,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_12">
         
-            <Coords points="1542,307 1542,2254 1628,2254 1628,307"/>
+            <Coords points="1438,317 1438,2266 1524,2266 1524,317"/>
             <TextEquiv>
                 <Unicode>Monkbarns, Sie kommen hinter Alles. Wer hätte gedacht, daß</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_13">
         
-            <Coords points="1622,309 1622,2254 1704,2254 1704,309"/>
+            <Coords points="1518,321 1518,2267 1599,2267 1599,321"/>
             <TextEquiv>
                 <Unicode>Sie das ſo zuſammenreimen würden! der Henker! ich habe mich</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_14">
         
-            <Coords points="1715,344 1715,944 1789,944 1789,344"/>
+            <Coords points="1610,356 1610,955 1684,955 1684,356"/>
             <TextEquiv>
                 <Unicode>ſchön fangen laſſen.“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_15">
         
-            <Coords points="1785,449 1785,2255 1877,2255 1877,449"/>
+            <Coords points="1682,461 1682,2267 1774,2267 1774,461"/>
             <TextEquiv>
-                <Unicode>„Ich ſehe alles ſo deutlich,“  ſagte Oldbuck, „wie die Um-</Unicode>
+                <Unicode>„Ich ſehe alles ſo deutlich,“ ſagte Oldbuck, „wie die Um-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_16">
         
-            <Coords points="1884,311 1884,2259 1960,2259 1960,311"/>
+            <Coords points="1777,323 1777,2271 1855,2271 1855,323"/>
             <TextEquiv>
                 <Unicode>ſchrift auf einer gut erhaltenen Münze. Der Kaſten, worin das</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_17">
         
-            <Coords points="1971,309 1971,2332 2054,2332 2054,309"/>
+            <Coords points="1867,321 1867,2343 1950,2343 1950,321"/>
             <TextEquiv>
                 <Unicode>Metall gefunden ward, gehörte zur Brigg und der Schatz kam von</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_18">
         
-            <Coords points="2049,312 2049,2258 2132,2258 2132,312"/>
+            <Coords points="1945,324 1945,2270 2027,2270 2027,324"/>
             <TextEquiv>
                 <Unicode>meinem Phönir?“ (Edie nickte bejahend.) „Und er ward dort ver-</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_19">
         
-            <Coords points="2139,318 2139,2070 2219,2070 2219,318"/>
+            <Coords points="2035,329 2035,2081 2114,2081 2114,329"/>
             <TextEquiv>
                 <Unicode>graben, um Sir Arthur in ſeiner Verlegenheit zu tröſten?“</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_20">
         
-            <Coords points="2244,451 2244,2255 2322,2255 2322,451"/>
+            <Coords points="2140,462 2140,2266 2217,2266 2217,462"/>
             <TextEquiv>
-                <Unicode>„Durch mich,“   ſagte Edie, ,,und zwei von den Seeleuten;</Unicode>
+                <Unicode>„Durch mich,“ ſagte Edie, ,,und zwei von den Seeleuten;</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_21">
         
-            <Coords points="2330,321 2330,2263 2406,2263 2406,321"/>
+            <Coords points="2227,332 2227,2274 2301,2274 2301,332"/>
             <TextEquiv>
                 <Unicode>dieſe wußten aber nicht, was darin war und glaubten nur, es ſei</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_22">
         
-            <Coords points="2415,314 2415,2262 2492,2262 2492,314"/>
+            <Coords points="2311,325 2311,2270 2388,2270 2388,325"/>
             <TextEquiv>
                 <Unicode>ein Bißchen Schmuggelwaare für den Capitain. Ich wachte Tag</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_23">
         
-            <Coords points="2502,313 2502,2263 2578,2263 2578,313"/>
+            <Coords points="2398,324 2398,2274 2473,2274 2473,324"/>
             <TextEquiv>
                 <Unicode>und Nacht, bis ich es in den rechten Händen ſah, und als dann der</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_24">
         
-            <Coords points="2588,313 2588,2260 2664,2260 2664,313"/>
+            <Coords points="2483,323 2483,2271 2559,2271 2559,323"/>
             <TextEquiv>
                 <Unicode>deutſche Teufel den Deckel der Kiſte ſo anſah, da gab es mir glaub&#39;</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_25">
         
-            <Coords points="2674,316 2674,2264 2750,2264 2750,316"/>
+            <Coords points="2570,327 2570,2276 2645,2276 2645,327"/>
             <TextEquiv>
                 <Unicode>ich ein ſchottiſcher Teufel ein, ihm den Poſſen zu ſpielen. Nun ſehn</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_26">
         
-            <Coords points="2759,315 2759,2265 2835,2265 2835,315"/>
+            <Coords points="2654,325 2654,2276 2730,2276 2730,325"/>
             <TextEquiv>
                 <Unicode>Sie doch, ich durfte dem Richter Kleinhans nicht mehr und nicht</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_27">
         
-            <Coords points="2844,315 2844,2268 2921,2268 2921,315"/>
+            <Coords points="2740,324 2740,2279 2816,2279 2816,324"/>
             <TextEquiv>
                 <Unicode>weniger ſagen, wenn ich nicht die ganze Geſchichte verrathen wollte,</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_28">
         
-            <Coords points="2931,315 2931,2259 3007,2259 3007,315"/>
+            <Coords points="2827,324 2827,2270 2902,2270 2902,324"/>
             <TextEquiv>
                 <Unicode>und dann waren doch Unannehmlichkeiten für Lovel entſtanden.</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_29">
         
-            <Coords points="3016,317 3016,2262 3091,2262 3091,317"/>
+            <Coords points="2912,326 2912,2272 2987,2272 2987,326"/>
             <TextEquiv>
                 <Unicode>Drum dacht&#39; ich, ich will lieber alles andere, als das kommen</Unicode>
             </TextEquiv>
             </TextLine>
             <TextLine id="textline_30">
         
-            <Coords points="3104,358 3104,583 3177,583 3177,358"/>
+            <Coords points="2998,367 2998,594 3072,594 3072,367"/>
             <TextEquiv>
                 <Unicode>laſſen.“</Unicode>
             </TextEquiv>
@@ -250,12 +250,12 @@ nicht umhin, herzlich zu lachen. „Jn Ihnen ſitzt der Teufel,
 Monkbarns, Sie kommen hinter Alles. Wer hätte gedacht, daß
 Sie das ſo zuſammenreimen würden! der Henker! ich habe mich
 ſchön fangen laſſen.“
-„Ich ſehe alles ſo deutlich,“  ſagte Oldbuck, „wie die Um-
+„Ich ſehe alles ſo deutlich,“ ſagte Oldbuck, „wie die Um-
 ſchrift auf einer gut erhaltenen Münze. Der Kaſten, worin das
 Metall gefunden ward, gehörte zur Brigg und der Schatz kam von
 meinem Phönir?“ (Edie nickte bejahend.) „Und er ward dort ver-
 graben, um Sir Arthur in ſeiner Verlegenheit zu tröſten?“
-„Durch mich,“   ſagte Edie, ,,und zwei von den Seeleuten;
+„Durch mich,“ ſagte Edie, ,,und zwei von den Seeleuten;
 dieſe wußten aber nicht, was darin war und glaubten nur, es ſei
 ein Bißchen Schmuggelwaare für den Capitain. Ich wachte Tag
 und Nacht, bis ich es in den rechten Händen ſah, und als dann der
