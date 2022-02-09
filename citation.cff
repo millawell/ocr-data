@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use the data set, please cite it as below."
+authors:
+- family-names: "Lassner"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0001-9013-0834"
+- family-names: "Coburger"
+  given-names: "Julius"
+- family-names: "Neudecker"
+  given-names: "Clemens"
+  orcid: "https://orcid.org/0000-0001-5293-8322"
+- family-names: "Baillot"
+  given-names: "Anne"
+  orcid: "https://orcid.org/0000-0002-4593-059X"
+title: "Data set of the paper "Publishing an OCR ground truth data set for reuse in an unclear copyright setting""
+version: 1.1.0
+doi: 10.5281/zenodo.4742068
+date-released: 2021-05-07
+url: "https://github.com/millawell/ocr-data"
